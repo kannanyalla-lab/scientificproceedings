@@ -33,27 +33,29 @@ SEO: per-page titles and descriptions, Open Graph tags, Google Scholar `citation
 
 Citations are computed from each article's real issue, volume and pages, so they're always correct.
 
-## Run locally
+## Run it on your computer
 
-Requirements: Node.js 20+ and PostgreSQL 14+.
+You only need [Node.js](https://nodejs.org) (the LTS version). No database to install.
 
 ```bash
 npm install
-cp .env.example .env          # then edit the values
-npx drizzle-kit migrate       # create the tables
-npm run seed                  # optional: load the March 2026 issue as sample content
-npm run dev                   # http://localhost:3000
+npm run dev
 ```
+
+Then open http://localhost:3000. The first run creates `.env`, starts a built-in database (stored in `.data/db`) and loads the March 2026 issue as sample content. The editor panel is at http://localhost:3000/admin (sign in with `editor@example.com` / `admin123`; change these in `.env`).
+
+To use your own Postgres instead, set `DATABASE_URL` in `.env`. `npm run dev` then creates the tables and sample content there.
 
 ## Environment variables
 
 | Name | Purpose |
 | --- | --- |
-| `DATABASE_URL` | Postgres connection string |
+| `DATABASE_URL` | Postgres connection string. Leave unset locally to use the built-in database |
 | `NEXT_PUBLIC_SITE_URL` | Public URL of the site, used in share links, the sitemap and citation tags |
 | `ADMIN_EMAIL`, `ADMIN_PASSWORD` | Editor panel sign-in |
 | `AUTH_SECRET` | Long random string that signs editor sessions (`openssl rand -base64 32`) |
-| `UPLOAD_DIR` | Folder where uploaded PDFs, images and manuscripts are stored (default `./uploads`) |
+| `UPLOAD_DIR` | Folder for uploaded PDFs, images and manuscripts (default `./uploads`) |
+| `BLOB_READ_WRITE_TOKEN` | When set (e.g. by adding a Vercel Blob store), uploads go to Vercel Blob instead of disk |
 
 ## Deploying
 
@@ -61,12 +63,13 @@ Any Node host with Postgres works (a VPS, Render, Railway, Fly.io, or your own s
 
 ```bash
 npm ci
-npx drizzle-kit migrate
 npm run build
-npm start
+npm start      # creates/updates tables and loads sample content if empty, then serves
 ```
 
-Uploaded files are written to `UPLOAD_DIR` on local disk, so use a host with a persistent disk (or mount a volume) and back that folder up. Serverless hosts such as Vercel have no persistent disk; to use one, swap `src/lib/storage.ts` for an object store like S3 or Cloudflare R2.
+Set `DATABASE_URL` to a real Postgres in production. Uploaded files are written to `UPLOAD_DIR`, so use a host with a persistent disk and back that folder up.
+
+**Vercel:** import the repo, add a Neon Postgres database and a Blob store from the project's Storage tab (they set `DATABASE_URL` and `BLOB_READ_WRITE_TOKEN`), add `ADMIN_EMAIL`, `ADMIN_PASSWORD` and `AUTH_SECRET`, then redeploy. The `vercel-build` script sets up the database during the build. Uploads on Vercel are limited to about 4.5 MB per file.
 
 Serve the site over HTTPS in production: the editor session cookie is marked `Secure`.
 
@@ -83,8 +86,8 @@ scripts/seed.ts      sample content loader
 drizzle/             SQL migrations
 ```
 
-To change the schema, edit `src/db/schema.ts`, then run `npx drizzle-kit generate` and `npx drizzle-kit migrate`.
+To change the schema, edit `src/db/schema.ts` and run `npx drizzle-kit generate`. The new migration is applied the next time the site starts.
 
 ## Sample content
 
-`npm run seed` loads Volume 12, Issue 01 (March 2026) from the current site: 15 articles, 6 pharma updates, 4 radiology spotter cases and 20 scramble words. The pediatric migraine article includes the full text; the rest have metadata and PDFs, and their abstracts and full text can be added from the editor panel. Images and PDFs point at the existing site's uploads until they're re-uploaded.
+The first run loads Volume 12, Issue 01 (March 2026) from the current site: 15 articles, 6 pharma updates, 4 radiology spotter cases and 20 scramble words. The pediatric migraine article includes the full text; the rest have metadata and PDFs, and their abstracts and full text can be added from the editor panel. Images and PDFs point at the existing site's uploads until they're re-uploaded.
