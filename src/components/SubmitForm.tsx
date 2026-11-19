@@ -42,7 +42,7 @@ export default function SubmitForm() {
       <div className="field">
         <label htmlFor="file">Manuscript file *</label>
         <input id="file" name="file" type="file" required accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
-        <div className="hint">PDF or Word, up to 20 MB.</div>
+        <div className="hint">PDF or Word, up to 4 MB.</div>
       </div>
       <div style={{ position: "absolute", left: "-9999px" }} aria-hidden="true">
         <label htmlFor="website">Leave this empty</label><input id="website" name="website" type="text" tabIndex={-1} autoComplete="off" />

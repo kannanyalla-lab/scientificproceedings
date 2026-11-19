@@ -9,9 +9,15 @@
     "lint": "eslint",
     "seed": "tsx scripts/seed.ts",
     "db:migrate": "drizzle-kit migrate",
-    "db:generate": "drizzle-kit generate"
+    "db:generate": "drizzle-kit generate",
+    "vercel-build": "bash scripts/vercel-build.sh",
+    "setup": "tsx scripts/setup.ts",
+    "predev": "tsx scripts/setup.ts",
+    "prestart": "tsx scripts/setup.ts"
   },
   "dependencies": {
+    "@electric-sql/pglite": "^0.5.16",
+    "@vercel/blob": "^2.9.0",
     "drizzle-orm": "^0.45.4",
     "jose": "^6.2.18",
     "next": "16.4.6",

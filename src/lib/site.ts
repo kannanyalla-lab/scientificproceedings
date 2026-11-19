@@ -3,7 +3,10 @@ export const JOURNAL_ABBR = "KIMSHEALTH Sci Proc";
 export const TAGLINE = "A Clinical and Scientific Research Journal";
 export const PUBLISHER = "KIMSHEALTH, Trivandrum, Kerala, India";
 export const LOGO_URL = "https://ksp.healthcaremarktech.in/public/uploads/logo.png";
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").replace(/\/$/, "");
+export const SITE_URL = (
+  process.env.NEXT_PUBLIC_SITE_URL ||
+  (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "http://localhost:3000")
+).replace(/\/$/, "");
 
 export const ARTICLE_TYPES = [
   "Editorial",
