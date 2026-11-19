@@ -60,6 +60,7 @@ export function typePlural(t: string) {
   const map: Record<string, string> = {
     "Case Report": "Case Reports",
     "Review Article": "Review Articles",
+    "Clinical Review": "Clinical Reviews",
     Editorial: "Editorials",
     "Letter to the Editor": "Letters to the Editor",
     "Short Communication": "Short Communications",
@@ -86,4 +87,11 @@ export function groupByType<T extends Pick<Article, "articleType" | "sortOrder" 
 
 export function anchorId(s: string) {
   return slugify(s) || "section";
+}
+
+/** Where to get an article's PDF: an uploaded file, or pages cut from the printed issue. */
+export function articlePdfHref(a: Pick<Article, "slug" | "pdfUrl" | "pageStart">, issue?: Pick<Issue, "pageImages"> | null) {
+  if (a.pdfUrl) return a.pdfUrl;
+  if (a.pageStart && issue?.pageImages?.length) return `/article/${a.slug}/pdf`;
+  return null;
 }

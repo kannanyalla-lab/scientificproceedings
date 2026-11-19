@@ -27,7 +27,7 @@ export default async function SpottersPage({ searchParams }: PageProps<"/radiolo
             <IssueSwitcher issues={issues} current={issue} base="/radiology-spotters" />
             <p style={{ marginBottom: 6 }}><strong>{issue.month} {issue.year}</strong> · {issueShort(issue)}</p>
             {issue.spotterContributors ? <p className="muted">Contributed by {issue.spotterContributors}</p> : null}
-            {cases.map((c) => <SpotterCaseCard key={c.id} caseNo={c.caseNo} imageUrl={c.imageUrl} question={c.question} diagnosis={c.diagnosis} findings={c.findings} />)}
+            {cases.map((c) => <SpotterCaseCard key={c.id} caseNo={c.caseNo} imageUrl={c.imageUrl} images={c.images} question={c.question} diagnosis={c.diagnosis} findings={c.findings} />)}
           </>
         )}
       </div>

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Article, Issue } from "@/db/schema";
-import { journalRef } from "@/lib/format";
+import { articlePdfHref, journalRef } from "@/lib/format";
 import { JOURNAL_ABBR } from "@/lib/site";
 import Authors from "./Authors";
 import ShareButton from "./ShareButton";
@@ -9,11 +9,12 @@ export function TypeBadge({ type }: { type: string }) {
   return <span className={`badge ${type.startsWith("Case") ? "badge--case" : ""}`}>{type}</span>;
 }
 
-function Actions({ a }: { a: Article }) {
+function Actions({ a, issue }: { a: Article; issue?: Issue | null }) {
+  const pdf = articlePdfHref(a, issue);
   return (
     <div className="card__actions">
       <Link href={`/article/${a.slug}#abstract`}>Abstract</Link>
-      {a.pdfUrl ? <a href={a.pdfUrl} target="_blank" rel="noopener">PDF</a> : null}
+      {pdf ? <a href={pdf} target="_blank" rel="noopener">PDF</a> : null}
       <Link href={`/article/${a.slug}?mode=print`}>Print</Link>
       <ShareButton path={`/article/${a.slug}`} title={a.title} />
     </div>
@@ -34,7 +35,7 @@ export default function ArticleCard({ a, issue }: { a: Article; issue?: Issue | 
         <h3 className="card__title"><Link href={`/article/${a.slug}`}>{a.title}</Link></h3>
         <p className="card__authors"><Authors authors={a.authors} /></p>
         <p className="card__meta"><em>{JOURNAL_ABBR}.</em> {journalRef(a, issue)}</p>
-        <Actions a={a} />
+        <Actions a={a} issue={issue} />
       </div>
     </article>
   );
@@ -54,7 +55,7 @@ export function ArticleRow({ a, issue }: { a: Article; issue?: Issue | null }) {
         <h3><Link href={`/article/${a.slug}`}>{a.title}</Link></h3>
         <p className="card__authors"><Authors authors={a.authors} /></p>
         <p className="card__meta"><em>{JOURNAL_ABBR}.</em> {journalRef(a, issue)}</p>
-        <Actions a={a} />
+        <Actions a={a} issue={issue} />
       </div>
     </article>
   );

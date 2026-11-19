@@ -1,7 +1,7 @@
 // `npm run dev` and `npm start` go through this script. It:
 //  1. creates .env from .env.example on first run (with a random AUTH_SECRET),
 //  2. if DATABASE_URL isn't set, starts a built-in Postgres (PGlite) stored in .data/db,
-//  3. creates the tables and loads the sample issue if the database is empty,
+//  3. creates or updates the tables and loads the bundled issues that are missing,
 //  4. starts Next.js.
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { randomBytes } from "node:crypto";

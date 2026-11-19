@@ -49,8 +49,11 @@ export default async function HomePage() {
                 <span className="eyebrow">Current issue</span>
                 <h2>{issue.month} {issue.year}</h2>
                 <p>Volume {issue.volume} · Issue {String(issue.number).padStart(2, "0")}</p>
-                {issue.description ? <p style={{ fontSize: ".92rem", color: "#c6d6e2" }}>{excerpt(issue.description, 140)}</p> : null}
+                {issue.highlights.length ? (
+                  <ul className="hero-highlights">{issue.highlights.slice(0, 5).map((h) => <li key={h}>{h}</li>)}</ul>
+                ) : issue.description ? <p style={{ fontSize: ".92rem", color: "#c6d6e2" }}>{excerpt(issue.description, 140)}</p> : null}
                 <Link href={`/issue/${issue.slug}`}>Table of contents →</Link>
+                {issue.pageImages.length ? <> · <Link href={`/issue/${issue.slug}/read`}>Printed issue →</Link></> : null}
               </div>
             </div>
           ) : null}

@@ -1,0 +1,99 @@
+type: Case Report
+pages: 26-29
+title: Robotic repair of retrocaval ureter in an asymptomatic young woman
+authors: Midhun Mohan (a); Renu Thomas (a); Nazareth Solomon (a)
+aff a: Department of Urology, KIMSHEALTH, Thiruvananthapuram, Kerala, India.
+corr: Midhun Mohan, Department of Urology, KIMSHEALTH, Thiruvananthapuram, Kerala, India.
+email: midhun48@gmail.com
+keywords: retrocaval ureter; robotic surgery; ureteroureterostomy; hydronephrosis; minimally invasive surgery; ureteric reconstruction
+--- abstract Background
+Retrocaval ureter is a rare congenital vascular anomaly in which the ureter passes posterior to the inferior vena cava (IVC), potentially causing ureteric obstruction and hydronephrosis. Minimally invasive repair is increasingly preferred in suitable patients, with robotic surgery offering potential advantages in visualization, dissection, and intracorporeal suturing.
+--- abstract Case presentation
+An 18-year-old female undergoing evaluation for irregular menstrual cycles was incidentally found to have right hydronephrosis. She was asymptomatic, with no flank pain, voiding symptoms, or fever, and no history of abdominal or urological surgery. Routine laboratory investigations were unremarkable. Urine culture grew *Escherichia coli*, for which appropriate treatment was administered. CT urography demonstrated good bilateral renal contrast excretion, with dilatation of the right pelvicalyceal system and upper ureter. The ureter was dilated up to the level of the L4 vertebra, where it deviated medially and coursed posterior to the IVC, confirming the diagnosis of right retrocaval ureter.
+--- abstract Intervention
+Robotic excision of the retrocaval segment with anterior repositioning and ureteroureterostomy was performed. The patient was placed in the left lateral position using a four-port robotic configuration. Following medial reflection of the colon and kocherization of the duodenum, the IVC and ureter were identified. The proximal and distal ureter were dissected while preserving the periureteral blood supply. The retrocaval segment was transected, and the ureter repositioned anterior to the IVC. A spatulated tension-free end-to-end ureteroureterostomy was then performed over a 6 Fr double-J stent using 3-0 Vicryl sutures.
+--- abstract Outcome
+Operative time was 96 minutes with minimal blood loss and no intraoperative complications. No drain was placed. The Foley catheter was removed on postoperative day 2, and the patient was discharged on postoperative day 3. The double-J stent was removed at 6 weeks. The patient remains under follow-up.
+--- abstract Conclusion
+Robotic repair provides a safe, technically feasible minimally invasive option for retrocaval ureter. Enhanced visualization and wristed instrumentation facilitate precise ureteric dissection, anterior repositioning, and intracorporeal ureteroureterostomy.
+--- body
+## Introduction
+Retrocaval ureter, also termed circumcaval ureter, is a rare congenital anomaly resulting from abnormal embryological development of the inferior vena cava (IVC). The ureter passes posterior to the IVC and may become compressed, resulting in varying degrees of proximal hydroureteronephrosis. The anomaly predominantly affects the right ureter because of the embryological development of the IVC. Although many patients are asymptomatic, obstruction may present with flank pain, recurrent urinary tract infection, or deterioration of renal drainage.^1,2^
+
+Historically, open excision of the retrocaval segment followed by anterior repositioning and ureteroureterostomy was the standard treatment. Laparoscopic and robotic techniques have subsequently emerged as minimally invasive alternatives. Comparative data suggest that robotic reconstruction can reduce operative time while maintaining comparable perioperative outcomes.^3,4^
+
+!table
+Feature | Clinical relevance
+Anatomy | Ureter courses posterior to the IVC before returning to its normal lateral position.
+Typical side | Predominantly right-sided.
+Clinical spectrum | Incidental hydronephrosis to flank pain, UTI, stones or impaired renal drainage.
+Key imaging | CT urography/MR urography demonstrates the ureter-IVC relationship.
+Definitive repair | Excision of retrocaval segment, anterior repositioning, and tension-free reconstruction.
+caption: Table 1: Clinical overview of retrocaval ureter
+!end
+
+## Case presentation
+An 18-year-old female was evaluated for irregular menstrual cycles and was incidentally found to have right-sided hydronephrosis. She had no flank pain, dysuria, frequency, hematuria, or fever. There was no history of previous abdominal, pelvic, or urological surgery. On examination, the abdomen was soft and non-tender, with no palpable mass. Routine laboratory investigations were normal. Urine culture grew *Escherichia coli*, for which she received appropriate antibiotic treatment.
+
+CT urography performed at an outside hospital in August 2025 demonstrated good contrast excretion from both kidneys. The right renal pelvicalyceal system and upper third of the ureter were dilated. The dilated right upper ureter was traced to approximately the L4 vertebral level, where it deviated medially and passed posterior to the IVC, a characteristic configuration confirming the diagnosis of a right retrocaval ureter. The left ureter and urinary bladder were normal. The imaging findings were particularly important for operative planning because they demonstrated the exact anatomical relationship between the ureter and the IVC before reconstruction.^5^
+
+Despite the absence of symptoms, the presence of hydronephrosis and the abnormal obstructive course prompted consideration of reconstructive surgery. The patient underwent robotic repair after counselling regarding the nature of the anomaly, available treatment options, and the risks of reconstructive ureteric surgery.
+
+!table
+Parameter | Finding
+Age / sex | 18-year-old female
+Mode of detection | Incidental during evaluation for irregular menstrual cycles
+Symptoms | No flank pain, urinary symptoms, or fever
+Past surgery | No previous abdominal/urological surgery
+Urine culture | *E. coli*; treated with appropriate antibiotics
+CT urography | Right hydronephrosis and upper ureteric dilatation
+Level of crossing | Approximately L4 vertebral level
+Relationship to IVC | Right ureter passes posterior to IVC
+Contralateral system | Left ureter and urinary bladder normal
+caption: Table 2: Summary of clinical parameters and imaging findings
+!end
+
+## Robotic surgical technique and postoperative course
+The patient was placed in the left lateral position using a four-port robotic configuration. Following medial reflection of the colon and kocherization of the duodenum, the IVC and right ureter were clearly visualized. The proximal and distal ureter were dissected carefully with preservation of periureteral blood supply, and the retrocaval segment was mobilized. The key technical objective was to release the ureter from its retrocaval course while preserving its vascularity. After adequate mobilization, the abnormal retrocaval segment was excised, and the ureter was repositioned anterior to the IVC without tension. The ends were spatulated, and an intracorporeal end-to-end ureteroureterostomy was completed over a 6 Fr double-J stent using 3-0 Vicryl sutures. The use of robotic wristed instruments facilitated needle handling and precise suturing around the major vascular structure.^3,4,6^
+
+!table
+Category / Step | Details / Surgical outcome
+Position | Left lateral position
+Port placement | Four-port configuration: 8-mm subcostal (monopolar), 8-mm supraumbilical camera, 8-mm infraumbilical (bipolar), 5-mm suction
+Exposure & dissection | Colon reflected medially; duodenum kocherized; ureter mobilized with preservation of periureteral blood supply.
+Reconstruction | Transected proximal to retrocaval segment, brought anterior to IVC, spatulated end-to-end ureteroureterostomy over 6 Fr DJ stent
+Operative time | 96 minutes
+Blood loss | Minimal; no intraoperative complications; no drain placed
+Postoperative course | Foley catheter removed on postoperative day 2; discharged on postoperative day 3; double-J stent removed at 6 weeks; patient remains asymptomatic on clinical follow-up.
+caption: Table 3: Summary of surgical steps, operative parameters and outcomes
+!end
+
+The postoperative recovery was uncomplicated. There were no intraoperative complications and no drain was required. The Foley catheter was removed on postoperative day 2, and the patient was discharged on postoperative day 3. The double-J stent was removed at 6 weeks postoperatively. At the time of this report, the patient remains asymptomatic on regular clinical follow-up.
+
+## Discussion
+Retrocaval ureter is an uncommon congenital anomaly resulting from abnormal venous development, in which the ureter passes posterior to the IVC. Modern cross-sectional imaging has substantially improved preoperative diagnosis and anatomical definition. CT urography is particularly useful for demonstrating the characteristic ureteric course and associated hydronephrosis.^1,5^
+
+Management depends on severity of symptoms, degree of obstruction, renal function, and the extent or progression of hydronephrosis. In patients requiring surgical reconstruction, the fundamental principles are excision of the compressed retrocaval segment, anterior repositioning of the ureter, and a tension-free ureteric anastomosis. Laparoscopic series have demonstrated favorable functional outcomes, while robotic surgery may facilitate intracorporeal suturing and dissection in this anatomically demanding location.^4,7^
+
+The present case is notable because the patient was young and clinically asymptomatic, with the anomaly detected incidentally. The decision to proceed with reconstruction was based on the presence of hydronephrosis and the obstructive anatomical configuration. Previous reports have similarly described asymptomatic patients in whom retrocaval ureter was diagnosed incidentally on imaging.^6,8^
+
+In a comparative study, Temiz et al. reported a mean operative time of 92 minutes for robotic repair compared with 190 minutes for laparoscopic repair, with broadly comparable blood loss, drain removal, and hospital stay.^3^ The operative time of 96 minutes in the present case is consistent with the reported efficiency of robotic reconstruction. A recent robot-assisted case report in a young woman also described successful reconstruction without perioperative complications and resolution of hydronephrosis on follow-up.^6^
+
+The rarity of retrocaval ureter means that evidence remains predominantly based on case reports and small series. Therefore, the choice between laparoscopic and robotic approaches should be individualized based on surgeon experience, available technology, patient factors, and cost considerations.^4,7^
+
+## Conclusion
+Robotic excision of the retrocaval ureteric segment with anterior repositioning and ureteroureterostomy is a safe and technically feasible minimally invasive procedure. In this young asymptomatic female with incidentally detected hydronephrosis, the procedure was completed in 96 minutes with minimal blood loss, no complications, and an uncomplicated early postoperative recovery. The case highlights the potential utility of robotic visualization in facilitating precise ureteric dissection, anterior repositioning, and intracorporeal ureteroureterostomy.
+--- notes
+**Patient consent:** Written informed consent for publication of the case details and associated clinical images/video was obtained from the patient.
+
+**Conflict of interest:** None declared.
+
+**Funding:** None.
+--- refs
+1. Sandercoe GD, Brooke-Cowden GL. Developmental anomaly of the inferior vena cava. ANZ J Surg. 2003;73(5):356-60.
+2. Anderson JC, Hynes W. Retrocaval ureter; a case diagnosed pre-operatively and treated successfully by a plastic operation. Br J Urol. 1949;21(3):209-14.
+3. Temiz MZ, Nayak B, Aykan S, Singh P, Colakerol A, Semercioz A, et al. Laparoscopic and robotic transperitoneal repair of retrocaval ureter: a comparison of the surgical outcomes from two centres with a comprehensive literature review. J Minim Access Surg. 2020;16(2):115-20. doi:10.4103/jmas.JMAS_293_18
+4. Abdessater M, El Khoury R, Elias S, Bart S, Coloby P, Sleiman W. Diagnosis and laparoscopic management of retrocaval ureter: a review of the literature and our case series. Int J Surg Case Rep. 2019;59:165-75. doi:10.1016/j.ijscr.2019.05.036
+5. Abduldaem O, Banihani O, Alkeraithe F, Abasher A. A missed diagnosis of retrocaval ureter, case report and review of the literature. Urol Case Rep. 2023;47:102364. doi:10.1016/j.eucr.2023.102364
+6. Hakariya T, Aoki D, Nishimura N. A case of retrocaval ureter with robot-assisted ureteral reconstruction. IJU Case Rep. 2024;7(6):487-90. doi:10.1002/iju5.12785
+7. Tamhankar AS, Savalia AJ, Sawant AS, Pawar PW, Kasat GV, Patil SR. Transperitoneal laparoscopic repair of retrocaval ureter: our experience and review of literature. Urol Ann. 2017;9(4):324-29. doi:10.4103/UA.UA_52_17

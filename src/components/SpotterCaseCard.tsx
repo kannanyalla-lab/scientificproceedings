@@ -1,23 +1,24 @@
 "use client";
 import { useState } from "react";
 
-type Props = { caseNo: number; imageUrl: string | null; question: string; diagnosis: string; findings: string | null };
+type Props = { caseNo: number; imageUrl: string | null; images?: string[]; question: string; diagnosis: string; findings: string | null };
 
-export default function SpotterCaseCard({ caseNo, imageUrl, question, diagnosis, findings }: Props) {
+export default function SpotterCaseCard({ caseNo, imageUrl, images, question, diagnosis, findings }: Props) {
   const [shown, setShown] = useState(false);
   const [guess, setGuess] = useState("");
-  const [zoom, setZoom] = useState(false);
+  const [zoom, setZoom] = useState<string | null>(null);
+  const all = images?.length ? images : imageUrl ? [imageUrl] : [];
   return (
     <article className="spot" id={`case-${caseNo}`}>
-      <div>
-        {imageUrl ? (
+      <div className="spot__imgs">
+        {all.map((src, i) => (
           // eslint-disable-next-line @next/next/no-img-element
-          <img src={imageUrl} alt={`Imaging for case ${caseNo}`} onClick={() => setZoom(true)} />
-        ) : null}
-        {zoom && imageUrl ? (
-          <div className="lightbox" onClick={() => setZoom(false)} role="dialog" aria-label="Enlarged image">
+          <img key={src} src={src} alt={`Imaging for case ${caseNo}${all.length > 1 ? `, view ${i + 1}` : ""}`} onClick={() => setZoom(src)} />
+        ))}
+        {zoom ? (
+          <div className="lightbox" onClick={() => setZoom(null)} role="dialog" aria-label="Enlarged image">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={imageUrl} alt={`Imaging for case ${caseNo}, enlarged`} />
+            <img src={zoom} alt={`Imaging for case ${caseNo}, enlarged`} />
           </div>
         ) : null}
       </div>

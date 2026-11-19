@@ -1,0 +1,49 @@
+type: Case Report
+pages: 40-42
+title: Postpartum reversible cerebral vasoconstriction syndrome presenting as progressive stroke without headache
+authors: Aneesh Basheer (a); Nishanth Balasubramaniam (a)
+aff a: SRM Medical College Hospital & Research Centre, Chennai.
+corr: Aneesh Basheer, SRM Medical College Hospital & Research Centre, Chennai and ICMR National Institute of Epidemiology, Chennai.
+email: basheeraneesh@gmail.com
+keywords: reversible cerebral vasoconstriction syndrome; postpartum angiopathy; ischaemic stroke; nimodipine; thunderclap headache
+image: a09-f1.jpg
+--- abstract
+Reversible cerebral vasoconstriction syndrome (RCVS) is an under-recognized cause of postpartum stroke and is typically associated with thunderclap headache. We report a 35-year-old woman with rheumatic heart disease who developed sudden-onset right hemiparesis on postpartum day 11, notably without headache. Serial magnetic resonance imaging over one week showed progressive bilateral infarcts in multiple territories. Angiography revealed diffuse, tapering arterial narrowing that initially involved the posterior circulation and later extended to the anterior circulation. Inflammatory markers and cerebrospinal fluid analysis were normal. She was treated with nimodipine, verapamil, hydration, and rehabilitation. Follow-up angiography at four months demonstrated complete restoration of vessel caliber with residual gliotic changes, confirming the diagnosis. Notably, postpartum RCVS may occur without headache, and demonstration of reversible cerebral arterial vasoconstriction remains a key diagnostic feature.
+--- body
+## Introduction
+Reversible cerebral vasoconstriction syndrome (RCVS) is characterized by multifocal narrowing of the cerebral arteries that usually resolves spontaneously within three months.^1^ Postpartum cerebral angiopathy, also known as Call-Fleming syndrome, refers to RCVS occurring during the puerperium and is an important cause of stroke in young women.^2,5^ Thunderclap headache is reported in 95-100% of patients and may be the only manifestation.^3^ We describe a woman with rheumatic heart disease in whom postpartum RCVS presented as a progressive hemispheric stroke without any headache.
+
+## Case report
+A 35-year-old woman (P2L2) with a history of rheumatic heart disease delivered a healthy male baby by spontaneous vaginal delivery. The immediate postpartum period was uneventful. She subsequently underwent puerperal sterilisation, following which she developed chest pain. Electrocardiography, echocardiography, and computed tomography (CT) pulmonary angiography were normal except for moderate rheumatic mitral regurgitation. She was discharged on oral penicillin prophylaxis. There was no history of pre-eclampsia, seizures, headache, or use of vasoactive or recreational drugs.
+
+Approximately a week later, she developed sudden-onset weakness of the right upper and lower limbs, with difficulty lifting her arm above shoulder level, holding a cup, wearing footwear, and climbing stairs. There was no headache, neck weakness, or bladder or bowel disturbance. Higher mental functions, speech, and cranial nerves were normal. Motor examination revealed right-sided hypotonia with grade 3/5 hemiparesis. Deep tendon reflexes were barely elicited, and hand grip strength was approximately 60%.
+
+Magnetic resonance imaging (MRI) of the brain showed hyperacute infarcts in the left frontal and left parieto-occipital regions. MR angiography (MRA) demonstrated diffuse narrowing of both vertebral arteries and the basilar artery. A postpartum cardioembolic stroke was the provisional diagnosis; anticoagulation was initiated, and Holter monitoring was planned.
+
+Her weakness continued to progress, and repeat MRI showed enlargement of the left parieto-occipital infarct, with new infarcts in the right high frontal region, right centrum semiovale, and left corona radiata. MRA showed attenuation of the anterior cerebral and terminal middle cerebral arteries (Figure 1). CT cerebral angiography confirmed diffuse, smooth narrowing of both vertebral arteries, the basilar artery, and both posterior cerebral arteries. Hemoglobin and blood counts were normal. The erythrocyte sedimentation rate (ESR) was 22 mm in the first hour, and C-reactive protein was negative. Renal, hepatic, and thyroid function, lipid profile, and serum electrolytes were normal. Cerebrospinal fluid analysis was also unremarkable.
+
+!fig a09-f1.jpg | Figure 1: Brain imaging on day 2 of illness. (A) Axial diffusion-weighted magnetic resonance images showing multiple hyperintense acute infarcts involving the left parieto-occipital region and bilateral high frontal and centrum semiovale regions. (B) Time-of-flight magnetic resonance angiography showing diffuse, smooth attenuation of the intracranial arteries.
+
+Over the subsequent week, she developed impaired comprehension and right-sided hemineglect, accompanied by further expansion of the cerebral infarcts and progression of the arterial attenuation. At this point, the differential diagnosis included primary angiitis of the central nervous system (PACNS), posterior reversible encephalopathy syndrome (PRES), and RCVS. She was treated with nimodipine 60 mg every six hours and verapamil 120 mg once daily, along with adequate hydration, physiotherapy, and occupational therapy. Her neurological deficits stabilized and gradually improved. Follow-up MRI and MRA in December 2025 demonstrated complete restoration of the caliber of both the posterior and anterior circulation vessels, with residual gliosis in the previously infarcted territories (Figure 2).
+
+!fig a09-f2.jpg | Figure 2: Follow-up imaging four months after onset. (A) Axial fluid-attenuated inversion recovery (FLAIR) images showing residual gliosis and encephalomalacia in the left parieto-occipital region, without new lesions. (B) Magnetic resonance angiography showing complete restoration of the normal calibre of the previously narrowed intracranial arteries, demonstrating reversibility of the vasoconstriction.
+
+## Discussion
+RCVS arises from a transient disturbance of the tone of the cerebral vessels, involving endothelial dysfunction, sympathetic overactivity, and disruption of the blood-brain barrier.^1,2^ The abrupt fall in estrogen levels following delivery may alter blood-brain barrier permeability and vascular reactivity. Other precipitants include serotonergic and sympathomimetic drugs, pre-eclampsia, and Valsalva-type manoeuvres.^3,5^
+
+Two features of this case are noteworthy. First, headache was absent. Although thunderclap headache is the characteristic presenting symptom of RCVS, headache-free cases have been described and may be more frequently associated with neurological complications such as stroke.^4,5^ Therefore, the absence of headache does not exclude RCVS, particularly when angiography demonstrates diffuse, smooth, tapering arterial narrowing.
+
+Second, both the neurological deficits and arterial abnormalities progressed for approximately one week after presentation. Vasoconstriction in RCVS typically peaks around two to three weeks after onset and spreads from distal to more proximal arteries.^3^ In our patient, the initial involvement of the posterior circulation was followed by involvement of the anterior circulation. Thus, early radiological progression of arterial narrowing and cerebral infarction does not necessarily indicate a wrong diagnosis or treatment failure.
+
+Distinguishing RCVS from primary angiitis of the central nervous system (PACNS) is important, since glucocorticoids have been associated with worse outcomes in RCVS.^7^ PACNS more commonly produces irregular, notched, eccentric stenoses with abnormal cerebrospinal fluid findings and insidious headache, whereas RCVS typically demonstrates smooth, tapering "string of beads" narrowing with normal cerebrospinal fluid.^2^ In our patient, normal inflammatory markers and cerebrospinal fluid findings, together with complete reversal of the angiographic abnormalities on follow-up, supported the diagnosis of RCVS. The RCVS2 score may also serve as a useful clinical adjunct in distinguishing RCVS from other cerebrovascular disorders.^6^ Treatment is primarily supportive, with calcium channel blockers and avoidance of triptans, ergots and intra-arterial vasodilators.^1,4^
+
+## Conclusion
+RCVS should be considered in postpartum women presenting with acute focal neurological deficits and diffuse cerebral arterial narrowing, even in the absence of headache. Progressive neurological and angiographic abnormalities during the early phase should not by themselves exclude the diagnosis. Demonstration of reversible cerebral arterial narrowing on follow-up imaging, typically within 12 weeks, remains a key diagnostic feature of RCVS.
+--- refs
+1. Ducros A. Reversible cerebral vasoconstriction syndrome. Lancet Neurol. 2012;11(10):906-17.
+2. Calabrese LH, Dodick DW, Schwedt TJ, Singhal AB. Narrative review: reversible cerebral vasoconstriction syndromes. Ann Intern Med. 2007;146(1):34-44.
+3. Ducros A, Boukobza M, Porcher R, Sarov M, Valade D, Bousser MG. The clinical and radiological spectrum of reversible cerebral vasoconstriction syndrome: a prospective series of 67 patients. Brain. 2007;130(Pt 12):3091-101.
+4. Singhal AB, Hajj-Ali RA, Topcuoglu MA, Fok J, Bena J, Yang D, et al. Reversible cerebral vasoconstriction syndromes: analysis of 139 cases. Arch Neurol. 2011;68(8):1005-12.
+5. Fugate JE, Ameriso SF, Ortiz G, Schottlaender LV, Wijdicks EF, Flemming KD, et al. Variable presentations of postpartum angiopathy. Stroke. 2012;43(3):670-6.
+6. Rocha EA, Topcuoglu MA, Silva GS, Singhal AB. RCVS2 score and diagnostic approach for reversible cerebral vasoconstriction syndrome. Neurology. 2019;92(7):e639-47.
+7. Singhal AB, Topcuoglu MA. Glucocorticoid-associated worsening in reversible cerebral vasoconstriction syndrome. Neurology. 2017;88(3):228-36.

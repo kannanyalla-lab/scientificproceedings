@@ -69,8 +69,9 @@ function Input({ f, value, checked, issues }: { f: Field; value: string; checked
     case "authors":
     case "affiliations":
     case "lines":
+    case "board":
     case "abstract":
-      return <div className="field">{label}<textarea id={f.name} name={f.name} defaultValue={value} className="mono" style={{ minHeight: f.type === "abstract" || f.type === "lines" ? 260 : 120 }} required={req} />{hint}</div>;
+      return <div className="field">{label}<textarea id={f.name} name={f.name} defaultValue={value} className="mono" style={{ minHeight: f.type === "abstract" || f.type === "lines" || f.type === "board" ? 260 : 120 }} required={req} />{hint}</div>;
     default:
       return <div className="field">{label}<textarea id={f.name} name={f.name} defaultValue={value} required={req} />{hint}</div>;
   }

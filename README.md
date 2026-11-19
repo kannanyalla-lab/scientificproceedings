@@ -42,11 +42,11 @@ npm install
 npm run dev
 ```
 
-Then open http://localhost:3000. The first run creates `.env`, starts a built-in database (stored in `.data/db`) and loads the March 2026 issue as sample content. The editor panel is at http://localhost:3000/admin (sign in with `editor@example.com` / `admin123`; change these in `.env`).
+Then open http://localhost:3000. The first run creates `.env`, starts a built-in database (stored in `.data/db`) and loads the September 2026 issue. The editor panel is at http://localhost:3000/admin (sign in with `editor@example.com` / `admin123`; change these in `.env`).
 
 **Windows shortcut:** download [`Website.bat`](Website.bat), put it on your Desktop and double-click it. The first time, it downloads the site to `%USERPROFILE%\KIMSHEALTH-Proceedings`, installs it and opens it in your browser. After that it starts the site, or (option 2) updates it to the latest version from GitHub first. Your settings, database and uploads are kept when updating.
 
-To use your own Postgres instead, set `DATABASE_URL` in `.env`. `npm run dev` then creates the tables and sample content there.
+To use your own Postgres instead, set `DATABASE_URL` in `.env`. `npm run dev` then creates the tables and loads the bundled issues there.
 
 ## Environment variables
 
@@ -66,7 +66,7 @@ Any Node host with Postgres works (a VPS, Render, Railway, Fly.io, or your own s
 ```bash
 npm ci
 npm run build
-npm start      # creates/updates tables and loads sample content if empty, then serves
+npm start      # creates/updates tables, loads any missing bundled issue, then serves
 ```
 
 Set `DATABASE_URL` to a real Postgres in production. Uploaded files are written to `UPLOAD_DIR`, so use a host with a persistent disk and back that folder up.
@@ -84,12 +84,26 @@ src/app/api/         submission endpoint
 src/app/files/       serves uploaded files (manuscripts are editor-only)
 src/db/schema.ts     database tables
 src/lib/             queries, formatting, auth, storage, admin field config
-scripts/seed.ts      sample content loader
+scripts/seed.ts      bundled issue loader (npm run seed -- --force reloads)
+scripts/build-issue.py  builds src/db/content/<yyyy-mm>.json from content/<yyyy-mm>/
+content/             transcribed editions (one folder per issue)
 drizzle/             SQL migrations
 ```
 
 To change the schema, edit `src/db/schema.ts` and run `npx drizzle-kit generate`. The new migration is applied the next time the site starts.
 
-## Sample content
+## Content: the September 2026 edition
 
-The first run loads Volume 12, Issue 01 (March 2026) from the current site: 15 articles, 6 pharma updates, 4 radiology spotter cases and 20 scramble words. The pediatric migraine article includes the full text; the rest have metadata and PDFs, and their abstracts and full text can be added from the editor panel. Images and PDFs point at the existing site's uploads until they're re-uploaded.
+The site ships with Volume 12, Issue 03 (September 2026), transcribed in full from the printed flipbook: 13 articles with abstracts, full text, figures, tables and references, plus Pharma Updates, Radiology Spotters (with answers), Scramble (with answers), the cover highlights and the editorial board. All 72 printed pages are in `public/issues/2026-09/pages`, so readers can page through the printed issue and download the full issue or any article as a PDF (built on the fly from the page images).
+
+References link out to the DOI, PubMed and Google Scholar. Article pages also offer RIS and BibTeX citation downloads and carry Google Scholar `citation_*` meta tags.
+
+Earlier versions of the site loaded the March 2026 issue as a sample; it is removed automatically the next time the site starts.
+
+### Adding the next edition
+
+1. Create `content/<yyyy-mm>/` with `issue.json`, one `aNN-*.txt` file per article (see the September files for the format), and `pharma.json`, `spotters.json`, `scramble.json`.
+2. Put page scans in `public/issues/<yyyy-mm>/pages/` and figures in `public/issues/<yyyy-mm>/fig/`.
+3. Run `python3 scripts/build-issue.py <yyyy-mm>` and add the generated JSON to `bundledIssues` in `src/db/seed.ts`.
+
+Issues can also be added and edited entirely from the editor panel.

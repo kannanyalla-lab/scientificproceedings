@@ -1,0 +1,70 @@
+type: Case Report
+pages: 36-39
+title: Tuberculous peritonitis presenting as fever with minimal abdominal symptoms in an adolescent
+authors: Archana PS (a); Ancia Ashraf (a); Shafi Ali Khan (b); Ajit Thomas (a)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of General and Minimally Invasive Surgery, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Archana PS, Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: psarchana05@gmail.com
+keywords: abdominal tuberculosis; tuberculous peritonitis; prolonged fever; omental involvement; ascitic fluid ADA; GeneXpert; peritoneal biopsy; granulomatous inflammation
+image: a08-f1.jpg
+--- abstract Background
+Abdominal tuberculosis is an important form of extrapulmonary tuberculosis with a broad spectrum of clinical manifestations. Tuberculous peritonitis may present with nonspecific constitutional and systemic symptoms and minimal abdominal findings, making early diagnosis challenging. Negative microbiological testing of ascitic fluid does not necessarily exclude the disease. Tuberculous peritonitis may mimic other intra-abdominal infective or inflammatory conditions, and tissue diagnosis may be required when initial testing is inconclusive.
+--- abstract Case presentation
+A 16-year-old male school student presented with a 7-day history of high-grade intermittent fever associated with tiredness and body pain, along with occasional mild, vague abdominal discomfort. There was no history of vomiting, diarrhea, dysuria, or constipation, and no respiratory or urinary symptoms or relevant travel or exposure history. He had received cefoperazone-sulbactam and doxycycline at a local hospital without clinical improvement. On examination, he was febrile at 101°F with a few sub-centimetric cervical lymph nodes and minimal left iliac fossa tenderness. Initial investigations showed an elevated C-reactive protein level (CRP) of 195 mg/L, with otherwise preserved blood counts and organ function. Screening for common tropical infections was negative, and blood cultures showed no growth. Ultrasonography initially demonstrated minimal ascites. Subsequent CT abdomen and pelvis revealed moderate ascites, diffuse peritoneal thickening and enhancement, small peritoneal nodules, and diffuse omental thickening, raising suspicion of abdominal tuberculosis. Ascitic fluid cytology was negative for malignancy, and MTB/RIF Ultra did not detect *Mycobacterium tuberculosis*; however, the ascitic fluid adenosine deaminase level was markedly elevated (89.5 U/L). In view of persistent fever and characteristic radiologic findings, laparoscopic peritoneal and omental biopsy was performed. Tissue GeneXpert detected *Mycobacterium tuberculosis*, while histopathology demonstrated well-formed granulomas composed of epithelioid histiocytes with Langhans-type and foreign-body-type giant cells and small foci of central necrosis, consistent with tuberculosis. Empirical anti-tubercular therapy was initiated after tissue sampling.
+--- abstract Conclusion
+This case highlights that abdominal tuberculosis should remain an important differential diagnosis in patients with persistent fever and nonspecific abdominal symptoms, even when initial screening for tuberculosis is negative and classical constitutional or pulmonary features are absent. Cross-sectional imaging, ascitic fluid ADA, and, most importantly, tissue sampling can establish the diagnosis in suspected tuberculous peritonitis.
+--- body
+## Introduction
+Abdominal tuberculosis is an important form of extrapulmonary tuberculosis and may involve the peritoneum, lymph nodes, gastrointestinal tract, and solid abdominal organs. Its presentation is often nonspecific, with fever, abdominal discomfort, anorexia, constitutional symptoms, or ascites. Because these manifestations overlap with those of malignancy and other infectious or inflammatory disorders, diagnosis can be challenging. Imaging may reveal ascites, peritoneal thickening, nodularity, and omental involvement, but definitive diagnosis may require microbiological or histopathological confirmation. We report a case of tuberculous peritonitis with omental involvement in a 16-year-old boy who presented primarily with prolonged fever and only mild abdominal symptoms, with diagnosis established by laparoscopic biopsy.^1,2^
+
+## Case presentation
+A 16-year-old male presented with a 7-day history of high-grade intermittent fever associated with generalized fatigue, body aches, and occasional vague abdominal discomfort. He had no gastrointestinal, respiratory, urinary, or joint symptoms and no significant travel or sick-contact history. He had received cefoperazone-sulbactam and doxycycline at a peripheral hospital from the second day of illness, but the fever persisted. On admission, he was febrile (101°F) with a few subcentimetric cervical lymph nodes and minimal left iliac fossa tenderness; the remainder of the systemic examination was unremarkable.
+
+Investigations for common tropical infections, including dengue, malaria, leptospirosis, scrub typhus, and enteric fever, as well as Epstein-Barr virus infection, were negative. Blood cultures showed no growth. Ultrasonography initially demonstrated minimal ascites, while subsequent CT of the abdomen and pelvis revealed moderate ascites with diffuse peritoneal thickening and enhancement, small peritoneal nodules, and diffuse omental thickening, raising suspicion of tuberculous peritonitis. Ascitic fluid showed lymphocyte-predominant inflammation with an elevated ADA of 89.5 U/L; however, MTB/RIF Ultra was negative, and cytology showed no malignant cells. In view of the persistent fever and characteristic radiological findings, diagnostic laparoscopic peritoneal and omental biopsy was performed. Tissue GeneXpert detected *Mycobacterium tuberculosis*, while histopathology showed well-formed, confluent necrotizing granulomas with epithelioid histiocytes and Langhans-type giant cells; Ziehl-Neelsen and periodic acid-Schiff (PAS) stains were negative. Based on the combined clinical, radiological, microbiological, and histopathological findings, a diagnosis of abdominal tuberculosis with tuberculous peritonitis and omental involvement was established. Anti-tubercular therapy was initiated following tissue sampling.
+
+!fig a08-f1.jpg | Figure 1: Contrast-enhanced CT of the abdomen.
+
+!fig a08-f2.jpg | Figure 2: Contrast-enhanced CT of the abdomen.
+
+!table
+Investigation | Result
+Total leukocyte count | 5,500/mm^3^
+Neutrophils | 73.6%
+Lymphocytes | 13%
+Monocytes | 11.6%
+Platelet count | 2.57 lakh/mm^3^
+Hemoglobin | 13.1 g/dL
+ESR | 35 mm/hr
+CRP | 195 mg/L
+Creatinine | 0.8 mg/dL
+Other renal and liver parameters | Within normal limits
+Ferritin | 339 ng/mL
+LDH | 277 U/L
+caption: Table 1: Initial investigations
+!end
+
+## Discussion
+This case illustrates the diagnostic challenge of abdominal tuberculosis when the presenting complaint is predominantly fever with only minimal abdominal symptoms. The patient had no respiratory symptoms, and his initial examination was relatively unremarkable apart from fever, a few cervical lymph nodes, and mild left iliac fossa tenderness. The inflammatory response was notable for a markedly elevated CRP despite a near-normal total leukocyte count.
+
+The initial work-up for common tropical infections and other infectious causes was negative. Ultrasound initially showed only minimal ascites, whereas CT later demonstrated moderate ascites, diffuse peritoneal thickening and enhancement, peritoneal nodules, and diffuse omental thickening. These findings increased suspicion for peritoneal tuberculosis, but they can also occur in other inflammatory or malignant conditions. The negative ascitic MTB/RIF testing did not exclude the diagnosis. In this case, the elevated ascitic fluid ADA provided additional supportive evidence, while tissue sampling ultimately established the diagnosis.
+
+The case also highlights the complementary role of microbiology and histopathology in extrapulmonary tuberculosis. GeneXpert detection of MTB in the biopsy sample provided microbiological confirmation, while histopathology demonstrated well-formed granulomas with epithelioid histiocytes, Langhans-type giant cells, and small foci of necrosis. The negative Ziehl-Neelsen stain does not exclude tuberculosis, particularly in a paucibacillary extrapulmonary lesion when molecular and histopathological findings are concordant.
+
+Early recognition of abdominal tuberculosis is important because delayed diagnosis may lead to progressive peritoneal disease and complications. A high index of suspicion, appropriate cross-sectional imaging, and timely tissue diagnosis are especially valuable when the clinical presentation is atypical and initial screening tests are nondiagnostic.^1,2^
+
+## Learning points
+- Abdominal tuberculosis should be considered in patients with prolonged or unexplained fever even when abdominal symptoms are mild and pulmonary symptoms are absent.
+- Peritoneal thickening, nodularity, ascites, and omental involvement on CT should raise suspicion of tuberculous peritonitis while also prompting consideration of other infective, inflammatory, and malignant causes.
+- A negative ascitic fluid Xpert MTB/RIF test does not exclude abdominal tuberculosis; ascitic fluid ADA and tissue diagnosis may be important in selected patients.
+- Laparoscopic peritoneal or omental biopsy can provide definitive microbiological and histopathological evidence when non-invasive investigations are inconclusive.
+- Concordant GeneXpert positivity and necrotizing granulomatous histopathology can establish the diagnosis even when Ziehl-Neelsen staining is negative.
+
+## Conclusion
+This case highlights abdominal tuberculosis presenting predominantly as prolonged fever in a young patient with minimal abdominal symptoms and no respiratory manifestations. Initial screening for common tropical infections and ascitic MTB testing were negative, while CT imaging, elevated ascitic fluid ADA, and subsequent peritoneal/omental biopsy led to the diagnosis. Tissue GeneXpert detection and compatible necrotizing granulomatous histopathology confirmed tuberculous peritonitis with omental involvement. Maintaining a high index of suspicion and pursuing timely tissue diagnosis, when initial investigations are inconclusive, can facilitate early treatment in atypical presentations of extrapulmonary tuberculosis.
+--- refs
+1. Sharma MP, Bhatia V. Abdominal tuberculosis. Indian J Med Res. 2004;120(4):305-15. PMID: 15520484.
+2. Jha DK, Pathiyil MM, Sharma V. Evidence-based approach to diagnosis and management of abdominal tuberculosis. Indian J Gastroenterol. 2023;42(1):17-31. doi:10.1007/s12664-023-01343-x
+3. Sanai FM, Bzeizi KI. Systematic review: tuberculous peritonitis - presenting features, diagnostic strategies and treatment. Aliment Pharmacol Ther. 2005;22(8):685-700. doi:10.1111/j.1365-2036.2005.02645.x
+4. Tao L, Ning HJ, Nie HM, Guo XY, Qin SY, Jiang HX. Diagnostic value of adenosine deaminase in ascites for tuberculosis ascites: a meta-analysis. Diagn Microbiol Infect Dis. 2014;79(1):102-107. doi:10.1016/j.diagmicrobio.2013.12.010
+5. World Health Organization. WHO consolidated guidelines on tuberculosis. Module 3: Diagnosis. Geneva: World Health Organization; 2025. ISBN 978-92-4-010798-4.

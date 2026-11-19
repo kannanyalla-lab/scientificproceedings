@@ -2,7 +2,7 @@ import { ARTICLE_TYPES, MONTHS, SUBMISSION_STATUSES } from "./site";
 
 export type FieldType =
   | "text" | "textarea" | "html" | "number" | "checkbox" | "select" | "issue"
-  | "file" | "authors" | "affiliations" | "abstract" | "lines" | "keywords" | "readonly";
+  | "file" | "authors" | "affiliations" | "abstract" | "lines" | "keywords" | "board" | "readonly";
 
 export type Field = {
   name: string;
@@ -42,6 +42,12 @@ export const ENTITIES: Record<string, EntityConfig> = {
       { name: "description", label: "Editor's note / description", type: "textarea" },
       { name: "spotterContributors", label: "Radiology Spotters contributors", type: "text" },
       { name: "scrambleContributors", label: "Scramble compiled by", type: "text" },
+      { name: "pharmaContributors", label: "Pharma Updates contributors", type: "text" },
+      { name: "highlights", label: "Issue highlights (cover)", type: "lines", hint: "One highlight per line, as printed on the cover." },
+      { name: "editorialBoard", label: "Editorial board (masthead)", type: "board", hint: "A heading line for each group, e.g.  ## Associate Editors, then one person per line as  Name | title." },
+      { name: "pdfUrl", label: "Full-issue PDF", type: "file", accept: "application/pdf", hint: "Optional. Without it, the PDF is made from the page images below." },
+      { name: "pageImages", label: "Page images of the printed issue", type: "lines", hint: "One image address per line, in page order (cover first)." },
+      { name: "pageOffset", label: "Page offset", type: "number", half: true, hint: "Printed page 1 is image number 1 + this offset." },
       { name: "isCurrent", label: "This is the current issue (shown on the home page)", type: "checkbox" },
       { name: "published", label: "Published (visible on the site)", type: "checkbox" },
     ],
@@ -61,7 +67,8 @@ export const ENTITIES: Record<string, EntityConfig> = {
       { name: "keywords", label: "Keywords", type: "keywords", hint: "Comma separated." },
       { name: "abstract", label: "Abstract", type: "abstract", hint: "Start each section with a heading line like  ## Background  then the text below it." },
       { name: "bodyHtml", label: "Full text (HTML)", type: "html", hint: "Use <h2 id=\"introduction\">Introduction</h2> for sections (they appear in 'On this page'), <p> for paragraphs and <figure><img src=…><figcaption>…</figcaption></figure> for figures." },
-      { name: "refs", label: "References", type: "lines", hint: "One reference per line, in citation order." },
+      { name: "refs", label: "References", type: "lines", hint: "One reference per line, in citation order. DOIs, PMIDs and web addresses become links." },
+      { name: "notesHtml", label: "Declarations (HTML)", type: "html", hint: "Consent, conflicts of interest, funding, acknowledgements." },
       { name: "imageUrl", label: "Thumbnail image", type: "file", accept: IMG },
       { name: "pdfUrl", label: "PDF", type: "file", accept: "application/pdf" },
       { name: "pageStart", label: "First page", type: "text", half: true },
@@ -84,6 +91,7 @@ export const ENTITIES: Record<string, EntityConfig> = {
       { name: "summary", label: "Summary (shown on cards)", type: "textarea" },
       { name: "bodyHtml", label: "Full text (HTML)", type: "html" },
       { name: "imageUrl", label: "Image", type: "file", accept: IMG },
+      { name: "refs", label: "References", type: "lines", hint: "One reference per line." },
       { name: "slug", label: "URL slug", type: "text", hint: "Leave blank to generate from the title." },
       { name: "published", label: "Published", type: "checkbox" },
     ],
@@ -96,6 +104,7 @@ export const ENTITIES: Record<string, EntityConfig> = {
       { name: "issueId", label: "Issue", type: "issue", required: true, half: true },
       { name: "caseNo", label: "Case number", type: "number", required: true, half: true },
       { name: "imageUrl", label: "Image", type: "file", accept: IMG },
+      { name: "images", label: "All images (if more than one view)", type: "lines", hint: "One image address per line. Leave blank to use the image above." },
       { name: "question", label: "Case description", type: "textarea", required: true },
       { name: "diagnosis", label: "Diagnosis (answer)", type: "text", required: true },
       { name: "findings", label: "Imaging findings", type: "textarea", hint: "One finding per line." },
@@ -150,6 +159,9 @@ export function toFormString(field: Field, value: unknown): string {
       return (value as string[]).join("\n");
     case "keywords":
       return (value as string[]).join(", ");
+    case "board":
+      return (value as { role: string; members: { name: string; title?: string }[] }[])
+        .map((g) => `## ${g.role}\n` + g.members.map((m) => (m.title ? `${m.name} | ${m.title}` : m.name)).join("\n")).join("\n\n");
     default:
       return value instanceof Date ? value.toISOString().slice(0, 16).replace("T", " ") : String(value);
   }
@@ -180,6 +192,17 @@ export function parseFormValue(field: Field, raw: string): unknown {
     }
     case "lines":
       return lines();
+    case "board": {
+      const groups: { role: string; members: { name: string; title?: string }[] }[] = [];
+      for (const l of lines()) {
+        const m = l.match(/^##\s*(.+)$/);
+        if (m) { groups.push({ role: m[1].trim(), members: [] }); continue; }
+        if (!groups.length) groups.push({ role: "Editorial Board", members: [] });
+        const [name, title] = l.split("|").map((x) => x.trim());
+        groups[groups.length - 1].members.push(title ? { name, title } : { name });
+      }
+      return groups;
+    }
     case "keywords":
       return v.split(/[,;\n]/).map((s) => s.trim()).filter(Boolean);
     default:

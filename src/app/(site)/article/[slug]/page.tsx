@@ -7,8 +7,9 @@ import { TypeBadge } from "@/components/ArticleCard";
 import CopyButton from "@/components/CopyButton";
 import PrintButton from "@/components/PrintButton";
 import ShareButton from "@/components/ShareButton";
+import References from "@/components/References";
 import { getArticleBySlug, getIssueArticles, incrementViews } from "@/lib/queries";
-import { anchorId, citation, excerpt, issueLabel, pagesOf } from "@/lib/format";
+import { anchorId, articlePdfHref, citation, excerpt, issueLabel, pagesOf } from "@/lib/format";
 import { JOURNAL, SITE_URL } from "@/lib/site";
 
 const MONTH_NUM: Record<string, string> = { January: "01", February: "02", March: "03", April: "04", May: "05", June: "06", July: "07", August: "08", September: "09", October: "10", November: "11", December: "12" };
@@ -32,7 +33,8 @@ export async function generateMetadata({ params }: PageProps<"/article/[slug]">)
   }
   if (a.pageStart) other.citation_firstpage = a.pageStart;
   if (a.pageEnd) other.citation_lastpage = a.pageEnd;
-  if (a.pdfUrl) other.citation_pdf_url = abs(a.pdfUrl)!;
+  const pdfHref = articlePdfHref(a, issue);
+  if (pdfHref) other.citation_pdf_url = abs(pdfHref)!;
   if (a.doi) other.citation_doi = a.doi;
   if (a.keywords.length) other.citation_keywords = a.keywords.join("; ");
   return {
@@ -60,6 +62,8 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
   const next = idx >= 0 && idx < siblings.length - 1 ? siblings[idx + 1] : null;
 
   const cite = citation(a, issue);
+  const pdf = articlePdfHref(a, issue);
+  const printedPage = issue && a.pageStart && issue.pageImages.length ? parseInt(a.pageStart, 10) + issue.pageOffset : null;
   const pages = pagesOf(a);
   const headings = [...(a.bodyHtml || "").matchAll(/<h2[^>]*id="([^"]+)"[^>]*>(.*?)<\/h2>/g)].map((m) => ({ id: m[1], text: m[2].replace(/<[^>]+>/g, "") }));
 
@@ -91,7 +95,8 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
           <p className="article-meta"><em>{JOURNAL}</em>{issue ? ` · ${issueLabel(issue)}` : ""}{pages ? ` · Pages ${pages}` : ""}{a.doi ? <> · DOI <a href={`https://doi.org/${a.doi}`}>{a.doi}</a></> : null}</p>
           <div className="article-actions">
             <a className="btn btn--ghost" href="#abstract">Abstract</a>
-            {a.pdfUrl ? <a className="btn btn--primary" href={a.pdfUrl} target="_blank" rel="noopener">Download PDF</a> : null}
+            {pdf ? <a className="btn btn--primary" href={pdf} target="_blank" rel="noopener">PDF</a> : null}
+            {printedPage ? <Link className="btn btn--ghost" href={`/issue/${issue!.slug}/read#img-${printedPage}`}>View printed pages</Link> : null}
             <PrintButton auto={sp.mode === "print"} />
             <ShareButton path={`/article/${a.slug}`} title={a.title} className="btn btn--ghost" />
             <CopyButton text={cite} label="Cite" className="btn btn--ghost" />
@@ -108,7 +113,7 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
                 {s.heading ? <h3>{s.heading}</h3> : null}
                 <p>{s.text}</p>
               </div>
-            )) : <p className="muted">The abstract for this article is available in the {a.pdfUrl ? <a href={a.pdfUrl} target="_blank" rel="noopener">PDF</a> : "PDF"}.</p>}
+            )) : <p className="muted">The abstract for this article is available in the {pdf ? <a href={pdf} target="_blank" rel="noopener">PDF</a> : "PDF"}.</p>}
             {a.keywords.length ? (
               <p style={{ marginTop: 14, marginBottom: 0 }}>
                 <strong style={{ fontSize: ".85rem" }}>Keywords: </strong>
@@ -118,13 +123,20 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
           </section>
 
           {a.bodyHtml ? <div dangerouslySetInnerHTML={{ __html: a.bodyHtml }} /> : (
-            a.pdfUrl ? <p className="notice no-print">The full text of this article is available as a <a href={a.pdfUrl} target="_blank" rel="noopener">PDF</a>.</p> : null
+            pdf ? <p className="notice no-print">The full text of this article is available as a <a href={pdf} target="_blank" rel="noopener">PDF</a>.</p> : null
           )}
+
+          {a.notesHtml ? (
+            <section className="declarations">
+              <h2 id="declarations">Declarations</h2>
+              <div dangerouslySetInnerHTML={{ __html: a.notesHtml }} />
+            </section>
+          ) : null}
 
           {a.refs.length ? (
             <section>
               <h2 id="references">References</h2>
-              <ol className="refs">{a.refs.map((r, i) => <li key={i}>{r}</li>)}</ol>
+              <References refs={a.refs} />
             </section>
           ) : null}
 
@@ -163,6 +175,7 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
               <nav style={{ display: "grid", gap: 4 }}>
                 <a href="#abstract">Abstract</a>
                 {headings.map((h) => <a key={h.id} href={`#${h.id}`}>{h.text}</a>)}
+                {a.notesHtml ? <a href="#declarations">Declarations</a> : null}
                 {a.refs.length ? <a href="#references">References</a> : null}
               </nav>
             </div>
@@ -170,7 +183,11 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
           <div className="side-box no-print">
             <h3>How to cite</h3>
             <div className="cite-box">{cite}</div>
-            <CopyButton text={cite} label="Copy citation" />
+            <div className="cite-actions">
+              <CopyButton text={cite} label="Copy citation" />
+              <a href={`/article/${a.slug}/cite?format=ris`}>RIS</a>
+              <a href={`/article/${a.slug}/cite?format=bib`}>BibTeX</a>
+            </div>
           </div>
         </aside>
       </div>

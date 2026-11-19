@@ -5,6 +5,8 @@ import {
 export type Author = { name: string; aff?: string };
 export type Affiliation = { key: string; text: string };
 export type AbstractSection = { heading: string; text: string };
+/** One group on the issue masthead, e.g. "Associate Editors". */
+export type BoardGroup = { role: string; members: { name: string; title?: string }[] };
 
 const timestamps = {
   createdAt: timestamp("created_at").notNull().defaultNow(),
@@ -22,6 +24,16 @@ export const issues = pgTable("issues", {
   description: text("description"),
   spotterContributors: text("spotter_contributors"),
   scrambleContributors: text("scramble_contributors"),
+  pharmaContributors: text("pharma_contributors"),
+  /** Short lines shown on the cover under "Issue Highlights". */
+  highlights: jsonb("highlights").$type<string[]>().notNull().default([]),
+  /** The masthead printed inside the front cover of this issue. */
+  editorialBoard: jsonb("editorial_board").$type<BoardGroup[]>().notNull().default([]),
+  /** Full-issue PDF, and the scanned page images of the printed issue (in page order). */
+  pdfUrl: text("pdf_url"),
+  pageImages: jsonb("page_images").$type<string[]>().notNull().default([]),
+  /** Page image number of printed page 0, so printed page p is image p + pageOffset (1-based). */
+  pageOffset: integer("page_offset").notNull().default(0),
   isCurrent: boolean("is_current").notNull().default(false),
   published: boolean("published").notNull().default(true),
   ...timestamps,
@@ -43,6 +55,8 @@ export const articles = pgTable("articles", {
   refs: jsonb("refs").$type<string[]>().notNull().default([]),
   imageUrl: text("image_url"),
   pdfUrl: text("pdf_url"),
+  /** Declarations and other end matter (consent, conflicts, funding), as HTML. */
+  notesHtml: text("notes_html"),
   pageStart: text("page_start"),
   pageEnd: text("page_end"),
   doi: text("doi"),
@@ -61,6 +75,7 @@ export const pharmaUpdates = pgTable("pharma_updates", {
   summary: text("summary"),
   bodyHtml: text("body_html"),
   imageUrl: text("image_url"),
+  refs: jsonb("refs").$type<string[]>().notNull().default([]),
   sortOrder: integer("sort_order").notNull().default(0),
   published: boolean("published").notNull().default(true),
   ...timestamps,
@@ -74,6 +89,8 @@ export const spotterCases = pgTable("spotter_cases", {
   question: text("question").notNull(),
   diagnosis: text("diagnosis").notNull(),
   findings: text("findings"),
+  /** Extra images for cases that show more than one view. */
+  images: jsonb("images").$type<string[]>().notNull().default([]),
   ...timestamps,
 });
 

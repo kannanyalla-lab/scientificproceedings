@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ShareButton from "@/components/ShareButton";
+import References from "@/components/References";
 import { getPharmaUpdate, issuesById } from "@/lib/queries";
 import { excerpt, issueLabel } from "@/lib/format";
 
@@ -31,6 +32,13 @@ export default async function PharmaDetail({ params }: PageProps<"/pharma-update
             <img src={p.imageUrl} alt="" style={{ borderRadius: 10, marginBottom: 24 }} />
           ) : null}
           {p.bodyHtml ? <div dangerouslySetInnerHTML={{ __html: p.bodyHtml }} /> : <p>{p.summary}</p>}
+          {p.refs.length ? (
+            <section>
+              <h2 id="references">References</h2>
+              <References refs={p.refs} />
+            </section>
+          ) : null}
+          {issue?.pharmaContributors ? <p className="muted" style={{ fontSize: ".9rem" }}>{issue.pharmaContributors}</p> : null}
           <p><Link href="/pharma-updates">← All pharma updates</Link></p>
         </div>
       </div>

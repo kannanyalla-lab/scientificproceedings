@@ -1,0 +1,142 @@
+[
+ {
+  "specialty": "Gastroenterology",
+  "clue": "An extremely rare inherited condition causing progressive gastrointestinal dysmotility, restricted eye movements, numbness in the hands and feet, abdominal cramps, and vomiting.",
+  "scrambled": "CDMTNRLOIIHOA TAERATILONNSNEIRUGOST YAMAEONTPPELHOYCH",
+  "answer": "Mitochondrial neurogastrointestinal encephalomyopathy",
+  "sortOrder": 0
+ },
+ {
+  "specialty": "Gastroenterology",
+  "clue": "A disorder where too many mast cells accumulate in the skin, gastrointestinal tract, bone marrow, and liver, triggering a range of allergy-like symptoms.",
+  "scrambled": "TSYICESM OYTOSSIMCATS",
+  "answer": "Systemic mastocytosis",
+  "sortOrder": 1
+ },
+ {
+  "specialty": "Gastroenterology",
+  "clue": "A rare genetic disorder characterized by intellectual disability, distinctive facial features and seizures. It may be apparent at birth or become evident later in childhood.",
+  "scrambled": "TAWMO-SONILW DEOMNSRY",
+  "answer": "Mowat-Wilson syndrome",
+  "sortOrder": 2
+ },
+ {
+  "specialty": "Gastroenterology",
+  "clue": "A rare genetic disorder affecting the pancreas, bone marrow, and bones, leading to malabsorption, short stature, and skeletal abnormalities, usually presenting in childhood.",
+  "scrambled": "ASNWAMHHC-DMNIODA YDNORMSE",
+  "answer": "Shwachman-Diamond syndrome",
+  "sortOrder": 3
+ },
+ {
+  "specialty": "Gastroenterology",
+  "clue": "An extremely rare disease characterized by gastrointestinal polyps, hair loss, nail dystrophy and skin hyperpigmentation.",
+  "scrambled": "OIKHTNRCE-ACADNA DYMNEROS",
+  "answer": "Cronkhite-Canada syndrome",
+  "sortOrder": 4
+ },
+ {
+  "specialty": "Genetics",
+  "clue": "A congenital condition characterized by a small lower jaw, cleft palate, and backward displacement of the tongue.",
+  "scrambled": "RPEERI ORNBI ECESENQU",
+  "answer": "Pierre Robin sequence",
+  "sortOrder": 5
+ },
+ {
+  "specialty": "Genetics",
+  "clue": "A rare genetic condition associated with neurodevelopmental delay, varying degrees of intellectual disability, language delay, behavioural challenges, low muscle tone, a high risk of seizures and sleep difficulties.",
+  "scrambled": "EOUGH-SASSJNNE DONEYRSM",
+  "answer": "Houge-Janssens syndrome",
+  "sortOrder": 6
+ },
+ {
+  "specialty": "Genetics",
+  "clue": "A multisystem disorder that primarily affects the eyes, nervous system, and kidneys.",
+  "scrambled": "BEUOOARERNRCCLLOE NSEYOMDR",
+  "answer": "Oculocerebrorenal syndrome",
+  "sortOrder": 7
+ },
+ {
+  "specialty": "Genetics",
+  "clue": "A condition characterized by craniosynostosis, facial dysmorphism, abnormalities of the hands and feet.",
+  "scrambled": "EHASTER-TZHONEC DENOMRSY",
+  "answer": "Saethre-Chotzen syndrome",
+  "sortOrder": 8
+ },
+ {
+  "specialty": "Genetics",
+  "clue": "A rare blood disorder characterized by abnormal levels of oxidized hemoglobin that has impaired oxygen-carrying capacity and can cause bluish, purple or gray discoloration of the skin, lips, or nail beds.",
+  "scrambled": "BMMGAEOLOITMENEIH",
+  "answer": "Methemoglobinemia",
+  "sortOrder": 9
+ },
+ {
+  "specialty": "Hepatobiliary",
+  "clue": "A genetic disorder characterized by a sudden onset of symptoms which can be severe and life-threatening. Symptoms include nerve pain, abdominal pain, vomiting, neuropathy, and seizures.",
+  "scrambled": "TAUEC CTHEIAP OYIRRAPPH",
+  "answer": "Acute hepatic porphyria",
+  "sortOrder": 10
+ },
+ {
+  "specialty": "Hepatobiliary",
+  "clue": "A condition characterized by hepatic vein obstruction causing liver congestion, dysfunction, acute, subacute, or chronic liver disease, and rarely liver failure.",
+  "scrambled": "UDBD-ICIRAH EMSODNRY",
+  "answer": "Budd-Chiari syndrome",
+  "sortOrder": 11
+ },
+ {
+  "specialty": "Hepatobiliary",
+  "clue": "A rare liver disease caused by scarring, inflammation and narrowing of bile ducts, leading to liver damage and loss of its ability to filter blood and support digestion.",
+  "scrambled": "RIARYPM ENSCRGISOL ILAHGICSTON",
+  "answer": "Primary sclerosing cholangitis",
+  "sortOrder": 12
+ },
+ {
+  "specialty": "Hepatobiliary",
+  "clue": "A group of chronic cholestasis disorders comprising a variety of genetic diseases that begin in infancy and usually progress to cirrhosis.",
+  "scrambled": "SVESERIGPRO IALLFMAI NATICAIEPHTR EILOHSCTSSA",
+  "answer": "Progressive familial intrahepatic cholestasis",
+  "sortOrder": 13
+ },
+ {
+  "specialty": "Hepatobiliary",
+  "clue": "A progressive, genetic disorder characterized by excessive accumulation of copper in body tissues. If untreated, the excess copper can damage the liver or brain and is associated with an increased risk of liver cancer.",
+  "scrambled": "ISNOLW AEISEDS",
+  "answer": "Wilson disease",
+  "sortOrder": 14
+ },
+ {
+  "specialty": "Neurology",
+  "clue": "A rare, rapidly progressive, and fatal degenerative brain disorder causing rapid cognitive decline and memory loss.",
+  "scrambled": "URDCFTEZLET-ABOKJ SAEEDSI",
+  "answer": "Creutzfeldt-Jakob disease",
+  "sortOrder": 15
+ },
+ {
+  "specialty": "Neurology",
+  "clue": "A rare, inherited condition that causes harmful fat buildup in tissues, leading to tissue and organ damage and dysfunction.",
+  "scrambled": "HGARCEU ASSEEDI",
+  "answer": "Gaucher disease",
+  "sortOrder": 16
+ },
+ {
+  "specialty": "Neurology",
+  "clue": "A rare, inherited disorder that damages the myelin sheath, causing progressive loss of function of the brain and nervous system.",
+  "scrambled": "HCTAMTORCIMAE PLKSTYURDYOHEO",
+  "answer": "Metachromatic leukodystrophy",
+  "sortOrder": 17
+ },
+ {
+  "specialty": "Neurology",
+  "clue": "Inflammation of a section of the spinal cord that causes nerve damage, resulting in pain, muscle weakness, sensory problems, or bladder and bowel dysfunction.",
+  "scrambled": "EICRVACL RAEVSSTREN YLEIISMT",
+  "answer": "Cervical transverse myelitis",
+  "sortOrder": 18
+ },
+ {
+  "specialty": "Neurology",
+  "clue": "Change in a gene that causes muscle weakness that worsens with physical activity. The muscles of the head and neck, arms and legs, and other muscles involved in movement may be affected.",
+  "scrambled": "GLITACENNO CMIESHTNAY SRSMODENY",
+  "answer": "Congenital myasthenic syndromes",
+  "sortOrder": 19
+ }
+]

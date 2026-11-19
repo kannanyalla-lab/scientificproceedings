@@ -1,0 +1,102 @@
+type: Review Article
+pages: 52-55
+title: Pediatric cardiology in transition: emerging technologies and future directions
+authors: Mirza Mohammad Kamran (a)
+aff a: Department of Pediatric Cardiology, KIMSHEALTH Al Shifa Hospital, Perinthalmanna, Kerala, India.
+corr: Mirza Mohammad Kamran, Department of Pediatric Cardiology, KIMSHEALTH Al Shifa Hospital, Perinthalmanna, Kerala, India.
+email: kamran16paeds@gmail.com
+keywords: pediatric cardiology; artificial intelligence; digital health; remote monitoring; precision medicine; congenital heart disease
+--- abstract
+Pediatric cardiology is rapidly evolving with advances in artificial intelligence, digital health, remote monitoring, advanced imaging, and precision medicine. These technologies may enable earlier detection, improved risk stratification, individualized care, and greater access to specialist expertise. However, pediatric-specific validation, data quality, privacy, equity, and clinical integration remain important challenges. The future of pediatric cardiology is likely to be increasingly connected, personalized, and predictive, with technology complementing clinical expertise.
+--- body
+## Introduction
+Pediatric cardiology is undergoing a remarkable transformation. Advances in fetal diagnosis, neonatal intensive care, cardiac surgery, and catheter-based interventions have dramatically improved survival of children with congenital and acquired heart disease. The specialty is now moving beyond conventional diagnosis and treatment toward artificial intelligence (AI), digital health, remote monitoring, precision medicine, advanced imaging, and minimally invasive interventions.
+
+The pediatric cardiologist of the future may work not only with echocardiographic images and catheter-based procedures, but also with AI-driven risk predictions, remotely collected physiological data, and wearable biosensors capable of detecting deterioration before a child becomes critically ill.
+
+## New guidelines, changing landscape
+One of the most important recent developments is the 2025 International Society for Heart and Lung Transplantation (ISHLT) Guideline for the Management of Pediatric Heart Failure, the first major update to the 2014 guidance. The guideline incorporates advances in the pharmacological treatment, evaluation, and management of children with heart failure, while emphasizing the distinctive nature of pediatric disease.
+
+Pediatric heart failure is not simply a smaller version of adult heart failure. Children may develop heart failure because of cardiomyopathy, congenital heart disease, acquired myocardial disease, or complex postoperative physiology. Contemporary care increasingly incorporates biomarkers, advanced echocardiography including strain imaging, cardiac magnetic resonance imaging, optimization of medical therapy, early recognition of advanced heart failure, mechanical circulatory support, and transplantation.^1^
+
+## AI in pediatric cardiology
+Artificial intelligence (AI) is rapidly emerging as an important complementary tool in pediatric cardiology. Machine learning and deep learning can analyze complex and heterogeneous data and support diagnosis, risk stratification, imaging interpretation, and clinical decision-making.^2^
+
+AI's greatest potential may lie not in replacing the pediatric cardiologist, but in augmenting clinical reasoning and improving efficiency. Current applications span electrocardiography, echocardiography, cardiac magnetic resonance imaging, computed tomography, congenital heart disease imaging, and procedural planning.^3^
+
+### AI and the ECG
+The electrocardiogram may evolve from a conventional tool for assessing rhythm and conduction into a richer source of diagnostic and prognostic information. AI-enabled ECG analysis is being explored for the detection of arrhythmias, ventricular dysfunction, cardiomyopathy, channelopathies, and congenital heart disease.^4^
+
+Of particular interest is AI's potential to identify subtle electrical patterns that may not be readily apparent on conventional visual interpretation.
+
+However, widespread implementation requires rigorous pediatric validation. Age-dependent ECG patterns, relatively small pediatric datasets, and the anatomical heterogeneity of congenital heart disease present unique challenges for the development and generalizability of AI models.^4^
+
+### AI in echocardiography and cardiac imaging
+Echocardiography remains the cornerstone of pediatric cardiology but is highly dependent on operator skill and experience. AI can assist with image acquisition, view classification, image quality assessment, image segmentation, automated measurements, and detection of congenital heart disease patterns.^5^
+
+AI may also improve standardization and reproducibility in cardiac MRI and CT analysis. In remote or resource-limited settings, AI-guided image acquisition combined with telecardiology could expand access to specialist expertise. However, robust validation and integration into clinical workflows will be essential before such approaches can be widely adopted.^5^
+
+## Wearable biosensors and remote monitoring
+Wearable biosensors enable continual, noninvasive monitoring of physiological and behavioral parameters in patients with pediatric or congenital heart disease. Devices using photoplethysmography, ECG, and accelerometry can potentially monitor heart rate, rhythm, oxygen saturation, and physical activity.
+
+Potential applications include smartwatches, ECG patches, activity monitors, and smartphone-linked physiological sensors. These technologies may be particularly relevant to cardiomyopathy, arrhythmias, Fontan circulation, single ventricle physiology, repaired Tetralogy of Fallot, and pediatric heart failure. However, important challenges remain, including hardware design, data accuracy, integration into clinical workflows, privacy, and the need for pediatric-specific validation.^6^
+
+### Remote monitoring of pediatric heart failure
+One of the potentially important applications of digital health is the remote monitoring of children with heart failure. Parameters that may be collected include heart rate, rhythm, activity, sleep, respiratory patterns, oxygen saturation, and body weight. The clinical value of such monitoring may lie less in individual measurements than in longitudinal trends.
+
+For example, a sustained reduction in physical activity accompanied by a rising resting heart rate, increasing respiratory rate, or weight gain could potentially signal early clinical deterioration. AI-based systems may eventually integrate these data and generate risk alerts for the pediatric cardiology team to review. At present, this remains an evolving field and should complement - not replace - clinical assessment and established pediatric heart failure management pathways.^7^
+
+### Home monitoring in congenital heart disease
+Home monitoring is already an established component of care in selected high-risk congenital heart disease populations. The American Heart Association scientific statement on interstage home monitoring highlights surveillance strategies for infants with shunt-dependent single ventricle heart disease and emphasizes the importance of early detection of physiologic changes that may precede decompensation.^7^
+
+Digital platforms, telehealth, and automated alerts may further strengthen these monitoring programs. Remote monitoring can therefore serve as a model for future care of other medically complex pediatric cardiac populations.
+
+### Implantable and chest-based monitoring
+In adult cardiovascular medicine, implanted and device-based systems can provide information on rhythm, activity, respiratory patterns, and selected hemodynamic surrogates. Translation of these technologies to children is promising but remains constrained by body size, growth, complex congenital anatomy, device availability, and limited pediatric evidence.
+
+Future pediatric-specific sensors may allow increasingly continuous monitoring. However, such technologies require careful validation in children, and their potential applications should be distinguished from established standards of care.^8^
+
+## 3D printing, virtual reality and simulation
+Patient-specific 3D models are increasingly used to improve understanding of complex congenital anatomy. In pediatric congenital heart disease, 3D printing has applications in education, communication, preoperative planning, simulation, and selected surgical or interventional procedures.^9^
+
+Future applications may increasingly combine CT or MRI data with 3D reconstruction, virtual or mixed reality, and procedure-specific simulations. These technologies may be particularly valuable in patients with complex ventricular relationships, great artery anatomy, pulmonary arteries, aortic arch abnormalities, and complex intracardiac defects.
+
+## The changing face of pediatric interventional cardiology
+Interventional pediatric cardiology continues to evolve toward lower-profile devices, neonatal interventions, hybrid procedures, and advanced imaging guidance. Greater emphasis is being placed on precise procedural planning and reducing radiation and contrast exposure.
+
+Future catheterization laboratories may increasingly integrate echocardiography, fluoroscopy, CT, MRI, and 3D reconstruction. These advances are particularly relevant in children because of their greater sensitivity to ionizing radiation and longer expected lifetime after exposure. AI-based tools and patient-specific computational modeling may further support procedural planning and risk assessment.
+
+## Precision medicine and genetics
+The movement towards personalized cardiovascular care is another important trend in pediatric cardiology. Similar clinical phenotypes may have different genetic, metabolic, or acquired causes and may therefore require different approaches to surveillance and treatment.
+
+The future model may integrate clinical phenotype, genetics, advanced imaging, biomarkers, and AI-based risk prediction. AI is increasingly being explored as a tool to integrate these complex and heterogeneous datasets, although explainability, generalizability, and equity remain important concerns.
+
+## Tele-pediatric cardiology
+Digital technology may be particularly important in regions with limited access to pediatric cardiologists. A future care pathway could connect a primary healthcare center with digital ECG acquisition, AI-supported analysis, echocardiography, secure image transfer, and remote pediatric cardiology review.
+
+Tele-pediatric cardiology may support screening, echocardiography review, postoperative follow-up, heart failure surveillance, and arrhythmia care. AI should be viewed as a tool to extend specialist expertise rather than replace clinical judgment.
+
+## The future
+### Predictive rather than reactive cardiology
+Traditional care is often reactive: the child becomes unwell → presents to hospital → diagnosis → treatment.
+
+The emerging model is different: continuous monitoring → detection of abnormal trends → risk prediction → early intervention → prevention of deterioration.
+
+This transition toward more predictive and preventive pediatric cardiology is one of the most important potential benefits of digital health. However, technology must complement clinical judgment. Children have unique physiology and rapidly changing developmental needs, and technologies developed for adults cannot simply be transferred to pediatric practice without validation.
+
+## Conclusion
+Pediatric cardiology is entering a new era. AI, wearable biosensors, remote monitoring, advanced imaging, 3D modeling, precision medicine, and minimally invasive interventions are increasingly shaping the diagnosis and management of children with heart disease.
+
+AI-enabled ECG analysis may improve diagnostic detection and risk stratification. AI-assisted echocardiography may support image acquisition and standardization. Wearable technologies and remote monitoring may allow earlier recognition of physiological deterioration. Meanwhile, interventional cardiology continues to advance through smaller devices, hybrid approaches, and increasingly sophisticated imaging.
+
+The future of pediatric cardiology is likely to be more connected, more personalized, and more predictive. Yet technology will remain a means rather than an end. The pediatric cardiologist will continue to play the central role in interpreting complex data, integrating it with clinical context, and making decisions that recognize not only the disease but also the child behind the data.
+--- refs
+1. Irving C, Azeka E, Adorisio R, Blume ED, Bogle C, Chubb H, et al. The International Society for Heart and Lung Transplantation guidelines for the management of pediatric heart failure (update from 2014). J Heart Lung Transplant. 2025;44(10). doi:10.1016/j.healun.2025.06.003
+2. Leone DM, O'Sullivan D, Bravo-Jaimes K. Artificial intelligence in pediatric electrocardiography: a comprehensive review. Children (Basel). 2025;12(1):25. doi:10.3390/children12010025
+3. Magnanini BA, Raso I, Santacesaria S, Dell'Acqua G, Mannarino S. Artificial intelligence in pediatric cardiology: present applications and future directions. Pediatr Rep. 2026;18(3):70. doi:10.3390/pediatric18030070
+4. The electrocardiogram and artificial intelligence: turning signals into insights in pediatric and congenital heart disease. Curr Opin Cardiol. 2026. PMID: 42590997.
+5. Wang A, Doan TT, Reddy C, Jone PN. Artificial intelligence in fetal and pediatric echocardiography. Children (Basel). 2025;12(1):14. doi:10.3390/children12010014
+6. Tandon A, Avari Silva JN, Bhatt AB, Drummond CK, Hill AC, Paluch AE, et al. Advancing wearable biosensors for congenital heart disease: patient and clinician perspectives: a science advisory from the American Heart Association. Circulation. 2024;149. doi:10.1161/CIR.0000000000001225
+7. Rudd NA, Ghanayem NS, Hill GD, Lambert LM, Mussatto KA, Nieves JA, et al. Interstage home monitoring for infants with single ventricle heart disease: education and management: a scientific statement from the American Heart Association. J Am Heart Assoc. 2020;9(16). doi:10.1161/JAHA.119.014548
+8. Sun Z. Patient-specific 3D-printed models in pediatric congenital heart disease. Children (Basel). 2023;10(2):319. doi:10.3390/children10020319. PMID: 36832448.
+9. Illmann CF, Ghadiry-Tavi R, Hosking M, Harris KC. Utility of 3D printed cardiac models in congenital heart disease: a scoping review. Heart. 2020;106(21):1631-1637. doi:10.1136/heartjnl-2020-316943
