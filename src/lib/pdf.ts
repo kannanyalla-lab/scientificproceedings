@@ -3,11 +3,15 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 import { PDFDocument } from "pdf-lib";
 import type { Issue } from "@/db/schema";
+import { UPLOAD_DIR } from "@/lib/storage";
 
 const PUBLIC_DIR = path.join(process.cwd(), "public");
 
-/** Reads a page image: from /public when it's there, otherwise over HTTP (e.g. on Vercel). */
+/** Reads a page image: from /public or the uploads folder when it's there, otherwise over HTTP (e.g. on Vercel). */
 async function loadImage(src: string, origin: string): Promise<Uint8Array> {
+  if (src.startsWith("/files/") && !src.includes("..")) {
+    try { return new Uint8Array(await readFile(path.join(UPLOAD_DIR, src.slice(7)))); } catch { /* fall through */ }
+  }
   if (src.startsWith("/") && !src.includes("..")) {
     try { return new Uint8Array(await readFile(path.join(PUBLIC_DIR, src))); } catch { /* fall through */ }
   }

@@ -8,6 +8,7 @@ export default async function Dashboard() {
       <div className="admin-head">
         <h1>Dashboard</h1>
         <div style={{ display: "flex", gap: 8 }}>
+          <Link className="btn btn--ghost" href="/admin/import">Import edition from PDF</Link>
           <Link className="btn btn--ghost" href="/admin/issues/new">New issue</Link>
           <Link className="btn btn--primary" href="/admin/articles/new">New article</Link>
         </div>

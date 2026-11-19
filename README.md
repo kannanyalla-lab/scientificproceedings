@@ -100,7 +100,16 @@ References link out to the DOI, PubMed and Google Scholar. Article pages also of
 
 Earlier versions of the site loaded the March 2026 issue as a sample; it is removed automatically the next time the site starts.
 
-### Adding the next edition
+### Adding the next edition from its PDF (recommended)
+
+In the editor panel open **Import edition (PDF)**, upload the edition PDF and wait 5 to 15 minutes. The site reads the whole edition with Claude (cover, masthead, highlights, every article with authors, affiliations, abstract, full text, figures, tables, references and page numbers, Pharma Updates, Radiology and Dermatology Spotters, Scramble), shows it for review, and publishes it with one click. The original PDF becomes the "Download full issue" file and its pages become the page-by-page reader.
+
+- Needs a Claude API key (console.anthropic.com), pasted once on the Import page or set as `ANTHROPIC_API_KEY`. One edition costs roughly US$3 to $8 with the default model (`KSP_IMPORT_MODEL`, default `claude-opus-5-5`).
+- Works with digital PDFs (text is read from the text layer, figures are cut out where the PDF places them) and scanned PDFs (read from the page images).
+- The work runs in a separate process (`scripts/import-worker.ts`), with its files in `.data/imports/<id>` and images in `uploads/editions/<id>`. Each finished step is cached, so **Try again** after a failure doesn't repeat (or pay for) finished work. It needs a host that can run a background Node process with a persistent disk, so it does not run on Vercel.
+- Publishing an edition whose volume and issue are already on the site replaces that issue.
+
+### Adding the next edition by hand
 
 1. Create `content/<yyyy-mm>/` with `issue.json`, one `aNN-*.txt` file per article (see the September files for the format), and `pharma.json`, `spotters.json`, `scramble.json`.
 2. Put page scans in `public/issues/<yyyy-mm>/pages/` and figures in `public/issues/<yyyy-mm>/fig/`.

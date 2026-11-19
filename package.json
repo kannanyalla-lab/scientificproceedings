@@ -14,13 +14,16 @@
     "setup": "tsx scripts/setup.ts"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^1.10.0",
     "@electric-sql/pglite": "^0.5.16",
     "@electric-sql/pglite-socket": "^0.2.19",
+    "@napi-rs/canvas": "^0.1.100",
     "@vercel/blob": "^2.9.0",
     "drizzle-orm": "^0.45.4",
     "jose": "^6.2.18",
     "next": "16.4.6",
     "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^5.7.284",
     "postgres": "^4.1.1",
     "react": "19.3.0",
     "react-dom": "19.3.0",

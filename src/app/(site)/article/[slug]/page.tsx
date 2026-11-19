@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { inline } from "@/lib/importer/markup";
 import { notFound } from "next/navigation";
 import { after } from "next/server";
 import Authors from "@/components/Authors";
@@ -111,7 +112,7 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
             {a.abstract.length ? a.abstract.map((s, i) => (
               <div key={i}>
                 {s.heading ? <h3>{s.heading}</h3> : null}
-                <p>{s.text}</p>
+                <p dangerouslySetInnerHTML={{ __html: inline(s.text) }} />
               </div>
             )) : <p className="muted">The abstract for this article is available in the {pdf ? <a href={pdf} target="_blank" rel="noopener">PDF</a> : "PDF"}.</p>}
             {a.keywords.length ? (

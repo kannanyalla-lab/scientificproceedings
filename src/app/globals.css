@@ -437,3 +437,15 @@ sup { font-size: .68em; color: var(--muted); margin-left: 1px; }
 .spot__options { display: grid; gap: 8px; margin: 10px 0 4px; }
 .spot__option { text-align: left; padding: 10px 14px; border: 1px solid var(--line); border-radius: 8px; background: #fff; cursor: pointer; font: inherit; color: var(--ink); }
 .spot__option:hover, .spot__option:focus-visible { border-color: var(--brand); background: var(--brand-tint); }
+
+/* Edition import (editor panel) */
+.progress { height: 10px; background: #eef1f4; border-radius: 999px; overflow: hidden; }
+.progress span { display: block; height: 100%; background: var(--brand); transition: width .4s ease; }
+.steps { margin: 0; padding-left: 20px; display: grid; gap: 6px; }
+.import-pages { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; }
+.import-pages img { height: 150px; width: auto; border: 1px solid var(--line); border-radius: 4px; }
+.import-art { border: 1px solid var(--line); border-radius: 8px; margin-bottom: 10px; background: #fff; }
+.import-art > summary { padding: 12px 16px; cursor: pointer; display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; }
+.import-art > summary strong { flex: 1 1 320px; }
+.import-art__body { padding: 4px 20px 20px; border-top: 1px solid var(--line); }
+.import-art__body .article-body img { max-width: 100%; }
