@@ -1,6 +1,13 @@
 import Link from "next/link";
 import { JOURNAL, PUBLISHER } from "@/lib/site";
 
+const CORPORATE_LOGOS = [
+  { src: "/brand/aster.png", alt: "Aster DM Healthcare", w: 548 },
+  { src: "/brand/care.png", alt: "CARE Hospitals", w: 194 },
+  { src: "/brand/evercare.png", alt: "Evercare", w: 281 },
+  { src: "/brand/kimshealth.png", alt: "KIMSHEALTH", w: 229 },
+];
+
 export default function Footer() {
   const year = new Date().getFullYear();
   return (
@@ -36,6 +43,16 @@ export default function Footer() {
             </ul>
           </div>
         </div>
+      </div>
+      <div className="footer-logos">
+        <div className="container footer-logos__row">
+          {CORPORATE_LOGOS.map((l) => (
+            // eslint-disable-next-line @next/next/no-img-element
+            <img key={l.src} src={l.src} alt={l.alt} width={l.w} height={160} loading="lazy" />
+          ))}
+        </div>
+      </div>
+      <div className="container">
         <div className="footer-bottom">
           <span>Copyright © {year} KIMSHEALTH. All rights reserved.</span>
           <Link href="/admin">Editor login</Link>
