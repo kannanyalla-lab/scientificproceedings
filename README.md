@@ -44,6 +44,8 @@ npm run dev
 
 Then open http://localhost:3000. The first run creates `.env`, starts a built-in database (stored in `.data/db`) and loads the March 2026 issue as sample content. The editor panel is at http://localhost:3000/admin (sign in with `editor@example.com` / `admin123`; change these in `.env`).
 
+**Windows shortcut:** download [`Website.bat`](Website.bat), put it on your Desktop and double-click it. The first time, it downloads the site to `%USERPROFILE%\KIMSHEALTH-Proceedings`, installs it and opens it in your browser. After that it starts the site, or (option 2) updates it to the latest version from GitHub first. Your settings, database and uploads are kept when updating.
+
 To use your own Postgres instead, set `DATABASE_URL` in `.env`. `npm run dev` then creates the tables and sample content there.
 
 ## Environment variables
