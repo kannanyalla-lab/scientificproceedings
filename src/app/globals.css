@@ -430,3 +430,10 @@ sup { font-size: .68em; color: var(--muted); margin-left: 1px; }
 @media print {
   .card, .side-box, .tile, .issue-group, .issue-tile, .spot, .scramble-card, .board, .stat, .abstract, .panel, .cover-card, .article-body figure { animation: none; border: 1px solid #ccc !important; background: #fff !important; }
 }
+
+/* Spotter quizzes: groups and multiple-choice options */
+.spot-group { margin-top: 28px; }
+.spot-group > h2 { border-bottom: 2px solid var(--brand); display: inline-block; padding-bottom: 4px; }
+.spot__options { display: grid; gap: 8px; margin: 10px 0 4px; }
+.spot__option { text-align: left; padding: 10px 14px; border: 1px solid var(--line); border-radius: 8px; background: #fff; cursor: pointer; font: inherit; color: var(--ink); }
+.spot__option:hover, .spot__option:focus-visible { border-color: var(--brand); background: var(--brand-tint); }

@@ -31,7 +31,7 @@ export default function Footer() {
             <h4>Learn</h4>
             <ul>
               <li><Link href="/pharma-updates">Pharma Updates</Link></li>
-              <li><Link href="/radiology-spotters">Radiology Spotters</Link></li>
+              <li><Link href="/radiology-spotters">Spotters</Link></li>
               <li><Link href="/scramble">Scramble</Link></li>
             </ul>
           </div>

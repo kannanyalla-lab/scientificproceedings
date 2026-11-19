@@ -1,0 +1,147 @@
+type: Original Research
+pages: 18-22
+title: Pre-operative echocardiography before non-cardiac surgery: A clinical audit of referral appropriateness and diagnostic yield
+authors: Suhail Sanaulla (a,c); Harikrishnan VS (b); Shazia Zahra Shaheed (c); Hashir Kareem (b)
+aff a: Department of Homecare, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Cardiology, KIMSHEALTH Trivandrum, Kerala, India.
+aff c: Department of Internal Medicine, KIMSHEALTH Trivandrum, Kerala, India.
+corr: Harikrishnan V S, Department of Cardiology, KIMSHEALTH Trivandrum, Kerala, India.
+email: harikrishnan.vs@protonmail.com
+keywords: preoperative echocardiography; non-cardiac surgery; perioperative cardiac evaluation; referral appropriateness; diagnostic yield; resource utilization; pre-anesthesia checkup; ACC/AHA guidelines; clinical audit
+--- abstract Background
+Pre-operative echocardiography (ECHO) is increasingly requested before non-cardiac surgeries, despite evidence questioning its routine use in low-risk patients. This audit evaluated the appropriateness of ECHO referrals, echocardiographic findings, and their clinical impact on perioperative management in a tertiary care center.
+--- abstract Methods
+This retrospective cross-sectional clinical audit included 150 consecutive patients who underwent pre-operative ECHO at KIMSHEALTH between January 2022 and July 2024. Referral pathways, ECHO findings, patient demographics, comorbidities, and post-operative complications were analyzed and assessed for adherence to the American College of Cardiology/American Heart Association/American Society of Echocardiography and British Society of Echocardiography guidelines.
+--- abstract Results
+Most ECHO referrals (86.6%) originated directly from primary consultants, bypassing the pre-anesthesia check-up (PAC) pathway. Nearly two-thirds of referrals (64.7%) lacked a specific cardiac indication. More than half of the examinations (55.3%) were normal, and only 6.7% resulted in further evaluation or management. Post-operative complications occurred in 4% of patients, and 83.3% had completely normal pre-operative ECHO findings.
+--- abstract Conclusion
+Routine pre-operative ECHO in young, low-risk patients offers limited clinical yield and poor predictive value for post-operative adverse events. PAC-driven referral pathways and institutionally endorsed evidence-based protocols may help refine resource utilization.
+--- body
+## Introduction
+Echocardiography is a versatile, non-invasive cardiac imaging modality that has become indispensable for the evaluation of structural and functional heart disease. In the pre-operative setting, it provides detailed information about ventricular function, valvular pathology, and hemodynamic status — data that can meaningfully influence anesthetic and surgical planning in selected high-risk patients.
+
+However, current evidence and international guidelines recommend pre-operative ECHO only for specific clinical indications, including known or suspected structural heart disease, unexplained dyspnea or reduced exercise tolerance, significant arrhythmias, or chronic kidney disease with hemodynamic sequelae. In clinically low-risk patients proceeding to elective non-cardiac surgery, routine pre-operative ECHO increases costs, contributes to administrative burden, and may cause unnecessary delays without enhancing patient safety.^1,2^ At KIMSHEALTH, Thiruvananthapuram, a tertiary referral center with a busy surgical program encompassing multiple specialties, echocardiograms are frequently requested as part of pre-operative evaluation. Anecdotal observations from the Department of Cardiology suggested that a significant proportion of these referrals, mainly among younger patients without established cardiovascular comorbidities, may not conform to evidence-based recommendations for investigation.
+
+This audit was undertaken to evaluate the appropriateness of pre-operative ECHO referrals, describe the profile of patients undergoing the investigation, determine the clinical yield of ECHO findings, and assess their impact on perioperative management and post-operative outcomes. The main objective was to establish a structured, guideline-concordant referral pathway that optimizes resource utilization without jeopardizing patient safety.
+
+## Standards and benchmarks
+The audit standards were derived from the following evidence-based recommendations:
+
+- American College of Cardiology/American Heart Association/American Society of Echocardiography (ACC/AHA/ASE) Guideline Update for the Clinical Application of Echocardiography (2003), which outlines appropriate indications for echocardiography in perioperative cardiovascular evaluation.^1^
+- British Society of Echocardiography (BSE) guidelines on the appropriate use of transthoracic echocardiography in adult patients.^2^
+- UpToDate recommendations on pre-operative cardiac evaluation for non-cardiac surgery.^3^
+
+These standards consistently recommend that pre-operative echocardiography should be reserved for patients in whom cardiac pathology is known, suspected on clinical grounds, or likely to alter perioperative management. They do not support the routine use of ECHO as a general fitness-for-surgery investigation tool.
+
+## Methodology
+### Study design
+This retrospective cross-sectional clinical audit was conducted at the Department of Cardiology, KIMSHEALTH, Thiruvananthapuram, over a 30-month period from January 2022 to July 2024.
+
+### Study population
+A total of 150 patients who underwent pre-operative echocardiography before non-cardiac surgery or invasive procedures were included. Patients were identified through electronic medical records, anesthesia logs, and cardiology reporting systems.
+
+### Inclusion criteria
+- Patients undergoing non-cardiac surgery or invasive procedures under general anesthesia or monitored sedation.
+- A pre-operative ECHO performed within 90 days of the planned procedure.
+- Referral for ECHO based on ECG abnormality, suspected cardiac disease, or surgical fitness assessment.
+
+### Exclusion criteria
+- Patients undergoing cardiac surgeries.
+- Patients with previously diagnosed structural heart disease undergoing routine ECHO surveillance.
+- Patients with incomplete medical records.
+
+### Data collection
+The following parameters were systematically extracted from electronic medical records and analyzed:
+
+- Patient characteristics: age, sex, body mass index (where available).
+- Comorbidities: hypertension, diabetes mellitus, chronic kidney disease, ischemic heart disease, arrhythmias.
+- Referral source: Referrals originating through the pre-anesthesia checkup (PAC) process versus those initiated directly by the primary admitting team.
+- Indication for ECHO: Documented cardiac indications (including abnormal ECG, suspected structural heart disease, arrhythmia) versus requests made solely for pre-operative fitness assessment without a specific cardiac indication.
+- Echocardiographic findings: normal findings, minor abnormalities with no management change, and clinically significant abnormalities warranting additional cardiac assessment or management.
+- Perioperative outcomes: Post-operative complications occurring within 30 days of the procedure, including atrial fibrillation (AF), supraventricular tachycardia (SVT), ventricular premature complexes (VPC), or other cardiac events.
+
+## Results
+### Patient demographics and referral characteristics
+The audit cohort comprised 150 patients. Table 1 summarises the key demographic and referral characteristics.
+
+!table
+Parameter | Value / Finding | Proportion / Note
+Total patients | 150 | Cross-sectional, Jan 2022-Jul 2024
+Age group 20-40 years | 42 patients | 28% of cohort; low clinical yield
+Patients without documented comorbidities | 66 patients | 39/66 still received ECHO (59%)
+PAC-initiated referrals | 20 patients | 13.4% of referrals
+Direct referrals by the primary team | 130 patients | 86.6% of referrals
+Referrals for surgical fitness (no cardiac indication) | 97 patients | 64.7% of total referrals
+caption: Table 1. Patient demographics and referral profile (n=150)
+!end
+
+The most striking finding in referral pattern analysis was that only 13.4% of all ECHO requests were generated through the Pre-Anaesthesia Checkup — the pathway recommended by guidelines as the appropriate screening filter before cardiac investigations are requested. The overwhelming majority (86.6%) were initiated directly by the primary admitting surgical or medical team, often without a documented cardiac indication.
+
+The 20-40 age group accounted for 28% of all referrals. Among patients without any documented comorbidity (n=66), 39 still underwent echocardiography — a group in whom international guidelines generally do not recommend the investigation.
+
+### Echocardiographic findings
+Table 2 presents the distribution of echocardiographic findings across the cohort.
+
+!table
+ECHO finding category | Patients (n) | Clinical significance
+Normal ECHO | 83 (55.3%) | No change in perioperative management
+Mildly abnormal; not requiring further intervention | 57 (38%) | Monitored; no change in perioperative management
+Clinically significant abnormalities requiring additional evaluation or management | 10 (6.7%) | Further evaluation or modification of perioperative management
+caption: Table 2. Distribution of pre-operative ECHO findings (n=150)
+!end
+
+Over half of all echocardiograms were entirely normal (55.3%). A further 38% demonstrated minor abnormalities — including mild diastolic dysfunction, trivial valvular regurgitation, or borderline wall motion — that did not result in any change to the planned anesthetic or surgical approach. Only 6.7% of studies identified findings that materially altered perioperative management, such as moderate-to-severe valvular disease, significant ventricular dysfunction, or previously unrecognized structural abnormality warranting further evaluation or optimization prior to surgery.
+
+This clinical yield of approximately 1 in 15 referrals significantly changes management and underscores the low value of non-selective, routine pre-operative ECHO in this population.
+
+### Post-operative complications
+Post-operative cardiac complications were recorded in 6 patients (4% of the cohort). The nature and pre-operative ECHO status of these cases are summarised in Table 3.
+
+!table
+Complication | Patients (n=6) | Pre-op ECHO Status
+Atrial fibrillation (AF) | 2 | Normal ECHO in 2/2 cases
+Supraventricular tachycardia (SVT) | 2 | Normal ECHO in 2/2 cases
+Ventricular premature complexes (VPC) | 2 | Normal ECHO in 1/2; mild abnormality in 1/2
+Total complications | 6 (4%) | 83.3% had normal pre-op ECHO
+caption: Table 3. Post-operative complications and pre-operative ECHO findings (n=6)
+!end
+
+83.3% of patients who developed post-operative complications had a completely normal pre-operative echocardiogram, while the remaining patient had a minor abnormality that had not prompted any change in management.
+
+## Discussion
+This audit documents a significant pattern of guideline-discordant ECHO referral practice at KIMSHEALTH during the study period. Nearly two-thirds of echocardiograms were requested for surgical fitness assessment in the absence of a specific cardiac indication — a practice not supported by any major international guideline. The audit also demonstrates that current referral pathways overwhelmingly bypass the Pre-Anaesthesia Checkup, the clinical checkpoint most appropriately positioned to triage the need for cardiac investigations before non-cardiac surgery.
+
+The demographic data reveal a particularly concerning sub-pattern: a substantial proportion of ECHOs were performed in patients aged 20-40 years, the very age group in whom the pre-test probability of clinically relevant cardiac disease is lowest, and in whom incidental minor findings are most likely to generate diagnostic uncertainty, further unnecessary investigation, or even procedural delays without benefit.
+
+Consistent with other published clinical audits in similar healthcare settings, our data confirm that the large majority of pre-operative echocardiograms in unselected patients yield either normal or clinically inconsequential findings.^4^ More importantly, in this cohort, post-operative complications occurred predominantly in patients with a normal pre-operative ECHO. Although the small number of events (n=6) precludes any firm conclusion about predictive performance, this observation is consistent with the broader literature suggesting that routine ECHO should not be relied upon as a general safety net for perioperative risk in unselected patients. This limited predictive value does not appear to reflect a flaw in echocardiographic interpretation, but rather a mismatch between the investigation's intended purpose — detection of structural and functional cardiac disease — and its frequent use here as a general screening tool for surgical fitness.
+
+The ACC/AHA/ASE guidelines have long distinguished between appropriate and inappropriate uses of echocardiography in the pre-operative context. The indications that most consistently offer clinical value include: evaluation of unexplained dyspnoea prior to major surgery, assessment of known or suspected valvular disease, characterization of ventricular function in patients with heart failure symptoms, and risk stratification in patients with high-risk comorbidities such as CKD stage 4-5 or pulmonary hypertension.^1^ These are also the precise scenarios in which PAC-based triage is most likely to identify appropriate candidates.
+
+From a resource utilization and healthcare efficiency standpoint, the finding that 97 referrals (64.7%) lacked a documented cardiac indication carries meaningful cost and capacity implications over the 30-month audit period — particularly in the context of the increasing demand on echocardiography laboratory capacity for genuinely indicated studies such as valvular surveillance, cardiomyopathy monitoring, and hemodynamic assessment in patients with complex cardiovascular disease.
+
+## Recommendations
+Based on the findings of this audit, the following evidence-based recommendations are proposed for adoption by the Departments of Cardiology, Anaesthesiology, and Surgery at KIMSHEALTH:
+
+1. Mandate PAC-based referral pathways for all pre-operative ECHO requests: The Pre-Anaesthesia Checkup should serve as the exclusive primary gateway for ECHO referrals before non-cardiac surgery. Direct referrals from surgical teams without PAC clearance should be formally discouraged and systematically tracked.
+2. Restrict routine ECHO in patients aged 20-40 without cardiac comorbidities: In the absence of an abnormal ECG, documented cardiovascular disease, unexplained dyspnoea, or significant risk factors, ECHO should not be reflexively ordered in this age group.
+3. Develop and implement an institutional pre-operative ECHO indication protocol: A standardized, locally endorsed algorithmic checklist — aligned with ACC/AHA/BSE guidance — should be developed, approved by the relevant departmental heads, and integrated into the hospital information system's pre-operative order sets.
+4. Establish a prospective data registry for pre-operative ECHO referrals: Tracking of referral source, indication, finding, and surgical outcome should be systematized to enable a robust longitudinal audit.
+
+## Action plan and follow-up
+Following the presentation of this audit to the Cardiology and Anaesthesiology departments, the following actions have been initiated:
+
+- Multidisciplinary meeting held with anaesthesiologists and senior surgical residents to discuss the findings and the rationale for revised referral pathways.
+- Draft institutional protocol for pre-operative ECHO referrals submitted to the Department of Cardiology for review.
+- Communication circulated to surgical departments outlining the evidence base for appropriate ECHO utilization.
+
+## Conclusion
+This clinical audit provides robust institutional evidence that preoperative echocardiography is widely overutilized in the context of non-cardiac surgery at KIMSHEALTH. The majority of requests are generated outside recommended referral pathways, in patient populations where clinical yield is low, and management impact is minimal. Critically, the practice does not meaningfully predict post-operative cardiac complications.
+
+A structural change in referral culture — anchored in PAC-based triage and an evidence-based institutional protocol — is both necessary and achievable. Implementing such changes will improve resource allocation, reduce unnecessary delays in surgical scheduling for low-risk patients, and redirect echocardiography laboratory capacity towards high-value, clinically indicated studies.
+
+This audit reaffirms that clinical utility, not reflexive habit, should drive pre-operative investigation — and that evidence-based resource stewardship is an integral component of quality cardiology practice.
+--- refs
+1. Cheitlin MD, Armstrong WF, Aurigemma GP, Beller GA, Bierman FZ, Davis JL, et al. ACC/AHA/ASE 2003 guideline update for the clinical application of echocardiography: summary article. J Am Coll Cardiol. 2003;42(5):954-970.
+2. British Society of Echocardiography. A minimum dataset for a standard transthoracic echocardiogram [Internet]. London: British Society of Echocardiography; [cited 2024 Jul]. Available from: https://www.bsecho.org/
+3. Fleisher LA. Preoperative cardiac evaluation before noncardiac surgery [Internet]. In: UpToDate. Waltham (MA): UpToDate Inc.; 2024 [cited 2024 Jul]. Available from: https://www.uptodate.com
+4. Eagle KA, Berger PB, Calkins H, Chaitman BR, Ewy GA, Fleischmann KE, et al. ACC/AHA guideline update for perioperative cardiovascular evaluation for noncardiac surgery. Circulation. 2002;105(10):1257-1267.

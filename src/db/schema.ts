@@ -23,6 +23,7 @@ export const issues = pgTable("issues", {
   coverUrl: text("cover_url"),
   description: text("description"),
   spotterContributors: text("spotter_contributors"),
+  dermSpotterContributors: text("derm_spotter_contributors"),
   scrambleContributors: text("scramble_contributors"),
   pharmaContributors: text("pharma_contributors"),
   /** Short lines shown on the cover under "Issue Highlights". */
@@ -85,6 +86,10 @@ export const spotterCases = pgTable("spotter_cases", {
   id: bigserial("id", { mode: "number" }).primaryKey(),
   issueId: bigint("issue_id", { mode: "number" }).references(() => issues.id, { onDelete: "cascade" }),
   caseNo: integer("case_no").notNull().default(1),
+  /** Spotter quiz the case belongs to: "Radiology" or "Dermatology". */
+  category: text("category").notNull().default("Radiology"),
+  /** Multiple-choice options, when the printed quiz offers them. */
+  options: jsonb("options").$type<string[]>().notNull().default([]),
   imageUrl: text("image_url"),
   question: text("question").notNull(),
   diagnosis: text("diagnosis").notNull(),

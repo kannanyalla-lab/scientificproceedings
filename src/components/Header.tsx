@@ -9,7 +9,7 @@ const NAV = [
   { href: "/issue/current", label: "Current Issue", match: "/issue" },
   { href: "/issues", label: "Archive" },
   { href: "/pharma-updates", label: "Pharma Updates" },
-  { href: "/radiology-spotters", label: "Radiology Spotters" },
+  { href: "/radiology-spotters", label: "Spotters" },
   { href: "/scramble", label: "Scramble" },
   { href: "/about", label: "About" },
 ];

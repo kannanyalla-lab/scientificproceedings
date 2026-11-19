@@ -81,7 +81,10 @@ export async function getPharmaUpdate(slug: string) {
 }
 
 export async function getSpotters(issueId: number) {
-  return db.select().from(spotterCases).where(eq(spotterCases.issueId, issueId)).orderBy(asc(spotterCases.caseNo), asc(spotterCases.id));
+  const rows = await db.select().from(spotterCases).where(eq(spotterCases.issueId, issueId)).orderBy(asc(spotterCases.caseNo), asc(spotterCases.id));
+  // Radiology first, then other quizzes (e.g. Dermatology), as in print.
+  const rank = (c: string) => (c === "Radiology" ? 0 : 1);
+  return rows.sort((a, b) => rank(a.category) - rank(b.category) || a.category.localeCompare(b.category) || a.caseNo - b.caseNo);
 }
 
 export async function getScramble(issueId: number) {

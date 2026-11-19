@@ -3,12 +3,13 @@ import type { DB } from "./client";
 import { articles, issues, pharmaUpdates, scrambleItems, spotterCases } from "./schema";
 import { slugify } from "../lib/format";
 import september2026 from "./content/2026-09.json";
+import june2026 from "./content/2026-06.json";
 
 /**
  * Issues bundled with the site, built from content/<yyyy-mm>/ by
  * `python3 scripts/build-issue.py <yyyy-mm>`. Add new editions here.
  */
-export const bundledIssues = [september2026];
+export const bundledIssues = [september2026, june2026];
 
 /** Sample issues from earlier versions of the site that are removed on setup. */
 const retiredSlugs = ["march-2026-volume-12-issue-01"];

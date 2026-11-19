@@ -1,0 +1,101 @@
+type: Original Research
+pages: 23-26
+title: Knowledge and attitudes towards antimicrobial resistance among nursing students: A cross-sectional study
+authors: Susan Jose (a); Jessy Thomas (a); Akhila K Nair (a)
+aff a: KIMS College of Nursing, Trivandrum, Kerala, India.
+corr: Susan Jose, KIMS College of Nursing, Trivandrum, Kerala, India.
+email: susan.jose@kimsglobal.com
+keywords: antimicrobial resistance; antibiotic resistance; nursing students; knowledge; attitude; antimicrobial stewardship; cross-sectional studies
+--- abstract
+Antimicrobial resistance occurs when microorganisms such as bacteria, viruses, fungi, and parasites evolve and become resistant to the drugs designed to kill them. This study aimed to assess the knowledge and attitudes of nursing students regarding antimicrobial resistance (AMR) and its effects, determine the correlation between knowledge and attitude, and examine the association between knowledge and selected socio-personal variables (age, gender, religion, area of residence, and previous knowledge regarding AMR). A descriptive cross-sectional study was conducted among 100 nursing students at KIMS College of Nursing, Thiruvananthapuram, selected using non-probability purposive sampling. Data were collected after obtaining informed consent using a structured questionnaire comprising 25 multiple-choice questions to assess knowledge and a 5-point Likert scale to assess attitudes towards AMR. The results showed that 13% of the participants had poor knowledge, 32% had average knowledge, and 55% had good knowledge regarding antimicrobial resistance. All participants demonstrated a positive attitude towards AMR and its prevention. A statistically significant association was observed between knowledge and previous knowledge regarding AMR. However, no significant association was found between knowledge and other socio-personal variables such as gender, religion, and area of residence.
+--- body
+## Introduction
+Antimicrobial resistance (AMR) has emerged as one of the major public health challenges of the 21st century, threatening the effective prevention and treatment of an increasing range of infections caused by bacteria, parasites, viruses, and fungi that have become resistant to commonly used antimicrobial agents.^1^
+
+The development and spread of antimicrobial resistance in hospitals are driven by several factors, including poor infection control practices and selective pressure resulting from the overuse and misuse of antibiotics. Compliance with hand hygiene practices is often limited by the time required for handwashing and the adverse effects of repeated washing on the skin. Alcohol-based hand rubs help overcome these barriers and improve skin condition, while universal glove use can compensate for gaps in hand hygiene adherence. Among various interventions, antimicrobial stewardship programs that restrict inappropriate antibiotic use are among the most effective measures for controlling antimicrobial resistance.^2^
+
+A study evaluating global trends in antibiotic consumption between 2016 and 2023, with projections up to 2030, demonstrated that total antibiotic consumption in 67 countries increased by 16.3%, from 29.5 to 34.3 billion defined daily doses (DDDs). During the same period, the antibiotic consumption rate increased by 10.6%, from 13.7 to 15.2 DDDs per 1,000 inhabitants per day.^3^
+
+The first global surveillance report on antibiotic resistance, published by the World Health Organization (WHO), highlighted the clinical impact of resistant bacteria across WHO regions. Five of the six WHO regions reported resistance rates exceeding 50% to third-generation cephalosporins and fluoroquinolones in *Escherichia coli*, as well as methicillin resistance in *Staphylococcus aureus* in hospital settings.^4^ Several resistant bacterial pathogens have increasingly been implicated in human infections, particularly *Enterococcus* species, *Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa,* and *Enterobacter* species.^5^
+
+A community-based cross-sectional study conducted among primary school children and prisoners in Jimma Town, Southwest Ethiopia, reported an overall methicillin-resistant *Staphylococcus aureus* (MRSA) prevalence of 23.1% (39/169). The prevalence was 18.8% (27/144) among school children and 48% (12/25) among prisoners. Both *S. aureus* and MRSA isolates exhibited multidrug resistance to two to ten antibiotics.^6^
+
+According to the World Health Organization, antimicrobial resistance poses a substantial burden in India. In 2019, approximately 4.95 million deaths were associated with drug-resistant infections, of which 1.27 million deaths were directly attributable to AMR. One in five of these deaths occurred among children under five years of age. The major pathogens contributing to the burden in India include *Escherichia coli, Klebsiella pneumoniae, Staphylococcus aureus, Acinetobacter baumannii,* and *Mycobacterium tuberculosis*.^7^ In Kerala, antimicrobial resistance is an emerging public health concern. A report published by the Kerala Antimicrobial Resistance Surveillance Network (KARS-NET) and highlighted in The Hindu in 2023 indicated an increasing trend in carbapenem and other broad-spectrum antibiotic resistance. Notably, approximately 12% of *Escherichia coli* isolates and 43% of *Klebsiella* species isolated from blood samples exhibited carbapenem resistance, underscoring the growing challenge posed by AMR in the state.^8^
+
+Considering the increasing burden of antimicrobial resistance and the crucial role of healthcare professionals in combating its spread, it is essential that nursing students possess adequate knowledge and a positive attitude towards antimicrobial resistance and its prevention. Therefore, the present study was undertaken to assess the knowledge and attitudes regarding antimicrobial resistance and its effects among nursing students.
+
+## Need and significance of the study
+An institution-based cross-sectional study conducted among 323 undergraduate paramedical students at the University of Gondar, Ethiopia, to assess knowledge and attitudes towards antimicrobial resistance reported that nearly 96% of participants perceived antimicrobial resistance as a serious yet preventable public health problem. However, approximately 55% of participants had limited knowledge of antimicrobial resistance. The study also demonstrated statistically significant differences in knowledge and attitudes across different departments (p < 0.0001 and p = 0.002, respectively). Furthermore, participants with good knowledge had significantly higher attitude scores than those with moderate or poor knowledge (p < 0.0001).^9^
+
+A multi-center cross-sectional study involving 848 nursing students, nurses, and other healthcare professionals in Italy assessed knowledge, attitudes, and practices (KAP) regarding antimicrobial resistance. Among the participants, 61.9% (n = 525) were students and 37.3% (n = 316) were registered nurses. Most participants were female (71.6%), with a median age of 22 years, and 82.3% resided in southern Italy. Nearly 40% (39.6%) of participants demonstrated low KAP scores, highlighting substantial gaps in awareness and practices regarding to antimicrobial resistance.^10^
+
+Similarly, a descriptive cross-sectional study conducted among 578 nursing students aged 18 years and above at the University of Santiago de Compostela, Spain, evaluated knowledge and awareness regarding antibiotic use, resistance, and stewardship. The study found that the students had a low level of knowledge about antibiotics, particularly concerning antibiotic resistance, with a mean score of 4.1 (95% CI: 3.4-4.8).^11^
+
+These findings indicate that inadequate knowledge regarding antimicrobial resistance remains a global concern among nursing and allied health students. Since nurses play a pivotal role in the rational use of antibiotics, infection prevention, and patient education, strengthening their understanding of antimicrobial resistance is essential. Incorporating comprehensive training on antimicrobial stewardship, appropriate antibiotic use, and infection control measures into the nursing curriculum could contribute significantly to combating antimicrobial resistance. Therefore, the present study was undertaken to assess the knowledge and attitudes regarding antimicrobial resistance and its effects among nursing students, with the aim of identifying knowledge gaps and promoting appropriate educational interventions.
+
+## Objectives of the study
+1. Assess the knowledge regarding antimicrobial resistance and its effects among nursing students in a selected nursing college in Thiruvananthapuram.
+2. Assess the attitudes towards antimicrobial resistance and its effects among nursing students in a selected nursing college, Thiruvananthapuram.
+3. To determine the correlation between knowledge and attitude on antimicrobial resistance and its effects among nursing students in a selected nursing college in Thiruvananthapuram.
+4. To determine the association between knowledge regarding antimicrobial resistance and selected socio-personal variables such as age, gender, religion, area of residence, and previous knowledge regarding antimicrobial resistance.
+
+## Operational definition
+**Knowledge:** refers to nursing students' awareness and understanding of antimicrobial resistance and its effects, as assessed using a structured questionnaire.
+
+**Attitude:** refers to the tendency to respond positively or negatively towards antimicrobial resistance and its effects, as measured using a five-point Likert scale.
+
+**Antimicrobial resistance:** refers to the ability of microorganisms to develop resistance to antimicrobial agents that are intended to eliminate them.
+
+**Nursing students:** refers to 4^th^ semester BSc Nursing students of KIMS College of Nursing, Thiruvananthapuram.
+
+## Assumptions
+- Nursing students may have limited knowledge and varying attitudes regarding antimicrobial resistance and its effects.
+- Educational interventions and awareness sessions may improve knowledge and attitudes towards antimicrobial resistance and its prevention.
+
+## Hypothesis
+**H1:** There is a significant correlation between knowledge and attitudes regarding antimicrobial resistance and its effects among nursing students.
+
+**H2:** There is a significant association between knowledge regarding antimicrobial resistance and selected socio-personal variables such as age, gender, religion, area of residence, and previous knowledge regarding antimicrobial resistance.
+
+## Data collection process
+After obtaining ethical clearance from the Institutional Review Board and formal permission from the management of KIMS College of Nursing, Thiruvananthapuram, data were collected between June 19, 2025, and June 26, 2025. Participants who fulfilled the inclusion criteria were selected using a purposive sampling technique. The purpose of the study was explained to the participants using a participant information sheet, and written informed consent was obtained. A structured questionnaire was administered to assess knowledge and attitudes regarding antimicrobial resistance among the nursing students. Following completion of data collection, an awareness session on antimicrobial resistance was conducted, and an information booklet on antimicrobial resistance and its effects was provided to the participants.
+
+## Findings of the study
+### Section 1: Distribution of the sample according to socio-personal variables
+- Among the study participants, 77% were female, and 23% were male.
+- More than half of the participants (52%) were Hindus.
+- Most participants (75%) resided in urban areas, while 25% belonged to rural areas.
+
+Sixty-two percent of participants had prior knowledge of antimicrobial resistance, whereas 38% had none.
+
+### Section 2: Distribution of the sample according to knowledge
+- Among the study participants, 55% had good knowledge regarding antimicrobial resistance and its effects, 32% had average knowledge, and 13% had poor knowledge.
+
+### Section 3: Distribution of the sample according to attitude
+- All study participants (100%) demonstrated a positive attitude towards antimicrobial resistance and its prevention.
+
+### Section 4: Correlation between knowledge and attitude on antimicrobial resistance and its effects among nursing students
+The correlation coefficient revealed a weak positive correlation between knowledge and attitude scores (r = 0.170). However, the association was not statistically significant (p = 0.091), indicating that no significant relationship existed between knowledge and attitudes regarding antimicrobial resistance and its effects among nursing students.
+
+### Section 5: Association between knowledge on antimicrobial resistance and its effects with selected socio-personal variables
+- No statistically significant association was observed between knowledge scores and gender (χ^2^ = 2.750, p = 0.253), religion (χ^2^ = 1.915, p = 0.751), or area of residence (χ^2^ = 2.332, p = 0.312).
+- However, a statistically significant association was observed between knowledge scores and previous knowledge regarding antimicrobial resistance (χ^2^ = 70.366, p < 0.001).
+
+## Discussion
+The present study was conducted to assess the knowledge and attitudes regarding antimicrobial resistance and its effects among nursing students. A descriptive research design was adopted, and participants were selected using a non-probability purposive sampling technique. The study was conducted among 100 fourth-semester BSc Nursing students at KIMS College of Nursing, Thiruvananthapuram, who met the inclusion criteria.
+
+## Conclusion
+- The present study assessed the knowledge and attitudes regarding antimicrobial resistance and its effects among nursing students. The findings indicate that most participants possessed good knowledge and demonstrated positive attitudes towards antimicrobial resistance and its prevention. Previous knowledge of antimicrobial resistance was significantly associated with knowledge scores, whereas no significant association was found with gender, religion, or area of residence. Furthermore, although a weak positive correlation was observed between knowledge and attitude scores, the relationship was not statistically significant.
+- The findings highlight the importance of continued educational initiatives and awareness programs to strengthen knowledge regarding antimicrobial resistance and promote the rational use of antimicrobial agents among future healthcare professionals.
+--- refs
+1. Prestinaci F, Pezzotti P, Pantosti A. Antimicrobial resistance: a global multifaceted phenomenon. Pathog Glob Health. 2015;109(7):309-318.
+2. Weinstein RA. Controlling antimicrobial resistance in hospitals: infection control and use of antibiotics. Emerg Infect Dis. 2001;7(2):188-192.
+3. Klein EY, Impalli I, Poleon S, Denoel P, Cipriano M, Van Boeckel TP, et al. Global trends in antibiotic consumption during 2016-2023 and future projections through 2030. Proc Natl Acad Sci U S A. 2024;121(49).
+4. World Health Organization. Antimicrobial resistance global report on surveillance. Geneva: World Health Organization; 2014.
+5. World Health Organization. Global priority list of antibiotic-resistant bacteria to guide research, discovery, and development of new antibiotics. Geneva: World Health Organization; 2017.
+6. Kejela T, Bacha K. Prevalence and antibiotic susceptibility pattern of methicillin-resistant Staphylococcus aureus among primary school children and prisoners in Jimma Town, Southwest Ethiopia. Ann Clin Microbiol Antimicrob. 2013;12:11.
+7. World Health Organization. The burden of antimicrobial resistance (AMR) in India. 2019.
+8. Kerala Antimicrobial Resistance Surveillance Network. KARS-NET report. Thiruvananthapuram: Kerala Antimicrobial Resistance Surveillance Network; 2023.
+9. Seid MA, Hussen MS. Knowledge and attitude towards antimicrobial resistance among final year undergraduate paramedical students at University of Gondar, Ethiopia. BMC Infect Dis. 2018;18(1):312.
+10. De Vita E, Segala FV, Frallonardo L, Civile G, De Scisciolo D, Novara R, et al. Knowledge, attitudes, and practices toward antimicrobial resistance among young Italian nurses and students: a multicenter cross-sectional study. Ann Glob Health. 2024;90(1):46.
+11. Rábano-Blanco A, Domínguez-Martís EM, Mosteiro-Miguéns DG, Freire-Garabal M, Novío S. Nursing students' knowledge and awareness of antibiotic use, resistance and stewardship: a descriptive cross-sectional study. Antibiotics (Basel). 2019;8(4):203.

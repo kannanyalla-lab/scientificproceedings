@@ -31,7 +31,7 @@ export default async function PharmaDetail({ params }: PageProps<"/pharma-update
             // eslint-disable-next-line @next/next/no-img-element
             <img src={p.imageUrl} alt="" style={{ borderRadius: 10, marginBottom: 24 }} />
           ) : null}
-          {p.bodyHtml ? <div dangerouslySetInnerHTML={{ __html: p.bodyHtml }} /> : <p>{p.summary}</p>}
+          {p.bodyHtml ? <div className="article-body" dangerouslySetInnerHTML={{ __html: p.bodyHtml }} /> : <p>{p.summary}</p>}
           {p.refs.length ? (
             <section>
               <h2 id="references">References</h2>

@@ -1,0 +1,86 @@
+type: Case Report
+pages: 66-68
+title: Spontaneous tumor lysis syndrome unveiling T-cell acute lymphoblastic leukemia
+authors: Aamir Shamas (a); Jariya Haneefa (a); Lekshmon K S (b); Bijay P. Nair (b); Praveen Muralidharan (c); Deepak V (d); Wilson A P (a)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Clinical Hematology and Bone Marrow Transplant, KIMSHEALTH, Trivandrum, Kerala, India.
+aff c: Department of Nephrology, KIMSHEALTH, Trivandrum, Kerala, India.
+aff d: Department of Critical Care Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Aamir Shamas, Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: docaamiruk@gmail.com
+keywords: spontaneous tumor lysis syndrome; T-cell acute lymphoblastic leukemia; acute kidney injury; hyperuricemia; oncologic emergency
+--- abstract Background
+Spontaneous tumor lysis syndrome (STLS) is a rare but life-threatening oncologic emergency that occurs in the absence of cytotoxic therapy. It results from rapid tumor cell turnover and lysis, leading to severe metabolic derangements and acute kidney injury (AKI). Early recognition, particularly before the diagnosis of an underlying malignancy, remains challenging.
+--- abstract Case presentation
+A 36-year-old male with no known comorbidities presented with myalgia, vomiting, and low-grade fever. Initial evaluation revealed pancytopenia, elevated serum creatinine (4.3 mg/dL), and hyperuricemia (15.9 mg/dL). Infectious, autoimmune, and hematologic investigations were inconclusive, and bone marrow examination showed trilineage hematopoiesis without evidence of malignancy. Following transient clinical improvement, he was discharged. But subsequently, he presented with generalized lymphadenopathy and leukocytosis with atypical lymphocytes. During evaluation, he developed spontaneous tumor lysis syndrome characterized by severe hyperuricemia (41 mg/dL), hyperphosphatemia (16 mg/dL), hyperkalemia (7.9 mmol/L), and worsening renal dysfunction. Aggressive management with intravenous hydration, rasburicase, febuxostat, electrolyte correction, isotonic bicarbonate infusion, and sustained low-efficiency dialysis (SLED) was initiated. Subsequent flow cytometry and lymph node biopsy confirmed T-cell acute lymphoblastic leukemia/lymphoma (T-ALL). The patient was started on a modified Berlin–Frankfurt–Münster (BFM) protocol.
+--- abstract Conclusion
+STLS may be the initial manifestation of aggressive hematologic malignancies such as T-cell acute lymphoblastic leukemia/lymphoma (T-ALL). Early recognition and prompt metabolic management are critical to prevent multiorgan failure and improve outcomes.
+--- body
+## Introduction
+Tumor lysis syndrome (TLS) is an oncologic emergency resulting from rapid lysis of malignant cells, leading to the release of intracellular metabolites into the circulation.^1^ This causes hyperuricemia, hyperkalemia, hyperphosphatemia, and secondary hypocalcemia, which may precipitate acute kidney injury, cardiac arrhythmias, seizures, and death.^2^
+
+TLS typically occurs following the initiation of chemotherapy in patients with high-grade hematologic malignancies. However, spontaneous tumor lysis syndrome (STLS), which occurs in the absence of cytotoxic therapy, is rare and diagnostically challenging.^3^ It has been described in aggressive malignancies, particularly lymphomas and leukemias, including T-cell acute lymphoblastic leukemia (T-ALL).^4^
+
+Recognition of STLS prior to a definitive cancer diagnosis is difficult but essential, as delayed management can lead to catastrophic outcomes. We report a case of STLS presenting as the initial manifestation of T-ALL, complicated by severe metabolic derangements and acute kidney injury requiring sustained low-efficiency dialysis.
+
+## Case presentation
+A 36-year-old male with no known comorbidities presented with myalgia, vomiting, and low-grade fever. There was no history of weight loss, bleeding manifestations, or prior malignancy.
+
+### Initial evaluation
+Laboratory investigations showed:
+
+- Pancytopenia
+- Serum creatinine: 4.3 mg/dL
+- Serum uric acid: 15.9 mg/dL
+
+Infectious and autoimmune workup was negative. Peripheral smear did not reveal blasts. Bone marrow examination demonstrated trilineage hematopoiesis without evidence of malignancy.
+
+The patient was managed conservatively with intravenous fluids and supportive therapy. Renal parameters improved transiently, and he was discharged.
+
+### Clinical progression
+The patient subsequently returned with:
+
+- Generalized lymphadenopathy
+- Leukocytosis with atypical lymphocytes
+- Progressive renal dysfunction
+
+During evaluation, he developed severe metabolic abnormalities characterized by:
+
+- Serum uric acid: 41 mg/dL
+- Serum phosphate: 16 mg/dL
+- Serum potassium: 7.9 mmol/L
+
+These findings were consistent with the Cairo–Bishop criteria for spontaneous tumor lysis syndrome.^1^
+
+### Management and diagnosis
+The patient was managed with:
+
+- Aggressive intravenous hydration
+- Rasburicase
+- Febuxostat
+- Electrolyte correction
+- Isotonic bicarbonate infusion
+- Sustained low-efficiency dialysis (SLED)
+
+Following stabilization, further evaluation revealed diffuse positivity for CD3 and strong positivity for terminal deoxynucleotidyl transferase (TdT) on flow cytometry.
+
+Lymph node biopsy confirmed T-cell acute lymphoblastic leukemia/lymphoma (T-ALL).
+
+He was initiated on a modified Berlin–Frankfurt–Münster (BFM) chemotherapy protocol, which he tolerated well.
+
+## Discussion
+TLS results from rapid tumor cell destruction and the release of intracellular contents, particularly nucleic acids which are metabolized into uric acid.^1^ Hyperuricemia and calcium-phosphate precipitation contribute to renal injury.^2^
+
+Spontaneous tumor lysis syndrome (STLS) is uncommon and is thought to result from high tumor proliferation and spontaneous cell turnover exceeding the vascular supply, leading to tumor necrosis.^3^ It is most associated with aggressive hematologic malignancies.^4^
+
+This case highlights several important clinical insights. Severe hyperuricemia in the presence of acute kidney injury should raise suspicion for an underlying occult malignancy. A normal initial bone marrow examination does not exclude evolving leukemia, and STLS may precede the diagnosis of hematologic malignancy. Early administration of rasburicase is crucial in preventing renal failure and other life-threatening complications.^2^
+
+Recognition of STLS requires a high index of suspicion, particularly when metabolic abnormalities are disproportionate to clinical presentation.
+
+## Conclusion
+Spontaneous tumor lysis syndrome can be the initial manifestation of aggressive hematologic malignancies such as T-ALL. Early identification and aggressive metabolic management are essential to prevent life-threatening complications. Clinicians should maintain vigilance when encountering unexplained metabolic derangements, even in the absence of confirmed malignancy.
+--- refs
+1. Cairo MS, Bishop M. Tumour lysis syndrome: new therapeutic strategies and classification. Br J Haematol. 2004;127(1):3–11.
+2. Howard SC, Jones DP, Pui CH. The tumor lysis syndrome. N Engl J Med. 2011;364(19):1844–1854.
+3. Coiffier B, Altman A, Pui CH, Younes A, Cairo MS. Guidelines for the management of pediatric and adult tumor lysis syndrome: an evidence-based review. J Clin Oncol. 2008;26(16):2767–78.
+4. Vodopivec DM, Rubio JE, Fornoni A, Majid O. Spontaneous tumor lysis syndrome in T-cell acute lymphoblastic leukemia. Am J Med Sci. 2012;343(3):275–277.

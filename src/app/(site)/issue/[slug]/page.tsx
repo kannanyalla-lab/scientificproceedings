@@ -17,6 +17,7 @@ export default async function IssuePage({ params }: PageProps<"/issue/[slug]">) 
   const [articles, current, pharma, spotters, scramble] = await Promise.all([
     getIssueArticles(issue.id), getCurrentIssue(), listPharmaUpdates(issue.id), getSpotters(issue.id), getScramble(issue.id),
   ]);
+  const spotterGroups = [...new Set(spotters.map((s) => s.category))].map((cat) => [cat, spotters.filter((s) => s.category === cat).length] as const);
   const toc = [...articles].sort((x, y) => (parseInt(x.pageStart || "", 10) || 999) - (parseInt(y.pageStart || "", 10) || 999) || x.sortOrder - y.sortOrder);
   const hasPages = issue.pageImages.length > 0;
 
@@ -55,7 +56,7 @@ export default async function IssuePage({ params }: PageProps<"/issue/[slug]">) 
             <nav className="issue-aside__nav" aria-label="Sections in this issue">
               <a href="#contents"><span>Articles</span><span className="muted">{articles.length}</span></a>
               {pharma.length ? <a href="#pharma"><span>Pharma Updates</span><span className="muted">{pharma.length}</span></a> : null}
-              {spotters.length ? <a href="#spotters"><span>Radiology Spotters</span><span className="muted">{spotters.length}</span></a> : null}
+              {spotterGroups.map(([cat, n]) => <a key={cat} href={`#spotters-${cat.toLowerCase()}`}><span>{cat} Spotters</span><span className="muted">{n}</span></a>)}
               {scramble.length ? <a href="#scramble"><span>Scramble</span><span className="muted">{scramble.length}</span></a> : null}
               {issue.editorialBoard.length ? <Link href={`/about#board`}><span>Editorial board</span></Link> : null}
             </nav>
@@ -107,13 +108,13 @@ export default async function IssuePage({ params }: PageProps<"/issue/[slug]">) 
             </section>
           ) : null}
 
-          {spotters.length ? (
-            <section id="spotters" className="issue-group">
-              <h2>Radiology Spotters</h2>
-              {issue.spotterContributors ? <p className="muted">{issue.spotterContributors}</p> : null}
-              <p>A case-based quiz on diagnostic imaging: {spotters.length} cases. <Link href={`/radiology-spotters?issue=${issue.slug}`}>Take the quiz →</Link></p>
+          {spotterGroups.map(([cat, n]) => (
+            <section key={cat} id={`spotters-${cat.toLowerCase()}`} className="issue-group">
+              <h2>{cat} Spotters</h2>
+              {(cat === "Radiology" ? issue.spotterContributors : issue.dermSpotterContributors) ? <p className="muted">{cat === "Radiology" ? issue.spotterContributors : issue.dermSpotterContributors}</p> : null}
+              <p>{cat === "Radiology" ? "A case-based quiz on diagnostic imaging" : `A case-based quiz featuring clinical images in ${cat}`}: {n} cases. <Link href={`/radiology-spotters?issue=${issue.slug}#${cat.toLowerCase()}`}>Take the quiz →</Link></p>
             </section>
-          ) : null}
+          ))}
 
           {scramble.length ? (
             <section id="scramble" className="issue-group">

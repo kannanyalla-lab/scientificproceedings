@@ -98,8 +98,8 @@ export default async function HomePage() {
             </Link>
             <Link className="tile" href="/radiology-spotters">
               <span className="tile__icon" aria-hidden>◐</span>
-              <h3>Radiology Spotters</h3>
-              <p>A case-based quiz on diagnostic imaging. Study the image, make your call, then reveal the answer.</p>
+              <h3>Spotters</h3>
+              <p>Case-based image quizzes in radiology and dermatology. Study the image, make your call, then reveal the answer.</p>
               <span className="tile__go">Take the quiz →</span>
             </Link>
             <Link className="tile" href="/scramble">

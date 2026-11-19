@@ -1,0 +1,94 @@
+type: Case Series
+pages: 46-49
+title: An underrecognized toxicological emergency: Ciguatera fish poisoning presenting to a South Indian emergency department
+authors: Ansu Maria Job (a); Sayda Thabasam Sabu (a); Shalini S (a); Jennifer Kabeer (a)
+aff a: Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Ansu Maria Job, Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: ansumariajob96@gmail.com
+keywords: ciguatera fish poisoning; ciguatoxin; marine toxins; food poisoning; emergency department; neurotoxicity; bradycardia; hypotension; reef fish
+--- abstract Background
+Ciguatera fish poisoning (CFP) is an under-recognized marine toxin-mediated illness caused by the ingestion of reef fish contaminated with ciguatoxins. Although CFP is well documented in the Caribbean and Pacific regions, reports from India are scarce. Emergency physicians should be aware of its diverse gastrointestinal, neurological, and cardiovascular manifestations, particularly in coastal populations. This case series highlights the clinical spectrum and challenges associated with CFP in the Indian setting.
+--- abstract Methods
+This case series includes five patients who presented to the emergency department of KIMSHEALTH, Trivandrum, Kerala, with suspected ciguatera poisoning three to 24 hours after consuming fish, over a one-month period.
+--- abstract Results
+All patients presented with acute gastrointestinal symptoms, including vomiting, loose stools, and abdominal discomfort, within three to 24 hours of consuming reef fish. Three patients developed characteristic neurological symptoms, including paraesthesia and ataxia.
+
+Two patients exhibited cardiovascular features such as bradycardia and hypotension, requiring medical intervention. All cases were diagnosed clinically and supportive management resulted in favourable outcomes.
+--- abstract Conclusion
+Ciguatera fish poisoning should be considered in patients presenting with acute gastroenteritis and neurocardiological symptoms following reef fish consumption. Early recognition in the emergency department (ED) can prevent unnecessary investigations and ensure appropriate supportive care.
+--- body
+## Introduction
+Ciguatera fish poisoning (CFP) is the most common non-bacterial seafood-borne illness worldwide and results from consumption of reef fish contaminated with heat-stable ciguatoxins produced by dinoflagellates such as *Gambierdiscus toxicus*. The toxin progressively bioaccumulates along the marine food chain and reaches its highest concentration in large predatory reef fish.
+
+CFP is frequently underdiagnosed in emergency settings because of its protean clinical manifestations. Patients typically present with a combination of gastrointestinal, neurological, and cardiovascular symptoms. In India, particularly in coastal regions such as Kerala, sporadic cases occur but remain under-reported.
+
+This case series describes five patients who presented to the ED with CFP, highlighting characteristic clinical patterns and management challenges.
+
+## Methods
+This retrospective case series was conducted in the Emergency Department of KIMSHEALTH, Trivandrum, Kerala, over a one-month period from February to March 2026.
+
+Inclusion criteria:
+
+- Recent history of reef fish consumption
+- Acute onset gastrointestinal symptoms
+- Associated neurological and/or cardiovascular symptoms
+
+Data collected included patient demographics, time from symptom onset to presentation, clinical features, treatment provided, and clinical outcomes.
+
+## Case series
+### Case 1
+A 55-year-old man presented with chest tightness, dizziness, and craniofacial paresthesia 24 hours after consuming reef fish. The patient reported that family members who shared the same meal experienced similar symptoms. He also had nausea, gastric discomfort, and diarrhoea. On initial evaluation, the patient exhibited hypotension and transient bradycardia, which subsequently progressed to a nadir heart rate of 21 bpm associated with worsening chest discomfort. Management included fluid resuscitation, vasopressor support with noradrenaline, and two doses of intravenous atropine (1 mg each). Following ICU admission and stabilization, the patient's symptoms resolved within 24 hours, and he was discharged in stable condition on the fourth hospital day.
+
+### Case 2
+A 45-year-old woman presented with vomiting, loose stools, and vertigo three hours after consuming home-prepared fish. Her symptoms were subsequently complicated by bilateral upper limb paresthesia. Initial assessment at a primary healthcare facility revealed significant hypotension and bradycardia, for which she received 1 mg of atropine. Upon transfer to the Emergency Department, the patient received further fluid resuscitation and atropine before being admitted to the ICU for close hemodynamic monitoring. Her clinical course was uneventful. The patient remained asymptomatic during subsequent Holter monitoring and was discharged on the fourth hospital day.
+
+### Case 3
+A 39-year-old male presented with generalized malaise, gastric bloating, loose stools, and ataxia 12 hours after consuming reef fish. He subsequently developed vertigo and emesis. On the second day of hospitalization, the patient experienced a rapid clinical deterioration characterized by acute ascending motor weakness, obtundation, and respiratory failure culminating in cardiopulmonary arrest. Return of spontaneous circulation (ROSC) was achieved after one cycle of advanced cardiac life support (ACLS). The patient was subsequently maintained on inotropic and ventilatory support. Nerve conduction studies revealed motor polyneuropathy. The cerebrospinal fluid profile was normal. The patient was extubated on the fourth hospital day and achieved full clinical recovery by discharge on the seventh hospital day.
+
+### Case 4
+A 51-year-old male presented with vomiting, perioral paresthesia, and gait instability three to four hours after consuming seafood. He reported a similar presentation in another person who had the same meal. The patient was admitted for neurological observation. Lumbar puncture was unremarkable. However, nerve conduction studies demonstrated evidence of demyelinating polyneuropathy in the upper extremities. In the absence of progressive motor deficits or features suggestive of Guillain-Barré syndrome, targeted therapy for it was deferred. The patient's symptoms resolved spontaneously, and he was discharged on hospital day 2.
+
+### Case 5
+A 28-year-old man presented with abdominal pain, loose stools, perioral dysesthesia, and an oral burning sensation nine hours after consuming reef fish the previous evening. He later developed dizziness and ataxia. Clinical examination revealed mild bradycardia, though the patient remained hemodynamically stable without any evidence of gastrointestinal distress. Similar symptoms were reported by a co-diner, suggesting a common-source toxin exposure. The patient was managed conservatively with supportive care and had complete resolution of all neurological symptoms. He was discharged in stable condition on the third hospital day.
+
+## Results
+The case series included five patients with a mean age of 43.6 years, with a male predominance (male: female ratio 4:1). All patients presented with prominent gastrointestinal symptoms, with vomiting and diarrhoea observed in all five cases (100%). Neurological manifestations were also similar, with paresthesia reported in all patients (100%), while ataxia was noted in two patients (40%). Cardiovascular involvement was observed in two patients, both of whom developed bradycardia and hypotension. The diagnosis of ciguatera poisoning was established clinically, based on the characteristic combination of gastrointestinal, neurological, and cardiovascular features along with a suggestive history of reef fish exposure. Two patients required pharmacologic intervention for cardiovascular instability. All patients recovered with supportive management and achieved complete clinical recovery.
+
+## Discussion
+Ciguatera food poisoning is one of the most common marine toxin–related foodborne illnesses worldwide and results from ingestion of ciguatoxins that accumulate within the marine food chain. These toxins are produced by dinoflagellates of the genus *Gambierdiscus* and become concentrated in larger predatory reef fish through biomagnification.^1^
+
+The disease occurs predominantly in tropical and subtropical regions, particularly in the Caribbean, Pacific islands, and parts of the Indian Ocean, with an estimated 50,000 cases occurring annually worldwide.^2^
+
+The pathophysiology involves activation of voltage-gated sodium channels in neuronal and muscle cell membranes, resulting in persistent depolarization and increased neuronal excitability. Clinically, CFP typically follows a biphasic pattern with early gastrointestinal symptoms such as nausea, vomiting, abdominal pain, and diarrhoea appearing within six to 24 hours after ingestion of contaminated fish. These gastrointestinal manifestations are frequently followed by neurological symptoms, including paresthesia, circumoral numbness, pruritus, myalgia, and dizziness.^3^
+
+A distinctive clinical feature of CFP is paradoxical temperature perception (hot–cold reversal), in which cold stimuli are perceived as hot or painful, a symptom considered highly suggestive of the diagnosis. Cardiovascular manifestations such as bradycardia and hypotension may also occur, particularly in the acute phase of toxicity.^4^
+
+Diagnosis of CFP remains largely clinical because no widely available laboratory test exists for confirming ciguatoxin exposure in humans. A detailed exposure history, particularly recent consumption of reef fish in association with compatible gastrointestinal and neurological symptoms, is therefore essential for establishing the diagnosis. Some patients may develop prolonged neurological symptoms such as dysesthesia, paresthesia, fatigue, or pruritus that can persist for weeks to months after the initial exposure. Recurrence or worsening of symptoms following alcohol consumption, caffeine intake, or consumption of certain foods has also been reported, possibly due to toxin redistribution.^5^
+
+Management is primarily supportive and includes intravenous fluids, antiemetics, analgesia, and monitoring for cardiovascular complications. Intravenous mannitol (0.5–1 g/kg) has been proposed as a treatment for severe neurological manifestations; however, evidence for its effectiveness remains inconsistent.^6^
+
+In Thiruvananthapuram, Kerala, CFP has been reported only sporadically, suggesting that the condition is uncommon but likely under-recognized. A suspected outbreak reported from Thiruvananthapuram in 2016 involved six individuals who developed symptoms after consuming cooked red snapper (*Lutjanus bohar*) purchased from a local market. Five of the affected individuals belonged to the same family. Symptoms developed approximately six hours after ingestion, and included vomiting, diarrhoea, circumoral paraesthesia, and paraesthesia of the upper and lower limbs. One patient exhibited the characteristic paradoxical temperature reversal, while another developed sinus bradycardia. Most patients remained haemodynamically stable. Symptoms persisted for one to four days in most cases, although prolonged neurological symptoms lasting several months were reported in one individual. This outbreak highlights the likelihood that CFP may be underdiagnosed in the region because of limited awareness and lack of confirmatory toxin testing.^7^
+
+Our case series highlights the importance of obtaining a detailed dietary history in patients presenting with unexplained gastrointestinal symptoms followed by neurological and cardiological complaints. Recognition of this characteristic symptom constellation can facilitate timely diagnosis, avoid unnecessary investigations, and guide appropriate supportive management.
+
+## Limitations
+This study has several limitations.
+
+First, the small sample size limits the generalizability of our findings. Although the cases highlight important clinical patterns of ciguatoxin poisoning, the number of patients included is insufficient to draw definitive conclusions regarding the full spectrum of clinical manifestations, treatment responses, or outcomes. Larger multicenter studies are required to better characterize the epidemiology and clinical variability of the condition.
+
+Second, laboratory confirmation of ciguatoxin exposure was unavailable, and the diagnosis was primarily based on clinical features and a suggestive dietary history. Although this reflects routine clinical practice, the absence of toxin assays introduces the possibility of misclassification with other seafood-related toxic syndromes.
+
+Third, this was a single center study, which may limit the external validity of the findings. The observed clinical patterns may be influenced by regional dietary habits, locally consumed fish species, and people's healthcare-seeking behaviour, and therefore may not be fully representative of other populations.
+
+Finally, the retrospective nature of data collection may have led to incomplete documentation of certain symptoms, timelines, or exposure history. Prospective studies with standardized data collection and confirmatory toxin analysis are needed to provide stronger evidence regarding the clinical features and optimal management of CFP.
+
+## Conclusion
+Ciguatera fish poisoning, though uncommon, should be considered in patients presenting to the emergency department with acute gastrointestinal symptoms accompanied by neurological and cardiovascular manifestations following reef fish consumption. Prompt recognition and supportive care can prevent unnecessary investigations, reduce morbidity, and ensure favourable clinical outcomes.
+--- refs
+1. Friedman MA, Fleming LE, Fernandez M, Bienfang P, Schrank K, Dickey RW, et al. Ciguatera fish poisoning: treatment, prevention and management. Mar Drugs. 2008;6(3):456-479. Epub 2008 Aug 21.
+2. Lehane L, Lewis RJ. Ciguatera: recent advances but the risk remains. Int J Food Microbiol. 2000;61(2-3):91-125.
+3. Nelson LS, Howland MA, Lewin NA, Smith SW, Goldfrank LR, Hoffman RS, editors. Food poisoning. In: Goldfrank's toxicologic emergencies. 11th ed. New York: McGraw Hill Education; 2019. Chapter 39, Section: Ciguatera fish poisoning; p. 646-651.
+4. Isbister GK, Kiernan MC. Neurotoxic marine poisoning. Lancet Neurol. 2005;4(4):219-228.
+5. Pearn J. Neurology of ciguatera. J Neurol Neurosurg Psychiatry. 2001;70(1):4-8.
+6. Mullins ME, Hoffman RS. Is mannitol the treatment of choice for ciguatera fish poisoning? Clin Toxicol. 2017;55(9):947-955.
+7. Rajisha R, Kishore P, Panda SK, Ravishankar CN, Kumar KA, Ajitha KC, et al. Confirmation of ciguatoxin fish poisoning in red snapper, Lutjanus bohar (Forsskål, 1775) by mouse bioassay. Fishery Technol. 2017;54(4):287-290.

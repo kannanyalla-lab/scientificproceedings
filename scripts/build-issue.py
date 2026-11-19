@@ -87,9 +87,15 @@ def blocks_to_html(lines, figbase, figs):
                 if lines[i].startswith("caption:"):
                     cap = lines[i][8:].strip()
                 elif lines[i].strip():
-                    rows.append([c.strip() for c in lines[i].strip().strip("|").split(" | ")])
+                    raw = lines[i].strip()
+                    # cells are separated by a pipe with space (or a line end) on both sides
+                    cells = [c.strip() for c in re.split(r"(?:^|(?<=\s))\|(?=\s|$)", raw.strip("|").strip())]
+                    # a row written as " | x | y" continues the cell above it
+                    rows.append([""] + cells if raw.startswith("|") else cells)
                 i += 1
             head, body = rows[0], rows[1:]
+            # Rows may leave trailing cells empty; pad them to the header width.
+            body = [r + [""] * (len(head) - len(r)) for r in body]
             t = '<div class="table-wrap"><table><thead><tr>' + "".join(f"<th>{inline(c)}</th>" for c in head) + "</tr></thead><tbody>"
             for r in body:
                 t += "<tr>" + "".join(f"<td>{inline(c)}</td>" for c in r) + "</tr>"

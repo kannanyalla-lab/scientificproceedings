@@ -1,0 +1,87 @@
+type: Case Series
+pages: 50-53
+title: Recognizing atypical presentations of idiopathic intracranial hypertension in clinical practice
+authors: Sandhya Manorenj (a)
+aff a: Department of Neurology, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Sandhya Manorenj, Department of Neurology, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drsandhya.manorenj@kimsglobal.com
+keywords: idiopathic intracranial hypertension; atypical presentations; idiopathic intracranial hypertension without papilledema; cranial neuropathies; cerebrospinal fluid rhinorrhea; raised intracranial pressure
+image: a10-f1.jpg
+--- abstract
+Idiopathic intracranial hypertension (IIH) usually presents with headache, papilledema, and sixth nerve palsy; however, atypical manifestations may delay diagnosis. Atypical presentations in the present case series were trigeminal neuralgia, focal seizures with Todd's paresis, hypoglossal nerve palsy, intractable migraine-like headache, orthostatic intolerance, and spontaneous cerebrospinal fluid (CSF) rhinorrhea. Most patients showed improvement with medical therapy, with only two requiring surgical intervention. These findings show that atypical manifestations of IIH are not uncommon and that measuring cerebrospinal fluid opening pressure is essential for timely diagnosis.
+--- body
+## Introduction
+Idiopathic intracranial hypertension (IIH) is characterized by elevated intracranial pressure (ICP) without an identifiable structural cause. The classic clinical features include headache, papilledema, diplopia due to sixth nerve palsy, transient visual obscurations, and pulsatile tinnitus.^1^ However, atypical presentations, although recognized in the literature, remain underdiagnosed and may result in prolonged diagnostic delays.
+
+Reported atypical manifestations include IIH without papilledema (IIHWOP), unilateral or highly asymmetric papilledema, trigeminal neuralgia, facial palsy, olfactory dysfunction, auditory and vestibular symptoms, seizures, radiculopathy, and spontaneous skull base CSF leaks.^2^ Other rare presentations of IIH include pseudo-Foster Kennedy syndrome^3^ and cyclic vomiting syndrome.^4^ Such atypical presentations warrant consideration of IIH, particularly in young obese women, even in the absence of the classic signs. There are few case reports of atypical presentation of IIH from India,^3,5,6^ Saudi Arabia,^7,8^ USA^4^ and Germany.^9^
+
+## Case descriptions
+### Case 1: Trigeminal neuralgia as a manifestation of IIH
+A 45-year-old woman presented with a five-year history of chronic right-sided facial pain localized to the maxillary (V2) distribution of the trigeminal nerve. The pain was sharp, episodic, and triggered by touch, consistent with trigeminal neuralgia. Neurological examination was otherwise unremarkable and showed no papilledema. Magnetic resonance imaging (MRI) of the brain with venography revealed a partial empty sella and kinking of the optic nerves. Cerebrospinal fluid (CSF) opening pressure (OP) was 27 cm H~2~O, confirming elevated intracranial pressure. A diagnosis of atypical IIH presenting with trigeminal neuralgia was made. The patient responded well to acetazolamide therapy.
+
+### Case 2: Focal motor seizures with Todd's paresis
+A 48-year-old woman with longstanding hypertension and hypothyroidism presented with recurrent right brachial focal motor seizures, occasionally followed by Todd's paresis. The symptoms had been present for 12 months. Neuroimaging demonstrated a complete empty sella, enlarged optic nerve sheath, and a prominent Meckel's cave, suggestive of chronically elevated intracranial pressure. CSF OP measured 25 cm H~2~O. There was no papilledema. A diagnosis of IIH presenting atypically with seizures was made. The patient showed improvement on acetazolamide and topiramate therapy.
+
+### Case 3: IIH without papilledema (IIHWOP) presenting as chronic headache
+A 39-year-old woman with hypothyroidism and vitamin D deficiency presented with a 14-month history of chronic headache. Fundus examination showed no papilledema. MRI of the brain showed partial empty sella, mild tortuosity of both optic nerves, and increased perioptic CSF spaces. CSF OP was 27 cm H~2~O, supporting the diagnosis of IIHWOP. The patient demonstrated symptomatic improvement with acetazolamide therapy.
+
+### Case 4: CSF rhinorrhea revealing underlying IIH
+A 40-year-old woman developed clear watery nasal discharge immediately after a nasopharyngeal COVID-19 swab test. Beta-2 transferrin testing confirmed CSF rhinorrhea. Computed tomography (CT) cisternography showed a 1.7-mm skull base defect involving the left posterior cribriform plate. MRI revealed empty sella, increased perioptic CSF spaces, optic nerve kinking, and bilateral transverse sinus stenosis. CSF OP was markedly elevated at 34 cm H~2~O. The patient underwent surgical repair of the skull-base defect and was subsequently managed for IIH with acetazolamide.
+
+### Case 5: Hypoglossal nerve palsy with dysarthria
+A 47-year-old woman with hypertension presented with acute dysarthria and left-sided headache of seven days' duration. Examination revealed left hypoglossal (XII) nerve palsy, with deviation of the tongue to the left on protrusion and to the right at rest, consistent with lower motor neuron involvement. MRI of the brain showed complete empty sella and optic nerve sheath enlargement. CSF OP was 28 cm H~2~O. This rare example of IIH presenting with isolated hypoglossal palsy responded to acetazolamide and blood pressure control.
+
+### Case 6: Orthostatic intolerance associated with IIH
+A 24-year-old woman with hypothyroidism presented with a two-month history of intermittent brief episodes of giddiness on standing. She denied significant headache or visual symptoms. MRI revealed complete empty sella and optic nerve sheath distension. Her CSF OP was markedly elevated at 39 cm H~2~O. Despite the absence of headache, imaging and CSF findings supported the diagnosis of IIH. The patient showed improvement with acetazolamide therapy, along with advice on volume status and postural precautions.
+
+### Case 7: IIH without papilledema presenting with migraine-like headache
+A 19-year-old morbidly obese woman presented with a two-year history of migraine-like headaches without aura. She had no papilledema. MRI demonstrated complete empty sella and optic nerve sheath enlargement. CSF OP was 44 cm H~2~O, confirming significantly raised intracranial pressure. She was diagnosed with IIHWOP and treated with acetazolamide along with a structured weight-reduction therapy. Because the headache remained refractory, a lumbo-peritoneal (LP) shunt was inserted to relieve intracranial pressure.
+
+!table
+Case | Age (years) / Sex | Duration of symptoms | Atypical presentation | Comorbidities
+1 | 45 / F | 5 years | Right trigeminal neuralgia (maxillary division) | None
+2 | 48 / F | 12 months | Focal motor brachial seizures with Todd's paresis | Hypertension, hypothyroidism
+3 | 39 / F | 14 months | IIH without papilledema (IIHWOP) | Hypothyroidism, vitamin D deficiency
+4 | 40 / F | 15 days | CSF rhinorrhea following post-COVID nasal swab | None
+5 | 47 / F | 7 days | Dysarthria, left hypoglossal nerve palsy | Hypertension
+6 | 24 / F | 2 months | Orthostatic intolerance, episodic giddiness | Hypothyroidism
+7 | 19 / F | 2 years | Migraine-like headache (IIHWOP) | Morbid obesity
+caption: Table 1. Summary of demographic characteristics, duration of symptoms, atypical presentations, and comorbidities in patients with idiopathic intracranial hypertension (IIH).
+!end
+
+!table
+Case | MRI / MRV findings | Atypical features | CSF opening pressure (cm H~2~O)
+1 | Partial empty sella, optic nerve tortuosity | Trigeminal neuralgia | 27
+2 | Complete empty sella, enlarged optic nerve sheath, prominent Meckel's cave | Focal seizures | 25
+3 | Partial empty sella, tortuous optic nerves, increased perioptic CSF | IIHWOP | 27
+4 | Empty sella, increased perioptic CSF, ON kinking, bilateral transverse sinus stenosis | Skull-base defect (1.7 mm), CSF rhinorrhea | 34
+5 | Complete empty sella, optic nerve sheath distension | Hypoglossal palsy | 28
+caption: Table 2. MRI findings, atypical clinical features, and cerebrospinal fluid opening pressure in patients with idiopathic intracranial hypertension.
+!end
+
+!fig a10-f1.jpg | Figure 1. (1a, 1b) Axial T2-weighted magnetic resonance imaging (MRI) sections showing bilateral enlargement of Meckel's caves; (2a, 2b) Contrast-enhanced computed tomography (CT) cisternography in coronal and sagittal planes demonstrating bony defects in the posterior cribriform plate with cerebrospinal fluid (CSF) leakage; (3a, 3b) Clinical photographs showing deviation of the tongue to the right at rest (3a) and to the left on protrusion (3b), consistent with left hypoglossal (XII) nerve palsy; (4a) Sagittal MRI section demonstrating a complete empty sella; (4b) Axial MRI section showing enlargement of the perioptic CSF spaces, tortuosity of the optic nerves, and flattening of the posterior sclera, characteristic features of idiopathic intracranial hypertension without papilledema (IIHWOP).
+
+## Treatment and outcomes
+Five patients were treated with acetazolamide. Two patients received a combination of acetazolamide and topiramate. Case 4 required trans-nasal surgical repair of a skull base defect and Case 7 required LP shunt placement. Most patients experienced clinical improvement. No recurrences were noted during the available follow-up period.
+
+## Discussion
+In this cohort, seven of 54 patients (12.9%) with IIH exhibited atypical features, consistent with previous reports indicating that atypical presentations constitute a substantial minority of IIH patients. A striking finding was that all affected individuals were women, reaffirming the well-established female predominance in IIH.^11^ The spectrum of atypical manifestations in this study is in agreement with existing literature, and included trigeminal neuropathy, lower cranial nerve involvement, seizure disorders, and spontaneous CSF leaks. Hypoglossal palsy, as observed in Case 5, is particularly rare and highlights the potential of IIH to affect even lower cranial nerves. Similarly, the enlargement of Meckel's cave in the patient presenting with focal seizures echoes previous observations linking chronically elevated ICP with bony remodeling.^6^
+
+Idiopathic intracranial hypertension without papilledema (IIHWOP) poses a considerable diagnostic challenge. In such cases, characteristic neuroimaging findings and elevated CSF opening pressure assume greater diagnostic importance. Importantly, delayed diagnosis was common in this series, with symptom duration extending to five years in one patient. Early recognition of atypical manifestations may prevent prolonged morbidity and unnecessary diagnostic procedures.
+
+The strong association between obesity and IIH was evident in our study. Weight reduction remains an effective and cost-efficient disease-modifying strategy. Interestingly, previous studies have suggested that Indian patients with typical IIH are not uniformly obese.^11^ In contrast, obesity was a prominent association among patients with atypical manifestations in the present series. To the best of our knowledge, this represents one of the largest case series describing atypical presentations of IIH.
+
+## Conclusion
+Atypical IIH can mimic a variety of neurological disorders. Clinicians should maintain a high index of suspicion for IIH in women, particularly those with obesity, presenting with unexplained cranial neuropathies, trigeminal neuralgia, CSF rhinorrhea, or refractory headache even in the absence of papilledema. Early lumbar puncture with measurement of CSF opening pressure is crucial for establishing the diagnosis and avoiding unnecessary investigations. Weight reduction and medical therapy remain effective in most cases.
+--- refs
+1. Mollan SP, Hornby C, Mitchell J, Sinclair AJ. Evaluation and management of adult idiopathic intracranial hypertension. Pract Neurol. 2018;18(6):485-488.
+2. Chen BS, Newman NJ, Biousse V. Atypical presentations of idiopathic intracranial hypertension. Taiwan J Ophthalmol. 2020;11(1):25-38.
+3. Nigam H, Chaudhary SK, Pandey AK, Chakraborty R, Khetan A, Khan MI. Pseudo-Foster Kennedy syndrome: an atypical presentation of idiopathic intracranial hypertension. Neurol India. 2025;73(5):1085-1086.
+4. Talukder NT, Clorfeine AH, Black MK, Moody SB. Atypical idiopathic intracranial hypertension presenting as cyclic vomiting syndrome: a case report. J Med Case Rep. 2021;15(1):440.
+5. Sowmini PR, Kumar SP, Velayutham SS, Kannan V, Mugundhan K. Fulminant idiopathic intracranial hypertension with atypical presentation. Ann Indian Acad Neurol. 2023;26(6):1026-1028.
+6. Thottiyil JJ, Prasad A, Dutta DJ, Anand R, N S Panikar SA, Nadarajah J, et al. Temporal lobe encephalocele with epilepsy in a young female: an atypical presentation of idiopathic intracranial hypertension. Neurol India. 2022;70(4):1618-1621.
+7. Algahtani HA, Baeesa SS, Obeid TH, Abuzinadah AR. Idiopathic intracranial hypertension. Atypical presentation. Saudi Med J. 2007;28(5):762-765.
+8. Almotairi FS, Alanazi AI, Alokayli SH, Maghrabi S, Elwatidy SM. Atypical presentation of idiopathic intracranial hypertension: a case series and literature review. Asian J Neurosurg. 2024;19(2):179-185.
+9. Distelmaier F, Tibussek D, Schneider DT, Mayatepek E. Seasonal variation and atypical presentation of idiopathic intracranial hypertension in pre-pubertal children. Cephalalgia. 2007;27(11):1261-1264.
+10. Friedman DI, Liu GT, Digre KB. Revised diagnostic criteria for the pseudotumor cerebri syndrome in adults and children. Neurology. 2013;81(13):1159-1165.
+11. Pal A, Sengupta P, Biswas D, Sen C, Mukherjee A, Pal S. Pattern of idiopathic intracranial hypertension in Indian population. Ann Indian Acad Neurol. 2019;22(1):47-51.
