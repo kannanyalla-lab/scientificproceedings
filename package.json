@@ -3,20 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "tsx scripts/run.ts dev",
     "build": "next build",
-    "start": "next start",
+    "start": "tsx scripts/run.ts start",
     "lint": "eslint",
     "seed": "tsx scripts/seed.ts",
     "db:migrate": "drizzle-kit migrate",
     "db:generate": "drizzle-kit generate",
     "vercel-build": "bash scripts/vercel-build.sh",
-    "setup": "tsx scripts/setup.ts",
-    "predev": "tsx scripts/setup.ts",
-    "prestart": "tsx scripts/setup.ts"
+    "setup": "tsx scripts/setup.ts"
   },
   "dependencies": {
     "@electric-sql/pglite": "^0.5.16",
+    "@electric-sql/pglite-socket": "^0.2.19",
     "@vercel/blob": "^2.9.0",
     "drizzle-orm": "^0.45.4",
     "jose": "^6.2.18",

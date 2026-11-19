@@ -1,4 +1,4 @@
-// Reloads the sample March 2026 issue. Usage: npm run seed [-- --force]
+// Reloads the sample March 2026 issue into DATABASE_URL. Usage: npm run seed [-- --force]
 import "dotenv/config";
 import { createDb } from "../src/db/client";
 import { seed } from "../src/db/seed";

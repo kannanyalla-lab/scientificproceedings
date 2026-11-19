@@ -5,7 +5,6 @@ const nextConfig: NextConfig = {
   // each request, so pages render dynamically rather than at build time.
   cacheComponents: false,
   partialPrefetching: false,
-  serverExternalPackages: ["@electric-sql/pglite"],
   images: {
     remotePatterns: [{ protocol: "https", hostname: "**" }],
   },
