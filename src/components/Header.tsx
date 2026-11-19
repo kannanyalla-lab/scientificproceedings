@@ -24,21 +24,22 @@ export default function Header() {
     <>
       <div className="topbar">
         <div className="container">
-          <span>{TAGLINE}</span>
-          <span>
+          <span className="topbar__tag">{TAGLINE}</span>
+          <div className="topbar__right">
+            <form action="/search" className="search-mini" role="search">
+              <label htmlFor="q-mini" className="sr-only">Search articles</label>
+              <input id="q-mini" name="q" type="search" placeholder="Search articles" />
+              <button type="submit" aria-label="Search">⌕</button>
+            </form>
             <Link href="/submit">Submit a manuscript</Link>
-          </span>
+          </div>
         </div>
       </div>
       <header className="site-header">
         <div className="container site-header__row" style={{ position: "relative" }}>
           <Link href="/" className="brand" aria-label={`${JOURNAL} home`}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={LOGO_URL} alt="KIMSHEALTH" />
-            <span className="brand__text">
-              <span className="brand__name">Scientific Proceedings</span>
-              <span className="brand__tag">Clinical &amp; Scientific Research Journal</span>
-            </span>
+            <img src={LOGO_URL} alt={JOURNAL} />
           </Link>
           <button className="menu-toggle" aria-expanded={open} aria-controls="site-nav" onClick={() => setOpen(!open)}>
             {open ? "Close" : "Menu"}
@@ -49,11 +50,6 @@ export default function Header() {
                 {n.label}
               </Link>
             ))}
-            <form action="/search" className="search-mini" role="search" onClick={(e) => e.stopPropagation()}>
-              <label htmlFor="q-mini" className="sr-only">Search articles</label>
-              <input id="q-mini" name="q" type="search" placeholder="Search articles" />
-              <button type="submit" aria-label="Search">⌕</button>
-            </form>
           </nav>
         </div>
       </header>
