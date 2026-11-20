@@ -278,6 +278,29 @@ sup { font-size: .68em; color: var(--muted); margin-left: 1px; }
 .footer-bottom { border-top: 1px solid rgba(255,255,255,.1); margin-top: 32px; padding-top: 18px; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: .8rem; }
 @media (max-width: 780px) { .footer-grid { grid-template-columns: 1fr 1fr; } }
 
+/* ---------- Indexing: ISSN, licence, policies ---------- */
+.footer-issn { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: .85rem; font-weight: 600; margin: 10px 0 6px; }
+.footer-licence { font-size: .8rem; opacity: .85; }
+.footer-feeds a { opacity: .85; }
+.policy-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+.policy-card { display: block; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 20px; color: var(--ink); }
+.policy-card:hover { border-color: var(--brand); text-decoration: none; }
+.policy-card h2 { font-size: 1.05rem; margin: 0 0 6px; color: var(--brand-dark); }
+.policy-card p { margin: 0; font-size: .9rem; color: var(--ink-soft); }
+.policy-side a { display: block; padding: 5px 0; }
+.policy-side a[aria-current="page"] { font-weight: 700; color: var(--brand-dark); }
+.journal-facts { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 6px 12px; font-size: .9rem; }
+.journal-facts dt { color: var(--muted); }
+.journal-facts dd { margin: 0; overflow-wrap: anywhere; }
+.check-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.check-list li { display: grid; grid-template-columns: 26px 1fr; gap: 8px; align-items: start; }
+.check-mark { width: 22px; height: 22px; border-radius: 50%; display: inline-grid; place-items: center; font-size: .75rem; font-weight: 700; }
+.check-mark--ok { background: #e7f6ee; color: #135c33; }
+.check-mark--warn { background: #fff4dc; color: #7a5a06; }
+.check-mark--todo { background: #fde8e8; color: #9b1c1c; }
+.settings-group { margin-bottom: 26px; }
+.settings-group h2 { font-size: 1.05rem; border-bottom: 1px solid var(--line); padding-bottom: 6px; }
+
 /* ---------- Print ---------- */
 @media print {
   .topbar, .site-header, .site-footer, .article-actions, .article-side, .no-print, .skip { display: none !important; }

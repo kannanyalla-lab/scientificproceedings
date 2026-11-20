@@ -1,6 +1,13 @@
 import type { MetadataRoute } from "next";
-import { SITE_URL } from "@/lib/site";
+import { baseUrl, getJournalConfig } from "@/lib/journal-config";
 
-export default function robots(): MetadataRoute.Robots {
-  return { rules: [{ userAgent: "*", allow: "/", disallow: ["/admin", "/api", "/files/manuscripts"] }], sitemap: `${SITE_URL}/sitemap.xml` };
+export const dynamic = "force-dynamic";
+
+export default async function robots(): Promise<MetadataRoute.Robots> {
+  const cfg = await getJournalConfig();
+  return {
+    rules: [{ userAgent: "*", allow: "/", disallow: ["/admin", "/api", "/files/manuscripts"] }],
+    sitemap: `${baseUrl(cfg)}/sitemap.xml`,
+    host: baseUrl(cfg),
+  };
 }

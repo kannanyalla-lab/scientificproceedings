@@ -132,3 +132,10 @@ export type PharmaUpdate = typeof pharmaUpdates.$inferSelect;
 export type SpotterCase = typeof spotterCases.$inferSelect;
 export type ScrambleItem = typeof scrambleItems.$inferSelect;
 export type Submission = typeof submissions.$inferSelect;
+
+/** Journal-wide settings the editors can change (ISSN, DOI prefix, licence, policy pages…), as key → JSON value. */
+export const siteSettings = pgTable("site_settings", {
+  key: text("key").primaryKey(),
+  value: jsonb("value").$type<unknown>().notNull(),
+  updatedAt: timestamp("updated_at").notNull().defaultNow(),
+});

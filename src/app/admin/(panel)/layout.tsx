@@ -11,7 +11,7 @@ export default async function PanelLayout({ children }: { children: React.ReactN
       <aside className="admin-side">
         <Link href="/admin" className="brand" style={{ color: "#fff" }}><span className="brand__name">Scientific Proceedings</span></Link>
         <div style={{ fontSize: ".75rem", color: "#8aa0b3", marginTop: 4 }}>Editor panel</div>
-        <AdminNav items={[{ href: "/admin", label: "Dashboard" }, { href: "/admin/import", label: "Import edition (PDF)" }, ...Object.values(ENTITIES).map((e) => ({ href: `/admin/${e.key}`, label: e.plural }))]} />
+        <AdminNav items={[{ href: "/admin", label: "Dashboard" }, { href: "/admin/import", label: "Import edition (PDF)" }, ...Object.values(ENTITIES).map((e) => ({ href: `/admin/${e.key}`, label: e.plural })), { href: "/admin/indexing", label: "Indexing" }, { href: "/admin/settings", label: "Journal settings" }, { href: "/admin/policies", label: "Policy pages" }]} />
         <div style={{ marginTop: 28, fontSize: ".8rem", color: "#8aa0b3", display: "grid", gap: 8 }}>
           <span>Signed in as {admin.email}</span>
           <Link href="/" target="_blank" style={{ color: "#c7d3de" }}>View site ↗</Link>

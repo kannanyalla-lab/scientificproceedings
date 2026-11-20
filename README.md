@@ -75,6 +75,28 @@ Set `DATABASE_URL` to a real Postgres in production. Uploaded files are written 
 
 Serve the site over HTTPS in production: the editor session cookie is marked `Secure`.
 
+## Indexing (Google Scholar, Crossref, DOAJ, OAI-PMH)
+
+The site produces everything indexing services read, automatically from the articles in the database:
+
+| What | Where | Used by |
+| --- | --- | --- |
+| Highwire `citation_*`, Dublin Core `DC.*` and PRISM `prism.*` meta tags, schema.org `ScholarlyArticle` JSON-LD | every article page | Google Scholar, Semantic Scholar, Zotero, BASE |
+| Sitemap and robots.txt | `/sitemap.xml`, `/robots.txt` | Google, Bing |
+| RSS feed (with DC and PRISM fields) | `/feed.xml` | JournalTOCs, feed readers |
+| OAI-PMH 2.0 (`oai_dc` and `jats`; sets per issue and per article type) | `/oai?verb=Identify` | DOAJ, BASE, CORE, OpenAIRE, libraries |
+| JATS 1.3 XML per article | `/article/<slug>/jats` | PMC, DOAJ, Scopus and other aggregators |
+| RIS and BibTeX per article | `/article/<slug>/cite?format=ris\|bib` | reference managers |
+| Crossref 5.3.1 deposit XML per issue | Editor panel > Indexing | DOI registration |
+| DOAJ article XML per issue | Editor panel > Indexing | DOAJ upload |
+
+Journal-wide details (ISSN, DOI prefix and pattern, licence, publisher, public web address, Search Console codes) are set in
+Editor panel > **Journal settings** and kept in the `site_settings` table. The policy pages indexers look for
+(`/policies/*`, `/editorial-board`, `/contact`) start as templates in `src/lib/policies.ts`; editors review, edit and
+approve them in Editor panel > **Policy pages**. Editor panel > **Indexing** shows a readiness checklist.
+
+Code: `src/lib/journal-config.ts`, `src/lib/policies.ts`, `src/lib/indexing/`, `src/components/ScholarlyMeta.tsx`, `src/app/oai/route.ts`.
+
 ## Project layout
 
 ```

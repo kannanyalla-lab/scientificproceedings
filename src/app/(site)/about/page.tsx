@@ -3,18 +3,23 @@ import Link from "next/link";
 import { getCurrentIssue } from "@/lib/queries";
 import { JOURNAL, PUBLISHER } from "@/lib/site";
 import { issueLabel } from "@/lib/format";
+import { getJournalConfig, licenceOf } from "@/lib/journal-config";
 
 export const metadata: Metadata = { title: "About the journal" };
 
 export default async function AboutPage() {
-  const issue = await getCurrentIssue();
+  const [issue, cfg] = await Promise.all([getCurrentIssue(), getJournalConfig()]);
+  const lic = licenceOf(cfg);
   return (
     <>
       <div className="page-head">
         <div className="container">
           <div className="crumbs"><Link href="/">Home</Link><span aria-hidden>›</span><span>About</span></div>
           <h1>About the journal</h1>
-          <p>{JOURNAL} is a clinical and scientific research journal published by {PUBLISHER}.</p>
+          <p>
+            {JOURNAL} is a peer-reviewed, open access clinical and scientific research journal published {cfg.frequency.toLowerCase()} by {PUBLISHER}.
+            {cfg.issnPrint ? ` ISSN ${cfg.issnPrint} (Print).` : ""}{cfg.issnOnline ? ` e-ISSN ${cfg.issnOnline} (Online).` : ""}
+          </p>
         </div>
       </div>
       <div className="section"><div className="container about-layout">
@@ -34,19 +39,28 @@ export default async function AboutPage() {
             <li><strong>Editorials</strong> and <strong>Letters to the Editor</strong>.</li>
           </ul>
           <h2 id="guidelines">Guidelines for authors</h2>
-          <ul>
-            <li>Structure original research with an abstract (Background, Methods, Results, Conclusion), introduction, methods, results, discussion and conclusion.</li>
-            <li>Provide up to seven keywords and full affiliations for every author, and name one corresponding author with an email address.</li>
-            <li>Cite references in the order they appear, in Vancouver style, with a DOI or PMID wherever one exists.</li>
-            <li>Supply figures as high-resolution JPG or PNG with numbered captions, and remove anything that could identify a patient.</li>
-            <li>Confirm ethics committee approval and informed consent where applicable, and declare conflicts of interest and funding.</li>
-          </ul>
+          <p>
+            Manuscripts should follow the ICMJE Recommendations and the relevant EQUATOR reporting guideline, with a
+            structured abstract, keywords, full affiliations for every author and Vancouver-style references.
+            See the full <Link href="/policies/author-guidelines">author guidelines</Link>.
+          </p>
+          <h2>Peer review and ethics</h2>
+          <p>
+            Research articles are peer reviewed (see the <Link href="/policies/peer-review">peer review policy</Link>).
+            The journal follows COPE and ICMJE guidance on ethics approval, consent, authorship, conflicts of interest
+            and corrections (see <Link href="/policies/publication-ethics">publication ethics</Link>).
+          </p>
           <h2>Open access and licence</h2>
-          <p>All articles are free to read online. Content may be shared for non-commercial purposes with attribution; no commercial reuse.</p>
+          <p>
+            All articles are free to read online immediately on publication and are published under the{" "}
+            <a href={lic.url} target="_blank" rel="license noopener">{lic.label}</a> licence.
+            See <Link href="/policies/open-access">open access and licensing</Link> and{" "}
+            <Link href="/policies/archiving">archiving and preservation</Link>.
+          </p>
           <h2 id="contact">Contact</h2>
           <p>
-            KIMSHEALTH, P.B. No.1, Anayara P.O., Trivandrum 695029, Kerala, India<br />
-            Email: <a href="mailto:kimsproceedings@kimsglobal.com">kimsproceedings@kimsglobal.com</a> · Web: <a href="https://www.kimshealth.org" target="_blank" rel="noopener">www.kimshealth.org</a>
+            {cfg.publisherAddress}<br />
+            Email: <a href={`mailto:${cfg.contactEmail}`}>{cfg.contactEmail}</a> · Web: <a href="https://www.kimshealth.org" target="_blank" rel="noopener">www.kimshealth.org</a>
           </p>
           <p><Link className="btn btn--primary" href="/submit">Submit a manuscript</Link></p>
         </div>
