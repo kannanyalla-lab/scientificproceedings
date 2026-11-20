@@ -1,0 +1,148 @@
+type: Original Research
+pages: 27-32
+title: Cardiometabolic risk factors among airline and cargo pilots in Bahrain: A descriptive cross-sectional study
+authors: Warda Hasan Marhoon (a)
+aff a: Department of Family Medicine & Aviation Medicine, Royal Bahrain Hospital Medical Center, Janabiya, Bahrain.
+corr: Warda Hasan Marhoon, Department of Family Medicine & Aviation Medicine, Royal Bahrain Hospital Medical Center, Janabiya, Bahrain.
+email: warda.hasan@royalbhrn.com
+keywords: aviation medicine; cardiometabolic risk; occupational health; body mass index; metabolic syndrome; dyslipidaemia; hypertension; obesity; lifestyle factors; cross-sectional studies
+image: a05-f3.jpg
+--- abstract Background
+Pilots are exposed to several occupational stressors, including long working schedules, circadian rhythm disturbances, sedentary work habits, and unhealthy lifestyle habits. These factors may increase the risk of cardiometabolic diseases. However, there is a paucity of information on the health status of pilots in the Middle East, particularly in Bahrain.
+
+A descriptive cross-sectional study was performed using medical and occupational data from active pilots in Bahrain.
+--- abstract Objective
+To characterise the prevalence of cardiometabolic risk factors and diseases among pilots in Bahrain and to examine their association with demographics, flight type, cumulative flight hours, and lifestyle habits.
+--- abstract Methods
+This descriptive cross-sectional study analyzed the medical and occupational records of pilots operating commercial passenger and cargo aircraft in Bahrain. Data collected included age, sex, nationality, flight hours, aircraft type, lifestyle behaviors (smoking and alcohol consumption), body mass index (BMI), and comorbidities such as hypertension, diabetes mellitus, dyslipidemia, and heart disease. Descriptive statistics and exploratory correlation analyses were performed.
+
+This was a descriptive cross-sectional observational study conducted among licensed airline and cargo pilots undergoing routine aeromedical examinations in Bahrain.
+--- abstract Results
+The sample population consisted predominantly of middle-aged men, most of whom were overweight or obese. A significant percentage of them had cardiometabolic risk factors, exceptionally high blood pressure, dyslipidemia, and diabetes. The prevalence of cardiometabolic conditions increased with higher cumulative flight hours, high BMI, and smoking.
+--- abstract Conclusion
+Cardiometabolic conditions are common among pilots in Bahrain and appear to be associated with occupational exposures and lifestyle factors. These findings highlight the need for targeted preventive strategies and health promotion measures within the field of aviation medicine.
+--- body
+## Introduction
+'Cardiometabolic disorders' refer to a cluster of metabolic abnormalities, including central obesity, dyslipidemia, insulin resistance, impaired glucose tolerance, and hypertension, collectively referred to as metabolic syndrome.^1^ Pilots are exposed to several occupational and lifestyle factors that may predispose them to these conditions. However, data on the cardiometabolic health of pilots in the Middle East are limited. This study aimed to characterize the prevalence of cardiometabolic risk factors and diseases among pilots in Bahrain and to examine their associations with demographic characteristics, type of flight operation, cumulative flight hours, and lifestyle habits.
+
+## Methods
+This section describes the research design, population, data collection, and analytical methods used to investigate the cardiometabolic risk factors among pilots in Bahrain.
+
+### Study design
+This cross-sectional study was based on data obtained from pilots undergoing initial aeromedical assessments and periodic medical revalidation examinations conducted by a certified Aviation Medical Examiner. Such a design enabled the assessment of the prevalence of cardiometabolic risk factors and diseases among the active flying population.^2^
+
+### Study population
+The study population comprised licensed pilots operating commercial passenger and cargo aircraft in Bahrain who underwent routine aeromedical examinations during the study period.^3^ To reflect the multinational aviation workforce in the country, both Bahraini and non-Bahraini pilots were included. Pilots of both sexes were eligible, although the study population was predominantly male, consistent with the regional aviation workforce demographics.
+
+### Data analysis
+Demographic, occupational, lifestyle, and clinical characteristics were summarized using descriptive statistics. Exploratory correlation analyses were performed to evaluate associations between cumulative flight hours, lifestyle behaviors, and cardiometabolic outcomes.
+
+## Results
+Exploratory analyses revealed a higher burden of cardiometabolic risk factors among pilots with elevated BMI, longer cumulative flight hours, smoking habits, and those engaged in cargo flight operations.
+
+### Demographic and occupational characteristics
+The study included 167 pilots employed in cargo aviation operations in Bahrain. The cohort consisted predominantly of men, with only a small proportion of women. Female pilots ranged in age from 27 to 45 years, whereas male pilots ranged in age from 27 to 64 years.
+
+!table
+Gender | Number of pilots (n) | Percentage (%) | Flight type | Nationality
+Male | 157 | 94% | Airline, Cargo | Non-Bahraini (British, Indian, South African, Danish, Omani, Canadian, Greek, Belgian, Irish, Icelandic, German, Italian, Swedish, Brazilian, Trinidadian, Venezuelan, New Zealand) and Bahraini
+Female | 12 | 6% | Airline, Cargo |
+caption: Table 1. Demographic characteristics
+!end
+
+!fig a05-f1.jpg | Figure 1. Demographic characteristics
+
+Occupational characteristics showed that the pilots operated a diverse range of aircraft, including Boeing 763, Boeing 737, Boeing 787, Airbus A320, Boeing 747, Avro, and Gulfstream 600, AURO RJ, and Gulfstream. Flight experience varied considerably across aircraft types and operators. Pilots flying commercial aircraft such as the Boeing 767 and Boeing 737 had accumulated more than 20,000 flight hours, whereas those operating smaller business jets, including Gulfstream aircraft, generally had fewer than 6,000 flight hours.
+
+!table
+Lifestyle / Occupational Factor | Airline pilots | Cargo pilots
+Traditional cigarettes | Moderate prevalence | Low prevalence
+Vaping / E-cigarettes | Occasional | Higher prevalence
+Alcohol consumption | Moderate (1–2 drinks/occasion) | Low / occasional
+Smoking + Alcohol combo | Rare | Rare
+Average flight hours | 12,000–23,750 | 250–15,000
+caption: Table 2. Comparison between the prevalence among airline and cargo pilots
+!end
+
+Comparison of airline and cargo pilots suggested differences in occupational exposures and lifestyle factors that may influence cardiometabolic risk. Combined use of alcohol and smoking were uncommon in both groups. Airline pilots had higher cumulative flight hours, ranging from 12,000-23,750 hours, and reported moderate levels of stress related to sleep disturbances. Differences in work environment and operational demands between large commercial aircraft and smaller aircraft may contribute to variations in occupational stress and cardiometabolic risk between the two groups.
+
+### Anthropometric and cardiometabolic profile
+Overweight and obesity were common among the pilots, with BMI values ranging from normal to morbidly obese (≥35 kg/m^2^). Obesity was found to be more prevalent among airline pilots than cargo pilots, suggesting that differences in workload or lifestyle patterns may contribute to variations in BMI between these groups.^4^
+
+Exploratory analyses indicated a greater burden of cardiometabolic conditions among pilots with higher cumulative flight hours. Lifestyle factors, including smoking, alcohol consumption, and severe obesity (BMI ≥ 35 kg/m^2^), were also associated with increased cardiometabolic risk. Hypertension, diabetes, dyslipidemia, and cardiovascular disease were more common among pilots with greater flight exposure and unhealthy lifestyle behaviors.
+
+These findings are consistent with those reported by Andisi-Musambi et al. (2023), who observed a higher prevalence of smoking among men than women, with 33.4% of adult men reporting regular tobacco use. The influence of these lifestyle factors is reflected in the prevalence of hypertension (42.7%), hypercholesterolemia (40.2%), and diabetes mellitus (14.5%) in the general population.^6^
+
+Conversely, pilots with lower cumulative flight hours and healthier lifestyle behaviors exhibited lower burden of cardiometabolic disorders. Smoking, particularly at higher levels (e.g., ≥10 cigarettes per day), appeared to further increase this risk, whereas moderate alcohol consumption alone had a relatively minor effect unless accompanied by other risk factors. Severe obesity (BMI ≥35 kg/m^2^) emerged as an important risk factor for adverse cardiometabolic outcomes.
+
+These findings suggest that there is a cumulative influence of occupational exposures and lifestyle factors on cardiometabolic health, and underscore the need for having targeted preventive interventions within aviation medicine (Figure 2).
+
+!fig a05-f2.jpg | Figure 2. Evidence-based practical guidelines for healthy nutrition, physical activity, and sleep hygiene (Wilson et al., 2023).
+
+### Lifestyle behaviors
+The lifestyle habits among the pilots in this cohort were heterogeneous, with smoking and alcohol consumption being the key modifiable risk factors for cardiometabolic health.^5^ Traditional cigarette smoking (typically 10–15 cigarettes per day) was the most common form of tobacco use among male pilots, although some also reported the use of shisha and electronic cigarettes (e-cigarettes) or vaping devices. Among female pilots, e-cigarettes and vaping devices were more commonly used, while a smaller proportion reported conventional cigarette smoking. Some pilots described their smoking behavior as occasional or social.
+
+Alcohol consumption was generally moderate, with most pilots reporting one or two drinks per occasion, whereas others reported that they abstained from alcohol or consumed it only occasionally. No cases of heavy or chronic alcohol use were identified. Combined exposure to smoking and alcohol consumption, a potentially more adverse cardiometabolic profile, was observed in only a small proportion of pilots.
+
+Several occupational factors inherent to professional aviation, including shift work, irregular schedules, circadian rhythm disruption, sleep disturbances, prolonged sedentary behaviour, and psychological stress, may adversely affect cardiometabolic health.
+
+### Occupational, lifestyle, and cardiometabolic outcomes
+Exploratory analyses were performed to investigate the relationships between occupational exposures, lifestyle behaviours, and cardiometabolic outcomes among pilots. Greater cumulative flight hours were associated with a higher burden of cardiometabolic conditions, including hypertension, diabetes mellitus, dyslipidaemia, and cardiovascular disease. Pilots with more than 15,000 cumulative flight hours appeared to have a greater prevalence of these conditions than those with fewer flight hours.
+
+Another important correlate was body mass index (BMI). Overweight and obese pilots (BMI ≥ 25 kg/m^2^) exhibited higher prevalence of hypertension, dyslipidemia, and diabetes. Severe obesity (BMI ≥35 kg/m^2^) was associated with the highest burden of multimorbidity, suggesting a cumulative effect of cardiometabolic risk factors. This result aligns with previous reports showing the prevalence of hypertension was higher among men (13.8%) than women (2.8%), with prevalence increasing with advancing age.
+
+Lifestyle behaviours also showed notable associations with cardiometabolic outcomes. Smoking and frequent alcohol consumption were associated with a greater burden of hypertension and dyslipidaemia. These conditions were more common among pilots who smoked at least 10 cigarettes per day and those who consumed alcohol frequently, compared with non-smokers and those with lower alcohol intake. Although vaping and occasional social smoking, which were more commonly reported by female pilots, appeared to be associated with a lower prevalence of cardiometabolic conditions, these behaviours remained potential risk factors, particularly when combined with elevated BMI and greater cumulative flight exposure.
+
+There were also significant correlations between lifestyle behaviours and cardiometabolic outcomes. Smoking and frequent drinking were associated with a greater burden of hypertension and dyslipidaemia. Hypertension and dyslipidemia were more common among pilots who smoked at least 10 cigarettes per day and those who used alcohol frequently, compared with non-smokers who had lower alcohol intake. Vaping and occasional social smoking, which were more frequent in female pilots, were linked to a reduced incidence of cardiometabolic diseases, although they remained risk factors in combination with high BMI and greater cumulative flight exposure.
+
+In Bahrain, approximately 10.8% of adults self-report diabetes mellitus, whereas the overall prevalence, including previously undiagnosed cases, is estimated to be around 15%. These findings highlight the importance of addressing both occupational and lifestyle factors to mitigate cardiometabolic risk among pilots.
+
+## Discussion
+This study provides one of the first descriptive assessments of cardiometabolic health among a medically screened population of pilots in Bahrain. Despite compliance with stringent aeromedical fitness requirements, hypertension, diabetes mellitus, dyslipidaemia, and cardiovascular disease were common. These findings suggest that occupational exposures and lifestyle factors may contribute to cardiometabolic risk in this population.
+
+Cumulative flight hours are one of the findings in this study because the cardiometabolic risk is associated with cumulative flight hours. The older pilots with more than 15,000 hours of flight experience were more likely to experience hypertension, diabetes, dyslipidemia, and heart disease.^6^
+
+!fig a05-f3.jpg | Figure 3. Prevalence of cardiometabolic conditions among pilots (Wilson, 2022).
+
+Body mass index (BMI) emerged as an important correlate of cardiometabolic risk. Hypertension, dyslipidemia, and diabetes were more prevalent in overweight and obese pilots (BMI ≥ 25 kg/m^2^), whereas multiple comorbidities were more prevalent among those with severe obesity (BMI ≥ 35 kg/m^2^). These observations support the notion that prolonged sedentary work, irregular schedules, and limited opportunities for structured physical activity may contribute to weight gain and adverse metabolic outcomes.^7^ Obesity may also amplify the effects of other risk factors, including smoking and unhealthy dietary habits.
+
+It was observed that lifestyle behaviors have a significant effect on cardiometabolic health. Conventional cigarette smoking, shisha use, and electronic cigarette use were reported among the cohort, with conventional cigarette smoking being more common among male pilots and vaping more frequently reported by female pilots. Smoking is a well-established risk factor for hypertension, atherosclerosis, insulin resistance, and dyslipidaemia. Alcohol consumption was generally moderate, with most pilots reporting one to two drinks per occasion and only a small proportion reporting infrequent social drinking. Although electronic cigarettes and vaping devices may expose users to fewer toxic substances than conventional cigarettes, they remain potential contributors to adverse metabolic and cardiovascular effects, particularly when combined with elevated BMI and prolonged occupational exposure.^6^
+
+Occupational characteristics appeared to influence cardiometabolic risk. Pilots with greater cumulative flight hours had a higher burden of hypertension, diabetes mellitus, dyslipidaemia, and cardiovascular disease. In particular, pilots with more than 15,000 cumulative flight hours exhibited a greater prevalence of these conditions. Although pilots in this cohort reported lower rates of smoking and alcohol use than the general adult population in Bahrain, they demonstrated substantial burdens of cardiometabolic disease, suggesting that prolonged flight exposure, circadian disruption, irregular work schedules, psychological stress, and sedentary work may contribute to adverse health outcomes.
+
+Comparatively, pilots in this study had lower rates of smoking and alcohol use than the general adult population in Bahrain, yet they exhibited higher prevalence of hypertension, diabetes, and dyslipidemia. The findings support a cumulative risk model, in which occupational exposures interact with lifestyle factors and individual characteristics to influence cardiometabolic health. High BMI, smoking, and prolonged flight exposure appeared to exert additive effects on the prevalence of hypertension, dyslipidaemia, diabetes mellitus, and cardiovascular disease. The findings underscore the need for targeted health interventions and monitoring specific to the aviation profession.^8^
+
+Regional and cultural factors should also be considered. The use of alternative tobacco products, including shisha and electronic cigarettes, reflects local social practices and highlights the need for culturally sensitive health promotion programmes. Preventive strategies tailored to the aviation profession should address smoking cessation, weight management, physical activity, sleep hygiene, and regular cardiometabolic screening.
+
+Overall, this study demonstrates that cardiometabolic disorders are common among pilots in Bahrain and that cumulative flight hours, obesity, smoking, alcohol consumption, and occupational factors may collectively contribute to cardiometabolic risk.
+
+## Strengths and limitations
+The study benefits from a heterogeneous and sizeable pilot cohort, representing multiple nationalities, flight types, and experience levels.
+
+### Strengths
+This study has several strengths. It included a relatively large and heterogeneous cohort of 167 pilots representing different nationalities, age groups, experience levels, and both airline and cargo operations, thereby providing a broad overview of cardiometabolic health among pilots in Bahrain. The use of routinely collected aeromedical examination data from an active flying population enhances the clinical relevance of the findings and offers valuable insights into occupational and lifestyle factors associated with cardiometabolic risk in a medically screened workforce.
+
+### Limitations
+This study has several limitations. First, its cross-sectional design precludes establishing causal or temporal relationships between occupational exposures, lifestyle behaviors, and cardiometabolic outcomes.^8^ Second, the use of routinely documented medical information may have resulted in underrecognition of subclinical or undiagnosed cardiometabolic diseases, since pilots are assessed periodically, and mostly only clinically manifested disease is reported. Third, smoking, alcohol consumption, and vaping behaviors were partly self-reported, introducing the possibility of reporting bias and misclassification.
+
+## Conclusion
+This study provides a broad review of cardiometabolic health among pilots in Bahrain. Despite routine aeromedical screening, hypertension, diabetes mellitus, dyslipidaemia, and cardiovascular disease were common. Greater cumulative flight hours, elevated BMI, smoking, alcohol consumption, and occupational exposures appeared to contribute to increased cardiometabolic risk. These findings underscore the need for targeted preventive strategies and regular cardiometabolic surveillance within aviation medicine.
+
+!box Implications for practice
+The adoption of the following evidence-based measures would allow for mitigating cardiometabolic risk, improving the well-being of pilots, and enabling safe and sustainable operations in the aviation industry:
+
+1. Incorporate periodic cardiometabolic risk assessment in addition to age-based aeromedical evaluations.
+2. Develop aviation-specific smoking cessation programs addressing conventional cigarettes, shisha, and electronic cigarettes.
+3. Promote structured weight management and physical activity programmes.
+4. Encourage interventions aimed at improving sleep hygiene and mitigating circadian disruption.
+5. Establish preventive health programs tailored to airline and cargo pilots.
+!endbox
+--- refs
+1. Qin K, Jia P, Yang S. Occupational exposure and cardiometabolic disorders. Front Public Health. 2023;11:1171033. doi:10.3389/fpubh.2023.1171033.
+2. Kelly SE, Benkhedda K, Brooks SP, MacFarlane AJ, Greene-Finestone LS, Skidmore B, et al. Risk of bias in cross-sectional studies: protocol for a scoping review of concepts and tools. MethodsX. 2024;12:102610. doi:10.1016/j.mex.2024.102610.
+3. AlMuammar S, Alkhaldi R, Alsharif R, Allbdi D, Alasmari M, Alasmari B, et al. Navigating the skies: a cross-sectional study of depression among Saudi Arabian airline pilots. J Occup Med Toxicol. 2024;19(1):36. doi:10.1186/s12995-024-00435-4.
+4. Wilson D, Driller M, Johnston B, Gill N. The prevalence of cardiometabolic health risk factors among airline pilots: a systematic review. Int J Environ Res Public Health. 2022;19(8):4848. doi:10.3390/ijerph19084848.
+5. Andisi-Musambi M. Physiological impact of shift work on nurses [thesis]. Helsinki: Diaconia University of Applied Sciences; 2023. p. 46. https://www.theseus.fi/handle/10024/804137
+6. Freisling H, Viallon V, Lennon H, Bagnardi V, Ricci C, Butterworth AS, et al. Lifestyle factors and risk of multimorbidity of cancer and cardiometabolic diseases: a multinational cohort study. BMC Med. 2020;18(1):5. doi:10.1186/s12916-019-1474-7.
+7. Wilson D, Driller M, Johnston B, Gill N. Healthy nutrition, physical activity, and sleep hygiene to promote cardiometabolic health of airline pilots: a narrative review. J Lifestyle Med. 2023;13(1):1-12. doi:10.15280/jlm.2023.13.1.1.
+8. Chwał J, Zadoń H, Szaflik P, Dzik R, Filipowska A, Doniec R, et al. Body composition and metabolic profiles in young adults: a cross-sectional comparison of people who use e-cigarettes, people who smoke cigarettes, and people who have never used nicotine products. J Clin Med. 2025;14(13):4459. doi:10.3390/jcm14134459.

@@ -1,0 +1,142 @@
+[
+ {
+  "specialty": "Rheumatology",
+  "clue": "An autoimmune disease characterized by recurrent inflammation of cartilage, most commonly affecting the ears, nose, trachea, and joints. It may lead to airway collapse, as well as vision and hearing loss.",
+  "scrambled": "RNIESLGAP SCLNRIODYIOHTP",
+  "answer": "Relapsing polychondritis",
+  "sortOrder": 0
+ },
+ {
+  "specialty": "Rheumatology",
+  "clue": "A group of auto inflammatory disorders caused by genetic mutations that lead to recurrent hives, fever, joint pain, and potential neurological complications.",
+  "scrambled": "OYNRPRICY-DCASSETAOI IECDIPRO DSNOESRMY",
+  "answer": "Cryopyrin-associated periodic syndromes",
+  "sortOrder": 1
+ },
+ {
+  "specialty": "Rheumatology",
+  "clue": "It predominantly affects young women, causing inflammation of the aorta and its major branches, and may cause arm or chest pain and hypertension, or at times, heart failure, or stroke.",
+  "scrambled": "KAYAUSTA EISATIRTR",
+  "answer": "Takayasu arteritis",
+  "sortOrder": 2
+ },
+ {
+  "specialty": "Rheumatology",
+  "clue": "A multisystem disorder that can cause recurrent sores in the mouth and the genital area. It may also cause eye inflammation, joint pain, and affect the brain, nerves, intestinal tract, and kidneys.",
+  "scrambled": "T'HBSCEE ADESSIE",
+  "answer": "Behcet's disease",
+  "sortOrder": 3
+ },
+ {
+  "specialty": "Rheumatology",
+  "clue": "A rare disorder marked by inflammation of blood vessels that can restrict blood flow to organs and tissues, resulting in permanent damage. Manifestations range from mild symptoms to life-threatening complications.",
+  "scrambled": "CEPIISONHLOI UMOIGSNRTOSAAL IWHT OAIGIPNITLYS",
+  "answer": "Eosinophilic granulomatosis with polyangiitis",
+  "sortOrder": 4
+ },
+ {
+  "specialty": "Obstetrics and Gynecology",
+  "clue": "A congenital malformation characterized by the triad of uterus didelphys, ipsilateral renal agenesis, and an obstructed hemivagina, resulting in impaired menstrual flow.",
+  "scrambled": "HRYNEL-RENEWR-RCDHLIEUNW",
+  "answer": "Herlyn-Werner-Wunderlich",
+  "sortOrder": 5
+ },
+ {
+  "specialty": "Obstetrics and Gynecology",
+  "clue": "A rare uterovaginal malformation in which the cervix is absent or fails to develop, often causing severe pelvic pain and infertility.",
+  "scrambled": "RUEITEN VCICAELR LAPIASA",
+  "answer": "Uterine cervical aplasia",
+  "sortOrder": 6
+ },
+ {
+  "specialty": "Obstetrics and Gynecology",
+  "clue": "An exceptionally rare condition in which fully functional breast tissue develops in the genital area, which may even lactate during puberty, pregnancy, or the postpartum period.",
+  "scrambled": "UVVRAL YMRAMMA SEICPOTM",
+  "answer": "Vulvar mammary ectopism",
+  "sortOrder": 7
+ },
+ {
+  "specialty": "Obstetrics and Gynecology",
+  "clue": "A lethal autosomal recessive disorder characterized by reduced fetal movements, multiple joint contractures, facial anomalies, intrauterine growth restriction, pulmonary hypoplasia, and related developmental abnormalities.",
+  "scrambled": "AELTF SEIAAINK IOEMTDNOFRA UEENESCQ",
+  "answer": "Fetal akinesia deformation sequence",
+  "sortOrder": 8
+ },
+ {
+  "specialty": "Obstetrics and Gynecology",
+  "clue": "A congenital anomaly where a malformed, parasitic twin develops inside the body of its normally developing sibling, commonly detected as an abdominal mass.",
+  "scrambled": "TEFSU NI UETF",
+  "answer": "Fetus in fetu",
+  "sortOrder": 9
+ },
+ {
+  "specialty": "Nephrology",
+  "clue": "A rare kidney disorder characterized by inflammation, thickening of the glomerular basement membrane, and the proliferation of kidney cells. It occurs primarily in children and young adults.",
+  "scrambled": "IIMVERALFRARTPOEMNBEO PONLHUTSRMOLIIREEG",
+  "answer": "Membranoproliferative glomerulonephritis",
+  "sortOrder": 10
+ },
+ {
+  "specialty": "Nephrology",
+  "clue": "A rare kidney disorder in which the proximal tubules fail to reabsorb essential substances back into the bloodstream, and essential nutrients are lost through urine.",
+  "scrambled": "ANIONFC RNSMYEDO",
+  "answer": "Fanconi syndrome",
+  "sortOrder": 11
+ },
+ {
+  "specialty": "Nephrology",
+  "clue": "An immune complex-mediated kidney disease characterized by blood and protein in the urine, swelling in the legs or feet, high blood pressure and the deposition of microscopic fibrils in the glomeruli leads to progressive kidney failure.",
+  "scrambled": "YLFLBRARI SEGNORLHUOLTIRIEPM",
+  "answer": "Fibrillary glomerulonephritis",
+  "sortOrder": 12
+ },
+ {
+  "specialty": "Nephrology",
+  "clue": "A group of rare, life-threatening conditions in which small blood vessels are damaged, blocking blood flow, destructing red blood cells, and damaging the kidneys.",
+  "scrambled": "HOTBTIOCRM OCHRSTEMPAIIOAIGN",
+  "answer": "Thrombotic microangiopathies",
+  "sortOrder": 13
+ },
+ {
+  "specialty": "Nephrology",
+  "clue": "A rare, genetic syndrome characterized by abnormal kidney function, a cancerous tumor of the kidney, and disorders of sexual development in affected males.",
+  "scrambled": "ENYDS-ASHRD ORESDYNM",
+  "answer": "Denys-Drash syndrome",
+  "sortOrder": 14
+ },
+ {
+  "specialty": "ENT",
+  "clue": "A rare condition characterized by sudden attacks of severe pain lasting from seconds to minutes, occasionally longer, involving the throat, tongue, jaw, ear, or neck. The episodes may recur many times throughout the day and, in rare cases, can be associated with potentially life-threatening cardiovascular symptoms.",
+  "scrambled": "ELSHSOGGLRYNPAAO ERUNAIALG",
+  "answer": "Glossopharyngeal neuralgia",
+  "sortOrder": 15
+ },
+ {
+  "specialty": "ENT",
+  "clue": "An aggressive malignant tumor arising from the olfactory epithelium and progressing into the sinuses, brain, and eyes, causing nasal blockages, nosebleeds, and vision changes.",
+  "scrambled": "SEIMSEOSUNBTLHEOARATO",
+  "answer": "Esthesioneuroblastoma",
+  "sortOrder": 16
+ },
+ {
+  "specialty": "ENT",
+  "clue": "A rare, slow-growing benign tumor that develops on the main nerve leading from the inner ear to the brain, impairing balance and hearing.",
+  "scrambled": "ILARVUSETB OHAWASNCNM",
+  "answer": "Vestibular schwannoma",
+  "sortOrder": 17
+ },
+ {
+  "specialty": "ENT",
+  "clue": "A rare benign tumor of the modified apocrine glands of the ear canal causing hearing loss and a sensation of ear fullness and has the potential for malignant transformation.",
+  "scrambled": "UNMEOUCRIS HEOIRCLPMOP NEAMDAO",
+  "answer": "Ceruminous pleomorphic adenoma",
+  "sortOrder": 18
+ },
+ {
+  "specialty": "ENT",
+  "clue": "A congenital benign skin cyst that develops in the mastoid bone and, with progressive growth, may cause hearing loss, dizziness, and damage to nearby facial nerves.",
+  "scrambled": "TLSOETCAOEMHA",
+  "answer": "Cholesteatoma",
+  "sortOrder": 19
+ }
+]

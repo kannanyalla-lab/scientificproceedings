@@ -1,0 +1,140 @@
+type: Original Research
+pages: 12-17
+title: External validation of the Sudbury Vertigo Risk Score in acute vertigo: a retrospective cohort study from a South Indian tertiary emergency department
+authors: Gokul B (a); Saisaranya (a); Shameem KU (a)
+aff a: Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Saisaranya, Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drsaisaranya@gmail.com
+keywords: acute vertigo; central vertigo; posterior circulation stroke; dizziness; clinical decision rule; risk stratification; stroke; external validation
+image: a02-f2.jpg
+--- abstract Background
+Acute vertigo accounts for 5-10% of emergency department (ED) visits globally. Differentiating central from peripheral aetiology remains diagnostically challenging. The Sudbury Vertigo Risk Score (SVRS), developed in Canadian EDs, has not been validated in South Asian populations.
+--- abstract Objectives
+To retrospectively validate the SVRS for risk stratification of central versus peripheral vertigo in a South Indian tertiary ED using MRI-confirmed outcomes.
+--- abstract Methods
+This retrospective cohort study used electronic medical record (EMR) data at KIMSHEALTH ED, Thiruvananthapuram, collected between January and December 2025. The sample size (n=206) was power-calculated based on the parent Canadian SVRS study (AUROC 0.81, α=0.05, power 80%, prevalence 23%). A stratified random sample was extracted from 876 eligible records. SVRS was calculated retrospectively from EMR-documented clinical data. The reference standard was MRI Brain with diffusion weighted imaging (DWI) and apparent diffusion coefficient (ADC) sequences interpreted by neurologists blinded to the study hypothesis.
+--- abstract Results
+Of 1,187 records screened, 206 were included. Central aetiology was confirmed in 23% (n=47). SVRS AUROC 0.86 (95% CI: 0.80-0.91). At optimal threshold (SVRS >8), sensitivity was 91.3%, specificity 77.9%, LR+ 4.13, and LR− 0.11. MRI positivity was 0% (low <5), 4.2% (moderate 5-8), and 55.3% (high >8; p<0.001).
+--- abstract Conclusions
+The SVRS demonstrated excellent diagnostic performance (AUROC 0.86) in a South Indian ED. This study represents the first retrospective external validation of the SVRS in an Indian setting. The tool is simple, requires no equipment, and immediately deployable and may facilitate more rational use of neuroimaging while reducing missed diagnoses of central vertigo.
+--- body
+## Introduction
+Stroke is among the leading causes of death and disability worldwide. The Global Burden of Disease Study 2019 estimated over 12 million new stroke cases annually, with the majority occurring in low- and middle-income countries.^1^ India bears a disproportionate burden, with a crude stroke incidence of 108-172 per 100,000 population per year, and hypertension identified as the single most attributable modifiable risk factor.^2^
+
+Posterior circulation stroke accounts for 20-25% of all ischaemic strokes and frequently presents with acute vertigo, a symptom shared with numerous benign peripheral vestibular disorders. Central causes are responsible for 20-35% of acute vertigo presentations in tertiary EDs, and reliance on clinical gestalt alone results in missed central diagnoses in approximately 35% of cases, even among experienced physicians.^3^
+
+Existing clinical decision tools carry significant limitations in the Indian context. The HINTS examination (Head Impulse, Nystagmus, Test of Skew) has been widely used in ED practice.^4^ The ABCD² score, originally designed for transient ischaemic attack (TIA) risk stratification, performs poorly in posterior circulation events.^5^ Importantly, no risk stratification tool has been externally validated in Indian or South Asian populations, where the high prevalence of hypertension and diabetes may substantially alter pre-test probability of central vertigo.
+
+The Sudbury Vertigo Risk Score (SVRS) was developed by Glover et al. and subsequently validated in a Canadian multicentre cohort.^6,7^ The seven-component score incorporates vascular risk factors - male sex (+1), age >65 (+1), diabetes (+1), hypertension (+3) - and neurological findings including motor or sensory deficits (+5), cerebellar signs (+6), and benign paroxysmal positional vertigo (−5). Scores <5 indicate low stroke probability, scores 5-8 moderate risk, and scores >8 high risk warranting urgent neuroimaging. To date, the SVRS has not been externally validated in South Asian populations. Therefore, this study aimed to retrospectively validate the SVRS in a high-volume South Indian ED, evaluate its diagnostic performance against MRI-confirmed outcomes, and characterise MRI positivity rates across risk categories.
+
+## Methods
+### Study design and setting
+We conducted a retrospective observational cohort study using routinely collected electronic medical record (EMR) data at the Emergency Department of KIMSHEALTH, a tertiary care center with 24/7 CT, MRI, neurology, and an advanced stroke program. The study period was from January 1 to December 31, 2025. Institutional Ethics Committee approval was obtained with waiver of individual patient consent because the study involved analysis of pre-existing clinical records.
+
+### Participants and sample size
+Eligible participants were adults aged ≥18 years presenting to the ED with acute vertigo or dizziness within a 72-hour duration. They were identified from ED EMR records. Exclusion criteria included trauma, known intracranial pathology, systolic blood <90 mmHg; Glasgow Coma Scale <15, non-vestibular dizziness (example, hypoglycaemia, sepsis), or incomplete documentation precluding SVRS calculation.
+
+### Sample size and data collection
+Sample size was power-calculated from the parent Canadian SVRS study,^5^ (Expected AUROC 0.81, α=0.05, power 80%, central prevalence 23% minimum n=196.) The minimum required sample size (196 patients) was calculated using the Hanley-McNeil method. A target sample size (of n=206) was set for 5% data-loss allowance. Among 876 eligible records, a stratified random sample based on symptom severity (mild, moderate, and severe) was selected to ensure representative sampling.
+
+The SVRS (Table 1) was calculated retrospectively using clinical data documented at the time of ED presentation, before imaging or specialist review. Component data (neurological signs, vascular risk factors, Dix-Hallpike result) were obtained from structured EMR fields. The reference standard was MRI Brain with DWI/ADC sequences, performed as part of routine clinical care. Table 1 presents SVRS scoring components.
+
+Statistical analyses used SPSS version 26 and MedCalc version 20. AUROC was calculated using DeLong's method (95% CI). The optimal threshold was identified using Youden's Index (J = sensitivity + specificity − 1). Sensitivity, specificity, PPV, NPV, and likelihood ratios (LR+, LR−) were calculated with 95% CIs by Wilson's method. MRI positivity across SVRS risk categories was compared by Pearson's chi-square. Pre-specified subgroup analyses evaluated performance according to age (≥65 vs <65), hypertension, diabetes, and sex. A p value <0.05 was considered statistically significant.
+
+!table
+Clinical Variable | Points | Category
+**Stroke vascular risk factors** | |
+Male sex | +1 | Vascular risk factor
+Age > 65 years | +1 | Vascular risk factor
+Diabetes mellitus | +1 | Vascular risk factor
+Hypertension | +3 | Vascular risk factor (weighted)
+**Neurological risk factors** | |
+Motor or sensory deficit | +5 | Neurological (high weight)
+Cerebellar signs | +6 | Neurological (highest weight)
+*BPPV (positive Dix-Hallpike test) | −5 | Protective - excludes peripheral
+**Score interpretation** | |
+< 0 | Peripheral vertigo likely | Low imaging priority
+1 - 4 | Low stroke probability | Observe and reassess
+5 - 8 | Moderate risk | Consider MRI brain
+> 8 | High stroke probability | Urgent MRI + neurological evaluation
+caption: Table 1. Sudbury Vertigo Risk Score (SVRS) — Components and risk stratification. Source: Glover et al., Ann Emerg Med 2024. *BPPV, benign paroxysmal positional vertigo.
+!end
+
+## Results
+### Baseline characteristics
+Of 1,187 ED records screened, 876 met eligibility criteria, and a stratified random sample of 206 patients was extracted (Figure 1). Mean age was 58.4 ± 13.2 years; 52% were female; 50% were aged ≥65. Hypertension was present in 56% of patients and diabetes in 48.5%. Neurological findings included motor or sensory deficit in 44.7%, cerebellar signs in 43.2%, and positive Dix-Hallpike in 39%. Final diagnoses were peripheral vertigo in 159 patients (77%) and central causes in 47 patients (23%). Baseline characteristics are presented in Table 2.
+
+!fig a02-f1.jpg | Figure 1. Patient flow diagram
+
+!table
+Characteristic | All (N=206) | Peripheral (n=159) | Central (n=47)
+Age, mean ± SD (years) | 58.4 ± 13.2 | 54.8 ± 12.6 | 67.1 ± 10.3*
+Age ≥65, n (%) | 103 (50.0) | 72 (45.3) | 31 (66.0)*
+Female sex, n (%) | 107 (51.9) | 84 (52.8) | 23 (48.9)
+Hypertension, n (%) | 115 (55.8) | 73 (45.9) | 42 (89.4)*
+Diabetes Mellitus, n (%) | 100 (48.5) | 63 (39.6) | 37 (78.7)*
+Motor / Sensory Deficit, n (%) | 92 (44.7) | 48 (30.2) | 44 (93.6)*
+Cerebellar Signs, n (%) | 89 (43.2) | 46 (28.9) | 43 (91.5)*
+BPPV (positive), n (%) | 80 (38.8) | 76 (47.8) | 4 (8.5)*
+**SVRS score, mean ± SD** | **6.2 ± 3.8** | **4.1 ± 2.6** | **11.3 ± 2.1***
+caption: Table 2. Baseline characteristics by final diagnosis (N=206). * p<0.001 vs peripheral vertigo group (chi-square test or independent samples t-test)
+!end
+
+### Diagnostic performance
+The SVRS demonstrated excellent discriminatory ability for identifying central causes of vertigo, with an AUROC of 0.86 (95% CI: 0.80-0.91) (Figure 2). At the optimal threshold (SVRS >8; Youden's J=0.683), sensitivity was 91.3% (95% CI: 79.2-97.6%) and specificity was 77.9% (95% CI: 71.1-83.7%). LR+ was 4.13 (95% CI: 3.01-5.66) and LR− 0.11 (95% CI: 0.04-0.28). Full metrics across thresholds are in Table 3.
+
+!fig a02-f2.jpg | Figure 2. Receiver Operating Characteristic (ROC) curve
+
+!table
+Threshold | Sensitivity % (95% CI) | Specificity % (95% CI) | PPV % (95% CI) | NPV % (95% CI) | LR+ | LR− | J
+>0 | 97.9 (88.7-99.9) | 28.3 (21.7-35.8) | 30.1 (23.5-37.4) | 97.4 (86.5-99.9) | 1.37 | 0.07 | 0.26
+>4 | 93.6 (82.5-98.7) | 63.5 (55.7-70.8) | 46.3 (37.4-55.4) | 96.7 (91.1-99.1) | 2.56 | 0.10 | 0.57
+>8 | 91.3 (79.2-97.6) | 77.9 (71.1-83.7) | 55.3 (43.4-66.7) | 97.5 (93.2-99.3) | 4.13 | 0.11 | 0.683
+>11 | 72.3 (57.4-84.4) | 91.2 (85.8-95.0) | 67.3 (52.9-79.7) | 93.1 (88.2-96.4) | 8.21 | 0.31 | 0.63
+caption: Table 3. Diagnostic Performance of the SVRS Across Score Thresholds. Optimal threshold identified by Youden's Index (J = sensitivity + specificity − 1; J = 0.683). AUROC = 0.86 (95% CI: 0.80-0.91; DeLong's method). PPV = Positive Predictive Value; NPV = Negative Predictive Value; LR = Likelihood Ratio; J = Youden's Index; CI = Confidence Interval.
+!end
+
+### MRI positivity by risk category
+MRI positivity increased progressively (p<0.001), from 0% in the low-risk group (SVRS <5; n=65) to 4.2% in moderate-risk (SVRS 5-8; n=63), and 55.3% in high-risk (SVRS >8; n=78). Results are presented in Table 4 and Figure 3.
+
+!table
+SVRS Risk Category | N (%) | MRI Positive, n (%) | MRI Negative, n (%) | p-value
+Low Risk (SVRS < 5) | 65 (31.5%) | 0 (0.0%) | 65 (100.0%) | —
+Moderate Risk (SVRS 5-8) | 63 (30.6%) | 3 (4.2%) | 60 (95.8%) | <0.001
+**High Risk (SVRS > 8)** | 78 (37.9%) | 43 (55.3%) | 35 (44.9%) | <0.001
+**Total** | 206 (100%) | 46 (22.3%) | 160 (77.7%) | —
+caption: Table 4. MRI Positivity Rates by SVRS Risk Category
+!end
+
+!fig a02-f3.jpg | Figure 3. MRI positivity rates by SVRS risk category
+
+### Subgroup analyses
+The AUROC ranged from 0.81 among patients age <65 to 0.91 in patients with cerebellar signs across all pre-specified subgroups, with no significant interaction effects detected (all p>0.1). Performance was notably higher in hypertensive patients (AUROC 0.88) and those with diabetes (AUROC 0.85), consistent with the +3 weighting of hypertension in the SVRS. No significant interaction effects were observed across the pre-specified subgroups (all p>0.10). Performance remained robust among patients with hypertension (AUROC 0.88) and diabetes mellitus (AUROC 0.85).
+
+## Discussion
+This retrospective study represents the first external validation of the SVRS in a South Asian ED population. The score demonstrated robust discriminatory performance, with an AUROC of 0.86, comparable to or exceeding both the original Canadian derivation cohort (AUROC 0.81) and subsequent Canadian validation (AUROC 0.82). At the optimal threshold, a sensitivity of 91.3% is clinically meaningful. In acute vertigo, where missed central causes carry substantial neurological risk, correctly identifying more than 90% of central cases markedly outperforms unaided clinical judgement, which may miss up to one-third of central presentations.^3^
+
+The stepwise gradient in MRI positivity—0%, 4.2%, and 55.3% across low-, moderate-, and high-risk strata—is the most clinically compelling finding of this study. The absence of MRI-positive cases in the low-risk group (SVRS <5) provides empirical support for safe discharge without routine neuroimaging, corroborating the original Canadian data^6^ and extending this finding to an Indian ED population. Conversely, the 55.3% MRI positivity rate in the high-risk group far exceeds published ED MRI yields from unguided ED practice (2-15%),^8^ reinforcing the validity of SVRS-based risk stratification. Based on our cohort distribution, SVRS-guided triage could reduce inappropriate neuroimaging by approximately 31%, while simultaneously directing MRI resources toward patients with the highest diagnostic yield.
+
+The SVRS offers several advantages over existing tools in the Indian ED context. Unlike the HINTS, it does not require specialist training or neuro-otological expertise, an important consideration given that most Indian EDs lack immediate access to vestibular specialists.^4^ Unlike ABCD², the SVRS was specifically designed for vertigo risk stratification and incorporates neurological findings with clinically appropriate weighting: cerebellar signs (+6) and motor/sensory deficits (+5) dominate the composite score, capturing the neurological signatures most predictive of posterior circulation pathology.^5^ The score can be completed at triage in under two minutes by any trained resident, making it immediately deployable across resource-variable Indian ED settings.
+
+The contribution of the hypertension component (+3) is notable in our cohort, where hypertension prevalence (56%) was substantially higher than in the Canadian derivation population. The SVRS appears well-calibrated for South Asian vascular risk patterns, where hypertension-related cerebrovascular disease is the dominant mechanism of posterior circulation stroke.^8^ Enhanced subgroup performance in hypertensive patients (AUROC 0.88) supports this observation. The high prevalence of diabetes (48.5%) further underscores the tool's relevance in populations with elevated metabolic risk and higher pre-test probability of central vertigo.
+
+Comparison with other tools applied to the same cohort reinforces the superiority of the SVRS. HINTS demonstrated inferior AUROC (0.78 vs 0.86; p=0.009), consistent with its reduced accuracy in non-specialist hands. ABCD² performed poorly (AUROC 0.68), as expected given its derivation for TIA rather than vertigo-specific risk assessment.^4^ The STANDING algorithm performed better (AUROC 0.75), but requires multi-step serial assessment and lacks validation outside European populations.^9^
+
+### Limitations
+Several limitations of the retrospective design must be acknowledged. First, SVRS was calculated from EMR documentation, introducing potential documentation bias, particularly for neurological signs recorded with variable rigour by different clinicians. Second, this single-centre study from a quaternary academic ED may not be generalisable to community or district-level hospitals. Third, while the stratified sample of 206 patients was adequately powered for the primary AUROC analysis, secondary subgroup metrics carry wider confidence intervals and should be interpreted cautiously. Fourth, cases where Dix-Hallpike testing was not performed were classified as BPPV-negative by default, potentially introducing misclassification bias. Fifth, long-term neurological outcomes were not captured. Nonetheless, the retrospective design allowed evaluation of the SVRS in a real-world, uncontrolled clinical environment, free from the Hawthorne effect that may influence prospective studies.^10^ Future priorities include multicentre prospective validation, a pragmatic randomised trial comparing SVRS-guided versus standard neuroimaging strategies, and automated integration of the SVRS into electronic triage systems.
+
+## Conclusion
+In this retrospective South Indian ED cohort, the Sudbury Vertigo Risk Score demonstrated excellent discriminatory performance (AUROC 0.86), high sensitivity (91.3%), and a clinically meaningful stepwise increase in MRI positivity across risk categories. The study provides the first external retrospective validation of the SVRS in an Indian ED population. The score is simple, objective, equipment-free, and immediately deployable at triage, making it a practical tool for rationalising neuroimaging, reducing inappropriate CT/MRI use, and improving early identification of central vertigo across Indian Emergency Medicine. Multicentre validation across diverse ED settings is now warranted to confirm generalisability.
+--- refs
+1. GBD 2019 Stroke Collaborators. Global, regional, and national burden of stroke and its risk factors, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet Neurol. 2021;20(10):795-820.
+2. Behera DK, Rahut DB, Mishra S. Analyzing stroke burden and risk factors in India using data from the Global Burden of Disease Study. Sci Rep. 2024;14(1):22640.
+3. Shah VP, Oliveira J E Silva L, Farah W, Seisa M, Kara Balla A, Christensen A, et al. Diagnostic accuracy of neuroimaging in emergency department patients with acute vertigo or dizziness: A systematic review and meta-analysis for the guidelines for reasonable and appropriate care in the emergency department. Acad Emerg Med. 2023;30(5):517-530.
+4. Nakatsuka M, Molloy EE. The HINTS examination and STANDING algorithm in acute vestibular syndrome: A systematic review and meta-analysis involving frontline point-of-care emergency physicians. PLoS One. 2022;17(5):e0266252.
+5. Navi BB, Kamel H, Shah MP, Grossman AW, Wong C, Poisson SN, et al. Rate and predictors of serious neurologic causes of dizziness in the emergency department. Mayo Clin Proc. 2012;87(11):1080-1088.
+6. Ohle R, Savage DW, Roy D, McIsaac S, Singh R, Lelli D, et al. Development of a clinical risk score to risk stratify for a serious cause of vertigo in patients presenting to the emergency department. Ann Emerg Med. 2025;85(2):122-131.
+7. Van Patot ET, Roy D, Baraku E, Patel K, McIsaac S, Singh R, et al. Validation of the sudbury vertigo risk score to risk stratify for a serious cause of vertigo. Acad Emerg Med. 2025;32(8):863-873.
+8. Happonen T, Nyman M, Ylikotila P, Mattila K, Hirvonen J. Imaging outcomes of emergency MR imaging in dizziness and vertigo: A retrospective cohort study. AJNR Am J Neuroradiol. 2024;45(6):819-825.
+9. Gerlier C, Fels A, Vitaux H, Mousset C, Perugini A, Chatellier G, et al. Effectiveness and reliability of the four-step STANDING algorithm performed by interns and senior emergency physicians for predicting central causes of vertigo. Acad Emerg Med. 2023;30(5):487-500.
+10. Shah VP, Oliveira J E Silva L, Farah W, Seisa MO, Balla AK, Christensen A et al. Diagnostic accuracy of the physical examination in emergency department patients with acute vertigo or dizziness: A systematic review and meta-analysis for GRACE-3. Acad Emerg Med. 2023;30(5):552-578.

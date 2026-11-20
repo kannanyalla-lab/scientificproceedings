@@ -1,0 +1,99 @@
+type: Case Report
+pages: 21-25
+title: Primary cutaneous cryptococcosis mimicking herpes in a renal transplant recipient
+authors: Satish B (a); Meenakshi (a); Remadevi T J (b); Sreeparna Balakrishnan (b); Rajalakshmi A (c); Shymole (d); Syamini (d)
+aff a: Department of Nephrology, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Dermatology, KIMSHEALTH, Trivandrum, Kerala, India.
+aff c: Department of Infectious Disease, KIMSHEALTH, Trivandrum, Kerala, India.
+aff d: Department of Pathology, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Sreeparna Balakrishnan, Department of Dermatology, KIMSHEALTH, Trivandrum, Kerala, India.
+email: sreeparnabalakrishnan@gmail.com
+keywords: Primary cutaneous cryptococcosis; Cryptococcus deneoformans; renal transplantation; herpetiform eruption; lymphatic spread
+image: a05-f6.jpg
+--- abstract Introduction
+Cryptococcosis is a life-threatening opportunistic fungal infection caused by *Cryptococcus neoformans*. Primary cutaneous cryptococcosis (PCC) is a distinct clinical entity resulting from direct percutaneous inoculation.^1,2^ Although it is a recognized cause of localized infection in immunocompetent individuals, PCC is exceptionally rare in immunocompromised patients, in whom disseminated disease is more common. In solid organ transplant (SOT) recipients, cryptococcosis typically develops within the first two years following transplantation, during periods of intense immunosuppression. Late-onset presentation occurring after a decade of graft stability is uncommon and may pose a significant diagnostic challenge.^1^ Furthermore, a herpetiform presentation of PCC can create a significant diagnostic masquerade, potentially resulting in delays in appropriate therapy.
+--- abstract
+This is a case of a 48-year-old woman who presented 14 years after renal transplantation with a background of type 2 diabetes mellitus, hypothyroidism, and hypertension, and a one-day history of grouped, fluid-filled herpetiform lesions over the right forearm. Given the clinical morphology and her immunocompromised status, herpesvirus infection was initially suspected, and she was treated with acyclovir. However, a negative Tzanck smear and lack of clinical improvement prompted diagnostic reassessment. Over the next five days, the cutaneous lesions evolved into necrotic pustules and ulcers, accompanied by significant ipsilateral lymphadenopathy. A thorough history later revealed a thorn prick while gardening, suggesting direct inoculation as the likely route. Skin biopsy and fungal culture confirmed cryptococcosis caused by *Cryptococcus deneoformans*. A comprehensive evaluation for systemic involvement, including pulmonary imaging and cerebrospinal fluid analysis, was negative, confirming primary cutaneous cryptococcosis with lymphangitic spread. Targeted systemic antifungal therapy led to complete resolution of the cutaneous lesions, with healing and atrophic scarring.
+--- body
+## Case report
+A 48-year-old woman from Trivandrum, who had undergone renal transplantation in 2012, presented to the outpatient department with clear, fluid-filled lesions over the right forearm of one day's duration, associated with a burning sensation. She had maintained stable graft function for 14 years. Her medical history included type 2 diabetes mellitus, hypertension, and hypothyroidism. She was receiving tacrolimus and prednisolone; mycophenolate mofetil (MMF) had subsequently been replaced with azathioprine. She reported an episode of fever and abdominal pain a few days before presentation. There was no history of similar lesions elsewhere, recent travel, or recent changes in medication.
+
+## Dermatological examination
+Dermatological examination revealed multiple grouped and discrete, clear, fluid-filled vesicles with a herpetiform distribution over the right forearm near the elbow, on a minimally erythematous background (Figure 1). Given the patient's immunosuppressed status and lesion morphology, herpes simplex virus (HSV) was the most likely diagnosis.
+
+!fig a05-f1.jpg | Figure 1: Multiple grouped and discrete fluid filled vesicles
+
+A Tzanck smear was performed, and the patient was started on oral acyclovir 200 mg twice daily, with the dose selected in view of her elevated serum creatinine (7.6 mg/dL), along with topical acyclovir cream three times daily for one week.
+
+On day 5, the patient returned with no clinical improvement and worsening pain. Vesicles had evolved into pustules and necrotic areas. A repeat Tzanck smear showed sheets of neutrophils and a few acantholytic cells, but no multinucleated giant cells.
+
+On examination at this stage, multiple, discrete, small (pinhead-sized), non-follicular, creamy-yellow pustules were scattered over an erythematous base on the flexural aspect of the forearm. In the central area, several pustules had coalesced to form larger lakes of pus, with yellowish-brown and hemorrhagic crusting overlying the central area (Figures 2 and 3). Edema of the right upper limb and ipsilateral right axillary lymphadenopathy were present.
+
+!fig a05-f2.jpg, a05-f3.jpg | Figures 2 and 3: Multiple pustules coalesced to form lakes of pus
+
+A non-healing ulcer on the right index finger was noted accidentally (Figure 4). Further history revealed that the patient had sustained a thorn prick while gardening, which she initially considered insignificant. This was followed by an unsuccessful incision and drainage procedure at a local hospital.
+
+The thorn prick was considered the likely site of direct inoculation.
+
+!fig a05-f4.jpg | Figure 4: Ulcer on the right index finger
+
+Around the same time, facial lesions also developed. These consisted of:
+
+1. Multiple grouped, well-circumscribed, umbilicated papules and pseudovesicles over the right perioral region near the nasolabial fold. The lesions appeared succulent and fleshy, with central umbilication; some showed yellow crusting and minor erosions on the right perioral area near the nasolabial fold (Figure 5).
+2. A single well-defined umbilicated papule over the left cheek.
+
+!fig a05-f5.jpg | Figure 5. Umbilicated papules and pseudovesicles on the right perioral area
+
+## Differential diagnosis
+1. Based on the evolution and morphology of the lesions in an immunocompromised patient, the differential diagnoses included: deep fungal infections, particularly cryptococcosis and sporotrichosis.
+2. Pyoderma gangrenosum
+3. Atypical mycobacterial infection
+
+## Laboratory and histopathological evaluation
+Laboratory investigations showed a white blood cell count of 17,500 cells/mm^3^, C-reactive protein of 304 mg/L, and serum creatinine of 8 mg/dL. Gram staining of the lymph node tissue showed no organisms, and MTB GeneXpert was negative. Blood cultures were sterile.
+
+Histopathological examination of the skin biopsy showed dense nodular suppurative inflammation with a mixed lymphocytic and neutrophilic infiltrate. Foci of granulomatous inflammation comprising epithelioid histiocytes and multinucleated giant cells were also present. Numerous encapsulated rounded yeast forms were seen in groups. The yeasts exhibited prominent pericellular halos, with some showing a bilaminar appearance (Figure 6). On Gomori methenamine silver (GMS) staining, the fungal elements stained jet black against a pale green to bluish background (Figure 7). Mucicarmine staining highlighted the acidic mucopolysaccharide capsule, which stained a vibrant pink color (Figure 8). Periodic acid-Schiff (PAS) staining demonstrated fungal cell walls as bright magenta-purple structures (Figure 9).
+
+!fig a05-f6.jpg | Figure 6: On HPE
+
+Fungal culture on Sabouraud dextrose agar (SDA) produced creamy, glistening, highly mucoid colonies, consistent with a thick polysaccharide capsule (Figure 10).
+
+The skin biopsy was reported as showing *Cryptococcus*, while tissue biopsy demonstrated cryptococcal-like fungal elements.
+
+Matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) identified the organism as *Cryptococcus deneoformans*.
+
+Serum cryptococcal antigen was negative. CT imaging of the chest & head showed no significant abnormality apart from pleural effusion. Cerebrospinal fluid (CSF) analysis showed no sign of infection; CSF cryptococcal antigen was negative, and India ink staining was also negative. These findings, together with the absence of pulmonary or CNS involvement, supported a diagnosis of primary cutaneous cryptococcosis.
+
+!fig a05-f7.jpg | Figure 7: Fungi appear jet black against a pale green or bluish background
+
+!fig a05-f8.jpg | Figure 8: On Mucicarmine staining
+
+!fig a05-f9.jpg | Figure 9: On PAS Staining
+
+!fig a05-f10.jpg | Figure 10: SDA culture
+
+## Final diagnosis
+A diagnosis of primary cutaneous cryptococcosis caused by *Cryptococcus deneoformans* in an immunocompromised host, with lymphangitic spread, was made.
+
+The patient was treated with intravenous conventional amphotericin B at a dose of 50 mg/day for 14 days, along with flucytosine 1250 mg every 48 hours.
+
+!fig a05-f11.jpg | Figure 11: Post-treatment picture
+
+## Discussion
+Primary cutaneous cryptococcosis is a rare condition characterized by localized skin eruptions with no evidence of systemic involvement.^1,2^ It is caused by fungi of the genus *Cryptococcus* - *C. neoformans* / *C. deneoformans*.^3^ It occurs when the fungus is inoculated directly into the skin through a traumatic injury - like our patient's thorn prick - introducing the fungus into the dermis from environmental sources such as soil or bird droppings. It manifests most commonly as papules, ulcers, or cellulitis; an initial presentation with vesicles is uncommon.^4,5^
+
+The case highlights that, in transplant recipients, initial grouped "vesicle-like" lesions are not always herpes; they can be a "sentinel" (the first warning sign) of a potentially life-threatening fungal infection.
+
+This case adds to the limited literature on 'sporotrichoid' cryptococcosis, emphasizing that environmental inoculation can mimic traditional 'rose gardener's disease' in high-risk patients.
+
+In immunocompromised patients, the skin can provide a window for early diagnosis. By identifying the "sentinel" skin lesions through biopsy, we were able to establish the diagnosis and initiate appropriate treatment.
+
+PCC is more commonly described in immunocompetent individuals, making its occurrence as a localized cutaneous and lymphatic infection in an immunosuppressed renal transplant recipient particularly unusual.
+
+The case also presented a diagnostic dilemma between an infectious and an inflammatory process. The ulceration following the thorn prick and the history of an unsuccessful incision and drainage procedure raised the possibility of pyoderma gangrenosum. However, biopsy resolved the dilemma and helped avoid potentially inappropriate treatment with steroids.
+--- refs
+1. Zorman JV, Zupanc TL, Parac Z, Cucek I. Primary cutaneous cryptococcosis in a renal transplant recipient: case report. Mycoses. 2010;53(6):535-7.
+2. Panza F, Montagnani F, Baldino G, Custoza C, Tumbarello M, Fabbiani M. Primary Cutaneous Cryptococcosis in an Immunocompetent Patient: Diagnostic Workflow and Choice of Treatment. Diagnostics (Basel). 2023;13(19):3149. doi:10.3390/diagnostics13193149
+3. Neuville S, Dromer F, Morin O, Dupont B, Ronin O, Lortholary O, et al.; French Cryptococcosis Study Group. Primary cutaneous cryptococcosis: a distinct clinical entity. Clin Infect Dis. 2003;36(3):337-47.
+4. Noguchi H, Matsumoto T, Kimura U, Hiruma M, Kusuhara M, et al. Cutaneous cryptococcosis. Med Mycol J. 2019;60(4):101-7. doi:10.3314/mmj.19.008
+5. Belda W Jr, Casolato ATS, Luppi JB, Passero LFD, Criado PR. Primary cutaneous cryptococcosis caused by Cryptococcus gattii in elderly patient. Trop Med Infect Dis. 2022;7(9):206. doi:10.3390/tropicalmed7090206

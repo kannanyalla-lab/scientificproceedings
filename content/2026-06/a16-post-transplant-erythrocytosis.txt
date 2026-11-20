@@ -1,0 +1,91 @@
+type: Case Report
+pages: 72-74
+title: Late-onset post-transplant erythrocytosis following living donor renal transplantation
+authors: Sayak Premkumar (a); Mathew Thomas (a)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Sayak Premkumar, Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: sayak1494@gmail.com
+keywords: post-transplant erythrocytosis; renal transplantation; polycythemia, secondary; phlebotomy; renal allograft
+image: a16-f3.jpg
+--- abstract Background
+Post-transplant secondary erythrocytosis (PTE) is an uncommon but well-recognized complication after renal transplantation, characterized by persistent elevation of hemoglobin and hematocrit in patients with a functioning renal allograft. It typically develops within the first two years post-transplant, although delayed presentations can also occur.
+--- abstract Case presentation
+A 53-year-old male with long-standing type 2 diabetes mellitus, hypertension, coronary artery disease, and diabetic nephropathy progressed to end-stage renal disease requiring maintenance hemodialysis in 2019. He underwent a living unrelated donor renal transplantation on April 13, 2021 and was maintained on tacrolimus, mycophenolate mofetil, and prednisolone.
+
+Four years after transplantation, routine follow-up revealed erythrocytosis with hemoglobin of 17 g/dL and hematocrit of 56.5%. Renal allograft function was preserved with serum creatinine of 0.8 mg/dL. Evaluation showed a serum erythropoietin level of 14.3 mIU/mL. JAK2 mutation was not detected. Ultrasonography showed a normal transplant kidney in the right iliac fossa, retained native kidneys, and no splenomegaly. After excluding primary myeloproliferative disorders, a diagnosis of late-onset post-transplant erythrocytosis was established.
+--- abstract Management and outcome
+The patient underwent therapeutic phlebotomy for hematocrit control. A total of ten sessions were performed, with approximately 350 mL of blood removed per session. Following treatment, hemoglobin decreased from 17 g/dL to 13.1 g/dL and hematocrit reduced from 56.5% to 46%.
+--- abstract Conclusion
+This uncommon case highlights a delayed presentation of post-transplant erythrocytosis occurring four years after successful renal transplantation. Excellent graft function and retained native kidneys may contribute to persistent erythropoiesis. Long-term hematological surveillance remains important even in clinically stable transplant patients.
+--- body
+## Introduction
+Kidney transplantation is the preferred treatment for end-stage renal disease and usually corrects the anemia associated with chronic kidney disease. However, a subset of recipients develop post-transplant erythrocytosis (PTE), defined as persistent elevation of hemoglobin (>16.5 g/dL in men and 16 g/dL in women) or hematocrit (>51%) after renal transplantation.^1^
+
+PTE occurs in approximately 8–15% of renal transplant recipients and usually develops within 8–24 months after transplantation.^2^ Persistent erythrocytosis can increase blood viscosity and may predispose patients to thromboembolic complications.^1^
+
+The pathogenesis of PTE is multifactorial. It involves persistent erythroid production by retained native kidneys together with normal erythropoietin production by the transplanted kidney, activation of the renin–angiotensin system, increased androgen activity, and restoration of bone marrow responsiveness following correction of uremia.^1,2^
+
+We report a case of late-onset post-transplant erythrocytosis occurring four years after living unrelated renal transplantation in a patient with excellent graft function who required repeated therapeutic phlebotomy.
+
+## Case presentation
+A 53-year-old male with type 2 diabetes mellitus for 18 years, hypertension, coronary artery disease with previous inferior wall myocardial infarction, and diabetic retinopathy developed end-stage renal disease secondary to presumed diabetic nephropathy.
+
+He was initiated on maintenance hemodialysis in October 2019 and underwent living unrelated donor renal transplantation on April 13, 2021. The donor was a 40-year-old female. The postoperative period was uneventful, with immediate graft function.
+
+He was maintained on triple immunosuppressive therapy consisting of:
+
+- Tacrolimus
+- Mycophenolate mofetil
+- Prednisolone
+
+Four years after transplantation, he was detected to have erythrocytosis.
+
+Investigations revealed:
+
+- Hemoglobin: 17 g/dL
+- Hematocrit: 56.5%
+- Serum creatinine: 0.8 mg/dL
+- Serum erythropoietin: 14.3 mIU/mL (normal)
+- JAK2 mutation analysis: Negative
+
+Ultrasonography showed a well-functioning transplant kidney in the right iliac fossa, retained native kidneys, and no splenomegaly.
+
+!fig a16-f1.jpg | Figure 1. Retained native kidneys.
+
+The clinical and laboratory findings supported a diagnosis of late-onset post-transplant erythrocytosis.
+
+### Management
+The patient was not receiving an angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker at presentation.
+
+Therapeutic phlebotomy was initiated to reduce hematocrit. A total of ten sessions were performed, with approximately 350 mL of blood removed during each session.
+
+Following treatment:
+
+- Hemoglobin reduced to 13.1 g/dL
+- Hematocrit reduced to 46%
+
+## Discussion
+Post-transplant erythrocytosis (PTE) is a well-recognized hematological complication following renal transplantation. While chronic kidney disease is commonly associated with anemia, restoration of renal function may occasionally result in excessive erythropoiesis.^2^
+
+The pathogenesis of PTE is multifactorial. Both retained native kidneys and the transplanted kidney may contribute to persistent erythropoietin secretion, leading to stimulation of erythroid progenitor cells and increased red blood cell production.^1^ Activation of the renin–angiotensin–aldosterone system (RAAS) plays a central role in the development of PTE. Increased angiotensin II activity promotes erythropoiesis by stimulating erythropoietin release and enhancing erythroid progenitor proliferation. Angiotensin II may also influence growth factors such as insulin-like growth factor-1, further supporting erythropoiesis.^1,2^
+
+!fig a16-f2.jpg | Figure 2. Spleen.
+
+Successful transplantation and correction of uremia restore bone marrow responsiveness to erythropoietin by eliminating inhibitory factors present during chronic kidney disease. Increased androgen activity may additionally enhance erythropoietin production and erythroid precursor sensitivity.^2^
+
+Recognized risk factors for PTE include male sex, excellent graft function, retained native kidneys, and absence of rejection episodes.^2^ Our patient demonstrated several of these factors, including preserved graft function with a serum creatinine level of 0.8 mg/dL and retained native kidneys.
+
+The erythropoietin level of 14.3 mIU/mL was considered inappropriately normal in the presence of elevated hemoglobin and hematocrit levels, supporting dysregulated erythropoiesis and making primary erythrocytosis less likely.
+
+!fig a16-f3.jpg | Figure 3. Transplanted kidney.
+
+The main differential diagnosis considered was polycythemia vera. Negative JAK2 mutation testing, absence of splenomegaly, and the clinical background favored secondary erythrocytosis related to renal transplantation. ACE inhibitors and angiotensin receptor blockers are considered first-line therapy due to suppression of the renin–angiotensin pathway.^2,3^ Therapeutic phlebotomy remains useful for hematocrit reduction in selected patients. Our patient showed a good hematological response following repeated phlebotomy sessions.
+
+This case emphasizes that post-transplant erythrocytosis may occur even years after transplantation, highlighting the need for continued long-term monitoring.
+
+## Conclusion
+Post-transplant erythrocytosis is an important complication that may occur despite excellent renal graft function. Although it is usually seen early after transplantation, delayed presentations should be recognized. Persistent erythropoietin production from retained native kidneys and transplanted kidney, along with restored bone marrow responsiveness, may contribute to its development. Exclusion of primary hematological disorders is essential, and appropriate management helps prevent complications associated with erythrocytosis.
+--- refs
+1. Vlahakos DV, Marathias KP, Agroyannis B, Madias NE. Posttransplant erythrocytosis. Kidney Int. 2003;63(4):1187–1194.
+2. Alzoubi B, Kharel A, Machhi R, Aziz F, Swanson KJ, Parajuli S. Post-transplant erythrocytosis after kidney transplantation: a review. World J Transplant. 2021;11(6):220–230.
+3. Kidney Disease: Improving Global Outcomes (KDIGO) Transplant Work Group. KDIGO clinical practice guideline for the care of kidney transplant recipients. Am J Transplant. 2009;9(Suppl 3):S1–S155.

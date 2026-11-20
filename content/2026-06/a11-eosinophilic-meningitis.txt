@@ -1,0 +1,95 @@
+type: Case Series
+pages: 54-57
+title: Pediatric eosinophilic meningitis due to Angiostrongylus cantonensis: Diagnostic clues from three children
+authors: Nikhitha Polakampalli (a); Greeshma Baby (a); Kalpana D (a); Karthika Ajit V (a); Gisi Shibu (b); Shiju Kumar C (b)
+aff a: Department of Pediatric Neurology, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Pediatrics, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Kalpana D, Department of Pediatric Neurology, KIMSHEALTH, Trivandrum, Kerala, India.
+email: vijaykalpana10@gmail.com
+keywords: eosinophilic meningitis; Angiostrongylus cantonensis; pediatric; cerebrospinal fluid; albendazole; snail exposure
+image: a11-f1.jpg
+--- abstract Background
+Eosinophilic meningitis (EM) is a rare pediatric condition characterized by ≥10 eosinophils/mm^3^ or >10% of total cerebrospinal fluid (CSF) leukocytes. The most common cause worldwide is infection with the nematode *Angiostrongylus cantonensis*.
+--- abstract Methods
+We describe three pediatric cases of eosinophilic meningitis admitted to a tertiary care center in Trivandrum, Kerala.
+--- abstract Results
+All patients presented with prolonged fever and meningitis unresponsive to conventional antibiotic therapy. Key laboratory findings included marked peripheral eosinophilia and CSF eosinophilia. All patients had a history of environmental exposure to snails. The diagnosis was confirmed by positive CSF quantitative polymerase chain reaction (qPCR) for *A. cantonensis*. Neuroimaging findings were varied, from normal to punctate ischemia. Treatment with a 14-day course of albendazole combined with corticosteroids led to complete clinical recovery in all cases.
+--- abstract Conclusion
+Pediatric eosinophilic meningitis remains a diagnostic challenge, and requires a high index of clinical suspicion, particularly in regions such as Kerala where exposure to intermediate hosts such as snails is common. Clinicians should consider this diagnosis in children presenting with prolonged fever and features of subacute meningitis that fail to respond to conventional antibiotic therapy.
+
+Our case series highlights three important diagnostic considerations: (1) the need for serial monitoring of peripheral absolute eosinophil counts, as initial counts may be normal; (2) the importance of direct communication with the pathologist to specifically screen for eosinophils in CSF smears, which may otherwise be overlooked in routine automated counts; (3) elicitation of environmental exposure history, particularly contact with snails or slugs.
+--- body
+## Introduction
+Eosinophilic meningitis is defined by the presence of ≥10 eosinophils/mm^3^ in the cerebrospinal fluid (CSF) or eosinophils accounting for ≥10% of total CSF leukocytes.^1^ The condition is rare in India, with only a limited number of pediatric cases reported in the literature.^2^ The most common cause worldwide is central nervous system (CNS) infection with helminthic parasites, particularly *Angiostrongylus cantonensis*.^3^
+
+*A. cantonensis* has a complex life cycle in which rats serve as definitive hosts and molluscs, including snails and slugs, act as intermediate hosts. Humans acquire the infection accidentally by ingesting raw or undercooked snails, contaminated vegetables, or paratenic (transport) hosts such as freshwater prawns and crabs.^4^ Following ingestion, larvae crossing the intestinal mucosa may reach the CNS, where they cause mechanical damage (tissue injury) or immune-mediated inflammatory responses. Humans are dead-end hosts, and the parasite is unable to complete its life cycle within the human body.
+
+Other parasites causing eosinophilic meningitis include *Gnathostoma spinigerum, Baylisascaris procyonis,* and *Ascaris lumbricoides*. Less commonly, eosinophilic meningitis may be caused by viral, bacterial, or fungal infections, notably coccidioidomycosis. In non-endemic regions, the differential diagnosis includes hypereosinophilic syndrome, malignancy, drug reactions, and sarcoidosis.
+
+Clinical manifestations typically develop 1–3 weeks after exposure and may include prolonged fever, headache, irritability, bulging fontanelle, meningeal signs, cranial nerve palsy, and ataxia. The diagnosis is supported by investigations including that for peripheral eosinophilia, CSF eosinophilia, and molecular detection of *A. cantonensis* by polymerase chain reaction (PCR). Serological testing may be helpful but is limited by cross-reactivity with other helminthic infections.^10^
+
+The optimal treatment strategy remains under debate: corticosteroids alone, albendazole monotherapy, or combination regimens have all been used, though concerns exist about anthelmintic-induced inflammation. However, most reported outcomes are favorable.^11^ Treatment duration is typically two weeks.^12^
+
+Pediatric eosinophilic meningitis poses a significant diagnostic challenge because its clinical presentation frequently overlaps with that of bacterial or viral meningitis, often resulting in delayed recognition and appropriate therapy.^13^
+
+We report three pediatric cases of *A. cantonensis* eosinophilic meningitis from Kerala, highlighting key clinical features, diagnostic challenges, and important lessons for early recognition.
+
+## Cases description
+!table
+Parameter | Case 1 | Case 2 | Case 3
+Age / Sex | 14-month-old boy | 8-month-old girl | 11-year-old boy
+Presenting complaints | Fever for 10 days; lethargy, irritability and poor oral intake for 2 days | Fever for 12 days; acute onset squint | Fever for 10 days; headache and vomiting for 3 days; diplopia for 1 day
+On examination | Irritable; bulging anterior fontanelle; no papilledema | Irritable; bulging anterior fontanelle; no papilledema; right lateral rectus palsy | Neck stiffness; no papilledema
+Clinical course and clues leading to diagnosis | Initially treated as bacterial meningitis. Owing to poor response to antibiotics after 5 days and progressively increasing eosinophilia on serial blood counts, lumbar puncture was repeated and the pathologist was specifically requested to examine the CSF smear for eosinophils | Peripheral eosinophilia on CBC prompted a request to the pathologist to assess the CSF smear for eosinophils | Received intravenous ceftriaxone for two days before CSF analysis, which was suggestive of partially-treated bacterial meningitis; a total of 10 days of ceftriaxone was given and the child was clinically well at discharge. Two days later he developed squint with severe neck stiffness and restriction of neck movements. Postinfectious acute disseminated encephalomyelitis (ADEM) was suspected; however, MRI brain was normal. Increasing eosinophilia compared with baseline prompted further evaluation
+**Blood investigations** | Initial → Repeat | Single | Initial → Repeat
+WBC (cells/mm^3^) | 13,600 → 21,000 | 20,500 | 10,000 → 14,100
+N%; L%; E% | 40; 48; 7 → 42; 35; 19 | 32; 37; 25 | 70; 25; 6 → 43; 25; 25
+AEC (cells/mm^3^) | 816 → 4000 | 5290 | 590 → 3480
+CRP (mg/L) | 0.8 → 1.2 | 0.6 | 0.6 → 0.6
+**Serology** | | |
+Dengue, scrub typhus PCR, Leptospira IgM, Salmonella typhi IgM, HIV | All negative | All negative | All negative
+**CSF** | Initial → Repeat | Single | Initial → Repeat
+TC (cells/mm^3^) | 481 → 295 | 189 | 288 → 466
+N%, L%, E% | 45; 55 → 18; 53; 29 | 8; 78; 13 | 21; 78; 1 → 3; 59; 38
+Glucose (mg/dL) | 51 → 54 | 25 | 35 → 59
+Protein (mg/dL) | 53 → 77 | 39 | 59 → 36
+Gram stain, culture, FilmArray, CBNAAT | Negative (both) | Negative | Negative (both)
+MRI brain | Nonspecific T2 hyperintensities in the centrum semiovale without diffusion restriction | Punctate foci of diffusion restriction in left thalamus, hippocampus, inferior and middle frontal gyri with T2 hyperintensities in parieto-occipital region | Normal (initial and repeat)
+*Angiostrongylus cantonensis* qPCR in CSF | Positive | Positive | Positive
+History of snail exposure | Yes (child playing with snails) | Yes (drinks water from a garden pipe which has snails in it) | Yes (plays in a water tank having snails)
+Geographic location of patient | South Kerala | North Kerala | South Tamil Nadu
+Month of the year at presentation | October | December | December
+Treatment with albendazole (20 mg/kg/day) and prednisolone (2 mg/kg/day) for 2 weeks | Yes | Yes | Yes
+Outcome | Complete recovery | Complete recovery | Complete recovery
+caption: Table 1. Clinical details of three cases of pediatric eosinophilic meningitis. AEC, absolute eosinophil count; TC, total count; N, neutrophils; L, lymphocytes; E, eosinophils.
+!end
+
+## Discussion
+In our series, three children (two boys and one girl) from different geographic regions presented to a tertiary care hospital in Trivandrum with prolonged fever and neurological symptoms. Two children were below two years of age, consistent with prior pediatric reports.^14^ All had a history of exposure to snails, reinforcing the epidemiological association with *Angiostrongylus cantonensis* infection.^1^
+
+!fig a11-f1.jpg | Figure 1. Cerebrospinal fluid smear showing eosinophil with pink cytoplasm (circle) among lymphocytes (arrows).
+
+Neurological features included irritability, poor feeding, bulging anterior fontanelle in infants, and unilateral lateral rectus palsy in two children. Neurological symptoms developed approximately one week after the onset of fever.
+
+Peripheral blood eosinophilia was pivotal in guiding further evaluation; however, in two children, initial blood and cerebrospinal fluid (CSF) investigations were inconclusive, leading to an initial diagnosis of bacterial meningitis. Persistent fever and neurological symptoms prompted repeat investigations, which demonstrated rising peripheral eosinophils and >10% CSF eosinophils, fulfilling the diagnostic criteria for eosinophilic meningitis.^1^
+
+MRI findings included punctate diffusion restriction and nonspecific T2 hyperintensities, with one child showing a normal MRI. Similar radiological findings have been described previously in literature.^1^ All children recovered without neurological sequelae following treatment with a standard regimen of albendazole and oral corticosteroids, consistent with favorable outcomes reported in pediatric eosinophilic meningitis.^1^ At the last follow-up, all children were asymptomatic, underscoring the importance of clinical vigilance, repeating investigations when initial findings are inconclusive, and instituting timely therapy in endemic regions.
+
+## Conclusion
+Pediatric eosinophilic meningitis remains a diagnostic challenge in endemic regions such as Kerala, where exposure to intermediate hosts, particularly snails, is common. Clinicians should consider this diagnosis in children presenting with subacute meningitis that is unresponsive to antibiotics. Our series emphasizes three diagnostic pillars: the importance of serial eosinophil counts, as initial peripheral blood and cerebrospinal fluid (CSF) eosinophilia may be absent or overlooked; the need for direct communication with pathologists to ensure careful examination of CSF smears for eosinophils; and the value of maintaining a high index of suspicion by integrating epidemiological exposures, evolving laboratory findings, and interdisciplinary dialogue to enable timely recognition and management.
+--- refs
+1. Lo Re V, Gluckman SJ. Eosinophilic meningitis. Semin Neurol. 2002;22(3):309-320.
+2. Choudhury J, Saha S, Banerjee S, Ghosh A, Dutta S. Pediatric eosinophilic meningitis: case reports from India. Indian J Pediatr. 2018;85(6):490-493.
+3. Wang QP, Lai DH, Zhu XQ, Chen XG, Lun ZR. Human angiostrongyliasis. Lancet Infect Dis. 2008;8(10):621-630.
+4. Alicata JE. Biology and distribution of Angiostrongylus cantonensis. Parasitol Today. 1991;7(12):406-408.
+5. Graeff-Teixeira C, Morera P, Lenzi HL, Thiengo SC, Andrade EM. Update on eosinophilic meningoencephalitis and Angiostrongylus cantonensis. Clin Microbiol Rev. 2009;22(3):483-492.
+6. Sawanyawisuth K, Chotmongkol V, Lumlertgul N, Tiamkao S, Kanpittaya J. Clinical features of eosinophilic meningitis caused by Gnathostoma spinigerum. J Neurol Sci. 2002;197(1-2):69-72.
+7. Johnson RH, Einstein HE, Cohn DL, Galgiani JN, Ampel NM. Coccidioidal meningitis. Clin Infect Dis. 2006;42(1):103-107.
+8. Kuberski T, Wallace JM, Chan J, Rosen L, Cho SY. Eosinophilic meningitis: differential diagnosis. Clin Infect Dis. 2000;31(3):554-560.
+9. Tsai HC, Liu YC, Kunin CM, Lai PH, Lee SS, Chen YS. Clinical manifestations of eosinophilic meningitis due to Angiostrongylus cantonensis. Am J Trop Med Hyg. 2001;65(4):294-299.
+10. Chen JX, Chen MX, Ai L, Xu XL, Chen SH, Cai YC, et al. PCR diagnosis of Angiostrongylus cantonensis infection. Parasitol Res. 2011;109(2):493-498.
+11. Chotmongkol V, Sawanyawisuth K, Thavornpitak Y, Lumlertgul N, Kanpittaya J. Corticosteroid treatment of eosinophilic meningitis. Clin Infect Dis. 2002;34(6):804-806.
+12. Sawanyawisuth K, Chotmongkol V, Lumlertgul N, Tiamkao S, Kanpittaya J. Treatment duration in eosinophilic meningitis. J Neurol Sci. 2004;219(1-2):125-128.
+13. Singh P, Sharma S, Gupta R, Kumar A, Bhatia R. Pediatric eosinophilic meningitis: diagnostic challenges. J Child Neurol. 2019;34(5):287-292.
+14. Wang QP, Lai DH, Zhu XQ, Chen XG, Lun ZR. Human angiostrongyliasis. Lancet Infect Dis. 2008;8(10):621-630.
+15. Graeff-Teixeira C, Morera P, Lenzi HL, Thiengo SC, Andrade EM. Update on eosinophilic meningoencephalitis and Angiostrongylus cantonensis. Clin Microbiol Rev. 2009;22(3):483-492.

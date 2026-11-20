@@ -1,0 +1,69 @@
+type: Case Series
+pages: 42-45
+title: Unmasking the unusual: Atypical manifestations of gastric carcinoma and their diagnostic challenges
+authors: Devika Madhu (a); Simna L (a); Madhu Sasidharan (a); Jayaprakash Madhavan (a); Rachel Abraham (a); Arun P (a); Harish Kareem (a); Ajith K. Nair (a)
+aff a: Department of Gastroenterology, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Madhu Sasidharan, Department of Gastroenterology, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drmadhu.sasidharan@kimsglobal.com
+keywords: gastric carcinoma; acrometastasis; triquetral metastasis; orbital metastasis; orbital apex syndrome; signet ring cell carcinoma; hepatoid adenocarcinoma; AFP-producing gastric cancer
+image: a08-f2.jpg
+--- abstract
+Gastric carcinoma is a major contributor to cancer-related morbidity and mortality worldwide and typically presents with upper gastrointestinal symptoms or metastases involving the liver, peritoneum, lungs, and lymph nodes. However, uncommon metastatic sites and rare histological variants may obscure the diagnosis and delay appropriate management. We report three unusual presentations of gastric carcinoma encountered at a tertiary care center.
+
+The first case involved a 57-year-old woman who presented with isolated left wrist pain and was found to have a solitary lytic lesion of the triquetrum. Histopathological examination and immunohistochemistry of the lesion confirmed metastatic adenocarcinoma, leading to the diagnosis of gastric cardia adenocarcinoma with acrometastasis.
+
+The second case was a 36-year-old woman presenting with orbital apex syndrome characterized by headache, ptosis, diplopia, and visual impairment. Subsequent evaluation revealed diffuse gastric wall involvement, and gastric biopsy demonstrated poorly cohesive adenocarcinoma with signet ring cells, establishing the diagnosis of orbital metastasis from gastric carcinoma.
+
+The third case involved a 50-year-old man presenting with jaundice, multiple liver lesions, and markedly elevated serum alpha-fetoprotein levels, initially raising suspicion of hepatocellular carcinoma. Histopathological and immunohistochemical evaluation ultimately revealed hepatoid adenocarcinoma of gastric origin with liver metastases.
+
+These cases highlight the diverse clinical spectrum of gastric carcinoma and emphasize the importance of maintaining a high index of suspicion when evaluating atypical skeletal, orbital, or hepatic lesions. Careful correlation of clinical, radiological, histopathological, and immunohistochemical findings remains crucial for accurate diagnosis, particularly when gastric carcinoma presents in an unusual manner outside the gastrointestinal tract.
+--- body
+## Introduction
+Gastric carcinoma remains one of the most common malignancies worldwide and is a leading cause of cancer-related mortality, particularly in Asia. Despite a declining global incidence, it continues to pose a significant healthcare burden because many patients present with advanced disease at the time of diagnosis. Histologically, gastric adenocarcinoma is broadly classified into intestinal and diffuse types, each exhibiting distinct biological behavior and patterns of spread.
+
+Patients typically present with nonspecific symptoms such as dyspepsia, early satiety, epigastric pain, anorexia, weight loss, anemia, or upper gastrointestinal bleeding. The most common sites of metastasis include the liver, peritoneum, distant lymph nodes, lungs, and bones.^1^ However, gastric carcinoma can occasionally manifest through unusual metastatic sites or rare histological variants, posing considerable diagnostic challenges and often delaying definitive diagnosis.
+
+Rare metastatic manifestations may occasionally precede gastrointestinal symptoms, thereby creating diagnostic dilemmas.^2^ We describe three unusual presentations of gastric carcinoma diagnosed through distinctive histopathological and immunohistochemical findings.
+
+## Case series
+### Case 1: Gastric adenocarcinoma presenting as triquetral acrometastasis
+!fig a08-f1.jpg | Figure 1. PET-CT, coronal plane.
+
+!fig a08-f2.jpg | Figure 2. CECT and PET-CT abdomen. PET-CT: Metabolically active wall thickening in the gastric cardia extending to the gastroesophageal junction with FDG-avid gastric lymph nodes and a solitary FDG-avid lytic lesion in the left triquetrum.
+
+A 57-year-old woman presented with isolated left wrist pain of two months' duration. Imaging revealed an expansile lytic lesion involving the triquetrum. Fine-needle aspiration cytology (FNAC) from the extensor carpi ulnaris tendon suggested a poorly differentiated malignant neoplasm. PET-CT demonstrated metabolically active thickening of the gastric cardia extending to the gastroesophageal junction with a solitary fluorodeoxyglucose (FDG)-avid lytic lesion in the left triquetrum. Gastric biopsy revealed well-differentiated adenocarcinoma. Curettage of the wrist lesion showed lamellar bone infiltrated by malignant glands. Immunohistochemistry demonstrated positivity for CK7 and CK19, confirming metastatic adenocarcinoma consistent with a gastric primary. The final diagnosis was gastric adenocarcinoma with isolated triquetral acrometastasis.
+
+### Case 2: Orbital apex syndrome as the initial manifestation of signet-ring cell gastric carcinoma
+A 36-year-old woman presented with headache, right-sided ptosis, diplopia, and visual impairment. Clinical examination revealed cranial nerve II, III, IV, and VI palsies consistent with orbital apex syndrome. Endoscopic transnasal biopsy of a right orbital apex mass showed a poorly differentiated malignant neoplasm. PET-CT evaluation subsequently identified diffuse gastric wall involvement suggestive of linitis plastica. Histopathological examination of gastric biopsies demonstrated a poorly cohesive carcinoma with signet-ring cell morphology. Correlation of the orbital lesion pathology with the gastric biopsy established the diagnosis of orbital metastasis from diffuse-type gastric adenocarcinoma, an exceptionally rare metastatic presentation.
+
+!fig a08-f3.jpg | Figure 3. Biopsy from friable mass, right optic canal: Poorly differentiated malignant neoplasm.
+
+!fig a08-f4.jpg | Figure 4. OGD scopy biopsy from gastric body: Poorly cohesive carcinoma with signet ring cells.
+
+### Case 3: AFP-producing hepatoid gastric adenocarcinoma
+A 50-year-old man with type 2 diabetes mellitus presented with jaundice, anorexia, weight loss, and multiple liver lesions. Laboratory evaluation revealed markedly elevated serum AFP levels exceeding 100,000 ng/mL, raising suspicion of hepatocellular carcinoma. Upper GI endoscopy was performed to look for varices, but showed an ulceroproliferative lesion along the lesser curvature of the stomach. Endoscopic biopsy of the gastric antral lesion showed poorly differentiated adenocarcinoma. Immunohistochemistry demonstrated BerEP4 positivity, focal Glypican-3 positivity, weak patchy AFP expression, and negativity for CK7 and CK20. These findings supported a diagnosis of gastric adenocarcinoma with hepatoid differentiation (hepatoid adenocarcinoma). The final diagnosis was hepatoid gastric adenocarcinoma with liver metastases.
+
+## Discussion
+The most common sites of metastasis from gastric carcinoma are the liver, peritoneum, distant lymph nodes, lung, and bone.^2^
+
+Acrometastasis accounts for only 0.1% of all osseous metastases and usually indicates an advanced primary malignancy.^4^ Although acrometastasis typically occurs in patients with a known primary malignancy, up to 10% of cases may present as the first clinical manifestation of an occult primary tumor. Gastrointestinal primaries account for only 3-15% of cases of bony metastases. The common sites of acrometastasis are distal phalanges (68.4%), carpal bones (14.2%), and metacarpals (14.2%), followed by other sites (3.2%).^5^ The most frequent primary tumors associated with acrometastases arise from the lung, breast, kidney, colon, rectum, prostate, and liver.
+
+Orbital metastases from gastric carcinoma are exceedingly rare, comprising less than 0.1% of gastric cancer metastases and 2-7% of all orbital tumors.^6^ The most common primary tumors metastasizing to the orbit originate from the breast, lung, prostate, and kidney. The median survival following the diagnosis of orbital metastasis ranges from 3 to 8 months.
+
+Hepatoid adenocarcinoma of the stomach (HAS) is a rare and highly aggressive subtype of gastric cancer, accounting for approximately 0.17–15% of gastric malignancies.^8^ It often presents at an advanced stage and lacks specific clinical features, making early diagnosis difficult. Histologically and immunophenotypically, HAS resembles hepatocellular carcinoma, which can further complicate diagnosis.^9^ Compared with conventional gastric adenocarcinoma, HAS demonstrates more aggressive behavior, a higher tendency for metastasis, and a poorer prognosis.^10^ Owing to its rarity, there is currently no standardized treatment approach, and management is largely based on available evidence and individual patient characteristics.
+
+These cases highlight the remarkable heterogeneity of gastric cancer and underscore the importance of histopathological examination and immunohistochemistry in establishing the diagnosis when presentations are atypical.
+
+## Conclusion
+Gastric carcinoma may initially manifest through rare metastatic sites or uncommon histological variants, often in the absence of significant gastrointestinal symptoms. Recognition of these atypical clinical presentations, along with judicious use of histopathology and immunohistochemistry, is essential for accurate diagnosis and timely management.
+--- refs
+1. Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al. Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2021;71(3):209-249.
+2. Smyth EC, Nilsson M, Grabsch HI, van Grieken NC, Lordick F. Gastric cancer. Lancet. 2020;396(10251):635-648.
+3. Ajani JA, D'Amico TA, Bentrem DJ, Chao J, Corvera C, Das P, et al. Gastric cancer, version 2.2022, NCCN clinical practice guidelines in oncology. J Natl Compr Canc Netw. 2022;20(2):167-192.
+4. Flynn CJ, Danjoux C, Wong J, Christakis M, Rubenstein J, Yee A, et al. Two cases of acrometastasis to the hands and review of the literature. Curr Oncol. 2008;15(5):51-58.
+5. Kerin R. The hand in metastatic disease. J Hand Surg Am. 1987;12(1):77-83.
+6. Font RL, Ferry AP. Carcinoma metastatic to the eye and orbit. I. A clinicopathologic study of 227 cases. Arch Ophthalmol. 1976;94(10):1615-1621.
+7. Goldberg RA, Rootman J. Clinical characteristics of metastatic orbital tumors. Ophthalmology. 1990;97(5):620-624.
+8. Nagai E, Ueyama T, Yao T, Tsuneyoshi M. Hepatoid adenocarcinoma of the stomach: a clinicopathologic and immunohistochemical analysis. Cancer. 1993;72(6):1827-1835.
+9. Metzgeroth G, Ströbel P, Baumbusch T, Reiter A, Hastka J. Hepatoid adenocarcinoma—review of the literature illustrated by a rare case originating in the peritoneal cavity. Onkologie. 2010;33(5):263-269.
+10. Kinjo T, Taniguchi H, Kushima R, Sekine S, Oda I, Saka M, et al. Histologic and immunohistochemical analyses of AFP-producing gastric carcinoma. Am J Surg Pathol. 2012;36(1):56-65.

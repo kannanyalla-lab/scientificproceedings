@@ -1,0 +1,45 @@
+type: Case Report
+pages: 78-80
+title: Steroid-modified dermatophytosis presenting as tinea pseudoimbricata
+authors: Rema Devi TJ (a); Sreeparna Balakrishnan (a)
+aff a: Department of Dermatology, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Sreeparna Balakrishnan, Department of Dermatology, KIMSHEALTH, Trivandrum, Kerala, India.
+email: sreeparnabalakrishnan@gmail.com
+keywords: tinea incognito; tinea pseudoimbricata; dermatophytosis; steroid-modified dermatophytosis; topical corticosteroids; topical corticosteroid abuse
+image: a18-f2.jpg
+--- abstract
+The irrational use of over-the-counter topical corticosteroids has significantly altered the clinical presentation of superficial dermatophytosis by suppressing local cell-mediated immunity and masking classic diagnostic features. This localized immunosuppression gives rise to steroid-modified dermatophytosis, including *tinea incognito* and atypical variants such as *tinea pseudoimbricata*. We present a case of a 45-year-old immunocompetent woman with a 3-month history of extensive, intense pruritus and extensive plaques involving the abdomen, bilateral flanks, and axillary regions following the unsupervised use of a potent topical corticosteroid. Cutaneous examination revealed large, well-demarcated, scaly plaques, with characteristic concentric rings in the axillary regions consistent with *tinea pseudoimbricata* morphology. Management consisted of discontinuation of topical corticosteroids and initiation of systemic and steroid-free topical antifungal therapy, along with symptomatic treatment. This case highlights the diagnostic challenges posed by steroid-modified dermatophytosis and underscores the need for greater awareness and stricter regulation of over-the-counter corticosteroid availability.
+--- body
+## Background
+Superficial dermatophytosis has evolved from a manageable superficial fungal infection into a widespread, recalcitrant epidemic, predominantly fuelled by the unchecked availability and irrational abuse of over-the-counter (OTC) potent topical corticosteroids and fixed-dose combinations. When applied to active dermatophyte infections, these potent anti-inflammatory agents suppress local cell-mediated immunity — the primary defense mechanism against fungal pathogens.^1,2^ This localized immunosuppression facilitates unchecked fungal proliferation and deeper penetration into the stratum corneum, effectively masking the characteristic inflammatory features and inducing highly atypical clinical presentations, collectively termed *tinea incognito*.^1,2,4^ In addition, intermittent application and withdrawal of these agents alter the host-pathogen dynamic, resulting in the development of multiple concentric rings of scaling and erythema, a phenomenon clinically recognized as *tinea pseudoimbricata*.^1,3^ Recognition of these steroid-modified morphologies is essential for avoiding diagnostic pitfalls and managing extensive, deep-seated dermatophytosis.^1,2^
+
+## Case presentation
+A 45-year-old woman residing in Tamil Nadu presented to our dermatology outpatient department with a 3-month history of intense, unremitting itching and progressive skin rashes involving the abdomen, lower abdominal fold, bilateral flanks, and axillary regions.
+
+The patient reported using an over-the-counter potent topical corticosteroid cream obtained directly from a local pharmacy without a prescription. She described a cyclical pattern of temporary symptomatic remission upon application, followed by a severe, exacerbated recurrence of lesions and itching within days of discontinuing the medication. In addition, she observed a change in the morphology of the lesions. She had no known history of diabetes mellitus or immunodeficiencies.
+
+!fig a18-f1.jpg | Figure 1. Increased peripheral activity on the margin of a large lesion on the abdomen.
+
+!fig a18-f2.jpg | Figure 2. Concentric rings in the axillary region, characteristic of tinea pseudoimbricata.
+
+### Examination
+Physical examination revealed large, extensive well-demarcated patches and plaques over the abdomen, bilateral flanks, axillary regions, and lower abdominal folds. The lesions showed dry scaly eczematous central areas within the patch with some areas showing healed excoriations.
+
+Characteristic concentric rings were evident within the patches, most prominently in the axillary area, imparting a characteristic tinea pseudoimbricata morphology.
+
+### Management
+The patient was advised to discontinue all topical corticosteroid preparations, with counselling regarding the possibility of a temporary rebound flare following withdrawal.^1,2^ Given the extensive involvement of multiple anatomical sites and the steroid-modified nature of the infection, systemic oral antifungal therapy was initiated.^1,2^ A non-steroidal, pure topical antifungal agent was prescribed to be applied to the lesions to target superficial clearance.^1,2^ Symptomatic treatment included administration of sedating or non-sedating antihistamines to alleviate severe pruritus, in conjunction with barrier-repairing emollients.^1,2^
+
+## Conclusion
+This case highlights tinea incognito, a steroid-modified dermatophytic infection in which the classical clinical features, such as an active, scaly annular border, are masked by the inappropriate use of topical immunosuppressive agents.^1,2,4^
+
+The widespread over-the-counter (OTC) availability of potent topical corticosteroids (TCS) and fixed-dose combination creams continues to pose a major public health challenge in developing countries.^1,2,3^
+
+Although these medications provide temporary symptomatic relief from pruritus due to their anti-inflammatory properties, they suppress local cell-mediated immunity.^1,2^ This permits unhindered dermatophytic proliferation, altering the characteristic morphology and leading to a diagnostic dilemma known as *tinea incognito*.^1,2^
+
+Awareness of characteristic steroid-modified presentations, including *tinea pseudoimbricata*, is essential for early diagnosis, avoidance of unnecessary treatments, and appropriate management of extensive dermatophytosis.
+--- refs
+1. Zacharopoulou A, Tsiogka A, Tsimpidakis A, Lamia A, Koumaki D, Gregoriou S. Tinea incognito: challenges in diagnosis and management. J Clin Med. 2024;13(11):3267.
+2. Kokandi AA. Tinea incognito. Clin Cosmet Investig Dermatol. 2024;17:993-998.
+3. Verma S, Hay RJ. Topical steroid-induced tinea pseudoimbricata: a striking form of tinea incognito. Int J Dermatol. 2015;54(5):e192-e193.
+4. Holubar K, Male O. Tinea incognita vs. tinea incognito. Acta Dermatovenerol Croat. 2002;10(1):39-40.

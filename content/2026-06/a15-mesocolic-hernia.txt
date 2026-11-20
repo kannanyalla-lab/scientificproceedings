@@ -1,0 +1,46 @@
+type: Case Report
+pages: 69-71
+title: An elusive diagnosis: Congenital right mesocolic hernia associated with intestinal malrotation in a child
+authors: Aiswarya Raveendran Pillai (a); Aswathy Ravikumar (a); Asok Kumar GM (a)
+aff a: Department of Pediatric Surgery, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Aiswarya Raveendran Pillai, Department of Pediatric Surgery, KIMSHEALTH, Trivandrum, Kerala, India.
+email: draiswarya.r@kimsglobal.com
+keywords: intestinal malrotation; right mesocolic hernia; internal hernia; recurrent abdominal pain; Ladd's procedure; abdominal pain
+image: a15-f2.jpg
+--- abstract
+Congenital mesocolic hernias are rare internal hernias associated with intestinal malrotation and can present with nonspecific symptoms, making diagnosis challenging. We report the case of a 7-year-old boy who presented with recurrent episodes of severe colicky abdominal pain and constipation without vomiting. He had undergone laparoscopic appendicectomy three months earlier, but his symptoms persisted despite multiple evaluations. Contrast-enhanced computed tomography (CT) showed clustering of bowel loops on the right side of the abdomen, while an upper gastrointestinal contrast study demonstrated the duodenojejunal junction to the right of the midline, suggestive of intestinal malrotation. Exploratory laparotomy revealed a rare congenital right mesocolic hernia with almost the entire small bowel entrapped within a peritoneal sac lateral to the cecum and ascending colon. A Ladd's procedure was performed, and the child had an uneventful recovery with complete resolution of symptoms. This case highlights the importance of considering rare internal hernias in children with recurrent unexplained abdominal pain.
+--- body
+## Introduction
+Intestinal malrotation is a congenital abnormality occurring in 0.2%–1% of the population. It results from partial or complete failure of normal rotation of the embryologic midgut and includes the full spectrum of rotational anomalies that arise during midgut development.^1,2^ Congenital internal hernias represent one such variant. They occur when the colonic mesentery fails to fuse with the parietal peritoneum, leaving a free peritoneal reflection that creates a potential space through which small-bowel loops may herniate. Entrapment within these abnormal peritoneal recesses can lead to strangulation and intestinal ischemia, making any internal hernia potentially life-threatening.^3^ Because symptoms are often nonspecific, internal hernias are often not correctly diagnosed preoperatively.^4^ Given the rarity of this condition, we report a case of a congenital mesocolic hernia. Notably, despite the child having undergone a prior laparoscopy, the underlying pathology remained undetected.
+
+## Case report
+A 7-year-old boy presented to the outpatient department with complaints of intermittent episodes of severe colicky abdominal pain. There was no history of vomiting, although he had a history of constipation. He was not on any regular medications, had no known allergies, and there was no significant family history.
+
+The child had undergone a laparoscopic appendicectomy three months prior to presentation at our center. Physical examination at presentation was unremarkable. He had previously been evaluated at multiple healthcare facilities, but no definitive diagnosis had been established. A contrast-enhanced computed tomography (CT) scan performed at the referring center demonstrated clustering of bowel loops on the right side of the abdomen, prompting referral to our institution for further evaluation.
+
+A water-soluble contrast study performed at our center revealed the duodenojejunal (DJ) junction to the right of the midline, with the majority of the small bowel loops located on the right side of the abdomen. Free passage of contrast was noted, with no evidence of volvulus (Figure 1).
+
+!fig a15-f1.jpg | Figure 1. Upper gastrointestinal contrast study showing the duodenojejunal flexure to the right of the spine and clumping of loops to the right.
+
+In view of the persistent symptoms and imaging findings, the child was taken up for exploratory laparotomy. Intraoperatively, malrotation of the midgut associated with a right mesocolic hernia was identified. Nearly the entire small intestine, except for the terminal ileum, was found entrapped within a peritoneal sac located lateral to the cecum and ascending colon, with the neck of the sac situated medially. The duodenojejunal junction was noted to lie to the right of the vertebral column (Figure 2).
+
+!fig a15-f2.jpg | Figure 2. Intraoperative image showing entrapment of small-bowel loops within the unsupported segment of the ascending-colon mesocolon.
+
+A Ladd's procedure was performed. The postoperative course was uneventful, and the child recovered well. On follow-up, he remained asymptomatic with complete resolution of abdominal pain.
+
+## Discussion
+Congenital mesocolic hernias comprise the right and left mesocolic variants described by Willwerth and colleagues. The term 'mesocolic' is preferred to the alternative term 'paraduodenal'. A right mesocolic hernia results from failure of the prearterial limb of the midgut to rotate around the superior mesenteric artery, leading to entrapment of small bowel loops by the mesentery of the cecum and the ascending colon.^2^ In contrast, a left mesocolic hernia develops when the unsupported segment of the descending mesocolon (between the inferior mesenteric vein and the posterior parietal colonic attachment) balloons outwards as the small intestine migrates into the left superior portion of the abdominal cavity.^5,6^ In most cases, the cecum completes its rotation and occupies a normal position in the right lower quadrant, while the ileum exits the hernial sac at a variable distance from the ileocecal valve.^2,3^
+
+In our patient, the findings were consistent with a right-sided mesocolic hernia. Left mesocolic hernias are more frequently reported. Right mesocolic hernias are rarer and often more challenging to diagnose. The non-specific clinical presentation and the rarity of the condition frequently lead to diagnostic uncertainty and may occasionally be misattributed to functional or psychological causes.^6^
+
+This case is particularly noteworthy because of the diagnostic difficulty encountered despite prior surgical intervention. The child had undergone laparoscopic appendicectomy at a local hospital three months earlier, yet the underlying congenital anomaly remained unrecognized. This highlights how right mesocolic hernias may be easily overlooked because of their rarity, intermittent nature of symptoms, and absence of acute intestinal obstruction at presentation. The case further underscores that even direct intra-abdominal visualization during previous surgery may fail to identify such anomalies unless they are specifically suspected. Therefore, persistent or recurrent unexplained abdominal pain in children warrants thorough reassessment, and rare congenital internal hernias should remain an important differential diagnosis despite previous normal or inconclusive investigations or surgical exploration.
+
+## Conclusion
+Mesocolic hernias may present either as an acute surgical emergency or as an incidental finding. Surgeons need to be familiar with the embryological basis of mesocolic hernias and their anatomic variations, because both diagnosis and surgical repair depend heavily on this knowledge. A thorough evaluation should be conducted before symptoms of non-specific abdominal pain are attributed to functional causes. Also, timely surgical intervention is crucial to prevent the morbidity and potential mortality associated with acute presentations of mesocolic hernia and resultant small bowel ischemia.
+--- refs
+1. Adams SD, Stanton MP. Malrotation and intestinal atresias. Early Hum Dev. 2014 Dec;90(12):921-925.
+2. Coran AG, Adzick NS, Krummel TM, Laberge JM, Shamberger RC, Caldamone AA, editors. Pediatric Surgery. 8th ed. Philadelphia (PA): Elsevier; 2023. Chapter: Anomalies of intestinal rotation and fixation.
+3. Reddy UMA, Dev B, Santosham R. Internal hernias: surgeons' dilemma unravelled by imaging. Indian J Surg. 2014;76(4):323-8. doi:10.1007/s12262-012-0620-7.
+4. Allert T, Schellerer V. Congenital mesocolic hernia: a case report. J Surg Case Rep. 2024 Apr 26;2024(4). doi:10.1093/jscr/rjae262.
+5. Frediani S, Almberger M, Iaconelli R, Avventurieri G, Manganaro F. An unusual case of congenital mesocolic hernia. Hernia. 2010 Feb;14(1):105-107. doi:10.1007/s10029-009-0564-0.
+6. Schizas D, Apostolou K, Krivan S, Kanavidis P, Katsaros I, Vailas M, et al. Paraduodenal hernias: a systematic review of the literature. Hernia. 2019 Dec;23(6):1187-1197. doi:10.1007/s10029-019-01947-3.

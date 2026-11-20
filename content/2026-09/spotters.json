@@ -1,0 +1,18 @@
+[
+ {"caseNo": 1, "imageUrl": "/issues/2026-09/fig/sp-1.jpg", "images": ["/issues/2026-09/fig/sp-1.jpg"],
+  "question": "An 8-year-old boy presented with pain and swelling of the distal right leg. He had a history of a fall from a bicycle one month earlier. What is the diagnosis?",
+  "diagnosis": "Aneurysmal bone cyst.",
+  "findings": "Radiograph of the right ankle, AP view: An expansile lytic lesion is seen in the diametaphyseal region of the distal right fibula, with thinning of the cortex."},
+ {"caseNo": 2, "imageUrl": "/issues/2026-09/fig/sp-2.jpg", "images": ["/issues/2026-09/fig/sp-2.jpg"],
+  "question": "A 27-year-old man with no known comorbidities presented to the emergency department with high-grade fever, shortness of breath, cough with expectoration, and left-sided pleuritic chest pain. He had a previous history of a large intrathoracic cystic lesion with an air-fluid level in the left lower hemithorax on CT, but was subsequently lost to follow-up. What is the diagnosis?",
+  "diagnosis": "Infected intrapulmonary bronchogenic cyst in the left lower lobe with rupture and pleural collection.",
+  "findings": "Chest radiograph, AP view: A well-defined, rounded cystic lucency with a horizontal air-fluid level is seen in the left lower hemithorax. Blunting of the left costophrenic and cardiophrenic angles suggests associated pleural fluid."},
+ {"caseNo": 3, "imageUrl": "/issues/2026-09/fig/sp-3.jpg", "images": ["/issues/2026-09/fig/sp-3.jpg"],
+  "question": "A 47-year-old fishing boat captain with a history of a shotgun injury to the back presented for evaluation. What is the diagnosis?",
+  "diagnosis": "Multiple retained metallic pellets from a previous gunshot injury.",
+  "findings": "Radiograph of the pelvis, AP view: Multiple rounded radiopaque shadows are seen throughout the pelvis and lower abdominal region."},
+ {"caseNo": 4, "imageUrl": "/issues/2026-09/fig/sp-4a.jpg", "images": ["/issues/2026-09/fig/sp-4a.jpg", "/issues/2026-09/fig/sp-4b.jpg"],
+  "question": "A 64-year-old man presented with dyspepsia and postprandial fullness. He reported a weight loss of 2-3 kg over the preceding two years. What is the diagnosis?",
+  "diagnosis": "Hiatus hernia.",
+  "findings": "Chest radiograph, PA view: A retrocardiac lucency with an air-fluid level is seen in the lower mediastinum."}
+]

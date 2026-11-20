@@ -1,0 +1,129 @@
+type: Original Research
+pages: 5-9
+title: Predicting 30-day mortality in geriatric trauma: integration of GTOS and trauma-specific frailty index
+authors: Saisaranya (a); Gokul B (a); Shameem KU (a)
+aff a: Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Saisaranya, Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drsaisaranya@gmail.com
+keywords: geriatric trauma; frailty; trauma scoring systems; GTOS; TSFI; mortality prediction; risk stratification
+--- abstract Background
+Geriatric trauma patients exhibit higher mortality due to frailty, comorbidities, and low physiological reserves. Traditional trauma severity scales often underestimate this risk because they do not use frailty markers. The Geriatric Trauma Outcome Score (GTOS) and Trauma Specific Frailty Index (TSFI) may help improve mortality prediction in this population.
+--- abstract Objective
+To evaluate and compare the predictive accuracy of GTOS and TSFI for in-hospital mortality among geriatric trauma patients.
+--- abstract Methods
+A retrospective observational study was conducted at KIMSHEALTH, Trivandrum, over one year (October 1, 2024 – October 1, 2025). Patients aged ≥65 years presenting with traumatic injuries were included. GTOS and TSFI scores were calculated and their ability to predict 30-day mortality was assessed using ROC curves, sensitivity, and specificity.
+--- abstract Results
+Among 198 patients, non-survivors had higher median GTOS (115) and TSFI (0.51) compared with survivors (GTOS: 81; TSFI: 0.29). GTOS demonstrated good discrimination (AUC: 0.80), while TSFI showed fair-to-good discrimination (AUC: 0.74). When both scores were combined in a single model, predictive accuracy improved further, with the model yielding the highest AUC, indicating that using GTOS and TSFI together provides added value for mortality prediction. Optimal cutoff values were identified as GTOS ≥103 and TSFI ≥0.44.
+--- abstract Conclusion
+GTOS and TSFI are valuable and complementary predictors of 30-day mortality in geriatric trauma patients. GTOS effectively captures anatomical and physiological severity, whereas TSFI reflects baseline frailty. Their combined use in a single model further enhances mortality prediction beyond each score alone and may assist clinicians in decision-making.
+--- body
+## Introduction
+The aging population has transformed the epidemiology of trauma worldwide. Older adults now represent one of the fastest-growing trauma subgroups and account for a disproportionate share of trauma-related deaths.
+
+Conventional scoring systems, such as the Injury Severity Score (ISS) and the Trauma and Injury Severity Score (TRISS), were not designed specifically for geriatric physiology. Consequently, they may fail to identify high-risk patients who appear anatomically stable but have low functional reserve, as these scoring systems do not incorporate components to measure frailty.
+
+The Geriatric Trauma Outcome Score (GTOS) uses age, ISS, and transfusion needs to measure physiological stress after trauma. The Trauma-Specific Frailty Index (TSFI) assesses baseline frailty using variables such as comorbidities and functional status. Frailty is an important predictor of poor outcomes in trauma, often outperforming chronological age as a marker of vulnerability.
+
+Despite growing recognition of frailty-informed trauma care, comparative evidence evaluating GTOS and TSFI remains limited, particularly in resource-variable emergency settings such as those in India. This study, therefore, aims to evaluate the relative predictive accuracy of GTOS and TSFI for mortality among geriatric trauma patients and explore whether a combined approach enhances mortality prediction.
+
+## Methodology
+### Study design and setting
+A retrospective observational study was conducted at KIMSHEALTH Emergency Department, Trivandrum from October 1, 2024, to October 1, 2025.
+
+Patients aged 65 or older with traumatic injuries requiring emergency admission and complete GTOS/TSFI data were included. Patients with blunt or penetrating traumatic injuries requiring emergency department (ED) evaluation and hospital admission, with complete data for the calculation of GTOS and TSFI, were included.
+
+Patients who were dead on arrival, transferred to other facilities after initial resuscitation without available follow up data, had isolated soft tissue injuries or burns, or had incomplete data required to calculate GTOS or TSFI were excluded.
+
+### Data collection
+Data on demographics, mechanism of injury, vital signs, ISS, comorbidities, interventions, and 30-day mortality were collected. GTOS was calculated using the formula: Age + (2.5 × ISS) + 22 (if transfused within 24 hours).
+
+TSFI scores were based on 15 frailty variables and ranged from 0 to 1.
+
+### Outcome
+The primary outcome was to assess and compare how well GTOS and TSFI predicted 30-day mortality in geriatric trauma patients.
+
+Secondary outcomes included evaluating the discriminatory performance of GTOS and TSFI using AUC (Area Under the Receiver Operating Characteristic Curve); and determining the incremental prognostic value of adding frailty to GTOS.
+
+### Statistical analysis
+All statistical analyses were performed using SPSS Statistics. Continuous variables were summarized as mean ± standard deviation (SD) or median with interquartile range (IQR). The predictive accuracy of GTOS and TSFI for 30 day mortality was assessed using receiver operating characteristic (ROC) curve analysis. For each score, the area under the ROC curve (AUC) with 95% confidence intervals (CI) was calculated to quantify discriminatory ability.
+
+Sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV) were reported with 95% CIs.
+
+To examine the incremental prognostic value of frailty, three logistic regression models were constructed with 30 day mortality as the dependent variable: Model 1 included GTOS alone, Model 2 included TSFI alone, and Model 3 included both GTOS and TSFI.
+
+Adjusted odds ratios (OR) with 95% CIs were estimated for each predictor. All tests were two sided, and a p-value <0.05 was considered statistically significant.
+
+## Results
+### Patient characteristics
+During the study period, 213 geriatric trauma patients presented to the emergency department; 198 met the inclusion criteria and were included in the analysis. The cohort had a mean age of approximately 75.6 ± 7.1 years, with a slight male predominance (56.6%).
+
+The predominant mechanism of injury was ground-level falls (68.1%), followed by road traffic accidents (26.8%) and other mechanisms (5.1%). The most common comorbidities were hypertension (57.5%), diabetes mellitus (36.4%), and coronary artery disease.
+
+Injury severity was largely mild to moderate, with a median Injury Severity Score (ISS) of 13, demonstrating a right-skewed distribution with relatively fewer patients sustaining critical injuries.
+
+Among the 198 geriatric trauma patients included in the study, 28 died within 30 days of the index emergency department presentation, corresponding to a 30 day all cause mortality rate of 14.1%.
+
+### GTOS and TSFI distributions
+!fig a01-f1.jpg | Figure 1: Distribution of median GTOS and TSFI according to 30 day survival status. Non survivors had higher GTOS (115 vs 81) and TSFI (0.51 vs 0.29) compared with survivors, indicating that greater injury severity and higher frailty burden are associated with increased 30 day mortality in geriatric trauma patients.
+
+### Mortality outcomes
+!fig a01-f2.jpg | Figure 2: Overlaid histograms of GTOS stratified by 30 day survival status. Non survivors demonstrate a right shifted distribution with higher GTOS values compared with survivors, indicating that greater injury severity and frailty are both associated with an increased risk of 30 day mortality.
+
+!fig a01-f3.jpg | Figure 3: Overlaid histograms of TSFI by 30 day survival status. Non survivors exhibit a right shifted distribution with higher TSFI values compared with survivors, indicating that greater frailty is associated with an increased risk of 30 day mortality, reinforcing the association between biological vulnerability and adverse outcomes in geriatric trauma patients.
+
+### Discriminatory performance of GTOS and TSFI
+!fig a01-f4.jpg | Figure 4: Receiver operating characteristic curve analysis demonstrated strong predictive capability for both scoring systems: GTOS showed strong discrimination with an area under the curve (AUC) of 0.88, while TSFI demonstrated fair-to-good discrimination with an AUC of 0.79.
+
+!fig a01-f5.jpg | Figure 5: Combined model integrating GTOS with TSFI achieved an AUC of 0.91, indicating excellent prognostic performance and suggesting meaningful incremental value from frailty assessment.
+
+### Diagnostic thresholds
+!fig a01-f6.jpg | Figure 6: Optimal cutoffs were identified for GTOS ≥103 (Sensitivity 85%, Specificity 76%), demonstrating strong ability to identify high risk patients while maintaining acceptable specificity. A TSFI threshold of ≥0.44 yielded Sensitivity 69% and Specificity 71%.
+
+## Discussion
+This retrospective cohort study highlights the complementary roles of GTOS and TSFI in predicting 30-day mortality among geriatric trauma patients. These findings support the concept that structural injury burden and pre existing physiological vulnerability are complementary domains that jointly determine short term outcomes in older trauma patients.^1,2^ (Figure 1).
+
+Our results are consistent with prior work validating GTOS as a geriatric-specific mortality prediction tool. Contemporary reviews of trauma scoring in older adults, therefore, highlight GTOS as one of the most practical tools for early risk stratification in geriatric trauma.^3^ The original GTOS derivation study and subsequent external validations have repeatedly demonstrated good to excellent discrimination for in hospital or 30 day mortality, with AUCs often ≥0.80 and optimal cut offs around 100.^4-7^
+
+A recent national analysis further confirmed that GTOS performs robustly across a large, heterogeneous trauma population and can match or exceed the predictive accuracy of more complex models while remaining simple to calculate at the bedside.^8^ In this context, our finding that GTOS alone demonstrated good discriminatory performance and was substantially higher in non survivors reinforces its utility in daily practice (Figure 2).
+
+Frailty assessment adds another important dimension to this study. Numerous studies have demonstrated that frailty, regardless of the instrument used, is independently associated with increased mortality, complications, prolonged hospitalisation, and adverse discharge disposition after trauma, often outperforming chronological age.^9-11^ The Trauma Specific Frailty Index (TSFI) was designed to operationalise frailty in injured older adults and has been externally validated as an independent predictor of poor in hospital and post discharge outcomes^12-14^ (Figure 3).
+
+The key contribution of our study is the demonstration of incremental prognostic value when TSFI is combined with GTOS. The higher AUC observed for the GTOS+TSFI model compared with either score alone suggests that frailty captures vulnerability not fully reflected in anatomical and physiological injury metrics (Figures 4 and 5). These findings mirror those from multicentre studies showing that frailty indices and trauma severity scores provide independent information for predicting mortality, intensive care use, and other adverse outcomes in older trauma patients.^15^
+
+From a clinical perspective, these results support a dual assessment strategy in which frailty screening is applied alongside routine trauma scoring to refine triage decisions, identify patients requiring early geriatric or palliative input, and guide realistic goals of care discussions with patients and families.^3,16^ (Figure 6).
+
+Our results are also aligned with evolving guideline recommendations. The 2023 World Society of Emergency Surgery guidelines on the management of trauma in elderly and frail patients recommend the use of GTOS to estimate mortality risk and advocate routine frailty assessment to identify high risk individuals.^16^ Similarly, the American College of Surgeons best practice guidelines emphasize structured geriatric assessment, including frailty evaluation, as a cornerstone of modern geriatric trauma care.^16^ By showing that both GTOS and TSFI were significantly elevated in 30 day non survivors and that their combination improved discriminatory performance, our study provides real world support for these recommendations in a resource limited setting.
+
+This study has limitations. It is a single centre study with a relatively modest sample size, which may limit generalizability and contribute to wider confidence intervals around AUC estimates compared with large registry based analyses. The analysis focused on 30 day mortality and did not evaluate long term functional outcomes or quality of life, which are increasingly recognized as important endpoints in geriatric trauma research. TSFI was measured only once in the emergency department; dynamic changes in frailty status and the impact of acute illness were not captured. Finally, residual confounding remains a possibility, as in any observational study.
+
+Despite these limitations, this study represents the first comparative evaluation of GTOS and TSFI in an Indian emergency department with a comprehensive retrospective dataset. These findings provide contemporary evidence that incorporating frailty assessment alongside GTOS enhances short-term mortality prediction in elderly trauma patients. Future multicentre studies should validate optimal combined cut offs and compare the performance of GTOS+TSFI with emerging geriatric-specific scores such as GERtality and GTOS II, with attention not only to survival but also functional recovery and patient centred outcomes.
+
+## Conclusion
+GTOS and TSFI are valuable tools for predicting 30-day mortality in geriatric trauma patients, and their combined use offers a more comprehensive assessment by capturing both anatomical injury severity and baseline frailty. Incorporating these scores into clinical practice may improve risk stratification and support more informed management decisions in this vulnerable population.
+
+Geriatric trauma challenges clinicians to look beyond the injury and evaluate the patient in totality. These findings suggest that the most accurate predictions emerge when anatomical severity is interpreted through the lens of biological resilience. Integrating frailty assessment into early trauma evaluation may therefore represent an important advancement in modern emergency care for older adults, shifting practice from reactive management toward anticipatory, risk-informed intervention.
+--- notes
+**Funding:** This research received no external funding.
+
+**Conflict of interest:** The authors declare that they have no conflicts of interest related to this study.
+
+**Patient consent:** For this study, patient data were collected from hospital records. No identifiable patient information has been included. Individual patient consent was waived due to the study’s retrospective design.
+
+**Ethics committee approval:** The study protocol was approved by the Institutional Ethics Committee of KIMSHEALTH, Trivandrum. Due to the study’s retrospective nature, informed consent was waived.
+--- refs
+1. Huang CY, Wu SC, Liu HT, Su WT, Hsu SY, Li C et al. Evaluation of the geriatric trauma outcome score (GTOS) as a prognostic tool in intensive care unit trauma patients. Diagnostics (Basel). 2024 Sep 26;14(19):2146.
+2. Arslan Erduhan M, Doğan H, Ilhan B. Relationships of the frailty index and geriatric trauma outcome score with mortality in geriatric trauma patients. Turk J Trauma Emerg Surg. 2023 Apr;29(4):486-492.
+3. Zhao FZ, Wolf SE, Nakonezny PA, Minhajuddin A, Rhodes RL, Paulk ME, et al. Estimating geriatric mortality after injury using age, injury severity, and performance of a transfusion: the geriatric trauma outcome score. J Palliat Med. 2015 Aug;18(8):677-81.
+4. Zhuang Y, Feng Q, Tang H, Wang Y, Li Z, Bai X. Predictive value of the geriatric trauma outcome score in older patients after trauma: a retrospective cohort study. Int J Gen Med. 2022 Apr 23;15:4379-4390.
+5. Jeon S, Lee GJ, Lee M, Choi KK, Lee SH, Cho J, et al. Predictive limitations of the geriatric trauma outcome score: a retrospective analysis of mortality in elderly patients with multiple traumas and severe traumatic brain injury. Diagnostics (Basel). 2025 Feb 28;15(5):586.
+6. Hahamyan HA, Archer AD, Heard MA, Dockery NA, Wahlquist AE, Burns JB. Assessing the geriatric trauma outcome score: a national analysis. Am Surg. 2025 Aug;91(8):1238-1243.
+7. Han J, Yoon SY, Seok J, Lee JY, Lee JS, Ye JB et al. Geriatric trauma outcome score for predicting mortality among older Korean adults with trauma: Is it applicable in all cases? Ann Geriatr Med Res. 2024 Dec;28(4):484-490.
+8. Savioli G, Ceresa IF, Macedonio S, Gerosa S, Belliato M, Luzzi S et al. Major trauma in elderly patients: worse mortality and outcomes in an Italian trauma center. J Emerg Trauma Shock. 2021 Apr-Jun;14(2):98-103.
+9. Alqarni AG, Gladman JRF, Obasi AA, Ollivere B. Does frailty status predict outcome in major trauma in older people? A systematic review and meta-analysis. Age Ageing. 2023 May 1;52(5):afad073.
+10. Sut R, Az A, Cakmak S, Sogut O. Evaluation of the trauma-specific frailty index in geriatric trauma patients according to the new World Health Organization age classification. North Clin Istanb. 2023 Nov 3;10(6):711-717.
+11. Joseph B, Pandit V, Zangbar B, Kulvatunyou N, Hashmi A, Green DJ et al. Superiority of frailty over age in predicting outcomes among geriatric trauma patients: a prospective analysis. JAMA Surg. 2014 Aug;149(8):766-72.
+12. Braunschweig J, Lang W, Freystätter G, Hierholzer C, Bischoff-Ferrari HA, Gagesch M. Frailty assessment in geriatric trauma patients: comparing the predictive value of the full and a condensed version of the Fried frailty phenotype. BMC Geriatr. 2024 Dec 19;24(1):1007.
+13. Bai DX, Liang Y, Wu CX, Hou CM, Gao J. Reliability and validity of the Chinese version of the trauma-specific frailty index (TSFI) for geriatric trauma patients. BMC Geriatr. 2023 Oct 2;23(1):617.
+14. Hamdioğlu E, Altuntaş M, Çelik A, Yavaşi Ö. Predicting mortality and intensive care needs in geriatric trauma patients: A ROC analysis of frailty and trauma scoring systems. Eur J Trauma Emerg Surg. 2025 Jul 21;51(1):262.
+15. Yurtseven A, Kayıpmaz AE. Mortality prediction in geriatric patients with multiple trauma presenting by ambulance. Turkish J of Trauma Emerg Surg. 2025 Aug;31(8):739-746.
+16. De Simone B, Chouillard E, Podda M, Pararas N, de Carvalho Duarte G, Fugazzola P, et al. The 2023 WSES guidelines on the management of trauma in elderly and frail patients. World J Emerg Surg. 2024 May 31;19(1):18.

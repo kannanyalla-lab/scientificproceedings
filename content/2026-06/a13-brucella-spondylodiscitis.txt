@@ -1,0 +1,75 @@
+type: Case Report
+pages: 62-65
+title: Brucella melitensis spondylodiscitis masquerading as enteric fever: Diagnosis by whole-genome shotgun metagenomic sequencing
+authors: Ribin Benny (a); Heera Shahir (a); Nahas A (a); Muhammed Niyas VK (b)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Infectious Diseases, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Heera Shahir, Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: heerashahir@gmail.com
+keywords: brucellosis; Brucella melitensis; brucellar spondylodiscitis; pyrexia of unknown origin; whole genome shotgun metagenomic sequencing
+image: a13-f1.jpg
+--- abstract
+Prolonged fever with non-specific systemic manifestations poses a significant diagnostic challenge, particularly when caused by uncommon infections. We report a case of a 41-year-old man who presented with prolonged fever and was initially treated for presumed enteric fever. He was subsequently readmitted with recurrent fever and worsening low back pain, and magnetic resonance imaging revealed L5 spondylodiscitis with prevertebral abscess formation. Conventional microbiological investigations and serological testing were inconclusive, whereas whole-genome shotgun metagenomic sequencing of aspirated abscess material identified *Brucella melitensis* as the causative organism. The patient responded favorably to combination antimicrobial therapy, with both clinical and radiological improvement. This case underscores the importance of considering spinal involvement in patients with recurrent fever and back pain and demonstrates the utility of metagenomic sequencing in establishing the diagnosis of culture-negative focal infections.
+--- body
+## Introduction
+Brucellosis is a globally prevalent zoonotic infection caused by intracellular Gram-negative coccobacilli of the genus *Brucella*. Human infection commonly occurs through consumption of unpasteurized dairy products or occupational exposure to infected animals. The disease is characterized by protean clinical manifestations and often presents as pyrexia of unknown origin.
+
+Musculoskeletal involvement occurs in up to 40% of patients, with spondylodiscitis being among the most severe focal complications. We report a case of *Brucella melitensis* spondylodiscitis that initially mimicked enteric fever, highlighting the diagnostic challenges posed by this uncommon presentation.
+
+## Case presentation
+A 41-year-old man with type 2 diabetes mellitus, working in the Middle East, presented with a two-week history of high-grade intermittent fever associated with chills and rigors. The fever had an abrupt onset and persisted despite antipyretic therapy. He also reported cough and generalized fatigue at symptom onset. He also had a history of recent exposure to a roommate with febrile respiratory illness. He frequently consumed food from outside sources and regularly drank long-life packaged milk.
+
+On examination, he was hemodynamically stable. Systemic examination was unremarkable. Initial laboratory investigations revealed a normal total leukocyte count with relative neutrophilia, eosinopenia, and thrombocytopenia. Urinalysis demonstrated glycosuria. Liver function tests showed elevated transaminases. Renal function and serum electrolytes were within normal limits. Inflammatory markers, including C-reactive protein, were elevated. Serum ferritin, triglycerides, and lactate dehydrogenase levels were markedly elevated. Erythrocyte sedimentation rate was within normal limits. Peripheral blood smear did not demonstrate findings suggestive of hemophagocytic lymphohistiocytosis. Ultrasonography of the abdomen demonstrated mild hepatosplenomegaly. Transthoracic echocardiography revealed preserved ventricular function without evidence of infective endocarditis.
+
+In view of the prolonged fever, thrombocytopenia, transaminitis, and hepatosplenomegaly, enteric fever was initially suspected. Empirical treatment with intravenous ceftriaxone and oral azithromycin was commenced because of the presumed Salmonella-like presentation. Subsequently, the patient developed bicytopenia and a diagnosis of secondary HLH was considered.
+
+Extensive investigations for tropical infections, including malaria, dengue fever, leptospirosis, cytomegalovirus infection, and Epstein–Barr virus infection, were negative. Blood cultures remained sterile. Brucella IgM was positive; however, the result was considered inconclusive because of the possibility of false positivity and a negative agglutination result. The patient was discharged after a week as he demonstrated clinical improvement with no further episodes of fever and improving laboratory parameters.
+
+However, two weeks later, he was readmitted with recurrent high-grade fever and persistent low back pain that had been present since the initial presentation, but had not been considered significant by the patient and was therefore not reported during the initial admission. Following discharge, the low back ache increased markedly in intensity. Clinical examination revealed tenderness in the lower back (L4–L5 region) with restriction of movements. Fever episodes were predominantly nocturnal. Laboratory investigations revealed normal leukocyte counts, normal liver function tests, declining ferritin levels, and mildly elevated erythrocyte sedimentation rate (40 mm/hour). Repeat blood cultures remained sterile. Repeat Brucella IgM and agglutination tests were negative. Treatment with ceftriaxone and oral doxycycline was commenced.
+
+In view of persistent back pain and recurrent fever spikes, contrast-enhanced magnetic resonance imaging of the lumbosacral spine was performed. Imaging demonstrated heterogeneous marrow signal abnormalities involving the L5 vertebral body and adjacent intervertebral disc, with contrast enhancement and associated prevertebral and paraspinal inflammatory soft tissue collections, consistent with infective spondylodiscitis with prevertebral abscess formation.
+
+!fig a13-f1.jpg | Figure 1. Contrast-enhanced MRI of the lumbosacral spine showing heterogeneous marrow signals with enhancement involving the L5 vertebral body and part of the adjacent intervertebral disc.
+
+!fig a13-f2.jpg | Figure 2. Contrast-enhanced MRI showing associated prevertebral and paraspinal inflammatory soft tissue with small collections, likely abscesses in the prevertebral region anteromedial to the psoas muscles.
+
+Computed tomography-guided aspiration of the abscess was performed.
+
+Conventional microbiological studies were unrevealing; however, whole genome shotgun metagenomic sequencing of the aspirated specimen identified *Brucella melitensis* as the causative organism.
+
+The patient was subsequently treated with oral doxycycline and rifampicin, in combination with intravenous gentamicin, according to standard therapy for complicated brucellosis. The patient demonstrated significant clinical improvement, with resolution of fever and progressive reduction in back pain.
+
+A follow-up non-contrast MRI of the lumbosacral spine performed after six weeks of antibiotic therapy showed marked radiological improvement compared with the baseline contrast-enhanced study. The previously demonstrated heterogeneous marrow signal abnormality with enhancement involving the L5 vertebral body and adjacent intervertebral disc, along with prevertebral and paraspinal inflammatory soft tissue and small prevertebral/parapsoas abscesses, had largely resolved. The patient thus achieved clinical and radiological remission of brucellar spondylodiscitis.
+
+!fig a13-f3.jpg | Figure 3. Interval non-contrast MRI of the lumbosacral spine (sagittal T2-weighted image) obtained after six weeks of antibiotic therapy, demonstrating features of resolving spondylodiscitis.
+
+## Discussion
+Despite global control efforts, brucellosis remains endemic in several developing countries and continues to represent an important cause of pyrexia of unknown origin. Osteoarticular involvement is the most common focal complication of brucellosis, occurring in approximately 10–85% of affected individuals, with spondylitis and spondylodiscitis representing the most severe forms.
+
+Brucellar spondylodiscitis predominantly affects the lumbar spine, followed by the thoracic and cervical regions. Lumbar involvement has been reported in nearly 60–70% of spinal cases. The disease often presents insidiously with fever, back pain, malaise, weight loss, and elevated inflammatory markers, leading to frequent delays in diagnosis. In endemic regions, spinal brucellosis is commonly misdiagnosed as tuberculous spondylodiscitis because of overlapping radiological and clinical features.
+
+Our patient initially presented with prolonged fever, thrombocytopenia, transaminitis, hepatosplenomegaly, elevated inflammatory markers, and hyperferritinemia, closely mimicking enteric fever and other tropical infections. Transient clinical improvement following ceftriaxone-based therapy further complicated the diagnostic process.
+
+Similar atypical presentations have been described in previous reports in which brucellosis masqueraded as enteric fever, tuberculosis, connective tissue disease, and haematological disorders. Markedly elevated ferritin, triglycerides, and lactate dehydrogenase levels in our patient suggested a hyperinflammatory response resembling secondary hemophagocytic lymphohistiocytosis (HLH). Although true HLH is uncommon in brucellosis, several reports have documented HLH-like syndromes associated with severe brucellar infection.
+
+An important clue in our patient was the recurrence of fever associated with persistent low back pain. Back pain is considered the cardinal symptom of brucellar spondylodiscitis and may precede radiological abnormalities by weeks to months. MRI remains the imaging modality of choice because of its high sensitivity for detecting vertebral marrow edema, disc involvement, paraspinal inflammation, and epidural or prevertebral abscess formation. In our patient, MRI demonstrated L5 vertebral involvement with adjacent discitis and prevertebral soft tissue abscess, findings characteristic of spinal brucellosis.
+
+Microbiological confirmation of brucellosis may be challenging. Blood cultures may be negative in chronic or partially treated disease, and serological tests may yield variable results depending on disease stage and prior antibiotic exposure. In our patient, initial Brucella IgM positivity with negative agglutination testing was interpreted cautiously because of concerns regarding false positivity, while repeat serological testing subsequently became negative. These findings illustrate the limitations of serological testing in focal brucellosis. Similar diagnostic challenges have been emphasized in previous case reports of brucellar spondylodiscitis.
+
+In our patient, the definitive diagnosis was established using metagenomic shotgun sequencing of aspirated abscess material, which identified *Brucella melitensis*. This represents a clinically significant aspect of the case because whole genome shotgun metagenomic sequencing has emerged as a powerful diagnostic modality for culture-negative infections.
+
+A 2023 report described a case of spinal infection due to *Brucella melitensis* diagnosed by metagenomic next-generation sequencing in a non-endemic region, highlighting the utility of molecular diagnostics in atypical presentations.^1^ Similar to our patient, conventional investigations in that case too were inconclusive prior to molecular identification of the organism.
+
+Literature has shown that in a 72-year-old patient initially suspected to have spinal tuberculosis because of chronic back pain and MRI findings of infective spondylodiscitis, diagnosis was ultimately established through Brucella serology.^2^ Thoracic brucellar spondylodiscitis initially treated as tuberculous disease before relapse prompted reevaluation and microbiological confirmation of brucellosis in yet another case.^3^ A complex case involving *Brucella melitensis* endocarditis and spondylitis in a shepherd with prolonged fever and back pain too has been reported, underscoring the protean manifestations of focal brucellosis.^4^
+
+Another distinctive feature in the case of our patient was the history of clear epidemiological exposure during the initial presentation. Many previously reported patients had identifiable risk factors such as farming, livestock exposure or consumption of unpasteurized dairy products. The history of exposure to packaged long-life milk in our patient had also contributed to the initial clinical suspicion for brucellosis.
+
+Treatment recommendations for brucellar spondylodiscitis advocate prolonged multidrug antimicrobial therapy. Regimens containing doxycycline, rifampicin, and an aminoglycoside such as gentamicin or streptomycin are commonly employed, particularly in complicated spinal disease. Early diagnosis and targeted therapy are essential to prevent neurological complications, spinal instability, chronic pain, and relapse.
+
+This case highlights several important clinical lessons. First, brucellosis should remain an important differential diagnosis in patients with prolonged fever, hepatosplenomegaly, thrombocytopenia, and elevated inflammatory markers, particularly in endemic settings. Second, persistent or recurrent back pain following apparent resolution of febrile illness warrants prompt evaluation for spinal involvement. Finally, molecular diagnostic techniques such as metagenomic sequencing can significantly improve diagnostic yield in culture-negative focal infections and may facilitate timely institution of definitive therapy.
+--- refs
+1. Du J, Tao Y, Yang J, Cai J, Zhou H, Zhang R, et al. Case report: metagenomic next-generation sequencing confirmed a case of spine infection with Brucella melitensis in a non-endemic area. Infect Drug Resist. 2023;16:7219-7225. doi:10.2147/IDR.S436278.
+2. Priya P, Solomon P, Nair S, Mohankumar P. An uncommon case of brucellar spondylodiscitis: a case report. J Orthop Case Rep. 2022;12(9):10-14. doi:10.13107/jocr.2022.v12.i09.2994.
+3. Oulkadi L, Amine B, El Binoune I, Rostom S, Bahiri R. Spinal pain revealing brucellar spondylodiscitis: a case report. Egypt J Intern Med. 2021;33:87. doi:10.1186/s43162-021-00087-4.
+4. Zhang H, Xie S, Wang Y, Zhao X, Yi J, Wang Z, et al. A case report of endocarditis and spondylitis caused by Brucella melitensis biovar 3. BMC Infect Dis. 2021;21(1):460. doi:10.1186/s12879-021-06142-3.
+5. Lim KB, Kwak YG, Kim DY, Kim YS, Kim JA. Back pain secondary to Brucella spondylitis in the lumbar region. Ann Rehabil Med. 2012;36(2):282-286. doi:10.5535/arm.2012.36.2.282.

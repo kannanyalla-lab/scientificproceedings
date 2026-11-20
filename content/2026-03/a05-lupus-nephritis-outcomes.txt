@@ -1,0 +1,95 @@
+type: Original Research
+pages: 24-26
+title: Long-term outcomes of biopsy-proven lupus nephritis: A 5-year retrospective cohort study
+authors: Varsha Vipin (a); Satish Balan (a); Praveen Murlidharan (a); Vinayak M (a)
+aff a: Department of Nephrology, KIMSHEALTH, Thiruvananthapuram, Kerala, India.
+corr: Satish Balan, Department of Nephrology, KIMSHEALTH, Thiruvananthapuram, Kerala, India.
+email: balansatish@gmail.com
+keywords: lupus nephritis; systemic lupus erythematosus; long-term outcomes; chronic kidney disease; end-stage renal disease; immunosuppressive therapy; treatment adherence; retrospective cohort
+--- abstract Aim
+To perform a retrospective analysis evaluating the long-term outcomes of patients with lupus nephritis treated at our centre.
+--- abstract Methods
+This retrospective observational study included all patients with biopsy-proven lupus nephritis diagnosed at our hospital between 2012 and 2018, with follow-up data available through 2023, ensuring a minimum follow-up of 5 years.
+--- abstract Results
+The average age of the study population (n=55) was 37.12 years. The average age at diagnosis of lupus nephritis was 30.24 years. All 55 patients underwent renal biopsy. Among them, 26 patients had Class IV lupus nephritis, 6 had Class III, 8 had Class V, and 4 had Class VI. Two patients each had Class I, Class II disease, while the remaining patients had mixed classes. Proliferative lupus nephritis was treated with corticosteroids in combination with intravenous cyclophosphamide (Euro-Lupus protocol) or mycophenolate. Four patients conceived during the study: one had a successful pregnancy without flare, one developed preeclampsia with lupus flare, one had a medical termination, and one had a lupus flare with worsening renal function. Five patients died during follow-up. Eleven patients developed chronic kidney disease (CKD), of which four progressed to end-stage renal disease (ESRD). Among these ESRD patients, two underwent renal transplant and currently have good graft function.
+--- abstract Conclusion
+The overall survival rate was 90.9%, indicating a favorable long-term outcome in lupus nephritis at our centre. Outcomes are influenced by adherence to immunosuppressive therapy, careful monitoring, and prevention of treatment default. Pregnancy-related morbidity may be reduced with appropriate pre-pregnancy counselling and management.
+--- body
+## Introduction
+Lupus nephritis is a form of glomerulonephritis and is among the most common complications of systemic lupus erythematosus (SLE). It affects approximately 35-60% of patients with SLE.^1^ As our understanding of lupus nephritis grows, it is now evident that optimal management depends on rapid and effective control of renal disease, followed by sustained remission using appropriate immunosuppressive agents to prevent relapses.
+
+Long-term outcomes have traditionally been considered suboptimal, with chronic kidney disease (CKD) rates of nearly 50% in studies from Asia.^2^ However, we hypothesize that good initial treatment and prevention of disease flares could result in good long-term outcomes. Therefore, we reviewed patients with lupus nephritis who had at least 5 years of follow-up to evaluate long-term outcomes.
+
+## Aim
+To determine long-term outcomes in patients with biopsy-proven lupus nephritis in terms of response to therapy, disease flare, mortality, treatment-related complications, and overall outcomes.
+
+## Methods
+This retrospective observational study was conducted among all patients diagnosed with biopsy-proven lupus nephritis at KIMSHEALTH, Trivandrum, between 2012 and 2018, who were available for follow-up for at least 5 years after that diagnosis.
+
+The clinical details, the biopsy findings, and the treatment protocol were extracted from hospital records. Outcomes assessed included complete or partial remission, progression to CKD, mortality, and pregnancy outcomes within the cohort.
+
+## Results
+Data were available for 55 out of the 66 biopsied patients; the remaining patients were lost to follow-up. The average age of the study population (n=55) was 37.12 years, and the average age at which lupus nephritis was diagnosed was 30.24 years. At the time of biopsy, 45 patients were on treatment for SLE; four had stopped treatment on their own; one was on homeopathic treatment; one was on ayurvedic treatment; and four were diagnosed with SLE during nephrology evaluation. Baseline characteristics are summarized in Table 1. All patients had proteinuria, and most had evidence of urinary deposits, particularly microhematuria.
+
+!table
+caption: Table 1: Baseline characteristics and renal biopsy findings
+Characteristic | Value
+Age at diagnosis | 30.24 years
+Males vs females | 8 vs 47 (approximate ratio 1:6)
+Hypertension | 17 (30.9%)
+Edema | 16 (29.1%)
+Proteinuria | 55 (100%)
+Microhematuria | 45 (81.8%)
+**Renal biopsy findings** | 
+Class I | 2
+Class II | 2
+Class III | 6
+Class IV | 26
+Class V | 8
+Class VI | 4
+Mixed classes | 4/5 (4); 4/6 (2); 3/5 (1)
+!end
+
+Renal biopsy was performed in all 55 patients. Class IV lupus nephritis was the most common histological pattern (47%), followed by Class III and Class V lesions. These findings were consistent with two other studies from the region. Notably, despite evidence of proteinuria, 2 patients had only Class I lesions, and 2 had Class II disease (Table 2).
+
+Patients with class III, IV, and V lupus nephritis were treated with intravenous cyclophosphamide and steroids according to the Euro-Lupus protocol^5^ or with mycophenolate and steroids. Among the cohort, 45 patients (82%) adhered to prescribed therapy, 6 (10.9%) defaulted, and 4 (7.2%) opted for alternative treatments.
+
+!table
+caption: Table 2: Initial regimen and outcomes (renal function on follow-up; Fisher’s exact test, p = 0.036)
+Regimen | Normal | Deranged | Total
+Euro-Lupus | 17 | 4 | 21
+MMF and IV methylprednisolone | 6 | 9 | 15
+MMF/Aza with oral steroids | 14 | 5 | 19
+!end
+
+Among patients with proliferative lupus nephritis (Class III/IV; n = 39), 26 (66.6%) achieved complete or partial remission. Four patients (10.2%) progressed to CKD Stage 4, three (7.6%) to CKD Stage 3, and six (15.4%) developed end-stage renal disease (ESRD). All patients who progressed to ESRD had either defaulted on therapy or pursued alternative treatments.
+
+Among the 8 patients with membranous lupus nephropathy, 5 achieved complete remission (62.5%) and 1 maintained proteinuria with partial remission (12.5%). One progressed to ESRD (a treatment defaulter), and one patient died.
+
+Overall, 5 deaths (9.1%) occurred in the cohort. Eleven patients developed CKD Stage III or higher, including 4 with ESRD. Of these, 2 patients underwent renal transplantation and currently have good graft function.
+
+The Euro-Lupus protocol appeared to yield better outcomes compared to other treatment regimens (Table 2).
+
+There were 4 pregnancies during the study period. One resulted in an uneventful full-term delivery, one was complicated by lupus flare with preterm delivery, one required medical termination of pregnancy due to early lupus flare and renal dysfunction, and one had worsening renal function despite a successful pregnancy outcome.
+
+## Discussion
+Lupus nephritis is a severe manifestation of lupus that requires prompt induction therapy and long-term treatment to address renal inflammation, prevent immunological damage, and attain long-term suppression of lupus activity. In this cohort of patients followed for a minimum of 5 years, we observed that, when treated appropriately, both short- and long-term outcomes are favorable. However, treatment non-adherence and the use of alternative medical therapies emerged as important causes of treatment failure and poor outcomes.
+
+Despite these challenges, we achieved an overall patient survival rate of 50 out of 55 patients (90.9%) at a minimum follow-up of 5 years.
+
+Both survival and response rates in our cohort were marginally better than those reported in previous studies from India.
+
+Our findings also suggest that the Euro-Lupus protocol using intravenous cyclophosphamide may be associated with better outcomes compared to other treatment regimens. However, this could be due to the small numbers and heterogeneity of patients at presentation in the other groups.
+
+Consistent follow-up and strict adherence to therapy appear to be key determinants of favorable outcomes. Pregnancy in patients with lupus nephritis was associated with significant morbidity in our cohort. However, many of these complications might have been mitigated through better patient selection, preconception counseling, and planned pregnancies.
+
+Emerging targeted therapies, including biologics such as belimumab and obinutuzumab, as well as complement inhibitors, offer promising avenues for improving outcomes in lupus nephritis. So, the prognosis for lupus seems good.^6,7,8^
+--- refs
+1. De Vriese AS, Sethi S, Fervenza FC. Lupus nephritis: redefining the treatment goals. Kidney Int. 2025;107(2):198-211.
+2. Teoh ST, Yap DY, Yung S, Chan TM. Lupus nephritis and chronic kidney disease: a scoping review. Nephrology. 2025;30(1):e14427.
+3. Kottursamy VD, Kaliaperumal T, N D SP, Annadurai P, Surendran S, Subramanian T, Vellaisamy M, Fernando E. Short-term outcomes of lupus nephritis: A single-center experience from South India. Cureus. 2025;17(9):e91596.
+4. Limesh M, Kedlaya PG, Renuka S, Vinod N. Long-term outcome of lupus nephritis: A single center study. Indian J Nephrol. 2021;31(3):225-229.
+5. Houssiau FA, Vasconcelos C, D'Cruz D, Sebastiani GD, Garrido ED, Danieli MG, Abramovicz D, Blockmans D, Mathieu A, Direskeneli H, Galeazzi M. Immunosuppressive therapy in lupus nephritis: the Euro‐Lupus Nephritis Trial, a randomized trial of low‐dose versus high‐dose intravenous cyclophosphamide. Arthritis Rheum. 2002;46(8):2121-2131.
+6. Yadav S, Balakrishnan C, Kothari J. Long-term outcome and predictors of long-term outcome in patients with lupus nephritis managed at a tertiary hospital in Mumbai. Lupus. 2022;31(10):1191-1201.
+7. Dhir V, Aggarwal A, Lawrence A, Agarwal V, Misra R. Long-term outcome of lupus nephritis in Asian Indians. Arthritis Care Res (Hoboken). 2012;64(5):713-720.
+8. Limesh M, Kedlaya PG, Renuka S, Vinod N. Long-term outcome of lupus nephritis: A single center study. Indian J Nephrol. 2021;31(3):225-229.

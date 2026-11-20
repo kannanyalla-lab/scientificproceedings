@@ -1,0 +1,109 @@
+type: Case Report
+pages: 41-44
+title: A rare triad of idiopathic intracranial hypertension, partial empty sella, and narcolepsy due to hypothalamic-pituitary dysfunction
+authors: Mohemed Sanowfer (a); Aisha Febina (a)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Mohemed Sanowfer, Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drmohemed.sanowfer@kimsglobal.com
+keywords: narcolepsy; idiopathic intracranial hypertension; empty sella; hypopituitarism; orexin; excessive daytime sleepiness; obstructive sleep apnoea
+--- abstract Background
+Type I narcolepsy is a rare sleep disorder characterised by hypocretin (orexin) deficiency. Secondary causes involving structural or functional hypothalamic–pituitary abnormalities are uncommon. In obese individuals, excessive daytime sleepiness (EDS) is frequently attributed to obstructive sleep apnoea (OSA), which may delay recognition of alternative central causes of hypersomnolence.
+--- abstract Case presentation
+We report a 33-year-old woman with morbid obesity and multiple comorbidities, including hypothyroidism, systemic hypertension, and type 2 diabetes mellitus. She was previously diagnosed with OSA and was on continuous positive airway pressure (CPAP) therapy. Despite documented CPAP compliance, she reported persistent fatigue and EDS and presented following a syncopal episode at work. Investigations revealed hypotension and low serum cortisol. A short synacthen test was consistent with central adrenal insufficiency. Magnetic resonance imaging (MRI) of the brain demonstrated a partial empty sella, posterior deviation of the pituitary stalk, and prominent perioptic subarachnoid spaces, findings suggestive of chronically raised intracranial pressure consistent with idiopathic intracranial hypertension (IIH). Cerebrospinal fluid (CSF) orexin-A level was markedly reduced at 7.5 pg/mL (normal >50 pg/mL), confirming type I narcolepsy. The patient was treated with intravenous corticosteroids, followed by oral corticosteroids, alongside modafinil, fluoxetine, and semaglutide for weight reduction, with subsequent clinical improvement.
+--- abstract Conclusion
+This case illustrates a rare but important triad of IIH, partial empty sella, and secondary type I narcolepsy arising from hypothalamic–pituitary dysfunction. Persistent EDS despite adequate CPAP therapy warrants thorough evaluation for central causes of hypersomnolence. Chronically elevated intracranial pressure may impair both pituitary function and orexinergic neurons, and clinicians should maintain a high index of suspicion in obese patients with refractory somnolence.
+--- body
+## Introduction
+Type I narcolepsy is a rare sleep disorder characterised by a deficiency of the neuropeptide hypocretin (orexin), produced by a discrete population of neurons within the lateral hypothalamus. Most cases are idiopathic or autoimmune in aetiology, with secondary structural causes accounting for only a small minority.^1,2,5^ Excessive daytime sleepiness is among the most disabling symptoms of narcolepsy and is also the cardinal feature of OSA, a condition highly prevalent in individuals with obesity. This overlap of symptoms frequently leads to misattribution of somnolence to OSA, thereby delaying identification of underlying central aetiologies.^3,7^
+
+Idiopathic intracranial hypertension (IIH) is characterised by elevated intracranial pressure in the absence of an underlying structural cause and is strongly associated with obesity. Chronic elevation of intracranial pressure may lead to mechanical and vascular compromise of the hypothalamic–pituitary axis (HPA), resulting in central hypopituitarism and, in rare cases, disruption of orexin-producing neurons.
+
+We report a rare case of secondary type I narcolepsy arising in the context of hypothalamic–pituitary dysfunction secondary to IIH with partial empty sella syndrome. This case underscores the importance of thorough evaluation in patients with persistent hypersomnolence despite apparently adequate OSA therapy.
+
+## Case presentation
+### Clinical history
+A 33-year-old woman, employed as an information technology (IT) technician, presented following a sudden fall at her workplace, preceded by intermittent low-grade headaches and overwhelming daytime somnolence. She had morbid obesity (weight 139.6 kg) and a background of hypothyroidism, newly diagnosed systemic hypertension, and type 2 diabetes mellitus.
+
+She had previously been diagnosed with OSA and commenced on CPAP therapy, with documented compliance. Despite this, she continued to experience persistent fatigue and EDS, leading to recurrent hospital attendances without meaningful symptomatic improvement.
+
+### Examination
+On presentation, she was hypotensive with a blood pressure of 80/60 mmHg, heart rate 72 beats per minute (regular), and oxygen saturation 100% on room air. Systemic examination was otherwise unremarkable. No focal neurological deficits were identified. Fundoscopic examination revealed no papilledema.
+
+### Investigations
+Initial investigations, including full blood count and inflammatory markers, were within normal limits. Serum cortisol was low, prompting further endocrine evaluation (Table 1).
+
+!table
+caption: Table 1: Summary of endocrine investigations. Abbreviations: ACTH = adrenocorticotropic hormone; FSH = follicle-stimulating hormone; GH = growth hormone; IGF-1 = insulin-like growth factor-1; SST = short synacthen test. † SST pattern: basal cortisol low with suboptimal but borderline peak response — consistent with central (secondary) adrenal insufficiency; adrenal reserve intact, implying deficient hypothalamic–pituitary CRH/ACTH drive.
+Investigation | Result | Reference range | Interpretation
+**Short Synacthen Test (SST) — cortisol response** | | | 
+Basal serum cortisol | 4.8 mcg/dL | 7-25 mcg/dL (morning) | Low — central adrenal insufficiency suspected
+Cortisol at 30 min post-ACTH | 15.5 mcg/dL | Peak ≥18-20 mcg/dL | Suboptimal peak — adrenal reserve preserved but inadequate stimulation
+Cortisol at 60 min post-ACTH | 20.0 mcg/dL | Peak ≥18-20 mcg/dL | Borderline — favours central rather than primary adrenal insufficiency
+**Anterior pituitary hormones** | | | 
+Oestradiol (E2) | 160 pg/mL | Follicular: 20-350 pg/mL | Within range (phase-dependent)
+FSH (Follicle-Stimulating Hormone) | 2.76 mIU/mL | Follicular: 3.5-12.5 mIU/mL | Low-normal — possible gonadotrophin deficiency
+Prolactin | 9.3 ng/mL | Female: 2-29 ng/mL | Normal
+IGF-1 (Insulin-like Growth Factor-1) | 1.5 ng/mL | Age-specific: 94-252 ng/mL (30-35 yrs) | Low — suggestive of GH deficiency
+!end
+
+A short synacthen test (SST) demonstrated a suboptimal cortisol response, with basal serum cortisol of 4.8 mcg/dL, rising to 15.5 mcg/dL at 30 minutes and 20 mcg/dL at 60 minutes post-adrenocorticotrophic hormone (ACTH) administration, a pattern consistent with preserved adrenal reserve but favouring central adrenal insufficiency.
+
+Further pituitary hormone evaluation revealed: oestradiol 160 pg/mL, follicle-stimulating hormone (FSH) 2.76 mIU/mL, prolactin 9.3 ng/mL, and insulin-like growth factor-1 (IGF-1) 1.5 ng/mL, the latter suggesting growth hormone deficiency.
+
+MRI of the brain revealed partial empty sella with posterior deviation of the pituitary stalk, and prominent perioptic subarachnoid spaces — findings consistent with chronically elevated intracranial pressure in keeping with IIH. Video electroencephalography (EEG) was normal, effectively excluding seizure disorder.
+
+CSF examination (Table 2) revealed glucose 62 mg/dL, chloride 125 mmol/L, and protein 26 mg/dL (turbidimetric method). The fluid was clear and colourless, with red blood cells 660 cells/mm³ and white blood cells 1 cell/mm³. CSF manometry pressure was 15 cm H~2~O. Crucially, CSF orexin-A was markedly reduced at 7.5 pg/mL (reference: >50 pg/mL normal; <50 pg/mL consistent with type I narcolepsy), confirming the diagnosis.
+
+!table
+caption: Table 2: CSF analysis results. Abbreviations: CSF = cerebrospinal fluid; RBC = red blood cells; WBC = white blood cells. † Elevated RBC count is consistent with a traumatic lumbar puncture; this does not affect the orexin-A result. ‡ CSF orexin-A <110 pg/mL is highly sensitive and specific for Type I narcolepsy (Mignot et al.); levels <50 pg/mL are considered diagnostic. The value of 7.5 pg/mL in this patient represents severe orexinergic deficiency, confirming secondary Type I narcolepsy due to hypothalamic–pituitary dysfunction.
+Parameter | Result | Reference range | Clinical comment
+**Macroscopic appearance** | | | 
+Colour | Colourless | Colourless | Normal
+Appearance | Clear | Clear | Normal
+**Cell count** | | | 
+Red Blood Cells (RBC) | 660 cells/mm³ | 0-5 cells/mm³ | Elevated†
+White Blood Cells (WBC) | 1 cell/mm³ | 0-5 cells/mm³ | Normal — no pleocytosis
+Lymphocytes | 1 cell seen | Predominantly lymphocytes if any | Normal differential
+**Biochemistry** | | | 
+Glucose | 62 mg/dL | 45-80 mg/dL (or >50% serum glucose) | Normal
+Protein (turbidimetric) | 26 mg/dL | 15-45 mg/dL | Normal
+Chloride | 125 mmol/L | 120-130 mmol/L | Normal
+CSF manometry (opening pressure) | 15 cm H~2~O | 7-18 cm H~2~O (lateral decubitus) | Upper normal range — measured at time of lumbar puncture post-treatment initiation
+**Orexin (hypocretin) — diagnostic test** | | | 
+CSF Orexin-A (Hypocretin-1) | 7.5 pg/mL | Normal: >50 pg/mL; <50 pg/mL: Type I Narcolepsy | DIAGNOSTIC‡ — severely reduced orexin confirms Type I Narcolepsy (secondary, due to hypothalamic-pituitary dysfunction)
+!end
+
+## Management
+The patient was treated with intravenous corticosteroids, followed by a transition to oral steroids, resulting in normalisation of blood pressure. For management of narcolepsy, modafinil (a CNS stimulant), fluoxetine, and methylphenidate (as required) were initiated. Given the well-established association between obesity and IIH, semaglutide was initiated alongside intensive lifestyle counselling and weight-reduction strategies.
+
+## Discussion
+This case presents a rare and instructive triad: IIH leading to partial empty sella syndrome, secondary hypothalamic–pituitary dysfunction, and consequent type I narcolepsy — three conditions that are individually plausible yet, in this patient, causally interlinked.
+
+OSA is the most common cause of EDS in individuals with obesity and is often the initial focus of clinical evaluation. However, persistence of somnolence and fatigue despite adequate CPAP therapy — as observed in this patient — must prompt systematic re-evaluation for alternative central aetiologies, including hypopituitarism and narcolepsy.^1,7^ Diagnostic delay due to attribution of symptoms solely to OSA has been well-documented and may lead to prolonged morbidity.
+
+IIH is an established cause of pituitary dysfunction through chronic pressure-mediated injury to the hypothalamic–pituitary axis. The pathophysiological mechanisms include mechanical compression of the pituitary gland and stalk within the sella turcica, vascular compromise of the portal blood supply, and direct injury to hypothalamic nuclei — including the lateral hypothalamic neurons responsible for orexin synthesis.^2^ In this patient, the MRI findings of partial empty sella with stalk deviation, in conjunction with low basal cortisol and a suboptimal short synacthen test (SST) response, reflect the extent of this structural damage.
+
+Measurement of CSF orexin-A remains the gold-standard investigation for type I narcolepsy, with levels <110 pg/mL, and particularly <50 pg/mL, being highly specific for the diagnosis.^4,6^ In this patient, an orexin-A level of 7.5 pg/mL confirmed severe orexinergic deficiency. Secondary narcolepsy due to structural hypothalamic damage — as in this case — is well-described but rare; reported causes include tumours, inflammatory lesions, trauma, and, as demonstrated here, chronic pressure effects from IIH.^2^
+
+The management of this complex case required a multi-layered approach: addressing the central adrenal insufficiency with corticosteroid replacement, managing narcolepsy with wake-promoting agents, and targeting the underlying IIH-associated obesity with GLP-1 receptor agonist therapy. The use of semaglutide in this context is noteworthy, given emerging evidence that GLP-1 receptor agonists may reduce intracranial pressure in IIH through weight loss and potentially direct mechanisms.
+
+This case underscores the need to consider rare but treatable secondary causes of hypersomnolence, particularly in patients with features of raised intracranial pressure, pituitary dysfunction, or unexplained endocrine abnormalities.
+
+## Conclusion
+Secondary type I narcolepsy should be considered in patients with hypothalamic–pituitary abnormalities and unexplained EDS, especially when symptoms persist despite appropriate OSA therapy. Not all EDS in individuals with obesity can be attributed solely to OSA. Partial empty sella associated with chronically elevated intracranial pressure represents a rare but clinically important cause of combined endocrine and sleep dysfunction. A systematic, physiology-based diagnostic approach is essential to avoid prolonged morbidity in such complex cases.
+--- notes
+**Funding:** None declared.
+
+**Conflicts of interest:** None declared.
+
+**Patient consent:** Obtained.
+
+**Ethical approval:** Not applicable (case report).
+--- refs
+1. Dauvilliers Y, Arnulf I, Mignot E. Narcolepsy with cataplexy. Lancet. 2007;369(9560):499–511. doi:10.1016/S0140-6736(07)60237-2
+2. Nishino S, Kanbayashi T. Symptomatic narcolepsy, cataplexy and hypersomnia, and their implications in the hypothalamic hypocretin/orexin system. Sleep Med Rev. 2005;9(4):269–310. doi:10.1016/j.smrv.2005.03.004
+3. Hallmayer J, Faraco J, Lin L, Hesselson S, Winkelmann J, et al. Narcolepsy is strongly associated with the T-cell receptor alpha locus. Nat Genet. 2009;41(6):708–711. doi:10.1038/ng.372
+4. Aran A, Lin L, Nevsimalova S, Plazzi G, Hong SC, et al. Elevated anti-streptococcal antibodies in patients with recent narcolepsy onset. Sleep. 2009;32(8):979–983. doi:10.1093/sleep/32.8.979
+5. Han F, Lin L, Warby SC, Faraco J, Li J, et al. Narcolepsy onset is seasonal and increased following the 2009 H1N1 pandemic in China. Ann Neurol. 2011;70(3):410–417. doi:10.1002/ana.22587
+6. Ruoff C, Rye D. The ICSD-3 and DSM-5 guidelines for diagnosing narcolepsy: Clinical relevance and practicality. Curr Med Res Opin. 2016;32(10):1611–1622. doi:10.1080/03007995.2016.1208643
+7. Thorpy MJ, Krieger AC. Delayed diagnosis of narcolepsy: Characterization and impact. Sleep Med. 2014;15(5):502–507. doi:10.1016/j.sleep.2014.01.015
