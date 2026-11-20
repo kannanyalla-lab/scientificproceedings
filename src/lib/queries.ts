@@ -1,5 +1,5 @@
 import "server-only";
-import { and, asc, desc, eq, ilike, or, sql, inArray } from "drizzle-orm";
+import { and, asc, desc, eq, sql, inArray } from "drizzle-orm";
 import { db } from "@/db";
 import { articles, issues, pharmaUpdates, scrambleItems, spotterCases } from "@/db/schema";
 
@@ -50,23 +50,6 @@ export async function issuesById(ids: (number | null)[]) {
   if (!clean.length) return new Map<number, typeof issues.$inferSelect>();
   const rows = await db.select().from(issues).where(inArray(issues.id, clean));
   return new Map(rows.map((r) => [r.id, r]));
-}
-
-export async function searchArticles(q: string, type?: string) {
-  const term = `%${q.trim()}%`;
-  const conds = [eq(articles.published, true)];
-  if (q.trim()) {
-    conds.push(or(
-      ilike(articles.title, term),
-      sql`${articles.authors}::text ILIKE ${term}`,
-      sql`${articles.keywords}::text ILIKE ${term}`,
-      sql`${articles.abstract}::text ILIKE ${term}`,
-    )!);
-  }
-  if (type) conds.push(eq(articles.articleType, type));
-  const rows = await db.select().from(articles).where(and(...conds))
-    .orderBy(desc(articles.createdAt)).limit(100);
-  return rows;
 }
 
 export async function listPharmaUpdates(issueId?: number) {

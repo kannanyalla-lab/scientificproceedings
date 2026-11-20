@@ -3,6 +3,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { JOURNAL, LOGO_URL, TAGLINE } from "@/lib/site";
+import HeaderSearch from "./search/HeaderSearch";
 
 const NAV = [
   { href: "/", label: "Home" },
@@ -26,11 +27,7 @@ export default function Header() {
         <div className="container">
           <span className="topbar__tag">{TAGLINE}</span>
           <div className="topbar__right">
-            <form action="/search" className="search-mini" role="search">
-              <label htmlFor="q-mini" className="sr-only">Search articles</label>
-              <input id="q-mini" name="q" type="search" placeholder="Search articles" />
-              <button type="submit" aria-label="Search">⌕</button>
-            </form>
+            <HeaderSearch />
             <Link href="/submit">Submit a manuscript</Link>
           </div>
         </div>
