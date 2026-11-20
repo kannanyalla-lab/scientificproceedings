@@ -3,6 +3,7 @@ import ArticleCard from "@/components/ArticleCard";
 import { getCurrentIssue, getIssueArticles, listIssues, listPharmaUpdates } from "@/lib/queries";
 import { anchorId, excerpt, groupByType, issueLabel, typePlural } from "@/lib/format";
 import { JOURNAL, TAGLINE } from "@/lib/site";
+import { baseUrl, getJournalConfig, issns, licenceOf } from "@/lib/journal-config";
 
 export default async function HomePage() {
   const issue = await getCurrentIssue();
@@ -18,8 +19,26 @@ export default async function HomePage() {
     return [type, (featured.length ? featured : list).slice(0, 3)] as const;
   });
 
+  const cfg = await getJournalConfig();
+  const periodical = {
+    "@context": "https://schema.org",
+    "@type": "Periodical",
+    "@id": `${baseUrl(cfg)}/#journal`,
+    name: cfg.title,
+    alternateName: cfg.abbrevTitle,
+    issn: issns(cfg).map((x) => x.issn),
+    url: baseUrl(cfg) + "/",
+    publisher: { "@type": "Organization", name: cfg.publisher, address: cfg.publisherAddress, email: cfg.contactEmail },
+    inLanguage: cfg.language,
+    license: licenceOf(cfg).url,
+    isAccessibleForFree: true,
+    publishingPrinciples: `${baseUrl(cfg)}/policies/publication-ethics`,
+    hasPart: issue ? { "@type": "PublicationIssue", issueNumber: issue.number, url: `${baseUrl(cfg)}/issue/${issue.slug}` } : undefined,
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(periodical).replace(/</g, "\\u003c") }} />
       <section className="hero">
         <div className="container">
           <div>

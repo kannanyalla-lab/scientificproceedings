@@ -12,32 +12,17 @@ import References from "@/components/References";
 import { getArticleBySlug, getIssueArticles, incrementViews } from "@/lib/queries";
 import { anchorId, articlePdfHref, citation, excerpt, issueLabel, pagesOf } from "@/lib/format";
 import { JOURNAL, SITE_URL } from "@/lib/site";
+import ScholarlyMeta from "@/components/ScholarlyMeta";
+import { getJournalConfig, issns } from "@/lib/journal-config";
+import { abstractPlain, articleUrl, authorRecords, isoMonth, licenceInfo, pdfUrl as absPdfUrl } from "@/lib/indexing/common";
 
-const MONTH_NUM: Record<string, string> = { January: "01", February: "02", March: "03", April: "04", May: "05", June: "06", July: "07", August: "08", September: "09", October: "10", November: "11", December: "12" };
 
 export async function generateMetadata({ params }: PageProps<"/article/[slug]">): Promise<Metadata> {
   const data = await getArticleBySlug((await params).slug);
   if (!data) return { title: "Article not found" };
-  const { article: a, issue } = data;
+  const { article: a } = data;
   const description = excerpt(a.abstract.map((s) => s.text).join(" ") || a.title, 180);
   const abs = (u?: string | null) => (u ? new URL(u, SITE_URL).toString() : undefined);
-  const other: Record<string, string | string[]> = {
-    citation_title: a.title,
-    citation_author: a.authors.map((x) => x.name),
-    citation_journal_title: JOURNAL,
-    citation_publisher: "KIMSHEALTH",
-  };
-  if (issue) {
-    other.citation_volume = String(issue.volume);
-    other.citation_issue = String(issue.number);
-    other.citation_publication_date = `${issue.year}/${MONTH_NUM[issue.month] || "01"}`;
-  }
-  if (a.pageStart) other.citation_firstpage = a.pageStart;
-  if (a.pageEnd) other.citation_lastpage = a.pageEnd;
-  const pdfHref = articlePdfHref(a, issue);
-  if (pdfHref) other.citation_pdf_url = abs(pdfHref)!;
-  if (a.doi) other.citation_doi = a.doi;
-  if (a.keywords.length) other.citation_keywords = a.keywords.join("; ");
   return {
     title: a.title,
     description,
@@ -45,7 +30,6 @@ export async function generateMetadata({ params }: PageProps<"/article/[slug]">)
     alternates: { canonical: `/article/${a.slug}` },
     openGraph: { type: "article", title: a.title, description, images: a.imageUrl ? [abs(a.imageUrl)!] : [] },
     twitter: { card: a.imageUrl ? "summary_large_image" : "summary" },
-    other,
   };
 }
 
@@ -68,20 +52,50 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
   const pages = pagesOf(a);
   const headings = [...(a.bodyHtml || "").matchAll(/<h2[^>]*id="([^"]+)"[^>]*>(.*?)<\/h2>/g)].map((m) => ({ id: m[1], text: m[2].replace(/<[^>]+>/g, "") }));
 
+  const cfg = await getJournalConfig();
+  const lic = licenceInfo(cfg);
+  const absText = abstractPlain(a);
+  const pdfAbs = absPdfUrl(cfg, a, issue);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "ScholarlyArticle",
-    headline: a.title,
-    author: a.authors.map((x) => ({ "@type": "Person", name: x.name })),
-    keywords: a.keywords.join(", "),
-    isPartOf: issue ? { "@type": "PublicationIssue", issueNumber: issue.number, datePublished: `${issue.year}-${MONTH_NUM[issue.month] || "01"}`, isPartOf: { "@type": "PublicationVolume", volumeNumber: issue.volume, isPartOf: { "@type": "Periodical", name: JOURNAL } } } : undefined,
+    "@id": articleUrl(cfg, a),
+    headline: a.title.length > 110 ? undefined : a.title,
+    name: a.title,
+    author: authorRecords(a).map((x) => ({
+      "@type": "Person", name: x.name, givenName: x.given || undefined, familyName: x.surname,
+      affiliation: x.affs.length ? x.affs.map((n) => ({ "@type": "Organization", name: n })) : undefined,
+      email: x.email,
+    })),
+    abstract: absText || undefined,
+    description: absText ? excerpt(absText, 300) : undefined,
+    keywords: a.keywords.join(", ") || undefined,
+    genre: a.articleType,
+    inLanguage: cfg.language,
+    datePublished: issue ? isoMonth(issue) : undefined,
+    identifier: a.doi ? { "@type": "PropertyValue", propertyID: "DOI", value: a.doi } : undefined,
+    sameAs: a.doi ? `https://doi.org/${a.doi}` : undefined,
+    isPartOf: issue ? {
+      "@type": "PublicationIssue", issueNumber: issue.number, datePublished: isoMonth(issue),
+      isPartOf: { "@type": "PublicationVolume", volumeNumber: issue.volume, isPartOf: { "@type": "Periodical", name: cfg.title, issn: issns(cfg).map((x) => x.issn), publisher: { "@type": "Organization", name: cfg.publisher } } },
+    } : undefined,
+    pageStart: a.pageStart || undefined,
+    pageEnd: a.pageEnd || undefined,
     pagination: pages || undefined,
-    image: a.imageUrl || undefined,
-    url: `${SITE_URL}/article/${a.slug}`,
+    publisher: { "@type": "Organization", name: cfg.publisher },
+    license: lic.url,
+    isAccessibleForFree: true,
+    copyrightHolder: cfg.copyrightHolder,
+    copyrightYear: issue?.year,
+    image: a.imageUrl ? new URL(a.imageUrl, SITE_URL).toString() : undefined,
+    url: articleUrl(cfg, a),
+    encoding: pdfAbs ? { "@type": "MediaObject", contentUrl: pdfAbs, encodingFormat: "application/pdf" } : undefined,
+    citation: a.refs.length ? a.refs.map((r) => ({ "@type": "CreativeWork", name: r.replace(/<[^>]+>/g, "") })) : undefined,
   };
 
   return (
     <>
+      <ScholarlyMeta article={a} issue={issue} cfg={cfg} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       <div className="article-head">
         <div className="container">
@@ -188,7 +202,15 @@ export default async function ArticlePage({ params, searchParams }: PageProps<"/
               <CopyButton text={cite} label="Copy citation" />
               <a href={`/article/${a.slug}/cite?format=ris`}>RIS</a>
               <a href={`/article/${a.slug}/cite?format=bib`}>BibTeX</a>
+              <a href={`/article/${a.slug}/jats?download`} title="JATS XML (for indexing services)">JATS XML</a>
             </div>
+          </div>
+          <div className="side-box licence-box">
+            <h3>Open access</h3>
+            <p style={{ marginBottom: 8 }}>
+              © {issue?.year ?? ""} {cfg.copyrightHolder}. Published under the <a href={lic.url} target="_blank" rel="license noopener">{lic.label}</a> licence.
+            </p>
+            <Link href="/policies/open-access">Open access and licensing policy</Link>
           </div>
         </aside>
       </div>
