@@ -1,0 +1,65 @@
+type: Case Report
+pages: 45-47
+title: Giant infected bronchogenic cyst mimicking lung abscess in a young adult
+authors: Keerthi Arun (a); Archana PS (a); Ajit Thomas (a); Ameer KA (b); Atul Abraham (c)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Respiratory Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff c: Department of Cardiothoracic and Vascular Surgery, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Keerthi Arun, Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: kakeerthiarun@gmail.com
+keywords: bronchogenic cyst; infected bronchogenic cyst; lung abscess mimic; congenital lung cyst; thoracic surgery; cavitary lung lesion
+image: a10-f1a.jpg
+--- abstract
+Bronchogenic cysts are uncommon congenital foregut malformations resulting from abnormal budding of the primitive tracheobronchial tree during embryogenesis. They are often asymptomatic but may present with complications such as infection, compression of adjacent mediastinal structures, or rupture.
+--- abstract
+We report the case of a 27-year-old male presenting with acute febrile illness and pleuritic chest pain, who was found to have a large intrathoracic cystic lesion with an air-fluid level in the left hemithorax on imaging. Radiological evaluation suggested a bronchogenic cyst complicated by secondary infection.
+--- abstract
+The patient was initially managed with broad-spectrum antibiotics and image-guided drainage followed by definitive surgical excision via mini-thoracotomy. Intraoperative findings confirmed a large multiloculated infected cyst occupying the basal segments of the left lower lobe.
+--- abstract
+This case highlights the importance of considering congenital cystic lung lesions in the differential diagnosis of cavitary pulmonary disease.
+--- body
+## Introduction
+Bronchogenic cysts arise from abnormal budding of the embryonic foregut during early tracheobronchial development.^1,2^ They represent one of the most common congenital cystic lesions of the mediastinum and lung.^1,3^ Histologically, they are lined by ciliated pseudostratified columnar respiratory epithelium and may contain cartilage, mucous glands, and smooth muscle within the cyst wall.^1,2^
+
+Most bronchogenic cysts remain asymptomatic and are detected incidentally during imaging studies performed for unrelated indications.^1,4^ However, complications such as infection, haemorrhage, compression of adjacent structures, or rupture can lead to significant clinical manifestations.^2,4,5^ Infected bronchogenic cysts may radiologically resemble lung abscess, necrotising pneumonia, or other cavitary thoracic lesions, which can delay definitive diagnosis.^1,3,6^
+
+## Case presentation
+A 27-year-old male presented with high-grade fever of four days’ duration, associated with productive cough, pleuritic chest pain in the left axillary region, and generalized myalgia. The patient had a prior history of a large intrathoracic cystic lesion measuring approximately 11-12 cm with an air-fluid level detected on CT imaging in February 2025.
+
+On admission, the patient was haemodynamically stable and maintaining adequate oxygen saturation on room air. Clinical examination revealed reduced breath sounds in the left infrascapular region, without significant respiratory distress. Laboratory investigations showed a total leukocyte count of 6700 cells/mm³ with neutrophilic predominance and markedly elevated C-reactive protein levels.
+
+## Management and clinical course
+Initial management included intravenous ceftriaxone and doxycycline for presumed infectious pathology. An extensive infectious workup, including sputum studies and tuberculosis workup, was negative. Computed tomography of the thorax revealed a large intrathoracic cyst measuring approximately 11-12 cm with an air-fluid level, along with a second thin-walled cyst measuring approximately 2.5 cm.
+
+Due to persistent fever spikes, antimicrobial therapy was escalated to piperacillin-tazobactam, linezolid, and azithromycin. Image-guided drainage was subsequently performed with insertion of a 12F pigtail catheter, yielding approximately 80 mL of purulent fluid.
+
+Definitive surgical management was performed via left mini-thoracotomy through the fifth intercostal space. Intraoperative findings revealed a large multiloculated cyst occupying the basal segments of the left lower lobe, with an organized purulent collection and thickened parietal pleura adherent to the diaphragm.
+
+The cyst wall was excised, and the involved segments were preserved with satisfactory postoperative lung expansion and no air leak.
+
+Following the procedure, antibiotics were discontinued, and the patient was clinically monitored. Once the patient stabilized, he was discharged on postoperative day 7 on symptomatic medication.
+
+## Discussion
+Bronchogenic cysts are developmental anomalies originating from abnormal foregut budding during early embryogenesis.^1,2^ They account for a significant proportion of congenital mediastinal cysts and may remain clinically silent until complicated by infection or compression.^2,5,6^
+
+Secondary infection is a well-recognized complication and may present with features mimicking a lung abscess or necrotizing pneumonia.^1,4,6^ Computed tomography is the imaging modality of choice for evaluating cystic thoracic lesions and identifying complications such as air-fluid levels, wall thickening, and surrounding inflammatory changes.^3,6^
+
+Complete surgical excision is generally recommended for symptomatic lesions as it provides a definitive diagnosis and prevents recurrence and other complications.^1,4-7^ Minimally invasive techniques are increasingly used; however, open thoracotomy may still be necessary in cases of large infected cysts or dense adhesions.^1,4,7^
+
+## Conclusion
+Large infected bronchogenic cysts may radiologically mimic lung abscesses, potentially delaying definitive management. Early consideration of congenital cystic lesions is essential when large air-fluid cavities are identified in young patients without a clear infectious etiology.
+
+## Radiological findings
+!fig a10-f1a.jpg | Figure 1a: CT thorax demonstrating a large cystic lesion with an air-fluid level.
+
+!fig a10-f1b.jpg | Figure 1b: CT thorax showing the intrathoracic cystic cavity.
+
+!fig a10-f2.jpg | Figure 2: Lateral decubitus chest X-ray demonstrating the air-fluid level.
+--- refs
+1. McAdams HP, Kirejczyk WM, Rosado-de-Christenson ML, Matsumoto S. Bronchogenic cyst: imaging features with clinical and histopathologic correlation. Radiology. 2000;217:441–446.
+2. St-Georges R, Deslauriers J, Duranceau A, Vaillancourt R, Deschamps C, Beauchamp G, et al. Clinical spectrum of bronchogenic cysts of the mediastinum and lung in the adult. Ann Thorac Surg. 1991;52:6–13.
+3. Ribet ME, Copin MC, Gosselin B. Bronchogenic cysts of the mediastinum. J Thorac Cardiovasc Surg. 1995;109:1003–1010.
+4. Patel SR, Meeker DP, Biscotti CV, Kirby TJ, Rice TW. Presentation and management of bronchogenic cysts in the adult. Chest. 1994;106:79–85.
+5. Coselli MP, de Ipolyi P, Bloss RS, Diaz RF, Fitzgerald JB. Bronchogenic cysts above and below the diaphragm: report of eight cases. Ann Thorac Surg. 1987;44:491–494.
+6. Takeda SI, Miyoshi S, Minami M, Ohta M, Masaoka A, Matsuda H. Clinical spectrum of mediastinal cysts. Chest. 2003;124:125–132.
+7. Jeung MY, Gasser B, Gangi A, Bogorin A, Charneau D, Wihlm JM, et al. Imaging of cystic masses of the mediastinum. Radiographics. 2002;22(Suppl):S79–93.

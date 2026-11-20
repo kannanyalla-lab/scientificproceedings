@@ -1,0 +1,61 @@
+type: Case Report
+pages: 56-58
+title: Adult-onset acute disseminated encephalomyelitis following severe Salmonella gastroenteritis
+authors: Archana PS (a); Ajit Thomas (a); Khadeeja Ashraf (b)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Internal Medicine (Geriatric Medicine), KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Archana PS, Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: psarchana05@gmail.com
+keywords: acute disseminated encephalomyelitis; adult-onset; salmonella infection; gastrointestinal sepsis; demyelination; transient splenial lesion; corticosteroid therapy
+image: a13-f2.jpg
+--- abstract Background
+Acute disseminated encephalomyelitis (ADEM) is an immune-mediated demyelinating disease of the central nervous system that typically follows infection or vaccination. Although it is most commonly seen in children, adult presentations are increasingly recognized. Gastrointestinal infections are an uncommon but important trigger.
+--- abstract Case summary
+A 35-year-old male presented with acute, severe gastroenteritis characterized by profuse watery diarrhea, vomiting, fever, and dehydration following ingestion of food outside the home. Subsequently, he developed multiorgan dysfunction, including prerenal acute kidney injury and hepatic dysfunction. Stool culture identified Salmonella species. He was therefore treated with intravenous ceftriaxone (2 g once daily) and oral azithromycin (1 g once daily).
+
+During hospitalization, he developed acute neurological symptoms including dysarthria, ataxia, visual blurring, and postural instability. MRI of the brain demonstrated a transient splenial lesion in the corpus callosum, suggestive of a metabolic or inflammatory etiology. Cerebrospinal fluid analysis was unremarkable. In view of suspected ADEM, he was treated with high-dose intravenous methylprednisolone, resulting in significant clinical improvement.
+--- abstract Conclusion
+ADEM can occur in adults after severe systemic infections, such as gastrointestinal sepsis. Recognizing neurological symptoms early and promptly beginning immunosuppressive therapy can lead to favorable outcomes.
+--- body
+## Introduction
+Acute Disseminated Encephalomyelitis is a monophasic inflammatory demyelinating disease affecting the brain and spinal cord. It typically occurs 1-3 weeks after infection and is characterized by encephalopathy and multifocal neurological deficits. Adult-onset ADEM is rare and may pose diagnostic challenges, especially when accompanied by systemic illness.
+
+## Case presentation
+A previously healthy 35-year-old male presented with a 3-day history of loose stools, vomiting, nausea, high-grade fever, and reduced urine output. Notably, these symptoms began after eating at a restaurant. A similar illness was reported also among others who had eaten at the same place.
+
+Upon arrival at our institution, he was dehydrated and tachycardic (pulse rate: 130 bpm) with borderline hypotension. Systemic examination was otherwise unremarkable. Laboratory findings revealed elevated hemoglobin and packed cell volume (PCV) suggestive of hemoconcentration, acute kidney injury (serum creatinine: 2.5 mg/dL), hyperbilirubinemia, elevated liver enzymes, raised C-reactive protein (CRP), and mild hyponatremia. Stool culture grew Salmonella species. Ultrasound of the abdomen showed fatty liver, gallbladder sludge, and mild splenomegaly.
+
+On the second day of hospitalization, the patient developed dysarthria, ataxia, visual blurring, and postural instability. Neurological examination showed right-sided cerebellar signs and scanning speech. There was no history of neurological illness or recent vaccination.
+
+MRI of the brain demonstrated a small T2/FLAIR hyperintense lesion in the splenium of the corpus callosum consistent with a transient splenial lesion. Cerebrospinal fluid (CSF) analysis was normal.
+
+Given the clinical context, a diagnosis of ADEM was considered.
+
+## Management and outcome
+The patient was treated with intravenous methylprednisolone (1 g daily for three days) followed by oral steroid taper.
+
+His neurological symptoms improved significantly after treatment, and he was discharged in stable condition.
+
+!fig a13-f1.jpg, a13-f2.jpg | Figures 1 and 2: MRI of the brain, diffusion weighted imaging (Figure 1, left) and T2-weighted imaging (Figure 2, right), demonstrates a small T2/FLAIR hyperintense lesion with patchy diffusion restriction in the splenium of the corpus callosum at the midline, consistent with a transient splenial lesion. In the given clinical context, this finding is likely secondary to metabolic imbalances.
+
+## Discussion
+Acute Disseminated Encephalomyelitis (ADEM) is an immune-mediated inflammatory demyelinating disorder of the central nervous system characterized by a monophasic course and multifocal neurological deficits. Although it predominantly affects children, adult-onset ADEM is increasingly recognized in clinical practice and often presents diagnostic challenges due to overlapping features with infectious encephalopathy, metabolic disturbances, and multiple sclerosis.^1^
+
+The pathogenesis of ADEM is believed to involve molecular mimicry, wherein infectious antigens trigger a cross-reactive autoimmune response against myelin proteins. While viral infections are classically implicated, bacterial pathogens have also been reported as triggers. Several case reports have described ADEM following enteric infections, including those caused by Salmonella species.
+
+Kamei et al. reported a case of adult-onset ADEM following Salmonella enteritidis gastroenteritis, with neurological manifestations developing days after resolution of systemic symptoms and showing a favorable response to corticosteroid therapy.^2^ Similarly, Ozkale et al. reported post-infectious ADEM associated with bacterial gastrointestinal infection, emphasizing the temporal relationship between systemic inflammation and subsequent demyelination.^3^
+
+Neurological complications of Salmonella infection are variable; however, immune-mediated demyelination remains a rare but important differential diagnosis. In the present case, the onset of dysarthria, ataxia, and visual disturbances during recovery from severe gastrointestinal sepsis raised suspicion of a secondary inflammatory process rather than primary infectious involvement of the CNS. The normal cerebrospinal fluid findings further supported a para-infectious immune-mediated mechanism rather than direct bacterial invasion.
+
+The presence of a transient splenial lesion in the corpus callosum adds another notable feature to this case. Such lesions are commonly associated with infections, metabolic derangements, and systemic inflammatory states. In this patient, the lesion likely reflects a reversible inflammatory process in the setting of systemic immune activation. The rapid clinical improvement following high-dose intravenous methylprednisolone further supports an immune-mediated etiology.
+
+## Conclusion
+Although rare, adult-onset ADEM accounts for up to 30% of all ADEM cases and has an estimated annual incidence of 0.2–0.4 per 100,000 population. While a preceding infection is common, bacterial gastrointestinal infections such as Salmonella are uncommon but important triggers.
+
+Neurological complications occur in a minority of patients with severe systemic Salmonella infection, with immune-mediated demyelination being uncommon. Nevertheless, early recognition is important, as timely initiation of corticosteroid therapy results in clinical improvement and radiological resolution in most cases of transient splenial lesions.
+
+This case highlights the need for maintaining heightened clinical vigilance for immune-mediated neurological complications in adults who develop new focal deficits during or after severe gastrointestinal sepsis. Early neuroimaging and prompt immunosuppressive therapy can significantly improve outcomes and prevent long-term neurological disability.
+--- refs
+1. Pohl D, Alper G, Van Haren K, Kornberg AJ, Lucchinetti CF, Tenembaum S, et al. Acute disseminated encephalomyelitis: updates on an inflammatory CNS syndrome. Neurology. 2016;87(Suppl 2):S38–S45.
+2. Kamei S, Sekizawa T, Shiota H, Mizutani T, Itoyama Y. Acute disseminated encephalomyelitis following Salmonella enteritidis infection in an adult. J Neurol Sci. 1998;160(1):95–98.
+3. Ozkale Y, Erol I, Ozkale M, Alehan F. Acute disseminated encephalomyelitis associated with bacterial gastrointestinal infection. J Child Neurol. 2011;26(4):521–524.

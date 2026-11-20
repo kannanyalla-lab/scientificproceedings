@@ -4,14 +4,19 @@ import { articles, issues, pharmaUpdates, scrambleItems, spotterCases } from "./
 import { slugify } from "../lib/format";
 import september2026 from "./content/2026-09.json";
 import june2026 from "./content/2026-06.json";
+import march2026 from "./content/2026-03.json";
 
 /**
  * Issues bundled with the site, built from content/<yyyy-mm>/ by
  * `python3 scripts/build-issue.py <yyyy-mm>`. Add new editions here.
  */
-export const bundledIssues = [september2026, june2026];
+export const bundledIssues = [september2026, june2026, march2026];
 
-/** Sample issues from earlier versions of the site that are removed on setup. */
+/**
+ * Sample issues from earlier versions of the site that are removed on setup.
+ * The old March 2026 sample shares its slug with the real March 2026 edition,
+ * so only a copy without page scans (the sample) is removed.
+ */
 const retiredSlugs = ["march-2026-volume-12-issue-01"];
 
 type Bundle = (typeof bundledIssues)[number];
@@ -46,7 +51,9 @@ async function loadIssue(db: DB, b: Bundle) {
  * admin edits to them). Returns the slugs that were loaded.
  */
 export async function seed(db: DB, { force = false } = {}) {
-  const retired = await db.select({ id: issues.id }).from(issues).where(inArray(issues.slug, retiredSlugs));
+  const retired = (
+    await db.select({ id: issues.id, pageImages: issues.pageImages }).from(issues).where(inArray(issues.slug, retiredSlugs))
+  ).filter((r) => !r.pageImages?.length);
   for (const r of retired) await removeIssue(db, r.id);
 
   const loaded: string[] = [];

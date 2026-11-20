@@ -1,0 +1,142 @@
+[
+ {
+  "specialty": "Endocrinology",
+  "clue": "A rare, benign tumor of the adrenal medulla that causes excessive secretion of catecholamines leading to severe hypertension, headaches, palpitations, and intense sweating.",
+  "scrambled": "OYCMHOECAPTORHMO",
+  "answer": "Pheochromocytoma",
+  "sortOrder": 0
+ },
+ {
+  "specialty": "Endocrinology",
+  "clue": "A tumor outside the pituitary gland that produces excessive hormone causing high cortisol levels, severe hypercortisolism, skin hyperpigmentation, high blood pressure, and muscle weakness.",
+  "scrambled": "ITCECOP CTHA EYSONMDR",
+  "answer": "Ectopic ACTH syndrome",
+  "sortOrder": 1
+ },
+ {
+  "specialty": "Endocrinology",
+  "clue": "A genetic disorder associated with decreased reaction of body tissues to thyroid hormones.",
+  "scrambled": "RFETFFEO DSNREMYO",
+  "answer": "Refetoff syndrome",
+  "sortOrder": 2
+ },
+ {
+  "specialty": "Endocrinology",
+  "clue": "An extremely rare, autosomal recessive disorder characterized by dark, thick skin, growth retardation, and dysmorphic facial features.",
+  "scrambled": "ARSNBO-HNLDNELAME DOSNEMYR",
+  "answer": "Rabson-Mendenhall syndrome",
+  "sortOrder": 3
+ },
+ {
+  "specialty": "Endocrinology",
+  "clue": "A group of inherited genetic disorders that cause endocrine tumors. Common symptoms include high calcium levels, neck pain, or hormone imbalances.",
+  "scrambled": "TMIELLUP CEOIRDNNE ANPEOALIS",
+  "answer": "Multiple endocrine neoplasia",
+  "sortOrder": 4
+ },
+ {
+  "specialty": "Pediatrics",
+  "clue": "A highly aggressive central nervous system tumor that often presents with headache, vomiting, seizures, ataxia, and cranial nerve palsies.",
+  "scrambled": "TRCIEADPI MELGLATNEPONIE OMANLEMA",
+  "answer": "Pediatric leptomeningeal melanoma",
+  "sortOrder": 5
+ },
+ {
+  "specialty": "Pediatrics",
+  "clue": "A genetic, neuromuscular disorder that causes progressive degeneration resulting in muscle weakness, atrophy, and difficulty with movement, swallowing, and breathing.",
+  "scrambled": "PIALSN SMLCARUU ROAPTYH",
+  "answer": "Spinal muscular atrophy",
+  "sortOrder": 6
+ },
+ {
+  "specialty": "Pediatrics",
+  "clue": "An inherited neurodegenerative disorder leading to DNA repair failure. Progressive walking difficulties, balance issues, and dilated blood vessels in eyes/skin are early childhood symptoms.",
+  "scrambled": "AAIAXT NIEAGALTSCEIAT",
+  "answer": "Ataxia-telangiectasia",
+  "sortOrder": 7
+ },
+ {
+  "specialty": "Pediatrics",
+  "clue": "A rare, progressive, and chronic inflammatory neurological disease, causing severe, drug-resistant epilepsy, cognitive decline, and progressive hemiparesis primarily in children under 15 years.",
+  "scrambled": "UMSRENSAS EDMYSONR",
+  "answer": "Rasmussen syndrome",
+  "sortOrder": 8
+ },
+ {
+  "specialty": "Pediatrics",
+  "clue": "A polio-like neurological condition causing sudden muscle weakness, loss of reflexes, and limb paralysis due to spinal cord gray matter inflammation requiring immediate hospitalization.",
+  "scrambled": "UCTEA IFALCDC YSIETILM",
+  "answer": "Acute flaccid myelitis",
+  "sortOrder": 9
+ },
+ {
+  "specialty": "Urology",
+  "clue": "A rare genetic condition combining urinary incontinence, kidney damage, and an inverted facial expression where smiling appears as crying.",
+  "scrambled": "UAAFOILRC YEMROSDN",
+  "answer": "Urofacial syndrome",
+  "sortOrder": 10
+ },
+ {
+  "specialty": "Urology",
+  "clue": "A potentially life-threatening infection involving gas-forming bacteria within the bladder wall, occurring in diabetic, elderly females and presenting with abdominal pain, fever, and dysuria.",
+  "scrambled": "PASEYMHTUOSEM TSISTICY",
+  "answer": "Emphysematous cystitis",
+  "sortOrder": 11
+ },
+ {
+  "specialty": "Urology",
+  "clue": "A condition considered one of the most severe birth defects, causing protruding internal organs, a non-fused pelvis, major spinal abnormalities, a shortened colon, and an imperforate anus.",
+  "scrambled": "AOCALLC HTEYOPXSR",
+  "answer": "Cloacal exstrophy",
+  "sortOrder": 12
+ },
+ {
+  "specialty": "Urology",
+  "clue": "An uncommon, pouch-like sac that develops along the female urethra, which can cause pelvic pain, frequent urinary tract infections, blood in urine, and incontinence.",
+  "scrambled": "LTUHREAR RDUUCLTMVIE",
+  "answer": "Urethral diverticulum",
+  "sortOrder": 13
+ },
+ {
+  "specialty": "Urology",
+  "clue": "A rare, inherited autosomal recessive disorder where an excess production of oxalate combines with calcium, leading to recurrent kidney stones, nephrocalcinosis, and often progressive renal failure.",
+  "scrambled": "MRYAPRI ILUPHAYAROERX",
+  "answer": "Primary hyperoxaluria",
+  "sortOrder": 14
+ },
+ {
+  "specialty": "Oncology",
+  "clue": "A rare malignancy that develops in the lower uterine segment or cervix several decades after pregnancy and typically presents as abnormal vaginal bleeding.",
+  "scrambled": "EIDOLEPTHII OSHLAROICTPTB OTRUM",
+  "answer": "Epithelioid trophoblastic tumor",
+  "sortOrder": 15
+ },
+ {
+  "specialty": "Oncology",
+  "clue": "An exceptionally rare and aggressive cancer primarily affecting infants and young children, originating in the lungs and pleura, and presenting with cough, shortness of breath, and fever.",
+  "scrambled": "MYPEROPLOLAURUN TSABOALM",
+  "answer": "Pleuropulmonary blastoma",
+  "sortOrder": 16
+ },
+ {
+  "specialty": "Oncology",
+  "clue": "An aggressive soft tissue cancer, typically affecting young adults near joints in the limbs and causing slow-growing, painful, deep-seated masses.",
+  "scrambled": "VOILNASY AAOMSCR",
+  "answer": "Synovial sarcoma",
+  "sortOrder": 17
+ },
+ {
+  "specialty": "Oncology",
+  "clue": "A rare tumor of the adrenal gland that causes overproduction of adrenaline and noradrenaline, leading to severely high blood pressure, headaches, palpitations, and excessive sweating.",
+  "scrambled": "OCHRPCOOEYTOHAMM",
+  "answer": "Pheochromocytoma",
+  "sortOrder": 18
+ },
+ {
+  "specialty": "Oncology",
+  "clue": "A unique and aggressive liver tumor that occurs distinctively in young patients without underlying liver disease.",
+  "scrambled": "AAFLLMLIORRBE CIMACNROA",
+  "answer": "Fibrolamellar carcinoma",
+  "sortOrder": 19
+ }
+]

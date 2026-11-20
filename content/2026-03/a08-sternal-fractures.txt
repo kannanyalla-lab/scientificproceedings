@@ -1,0 +1,117 @@
+type: Case Series
+pages: 36-40
+title: Sternal fractures in blunt chest trauma: Diagnostic value of CT and clinical and radiological insights
+authors: Achsah G (a); Saisaranya (a); Shameem KU (a); Jennifer Kabeer (a)
+aff a: Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Saisaranya, Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drsaisaranya@gmail.com
+keywords: sternal fractures; blunt chest trauma; computed tomography; retrosternal hematoma; hemothorax; trauma imaging; emergency radiology
+image: a08-f4.jpg
+--- abstract Background
+Sternal fractures are relatively uncommon injuries following blunt chest trauma; however, they may be associated with significant intrathoracic complications.
+--- abstract Methods
+We present a case series of three patients with sternal fractures resulting from blunt chest trauma. Clinical features, computed tomography (CT) findings, and management strategies were evaluated.
+--- abstract Results
+CT imaging identified fracture patterns and associated complications, including retrosternal hematoma and haemothorax. One patient required surgical intervention due to hemodynamic instability, while the other two were managed conservatively with favourable outcomes.
+--- abstract Conclusion
+CT is the imaging modality of choice for diagnosing sternal fractures and associated thoracic injuries. Early identification facilitates appropriate management and improves clinical outcomes.
+--- body
+## Introduction
+Sternal fractures represent a relatively small proportion of blunt thoracic injuries, with a reported incidence ranging from 3% to 8%. These injuries are most frequently associated with high-energy mechanisms, such as road traffic collisions and direct anterior chest trauma. Although isolated sternal fractures are generally associated with a favourable prognosis, their presence raises concern for concomitant intrathoracic injuries, including myocardial contusion, pulmonary contusion, and mediastinal hematoma.
+
+Historically, lateral chest radiography was employed for diagnosis; however, its sensitivity is limited, particularly for nondisplaced fractures. Multidetector computed tomography (CT) has emerged as the preferred imaging modality due to its superior diagnostic accuracy and ability to detect associated thoracic injuries.
+
+This case series aims to highlight the clinical presentation, radiological features, and management strategies of sternal fractures diagnosed using CT imaging in the emergency setting.
+
+## Methods
+This is a retrospective case series that includes three patients who presented to the emergency department with blunt chest trauma. All patients underwent CT imaging of the chest as part of their trauma evaluation. Clinical presentation, imaging findings, management approaches, and outcomes were reviewed.
+
+## Case 1
+A 63-year-old male presented to the emergency department following a high-impact road traffic collision involving a four-wheeler. He reported severe anterior chest pain, rated 9/10 on the Numeric Rating Scale (NRS).
+
+On initial assessment, the patient was hemodynamically unstable, with a blood pressure of 86/54 mmHg, a heart rate of 118 beats/min, a respiratory rate of 26 breaths/min, and an oxygen saturation of 90% on room air. Physical examination revealed marked tenderness over the anterior chest wall and decreased breath sounds over the right hemithorax, without visible chest wall deformity. Electrocardiography (ECG) demonstrated sinus tachycardia without ischemic changes. Serum troponin levels were mildly elevated, suggestive of possible myocardial contusion.
+
+Computed tomography (CT) of the chest demonstrated a sternal fracture associated with a large retrosternal hematoma measuring approximately 3.7 × 10.7 × 14.6 cm, along with a right-sided haemothorax (Figures 1 and 2). The patient underwent emergency intercostal drain placement, followed by surgical intervention, including evacuation of the retrosternal hematoma via sternotomy. Postoperatively, pain improved to 3/10 on the NRS, and the patient gradually recovered functionally, achieving independent ambulation at discharge.
+
+!fig a08-f1.jpg | Figure 1: Axial contrast-enhanced CT image of the chest demonstrating a fracture of the manubrium sterni, characterized by cortical irregularity and surrounding soft tissue edema, consistent with acute traumatic injury.
+
+!fig a08-f2.jpg | Figure 2: Axial CT image demonstrating a displaced fracture of the sternal body, characterized by cortical discontinuity and an associated hyperdense retrosternal collection, consistent with a hematoma.
+
+## Case 2
+A 49-year-old male presented to the emergency department following a road traffic collision involving a car and a truck. He reported an acute onset of central chest pain, rated 6/10 on the NRS, immediately after the impact.
+
+On initial assessment, the patient was hemodynamically stable, with a blood pressure of 120/70 mmHg, heart rate of 88 beats/min, respiratory rate of 18 breaths/min, and oxygen saturation of 98% on room air. Physical examination revealed localized tenderness over the sternum without swelling, deformity, or evidence of respiratory compromise. ECG showed a normal sinus rhythm. Serum troponin levels were within normal limits.
+
+!fig a08-f3.jpg | Figure 3: Axial CT image demonstrating a linear, undisplaced fracture of the sternal body, evident as a cortical discontinuity without displacement or associated intrathoracic injury.
+
+!fig a08-f4.jpg | Figure 4: Sagittal reconstructed CT image demonstrating a displaced sternal fracture with posterior displacement of fracture fragments, clearly delineating fracture morphology.
+
+CT imaging of the chest demonstrated a linear, undisplaced fracture of the sternal body, with no associated intrathoracic injury (Figures 3 and 4). The patient was managed conservatively with adequate analgesia and close clinical observation. Pain improved to 2/10 on NRS prior to discharge. He was able to perform activities of daily living without limitation and was discharged with outpatient follow-up.
+
+## Case 3
+A 50-year-old male presented to the emergency department following a motorcycle accident in which he sustained blunt anterior chest trauma from the handlebars. He reported localized chest pain rated 7/10 on the NRS.
+
+On initial evaluation, the patient was hemodynamically stable with normal vital parameters. Physical examination revealed tenderness over the upper sternum, without deformity or signs of respiratory distress. ECG demonstrated a normal sinus rhythm, and serum troponin levels were within normal range.
+
+!fig a08-f5.jpg | Figure 5: Axial CT image showing a fracture of the manubrium sterni, with adjacent soft tissue swelling and a small retrosternal hematoma.
+
+CT imaging of the chest demonstrated a fracture involving the manubrium sterni, with an associated small retrosternal hematoma (Figure 5). The patient was managed conservatively with analgesia and observation. Pain improved to 2–3/10 on NRS, and he regained full functional capacity, including normal respiratory effort and mobility, prior to discharge.
+
+!table
+caption: Table 1: Summary of the three cases
+Variable | Case 1 | Case 2 | Case 3
+Age/Sex | 63/M | 49/M | 50/M
+Mechanism of injury | High-impact RTA (car collision) | RTA (car vs truck) | Motorcycle accident
+Hemodynamic status | Unstable | Stable | Stable
+Pain score (NRS) | 9/10 → 3/10 | 6/10 → 2/10 | 7/10 → 2-3/10
+ECG findings | Sinus tachycardia | Normal | Normal
+Troponin levels | Mildly elevated | Normal | Normal
+CT findings | Sternal fracture + large retrosternal hematoma + haemothorax | Undisplaced sternal body fracture | Manubrial fracture + small hematoma
+Associated injuries | Haemothorax, mediastinal hematoma | None | Minimal (small retrosternal hematoma)
+Management | Surgical (sternotomy + drainage) | Conservative | Conservative
+Outcome | Stabilized, ambulatory at discharge | Full recovery | Full recovery
+Functional status at discharge | Independent ambulation | Normal activities of daily living (ADLs) | Normal ADLs
+!end
+
+## Discussion
+Sternal fractures are relatively uncommon injuries, accounting for approximately 3–8% of blunt thoracic trauma cases, and are most frequently associated with high-energy mechanisms such as road traffic collisions.^1^ The increasing use of seat belts and airbags has led to a shift in injury patterns, with a relative rise in anterior chest wall injuries, including sternal fractures.^2^ These injuries typically result from direct anterior chest impact or rapid deceleration forces causing flexion-compression of the thoracic cage.^3^
+
+Clinically, patients with sternal fractures most commonly present with localized anterior chest pain and tenderness, often exacerbated by respiration or movement.^4^ While isolated fractures generally have a favourable prognosis, their presence necessitates careful evaluation for associated injuries, particularly cardiac contusion, pulmonary contusion, and mediastinal hematoma.^5^ Current evidence supports the use of electrocardiography and cardiac biomarkers in patients with suspected myocardial injury, as early detection is critical for preventing adverse outcomes.^6^ The presence of elevated troponin levels in the first patient further highlights the importance of screening for blunt cardiac injury, as recommended in established trauma guidelines.^6^
+
+Imaging plays a central role in diagnosis. Although lateral chest radiography was historically used, it has limited sensitivity, particularly for nondisplaced fractures.^7^ Multidetector computed tomography (CT) has emerged as the gold standard imaging modality due to its superior sensitivity and ability to detect associated thoracic injuries.^8^ CT imaging was essential in all cases in this series for accurately identifying fracture characteristics and associated injuries, reinforcing its established role in the evaluation of blunt chest trauma.^8^ The ability to detect clinically significant findings, such as retrosternal hematoma, directly influenced management decisions in our series.
+
+Recent advances, including three-dimensional CT reconstruction, have further enhanced the assessment of fracture morphology and displacement, aiding both diagnosis and surgical planning.^9^
+
+A key associated finding is retrosternal hematoma, which may result from bleeding at the fracture site or injury to adjacent mediastinal structures.^10^ While small hematomas are typically self-limiting, larger collections can lead to mediastinal compression and hemodynamic instability, necessitating urgent intervention.^11^
+
+In our series, one patient required surgical evacuation of a large retrosternal hematoma, highlighting the importance of early recognition and timely management. This observation is supported by prior studies demonstrating that associated mediastinal injuries, particularly large hematomas or haemothorax, are key indicators for operative management.^11^
+
+Management strategies for sternal fractures depend on fracture characteristics and associated injuries. Most isolated, nondisplaced fractures can be managed conservatively with adequate analgesia, respiratory support, and observation.^12^ The cases presented in this series illustrate the spectrum of clinical presentations and management strategies for sternal fractures. While most patients can be managed conservatively, the presence of associated complications such as retrosternal hematoma or haemothorax may necessitate surgical intervention. These findings reinforce the pivotal role of CT imaging in guiding diagnosis and management decisions in the emergency setting.
+
+The findings from this case series are consistent with existing literature regarding the clinical spectrum and management of sternal fractures. Two of the three patients in our series were hemodynamically stable with isolated, nondisplaced fractures and were successfully managed conservatively. This aligns with current evidence indicating that the majority of isolated sternal fractures can be treated non-operatively with adequate analgesia and observation.^12^
+
+Pain scores improved significantly across all cases with appropriate management, emphasizing the role of effective analgesia in preventing respiratory complications such as hypoventilation and atelectasis. This is consistent with evidence underscoring pain control as a cornerstone of conservative treatment strategies.^12^ Surgical fixation is increasingly being utilized in selected cases, particularly in patients with displaced or unstable fractures, persistent pain, or respiratory compromise.^13^
+
+Recent studies have demonstrated improved outcomes with surgical fixation using titanium plating systems, including enhanced chest wall stability, reduced pain, and shorter hospital stays.^14^ Furthermore, early operative intervention in appropriately selected patients may improve pulmonary function and reduce complications.^15^
+
+A multidisciplinary approach is essential for optimal management, particularly in polytrauma patients. Collaboration among emergency physicians, trauma surgeons, radiologists, and cardiothoracic specialists facilitates early diagnosis and comprehensive care.^16^ Standardized trauma protocols incorporating CT imaging and cardiac evaluation have been shown to improve detection of associated injuries and reduce morbidity.
+
+## Conclusion
+Sternal fractures, although uncommon, are clinically significant injuries that require thorough evaluation for associated complications. CT imaging plays a central role in diagnosis and management planning. While most cases can be managed conservatively, early identification of complications, such as retrosternal hematoma, is critical to facilitate timely intervention and improve patient outcomes.
+--- refs
+1. Recinos G, Inaba K, Dubose J, Barmparas G, Teixeira PG, Talving P et al. Epidemiology of sternal fractures. Am Surg. 2009;75(5):401-404.
+2. Schulz-Drost S, Ekkernkamp A, Stengel D. Epidemiology, injury patterns, and treatment practices of chest wall injuries: current scientific evidence and therapeutic recommendations. Unfallchirurg. 2018;21(8):605–614.
+3. Odell DD, Peleg K, Givon A, Radomislensky I, Makey I, Decamp MM et al. Sternal fracture: isolated lesion versus polytrauma from associated extrasternal injuries-analysis of 1,867 cases. J Trauma Acute Care Surg. 2013;75(3):448-452.
+4. Athanassiadi K, Gerazounis M, Moustardas M, Metaxas E. Sternal fractures: retrospective analysis of 100 cases. World J Surg. 2002;26(10):1243-1246.
+5. Klei DS, de Jong MB, Öner FC, Leenen LPH, van Wessem KJP. Current treatment and outcomes of traumatic sternal fractures-a systematic review. Int Orthop. 2019;43(6):1455-1464.
+6. Clancy K, Velopulos C, Bilaniuk JW, Collier B, Crowley W, Kurek S et al. Screening for blunt cardiac injury: an Eastern Association for the Surgery of Trauma practice management guideline. J Trauma Acute Care Surg. 2012;73(5 Suppl 4):S301-306.
+7. Khoriati AA, Rajakulasingam R, Shah R. Sternal fractures and their management. J Emerg Trauma Shock. 2013;6(2):113-116.
+8. Doyle JE, Diaz-Gutierrez I. Traumatic sternal fractures: a narrative review. Mediastinum. 2021;5:34.
+9. Kim EY, Yang HJ, Sung YM, Hwang KH, Kim JH, Kim HS. Sternal fracture in the emergency department: diagnostic value of multidetector CT with sagittal and coronal reconstruction images. Eur J Radiol. 2012;81(5):e708-11.
+10. Hills MW, Delprado AM, Deane SA. Sternal fractures: associated injuries and management. J Trauma. 1993;35(1):55-60.
+11. Schulz-Drost S, Oppel P, Grupp S, Schmitt S, Carbon RT, Mauerer A et al. Surgical fixation of sternal fractures: preoperative planning and a safe surgical technique using locked titanium plates and depth limited drilling. J Vis Exp. 2015;(95):e52124.
+12. Harston A, Roberts C. Fixation of sternal fractures: a systematic review. J Trauma. 2011;71(6):1875-1879.
+13. Mayberry JC, Ham LB, Schipper PH, Ellis TJ, Mullins RJ. Surveyed opinion of American trauma, orthopaedic, and thoracic surgeons on rib and sternal fracture repair. J Trauma. 2009;66(3):875-879.
+14. Rai A, Yadav S, Roy S, Choudhary A, Kannojia S, Gautam S. Eur J Cardiovasc Med. 2024;14(3):945–51.
+15. Pieracci FM, Schubl S, Gasparri M, Delaplain P, Kirsch J, Towe C, et al. The Chest Wall Injury Society recommendations for reporting studies of surgical stabilization of rib fractures. Injury. 2021;52(6):1241-1250.
+16. Hinzpeter R, Boehm T, Boll D, Constantin C, Del Grande F, Fretz V, et al. Imaging algorithms and CT protocols in trauma patients: survey of Swiss emergency centers. Eur Radiol. 2017;27(5):1922-1928.

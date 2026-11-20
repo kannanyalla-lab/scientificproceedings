@@ -1,5 +1,5 @@
-// Creates or updates the database tables, removes the old March 2026 sample
-// and loads any bundled issue (currently September 2026) that is missing. Run automatically by `npm run dev` / `npm start`;
+// Creates or updates the database tables, removes the old March 2026 sample (one without page scans)
+// and loads any bundled issue (see bundledIssues in src/db/seed.ts) that is missing. Run automatically by `npm run dev` / `npm start`;
 // run it directly with `npm run setup` when using your own Postgres.
 import "dotenv/config";
 import { migrate } from "drizzle-orm/postgres-js/migrator";

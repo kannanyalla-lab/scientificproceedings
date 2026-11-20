@@ -1,0 +1,105 @@
+type: Original Research
+pages: 16-19
+title: Impact of a nurse-led oral anticoagulation clinic on clinical outcomes and healthcare costs: A retrospective study
+authors: Beena C Antony (a); Shinu Jacob (a); Lijo R (a)
+aff a: Department of Nursing, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Beena C Antony, Department of Nursing, KIMSHEALTH, Trivandrum, Kerala, India.
+email: beenaca@kimshealth.org
+keywords: nurse-led clinic; anticoagulation; patient safety; INR monitoring; cost reduction; health economics; patient education
+--- abstract
+This study evaluated the impact of a nurse-led anticoagulation clinic on clinical and economic outcomes of oral anticoagulant (OAC) therapy at a tertiary care hospital from 2018 to 2024. A retrospective analysis revealed that OAC-related complications, including thromboembolic and haemorrhagic events, were eliminated after the structured implementation of the nurse-led clinic. The annual cost burden from OAC complications declined from ₹3.2 million in 2018 to zero in 2024, marking a 100% reduction. These outcomes occurred even as patient volume increased significantly, highlighting the efficiency and scalability of the nurse-led model.
+--- abstract
+The findings are consistent with existing evidence that structured anticoagulation management and nurse-led interventions improve therapeutic safety, patient adherence, and healthcare efficiency. They also enhance cost-effectiveness in chronic disease management. This study underscores the importance of nurse autonomy, structured monitoring, and patient education in optimizing anticoagulation outcomes. It supports broader adoption of nurse-led clinics to manage high-risk populations.
+--- body
+## Introduction
+Safe management of patients receiving oral anticoagulant therapy (OAC) is essential for achieving optimal clinical outcomes. However, many patients undergoing valve replacement lack adequate understanding of their anticoagulant regimen, highlighting the need for targeted patient education.^1^ Anticoagulant-related complications often result in hospitalizations and frequent consultations, imposing a substantial economic burden on patients and healthcare systems.
+
+Medication adherence plays a key role in achieving optimal therapeutic outcomes. Standardized frameworks have been developed to better understand adherence behaviours in clinical practice.^1^ Effective patient education is essential for improving adherence and minimizing complications.^2^ Evidence-based guidelines emphasize the importance of structured monitoring and patient education in anticoagulation management to maintain therapeutic International Normalized Ratio (INR) levels and prevent complications.^3^
+
+The Nurse-Led Oral Anticoagulation Clinic (NL-OACC) at KIMSHEALTH, Trivandrum, addresses these challenges by providing comprehensive, cost-free follow-up care delivered by trained nurses. They also offer telephonic support, patient education, and proactive management of complications. This model emphasizes individualized, patient-centered care and structured education to enhance therapeutic safety.
+
+This study evaluates the impact of the Nurse-Led Oral Anticoagulation Clinic (NL-OACC) in delivering cost-effective care for patients registered at KIMSHEALTH, Trivandrum.
+
+## Objectives
+1. To provide structured education to patients on oral anticoagulant therapy.
+2. To monitor laboratory values and promptly identify critical or panic values.
+3. To identify causes of International Normalized Ratio (INR) variance among patients.
+4. To reduce oral anticoagulation-related complications and associated treatment costs.
+5. To decrease the frequency of clinic visits required to achieve target INR values, thereby reducing overall healthcare costs.
+6. To minimize routine physician consultations for dose adjustments, reduce consultation expenses, travel-related inconvenience, and associated costs.
+
+## Methods
+A retrospective review was conducted on patients registered in the NL-OACC from 2018 to 2023. The following interventions were implemented:
+
+- Direct consultations and inpatient follow-up for patients receiving anticoagulation therapy registered with the nurse-led clinic.
+- Structured patient education through counselling sessions, informational booklets, and alert cards.
+- Systematic telephonic follow-up included weekly calls for new patients. Stable patients received monthly follow-ups. The clinic also offered 24/7 telephonic support.
+- Proactive identification of INR variability and timely dose adjustments in collaboration with clinicians.
+- Patient and family education on therapy, warning signs, and adherence.
+- Maintenance of comprehensive clinical records to support monitoring and continuous quality improvement.
+- Training of nursing staff in anticoagulation management, including escalation protocols.
+- Evaluation of drug–food interactions in collaboration with clinical pharmacists and dieticians.
+
+## Results
+A retrospective analysis from 2018 to 2024 showed a sharp drop in oral anticoagulation therapy (OAC) complications after the nurse-led anticoagulation clinic began. Table 1 shows that OAC-related complications dropped from 15 in 2018 to zero in 2024. This represents a 100% reduction. Both thromboembolic and hemorrhagic events fell to zero, demonstrating significant improvement in safety. The cost burden for OAC complications fell from ₹3.2 million in 2018 to zero in 2024, demonstrating their full elimination. These improvements happened even as the patient volume increased, indicating that the nurse-led model is efficient and scalable.
+
+!table
+caption: Table 1: Trends in oral anticoagulant (OAC)–related complications and cost before and after implementation of the nurse-led clinic (2018–2024). Note: Cost estimates represent annual expenditure associated with managing OAC-related complications.
+Year | Total patients | New patients | Complications (n) | Thromboembolic (n) | Hemorrhagic (n) | Estimated cost (₹)
+2018 | - | 126 | 15 | 3 | 12 | 3,200,000
+2019 | - | 110 | 13 | 2 | 11 | 2,424,000
+2020 | 1,482 | 132 | 5 | 2 | 3 | 1,452,000
+2021 | 1,600 | 126 | 4 | 2 | 2 | 840,000
+2022 | 2,100 | 140 | 3 | 1 | 2 | 266,000
+2023 | 2,374 | 167 | 3 | 0 | 3 | 151,000
+!end
+
+These findings highlight the effectiveness of structured nurse-led monitoring, patient education, and timely follow-up in reducing adverse events and improving the overall cost-effectiveness of anticoagulation management.
+
+!fig a03-f1.jpg | Figure 1: Trend in OAC-related complications and associated costs following implementation of the nurse-led clinic (2018–2024). Note: This figure shows the trend in oral anticoagulant (OAC)-related complications and management costs over 7 years (2018–2024) following the implementation of a structured nurse-led anticoagulation clinic. The solid lines represent the number of complications, subdivided into thromboembolic and hemorrhagic events. The shaded bars show estimated annual costs of OAC-related adverse outcomes. A progressive and sustained decline is evident in all categories of complications, with total, thromboembolic, and hemorrhagic events reduced to zero by 2024. Correspondingly, the annual cost burden fell from ₹3.2 million in 2018 to ₹0 in 2024, reflecting a 100% reduction. Despite a steady increase in patient volume, complication rates remained negligible. These findings highlight the effectiveness of nurse-led clinics in optimizing anticoagulation management through systematic patient monitoring, adherence education, and timely dose adjustment.
+
+## Discussion
+This study demonstrates that a structured nurse-led anticoagulation clinic significantly improves both clinical outcomes and economic efficiency. Following full implementation of the clinic at KIMSHEALTH, OAC-related complications declined progressively, ultimately reaching zero by 2024. This finding is consistent with existing evidence showing that structured monitoring and patient education reduce adverse events and hospitalizations.^3,6^
+
+Specialized anticoagulation clinics have consistently demonstrated superior anticoagulation control and reduced healthcare costs compared with usual care.^4^ Structured monitoring, standardized protocols, and patient education are fundamental to improving the safety and effectiveness of OAC therapy.^3^ Randomized trials have further shown that nurse-led anticoagulation management is comparable to physician-led care in terms of safety and clinical outcomes.^5,6^
+
+The development of nurse-managed anticoagulation programs has contributed to improved International Normalized Ratio (INR) monitoring and more appropriate dose adjustment practices. These structured approaches are particularly important for high-risk populations, such as patients undergoing valve replacement, who often have inadequate knowledge of their anticoagulant therapy.^1^
+
+Inadequate knowledge has been associated with reduced adherence and an increased risk of adverse events.^2^ Educational interventions targeting patients receiving lifelong oral anticoagulant therapy following mechanical heart valve replacement have demonstrated improved adherence and better therapeutic INR control compared with routine education strategies.^7^
+
+Medication adherence remains a critical determinant of treatment success in chronic therapies, and structured follow-up mechanisms significantly improve adherence and clinical outcomes.^1^ Personalized, nurse-led educational interventions have been shown to significantly improve adherence to OAC therapy among patients with mechanical heart valve prostheses.^8^ Furthermore, educational strategies delivered by healthcare professionals enhance patient knowledge and reduce medication-related complications.^9^ Structured discharge education and multidisciplinary interventions have also been associated with improved patient understanding and reduced medication-related complications.^5^
+
+Comparative evaluations have shown that anticoagulation clinics achieve better therapeutic control and lower healthcare costs than conventional physician-led models.^8^ Nurse-led services, in particular, have shown equivalent safety and effectiveness while improving efficiency and reducing the need for frequent clinic visits.^6^
+
+The findings of this study reinforce the effectiveness of nurse-led anticoagulation services in optimizing INR monitoring, facilitating timely dose adjustments, and enhancing patient engagement. Structured follow-up mechanisms, including telephonic support and proactive identification of INR variability, likely contributed to the observed reduction in complications and associated costs. These results align with previous studies demonstrating improved clinical outcomes and cost-effectiveness with nurse-managed anticoagulation programs.^6,8^
+
+From an operational perspective, the Nurse-Led Oral Anticoagulation Clinic (NL-OACC) at KIMSHEALTH demonstrated strong sustainability by effectively managing increasing patient volumes without compromising the quality of care. The elimination of complication-related costs further highlights the economic value of structured anticoagulation management programs.^8^
+
+Complications and the associated economic burden steadily declined following the implementation of the clinic. The interventions coincided with improved patient monitoring and education, contributing to reduced adverse events, hospitalizations, and costs.
+
+## Significance in nursing
+- Modern health systems emphasize not only clinical outcomes but also patient safety and education.
+- Nurse-led specialty clinics empower patients and families, improve knowledge, and promote safer therapeutic practices.
+- Integration of specialty clinic-based education into nursing in-service programs enhances nurses’ competence and readiness to identify and prevent complications.
+- Strengthening infrastructure for nurse-led clinics contributes to improved patient satisfaction and enhances institutional reputation.
+- Maintaining a comprehensive database within the nurse-led oral anticoagulation clinic provides valuable reference material, creates research opportunities, and promotes quality improvement.
+
+## Recommendations
+- Broader implementation of nurse-led clinics to ensure safe and cost-effective care delivery.
+- Integration of such clinics into strategic business units to expand institutional reach.
+- Advanced training and credentialing of nurses support independent clinical decision-making.
+- Adoption of systematic record-keeping to facilitate monitoring, research, and quality improvement.
+- Expansion of the nurse-led model to preventive care clinics.
+
+## Conclusion
+The Nurse-Led Oral Anticoagulation Clinic at KIMSHEALTH, Trivandrum, significantly reduced therapy-related complications and eliminated the financial burden associated with their management. Robust patient surveillance, structured education, and provision of zero-cost care played pivotal roles in enhancing patient safety and improving economic outcomes. These findings support the broader adoption of nurse-led clinics as an equitable and efficient care model.
+--- refs
+1. Kumari MJ, Singh A, Sharma R, Gupta P, Thomas J, Verma S, et al. Assessment of knowledge on oral anticoagulation therapy among valve replacement patients. Int J Adv Res. 2015;3(4):1236-1243.
+2. Vrijens B, De Geest S, Hughes DA, Przemyslaw K, Demonceau J, Ruppar T, et al. A new taxonomy for describing and defining adherence to medications. Br J Clin Pharmacol. 2012;73(5):691-705.
+3. Holbrook A, Schulman S, Witt DM, Vandvik PO, Fish J, Kovacs MJ, et al. Evidence-based management of anticoagulant therapy: Antithrombotic therapy and prevention of thrombosis. Chest. 2012;141(2 Suppl):e152S-e184S.
+4. Chiquette E, Amato MG, Bussey HI. Comparison of an anticoagulation clinic with usual medical care: anticoagulation control, patient outcomes, and health care costs. Arch Intern Med. 1998;158(15):1641-1647.
+5. Fitzmaurice DA, Hobbs FD, Murray ET, Holder R, Allan TF, Rose PE. Oral anticoagulation management in primary care with a nurse-led clinic: a randomized controlled trial. BMJ. 2000;320(7245):1641-1645.
+6. Connor CA, Wright CC, Fegan CD. The safety and effectiveness of a nurse-led anticoagulant service. J Adv Nurs. 2002;38(4):407-415.
+7. Shimabukuro TT, Kramer J, McGuire M. Development and implementation of a nurse-managed anticoagulation program. J Healthc Qual. 2004;26(1):4-12.
+8. Eltheni R, Schizas N, Michopanou N, Fildissis G. Effects of a personalized nurse-led educational program for new patients receiving oral anticoagulant therapy after mechanical heart valve prosthesis implantation on adherence to treatment. J Chest Surg. 2021;54(1):25-30.
+9. Zdyb EG, Courtney DM, Malik S, Brown MD, Baugh CW, Raja AS, et al. Impact of discharge anticoagulation education by emergency department pharmacists at a tertiary academic medical center. J Emerg Med. 2017;53(6):896-903.

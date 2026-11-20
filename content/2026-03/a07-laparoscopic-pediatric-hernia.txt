@@ -1,0 +1,107 @@
+type: Case Series
+pages: 32-35
+title: Laparoscopic management of pediatric inguinal hernia: A single-center experience
+authors: Aswathy Ravikumar (a); Aiswarya R Pillai (a); Asok Kumar GM (a)
+aff a: Department of Pediatric Surgery, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Aswathy Ravikumar, Department of Pediatric Surgery, KIMSHEALTH, Trivandrum, Kerala, India.
+email: aswathy.ravikumar@gmail.com
+keywords: inguinal hernia; laparoscopic herniotomy; contralateral patent processus vaginalis
+image: a07-f2.jpg
+--- abstract Aim
+This study aims to document our experience in laparoscopic hernia repair in the pediatric population.
+--- abstract Methods
+A total of 11 hernia repairs were performed in 8 children. Using standard three-port laparoscopy, the peritoneum at the open deep ring was dissected, the distal sac disconnected, and the ring was closed using a purse-string technique with intracorporeal suturing using 4-0 Vicryl sutures.
+--- abstract Results
+Of the 8 children, 3 were boys. In 3 of the children, a contralateral open deep inguinal ring with a patent processus vaginalis was found, and bilateral herniotomy was performed in the same sitting. The operative time ranged from 65 to 75 minutes for unilateral herniotomies, 90 to 100 minutes for bilateral cases, and 95 minutes for a unilateral complicated (obstructed) hernia repair. Postoperative inguinoscrotal edema was not observed in any case except in one patient with an incarcerated, obstructed hernia. All cases are under follow-up, and no recurrences have been reported to date.
+--- abstract Conclusion
+Laparoscopy is a safe and effective alternative to the conventional open approach for both elective and emergency herniotomies in children. It also has additional advantages, including minimal handling of the cord, the ability to address contralateral hernias in a single sitting, and the identification of Müllerian structures in girls with bilateral inguinal hernia.
+--- body
+## Introduction
+Inguinal hernia repair is one of the most commonly performed operations in pediatric practice.^1^ The traditional ‘open’ inguinal herniotomy remains the gold standard of hernia repair in children worldwide. However, since the early 2000s, laparoscopic techniques have become increasingly common.^2,3^ Laparoscopy provides several potential advantages, including reduced postoperative pain, faster recovery, and importantly, the ability to visualize the contralateral deep inguinal ring and minimal handling of the spermatic cord structures.^4^
+
+The techniques of laparoscopic inguinal hernia repair in children are not yet standardized, which may account for the variability in recurrence rates reported in the literature.^5,7^
+
+Both intracorporeal and extracorporeal methods have been described.^8,9^ The method involving incision of the peritoneum at the deep inguinal ring, disconnection of the distal sac, followed by the closure of the peritoneum at the deep ring, is said to have low recurrence rates, comparable to those of standard open herniotomy.^10^
+
+Laparoscopic repair provides good visual exposure, facilitates assessment of the contralateral side, and minimizes the handling of cord structures, thereby reducing the risk of iatrogenic trauma.^11^
+
+However, controversies regarding the use of laparoscopy persist due to potential damage to the intra-abdominal structures because of the breached peritoneal cavity, longer operative times, and higher costs.^12^
+
+In this study, we adopt the laparoscopic approach of peritoneal incision at the deep inguinal ring, disconnection of the distal sac, and closure of the peritoneum using purse-string intracorporeal suturing.
+
+## Case presentations
+### Case 1
+A 4-year-old boy presented with a right inguinal hernia that was detected one week prior to admission. Laparoscopic right herniotomy was performed. The left deep inguinal ring was found to be closed. The operative duration was approximately 65 minutes. The patient was discharged within 24 hours and remains well during follow-up.
+
+### Case 2
+A 5-year-old girl presented with a right inguinal hernia that was noticed since infancy. Laparoscopic right herniotomy was performed with an operative duration of approximately 75 minutes. The patient was discharged on the same day, experienced no postoperative complications, and is well on follow-up.
+
+### Case 3
+A 2-year-old female child with a diagnosis of Complete Androgen Insensitivity Syndrome (CAIS) presented with bilateral large inguinal hernias. Laparoscopic bilateral herniotomy was performed, enabling intraoperative confirmation of the absence of Müllerian structures while preserving the testes within the inguinal canal. The procedure lasted 100 minutes. Postoperative recovery was uneventful, and the patient was discharged the following day. The patient continues to do well on follow-up.
+
+### Case 4
+A 4-year-old girl presented with a right inguinal hernia, with ultrasonography suggesting a bilateral inguinal hernia. Laparoscopy revealed bilateral patulous internal rings, and she underwent bilateral laparoscopic herniotomy with an operative time of 100 minutes. The presence of Müllerian structures was confirmed to rule out CAIS. She had an uneventful hospital stay of a day and remains well on follow-up.
+
+### Case 5
+A 7-year-old girl presented with a left inguinal hernia noted since early childhood. She underwent laparoscopic left herniotomy with an operating time of 60 minutes. She had a smooth postoperative course and was discharged the same day. She is well on follow-up with no complications.
+
+### Case 6
+An 8-year-old boy underwent laparoscopy for an undescended testis. The intra-abdominal left testis was found to be small, atrophic, and associated with a short vas deferens and a patulous left deep inguinal ring. Left orchiectomy with closure of the open deep ring was performed. The postoperative recovery was uneventful, and the patient was discharged the following day. The patient continues asymptomatic on follow-up.
+
+### Case 7
+A 2-year 9-month-old male patient presented with signs of intestinal obstruction and an irreducible right inguinal hernia of one day's duration. Emergency laparoscopy allowed for the reduction of hernial contents under direct visualization, confirming viability. Herniotomy followed the standard technique of incision of the peritoneum and closure. Operative time was approximately 95 minutes. The postoperative recovery was uneventful except for minimal right inguinal edema. The patient was discharged on postoperative day four and is well on follow-up.
+
+!fig a07-f1.jpg | Figure 1: (a) The bowel herniating into the right deep ring; (b) Proximal dilated small bowel, suggestive of obstruction.
+
+!fig a07-f2.jpg | Figure 2: (a) Open right deep ring after reduction of contents; (b) Reduced small bowel showing intact viability.
+
+!fig a07-f3.jpg | Figure 3: The closed deep ring after herniotomy.
+
+### Case 8
+An 8-year-old girl presented with left inguinal swelling of long-standing duration. Laparoscopic examination identified bilateral open internal rings. Laparoscopic bilateral herniotomy was performed in a single session, with an operative duration of 90 minutes. The recovery was uneventful, and the patient was discharged the following day. She remains well on follow-up.
+
+## Discussion
+Surgical correction of inguinal hernias (IHs) is one of the most commonly performed procedures in pediatric surgery. The increasing adoption of laparoscopic inguinal hernia repair is attributable to its ability to identify and simultaneously manage a contralateral patent processus vaginalis.^13^ In our series, we found that laparoscopy is a safe approach for children with inguinal hernia. It provides excellent visualisation, minimal handling of the vas deferens and other cord structures in boys, and aids in the examination of Müllerian structures in girls with bilateral inguinal hernia.
+
+In our study, laparoscopy also aided in the identification of a contralateral patent processus vaginalis in 2 out of 8 children, which might have become symptomatic following conventional open herniotomy on the recognised side. Chong et al., in a retrospective review of 1,697 pediatric inguinal hernia cases, reported a significantly higher incidence of metachronous contralateral inguinal hernia following open repair (10.7 per 1000 person-years) compared to laparoscopic repair (3.4 per 1000 person-years). Furthermore, when compared with open surgery, the hazard ratio for requiring a second operation (for either recurrence or metachronous contralateral hernia) was 0.3 with the laparoscopic approach, indicating a substantially lower risk.^14^
+
+Complete Androgen Insensitivity Syndrome (CAIS), also known as testicular feminization syndrome, is a rare disorder of sex development characterized by a typical female phenotype and a 46XY karyotype. Patients with CAIS commonly present with primary amenorrhea and may also have unilateral or bilateral inguinal hernias due to the presence of undescended testes within the inguinal canal.^15^ Most studies suggest that orchiectomy is preferably performed in early adulthood or the post-pubertal period, to allow for the aromatization of testosterone to estrogen, which supports normal pubertal development.
+
+In our series, two girls presented with bilateral inguinal hernias, and laparoscopy confirmed the presence of Müllerian structures in both, thereby ruling out CAIS. In contrast, in the known case of CAIS in our series, laparoscopy confirmed the absence of Müllerian structures and allowed bilateral herniotomy while preserving the testes to maintain hormonal support.^15,16^
+
+Laparoscopic management of incarcerated or irreducible inguinal hernia in children is increasingly recognized as a safe and effective alternative to open repair. In such cases, open surgery can be technically challenging due to edema and distortion of the inguinal anatomy, increasing the risk of injury to the vas deferens and spermatic vessels.^17^
+
+Laparoscopy avoids dissection through inflamed tissues and provides magnified visualization, enabling controlled reduction of the herniated contents and direct assessment of bowel viability.^18,19^ In addition, laparoscopy allows inspection of the contralateral internal ring and simultaneous repair of a patent processus vaginalis, thereby reducing the risk of metachronous hernia.
+
+Kaya et al. demonstrated the feasibility of this approach in children with irreducible hernias following failed manual reduction, with favorable outcomes. Other studies and systematic reviews have similarly supported the safety and diagnostic advantages of laparoscopy in both elective and emergency pediatric inguinal hernia repair.^20,21^
+
+In our series, the child presenting with an obstructed hernia was successfully managed laparoscopically on an emergency basis, with the advantages described above.
+
+## Conclusion
+Laparoscopic herniotomy is a safe and effective alternative to the conventional open approach for the management of pediatric inguinal hernias in both elective and emergency settings. The technique offers excellent visualization of the internal ring, enabling precise closure while minimizing manipulation of the spermatic cord structures. It also enables assessment of hernia contents and bowel viability in complicated cases, such as incarcerated or obstructed hernias.
+
+An additional advantage is the ability to inspect the contralateral internal inguinal ring and repair a patent processus vaginalis during the same procedure, thereby potentially preventing metachronous hernias and avoiding the need for a second anaesthetic exposure. Laparoscopy also helps in the identification of Müllerian structures in girls presenting with bilateral inguinal hernias, thereby helping rule out conditions such as Complete Androgen Insensitivity Syndrome (CAIS).
+
+In our series, laparoscopic herniotomy was associated with acceptable operative times and favorable short-term outcomes. No recurrences were observed during follow-up. These findings support the feasibility and safety of laparoscopic herniotomy in children. With increasing surgical experience and standardization of techniques, laparoscopy is likely to become an important component of the management of pediatric inguinal hernias.
+--- refs
+1. NHS Digital. Hospital episode statistics [Internet]. Available from: https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics. Accessed 2021 Sep 10.
+2. Alzahem A. Laparoscopic versus open inguinal herniotomy in infants and children: a meta-analysis. Pediatr Surg Int. 2011;27:605–612. doi: 10.1007/s00383-010-2840
+3. Gause C, Casamassima M, Yang J. Laparoscopic versus open inguinal hernia repair in children ≤3 years: a randomized controlled trial. Pediatr Surg Int. 2017;33:367–376. doi: 10.1007/s00383-016-4029-4.
+4. Davies D, Rideout D, Clarke S. The international pediatric endosurgery group evidence-based guideline on minimal access approaches to the operative management of inguinal hernia in children. J Laparoendosc Adv Surg Tech A. 2020;30(2):221–227. doi: 10.1089/lap.2016.0453.
+5. Almetaher H, Hassan H, Effat A. Laparoscopic repair of congenital inguinal hernia: a comparative study between purse-string suture and peritoneal disconnection with ligation techniques in bilateral cases. J Pediatr Endosc Surg. 2020;30(2):83–89. doi: 10.1007/s42804-020-00052-y.
+6. Abd-Alrazek M, Alsherbiny Mahfouz H. Laparoscopic pediatric inguinal hernia repair: a controlled randomised study. J Pediatr Surg. 2017;52:1539–1544. doi: 10.1016/j.jpedsurg.2017.07.003.
+7. Svetanoff W, Fraser J, Briggs K. A single institution experience with laparoscopic hernia repair in 791 children. J Pediatr Surg. 2021;56:1185–1189. doi: 10.1016/j.jpedsurg.2021.02.021
+8. Becmeur F, Philippe P, Lemandat-Schultz A, Moog R, Grandadam S, Lieber A, et al. A continuous series of 96 laparoscopic inguinal hernia repairs in children by a new technique. Surg Endosc. 2004 Dec;18(12):1738-1741. doi: 10.1007/s00464-004-9008-5.
+9. Yip KF, Tam PKH, Li MKW. Laparoscopic flip-flap hernioplasty: an innovative technique for pediatric hernia surgery. Surg Endosc. 2004;18:1126-1129.
+10. Wheeler AA, Matz ST, Schmidt S, Pimpalwar A. Laparoscopic inguinal hernia repair in children with transperitoneal division of the hernial sac and proximal purse string closure of peritoneum: our modified new approach. Eur J Pediatr Surg. 2011 Dec;21(6):381-385. doi: 10.1055/s-0031-1291181.
+11. Jessula S, Davies DA. Evidence supporting laparoscopic hernia repair in children. Curr Opin Pediatr. 2018 Jun;30(3):405-410. doi: 10.1097/MOP.0000000000000612.
+12. Zhao J, Yu C, Lu J, Wei Y, Shen C, Lin L, et al. Laparoscopic versus open inguinal hernia repair in children: a systematic review. J Minim Access Surg. 2022 Jan–Mar;18(1):12-19. doi: 10.4103/jmas.JMAS_229_20
+13. Esposito C, Escolino M, Turrà F. Current concepts in the management of inguinal hernia and hydrocele in pediatric patients in laparoscopic era. Semin Pediatr Surg. 2016;25(4):232–240. doi: 10.1053/j.sempedsurg.2016.05.006
+14. Chong AJ, Fevrier HB, Herrinton LJ. Long-term follow-up of pediatric open and laparoscopic inguinal hernia repair. J Pediatr Surg. 2019 Oct;54(10):2138-2144. doi: 10.1016/j.jpedsurg.2019.01.064.
+15. Terro JJ, El-Helou E, Jammoul K, El Lakkis R, Shibli A, El-Chamaa B, et al. Bilateral inguinal masses or hernias in a female teenager with delayed menarche: Think of Complete Androgen Insensitivity Syndrome (CAIS), a case report. Int J Surg Case Rep. 2020;76:25-29. doi: 10.1016/j.ijscr.2020.09.115.
+16. Hughes IA, Werner R, Bunch T, Hiort O. Androgen insensitivity syndrome. Semin Reprod Med. 2012;30(5):432–442.
+17. Kaya M, Hückstedt T, Schier F. Laparoscopic approach to incarcerated inguinal hernia in children. J Pediatr Surg. 2006;41(3):567–569.
+18. Esposito C, Escolino M, Cerulo M. Laparoscopic versus open inguinal hernia repair in pediatric patients: a systematic review. J Laparoendosc Adv Surg Tech A. 2018;28(5):626–633.
+19. Yang C, Zhang H, Pu J. Laparoscopic versus open repair for pediatric inguinal hernia: a meta-analysis of randomized controlled trials. Surg Endosc. 2019;33(12):4106–4115.
+20. Kantor N, Travis N, Wayne C, Nasr A. Laparoscopic versus open inguinal hernia repair in children: a systematic review and meta-analysis. Pediatr Surg Int. 2019;35(5):529–536.
+21. Esposito C, Escolino M, Turra F. Twenty-year experience with laparoscopic inguinal hernia repair in infants and children: considerations and outcomes. Surg Endosc. 2020;34(1):409–416.
