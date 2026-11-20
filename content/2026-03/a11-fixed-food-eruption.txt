@@ -1,0 +1,86 @@
+type: Case Report
+pages: 48-50
+title: Fixed food eruption with multiple food triggers following suspected drug reaction
+authors: Gokhul Raj R (a); Archana PS (a); Ajit Thomas (b); Asha Zacharia (c)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Geriatric Medicine (Internal Medicine), KIMSHEALTH, Trivandrum, Kerala, India.
+aff c: Department of Dermatology and Cosmetology, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Archana PS, KIMSHEALTH, Trivandrum, Kerala, India.
+email: psarchana05@gmail.com
+keywords: fixed food eruption; fixed drug eruption; food allergy; cutaneous hypersensitivity; CD8+ T lymphocytes; urticaria
+image: a11-f1.jpg
+--- abstract
+Fixed Food Eruption (FFE) is a rare hypersensitivity reaction characterized by recurrent erythematous or hyperpigmented lesions occurring at the same anatomical site following ingestion of a specific food allergen. It resembles Fixed Drug Eruption (FDE), a well-recognized cutaneous adverse reaction triggered by medications.
+--- abstract
+We report the case of a 21-year-old female who initially developed lesions suspected to be secondary to Naproxen-induced fixed drug eruption and later experienced recurrent pruritic lesions following ingestion of various foods. Allergy evaluation demonstrated sensitivity to multiple food items, including seafood, wheat, and spices. The patient showed improvement with avoidance of the identified allergens and antihistamine treatment.
+--- abstract
+This case highlights the importance of considering fixed food eruption in patients presenting with recurrent, fixed lesions associated with food intake.
+--- body
+## Introduction
+Fixed Food Eruption is a rare, localized hypersensitivity reaction characterized by the recurrence of lesions at the same anatomical site following ingestion of a specific food allergen. Clinically, the condition closely resembles Fixed Drug Eruption, which is more commonly associated with medications such as antibiotics and non-steroidal anti-inflammatory drugs, including naproxen.^1^
+
+The lesions typically appear as well-defined erythematous macules or plaques that later heal with post-inflammatory hyperpigmentation. The underlying pathogenesis involves a type IV delayed hypersensitivity reaction mediated by intraepidermal CD8 memory T cells. These cells persist in previously affected skin and trigger inflammation upon re-exposure to the antigen.^2^
+
+Although FDE is widely reported, fixed food eruption is rare and is likely under-recognized. A variety of foods, including seafood, nuts, cereals, and fruits, have been reported as potential triggers.^3^ Because of the clinical similarity between drug-induced and food-induced fixed eruptions, a detailed clinical history is crucial for accurate diagnosis.
+
+We report a case of a young female who initially presented with lesions suggestive of fixed drug eruption and subsequently developed recurrent lesions following ingestion of specific foods, consistent with fixed food eruption.
+
+## Case presentation
+A 21-year-old female presented with generalized itching and pruritic, hyperpigmented macules on the dorsum of the left hand, the forehead, above the upper lip, and below the lower lip.
+
+She had two prior admissions to our hospital with similar complaints. During the first admission, about a month prior to the current presentation, she had developed comparable lesions, which were diagnosed as Fixed Drug Eruption, suspected to be secondary to naproxen intake.
+
+During the second admission, which occurred about a week later, she presented with features of urticaria and anaphylaxis. But no definite trigger could be identified at that time. She was treated symptomatically and got better.
+
+During the current admission, occurring a month after the initial reaction to naproxen, the patient developed similar skin lesions along with urticaria following the consumption of outside food, specifically parotta and chicken. She was admitted and treated symptomatically.
+
+Dermatological examination revealed well-defined hyperpigmented macules on the dorsum of the left hand and the forehead (Figures 1 and 2).
+
+!fig a11-f1.jpg | Figure 1: Hyperpigmented lesion over the dorsum of the left hand demonstrating a well-circumscribed violaceous patch with post-inflammatory hyperpigmentation, typical of a healed lesion of Fixed Food Eruption.
+
+!fig a11-f2.jpg | Figure 2: Hyperpigmented macule over the forehead, showing a well-defined violaceous-brown patch consistent with a healed lesion of Fixed Food Eruption or Fixed Drug Eruption.
+
+Following the initial episode, the patient reported that the lesions became more pruritic after eating, although no specific dietary trigger was identified initially. In view of persistent symptoms, a food allergy panel was performed. The patient was found to be allergic to the following food items:
+
+- Crab
+- Shrimp
+- Onion
+- Mutton
+- Garlic
+- Sesame seeds
+- Wheat
+
+During the present admission, the patient was treated with intravenous hydrocortisone and oral fexofenadine (180 mg).
+
+However, during her hospital stay, she developed episodes of itching, erythematous lesions, and aggravation of the previously existing hyperpigmented lesions, suggesting a hypersensitivity reaction to the administered medications.
+
+Considering the possibility of a drug-related hypersensitivity reaction, intravenous hydrocortisone was discontinued. Following its withdrawal, the patient showed marked clinical improvement. Subsequently, she did not experience further reactions to food intake, except on exposure to identified allergens.
+
+The patient improved clinically and was discharged in stable condition with advice to avoid the identified allergenic foods and to follow up.
+
+## Discussion
+Fixed Drug Eruption (FDE) is a well-recognized cutaneous adverse reaction characterized by the recurrence of lesions at the same site following re-exposure to the offending drug. Common causative agents include non-steroidal anti-inflammatory drugs, antibiotics, and anticonvulsants.^4^
+
+In contrast, Fixed Food Eruption (FFE) is a relatively uncommon condition characterized by lesions that appear after ingestion of specific foods. The clinical features closely resemble those of fixed drug eruption, making diagnosis challenging in the absence of careful identification of dietary triggers.^3^
+
+Distinguishing FFE from FDE can be difficult, as both conditions share similar clinical morphology and immunological mechanisms. Therefore, careful correlation with the dietary history and elimination of suspected allergenic foods is essential for establishing the diagnosis.
+
+The pathogenesis of both conditions involves a localized delayed hypersensitivity reaction mediated by epidermal CD8 memory T cells. These cells persist in previously affected skin sites and, upon re-exposure to the antigen, trigger an inflammatory response.^2^
+
+A wide range of foods, including seafood, nuts, fruits, cereals, and spices, have been reported as triggers of FFE. Cases reported in the literature include FFE due to mango, kiwi, nuts, and shellfish.^3^ For example, a recent case reported from India described FFE following mango ingestion, confirmed by oral provocation testing.
+
+Compared with previously reported cases, the present case is notable for the presence of multiple food sensitivities and a preceding history of drug-induced fixed eruption. This observation suggests that individuals predisposed to hypersensitivity reactions may develop both drug- and food-induced fixed eruptions.
+
+Management primarily involves identifying and avoiding the offending allergen(s), along with symptomatic treatment with antihistamines such as fexofenadine. Corticosteroids may be considered in more severe cases.^4^
+
+## Conclusion
+Fixed Food Eruption is a rare but important clinical entity that should be considered in patients presenting with recurrent localized lesions associated with food intake. Careful history-taking, identification of allergens, and avoidance of trigger foods remain the cornerstones of management.
+
+This case highlights the possible coexistence of fixed drug eruption and fixed food eruption, underscoring the need to consider dietary triggers in patients with persistent or recurrent cutaneous eruptions.
+--- refs
+1. Lee AY. Fixed drug eruptions: incidence, recognition and avoidance. Am J Clin Dermatol. 2000;1(5):277-285.
+2. Shiohara T, Mizukawa Y. Fixed drug eruption: a disease mediated by intraepidermal memory CD8+ T cells. Curr Opin Allergy Clin Immunol. 2007;7:317-321.
+3. Sohn KH, Kim BK, Kim JY, Kim MN, Kim YJ, Park HS, et al. Fixed food eruption caused by Actinidia arguta (hardy kiwi): a case report and literature review. Allergy Asthma Immunol Res. 2017;9(2):182-184.
+4. Mahboob A, Haroon TS. Drugs causing fixed eruptions: a study of 450 cases. Int J Dermatol. 1998;37(11):833-838. doi:10.1046/j.1365-4362.1998.00451.x.
+5. Parker AL, Pinson ML, Wohltmann WE, Gomez R. Fixed food eruption caused by peanut and cashew: case report and review. J Allergy Clin Immunol Pract. 2015;3:119-122.
+6. Konda D, Nadh Thota SS, Somalwar SB, Mulsange KA, Prabhala S. Fixed food eruption caused by mango (Mangifera indica). Indian J Dermatol Venereol Leprol. 2025 Sep 15:1-3. doi: 10.25259/IJDVL_154_2025. Epub ahead of print. PMID: 41100379.

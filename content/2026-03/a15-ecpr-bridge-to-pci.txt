@@ -1,0 +1,42 @@
+type: Case Report
+pages: 62-63
+title: Extracorporeal cardiopulmonary resuscitation as a bridge to percutaneous coronary intervention in refractory asystolic cardiac arrest
+authors: Harikrishnan V S (a); Sriram Muthukaruppan S (a); Dhinesh David (a)
+aff a: Department of Cardiology, KIMSHEALTH Trivandrum, Kerala, India.
+corr: Dr Harikrishnan V S, Department of Cardiology, KIMSHEALTH Trivandrum, Kerala, India.
+email: harikrishnan.vs@protonmail.com
+keywords: extracorporeal cardiopulmonary resuscitation (ECPR); VA-ECMO; refractory cardiac arrest; percutaneous coronary intervention (PCI); acute myocardial infarction (AMI); advanced cardiac life support (ACLS)
+--- abstract
+This case details the emergency management of a 43-year-old male with a history of coronary artery disease who presented with recurrent refractory cardiac arrest. Cardiopulmonary resuscitation (CPR) was subsequently escalated to Veno-Arterial Extracorporeal Membrane Oxygenation (VA-ECMO) during ongoing cardiopulmonary resuscitation (ECPR). This was followed by life-saving percutaneous coronary intervention (PCI).
+--- body
+## Introduction
+Refractory cardiac arrest remains one of the most formidable challenges in emergency cardiovascular medicine, with exceedingly high mortality when treated with conventional advanced cardiac life support (ACLS) alone. Although standard cardiopulmonary resuscitation (CPR) is the cornerstone of initial management, it often fails to achieve the critical threshold of systemic perfusion, typically maintaining only 20% to 30% of normal cardiac output required to sustain vital organ function during prolonged resuscitative efforts.^1^ In the context of acute myocardial infarction (AMI), this limitation creates a lethal paradox: the patient requires definitive coronary intervention to survive, yet is often too hemodynamically unstable to undergo the procedure.
+
+Extracorporeal cardiopulmonary resuscitation (ECPR) using veno-arterial extracorporeal membrane oxygenation (VA-ECMO) has emerged as a transformative "bridge-to-decision" or "bridge-to-intervention" strategy. By rapidly providing full circulatory and respiratory support, ECPR interrupts the cycle of progressive global hypoxia and metabolic acidosis, establishing a stable "hemodynamic platform" for clinicians to address the underlying cause.^2,3^ Recent literature, including the landmark ECPR trials, suggests that in carefully selected patients with potentially reversible etiologies, early initiation of ECMO is associated with significantly improved survival and favorable neurological outcomes compared with standard ACLS.^3^
+
+Despite increasing adoption, the logistical complexity of ECPR requires seamless multidisciplinary coordination between emergency medicine, cardiology, and cardiothoracic surgery teams. The decision-making process is particularly nuanced in patients presenting with non-shockable rhythms, such as asystole, where prognosis has traditionally been poor.
+
+This case report details the successful resuscitation of a 43-year-old male with recurrent, refractory asystolic cardiac arrest through emergency implementation of VA-ECMO. It highlights the critical role of ECPR in enabling life-saving percutaneous coronary intervention (PCI) and underscores the importance of timely escalation to mechanical circulatory support in "no-flow" or "low-flow" states of cardiac arrest.
+
+## Case presentation
+A 43-year-old male, with a history of hypertension and coronary artery disease (non-ST elevation myocardial infarction in 2020), previously treated with percutaneous coronary intervention (PCI) to the left anterior descending (LAD) artery, presented to the emergency department with an acute onset of chest pain radiating to the left upper limb for one hour.
+
+On arrival, he had ongoing chest pain with a heart rate of 70 beats/min, blood pressure of 140/100 mmHg, respiratory rate of 28 breaths/min, and oxygen saturation of 100% on 4 L/min of oxygen. While the catheterization team was being activated and preparations were underway, the patient developed vomiting followed by bradycardia and progressive drowsiness, necessitating rapid sequence intubation by the anesthesia team.^5^
+
+Shortly thereafter, the patient suffered a cardiac arrest. ECG telemetry revealed asystole, and cardiopulmonary resuscitation (CPR) was initiated in accordance with advanced cardiac life support (ACLS) protocols. Despite standard resuscitation efforts and a brief return of spontaneous circulation (ROSC) followed by temporary pacemaker (TPI) insertion for junctional bradycardia, the patient lapsed back into asystole.
+
+Given the refractory nature of the arrest, veno-arterial extracorporeal membrane oxygenation (VA-ECMO) was considered, and the cardiothoracic and vascular surgery (CTVS) team was mobilized. VA-ECMO flow was initiated in the ICU.
+
+Once hemodynamic stability was achieved with VA-ECMO, the patient was transferred to the Cath Lab for definitive management. Emergency percutaneous coronary intervention was performed to treat the culprit coronary lesion.
+
+## Discussion
+The management of refractory cardiac arrest in the setting of acute myocardial infarction poses a significant clinical challenge, as standard CPR often fails to provide sufficient cardiac output to sustain vital organ function during prolonged resuscitation. In this case, the implementation of Extracorporeal Cardiopulmonary Resuscitation (ECPR) served as a critical bridge to definitive therapy.
+
+By using a portable ECMO machine as an adjunct to standard CPR, the clinical team maintained systemic circulation while the patient was transferred to the Cath Lab for intervention. The VA-ECMO provided a stable "hemodynamic platform," allowing the interventional team to focus on the complex coronary anatomy without the immediate threat of hypoperfusion-induced brain injury or multi-organ failure.
+
+## Conclusion
+The survival of this patient underscores the potential of extracorporeal cardiopulmonary resuscitation (ECPR) as a life-saving intervention when conventional advanced cardiac life support (ACLS) measures fail. A successful outcome in such high-acuity cases depends entirely on the prompt activation of a multidisciplinary "heart team," including cardiologists, cardiothoracic surgeons, cardiac anesthesiologists, and resuscitation teams. Quick initiation of ECPR provides a means to address the primary cardiac insult—in this case, via coronary intervention—while the ECMO circuit protects the brain and other end organs. This case highlights the importance of timely escalation from standard CPR to extracorporeal support as a key strategy in the modern management of refractory cardiac arrest.
+--- refs
+1. Yan W, Tang G, Wang H, Li H, Liang L, Li Y, Zhao S. Effective extracorporeal cardiopulmonary resuscitation in prolonged cardiac arrest: a case report. Front Cardiovasc Med. 2025;12:1643839. doi: 10.3389/fcvm.2025.1643839.
+2. Low CJW, Ramanathan K, Ling RR, Ho MJC, Chen Y, Lorusso R, et al. Extracorporeal cardiopulmonary resuscitation versus conventional cardiopulmonary resuscitation in adults with cardiac arrest: a comparative meta-analysis and trial sequential analysis. Lancet Respir Med. 2023 Oct;11(10):883-893. doi: 10.1016/S2213-2600(23)00137-6.
+3. Lamhaut L, Tea V, Raphalen JH, An K, Dagron C, Jouffroy R, et al. Coronary lesions in refractory out-of-hospital cardiac arrest treated by extracorporeal pulmonary resuscitation. Resuscitation. 2018;126:154-159. doi: 10.1016/j.resuscitation.2017.12.017.
