@@ -67,6 +67,8 @@ exit /b 0
 :download
 rem Downloads the code from GitHub and copies it into %APP%, keeping your
 rem settings (.env), database (.data) and uploaded files (uploads).
+rem The code folders (src, scripts, drizzle, content) are mirrored exactly so
+rem old leftover files cannot hide the real site.
 powershell -NoProfile -ExecutionPolicy Bypass -Command ^
   "$ErrorActionPreference = 'Stop';" ^
   "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;" ^
@@ -74,13 +76,13 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
   "if (Test-Path $tmp) { Remove-Item $tmp -Recurse -Force };" ^
   "New-Item -ItemType Directory $tmp | Out-Null;" ^
   "$zip = Join-Path $tmp 'site.zip';" ^
-  "try { Invoke-WebRequest -UseBasicParsing ($env:REPO + '/archive/refs/heads/claude/journal-site.zip') -OutFile $zip }" ^
-  "catch { Invoke-WebRequest -UseBasicParsing ($env:REPO + '/archive/refs/heads/main.zip') -OutFile $zip };" ^
+  "Invoke-WebRequest -UseBasicParsing ($env:REPO + '/archive/refs/heads/claude/journal-site.zip') -OutFile $zip;" ^
   "Expand-Archive $zip $tmp -Force;" ^
   "$src = Get-ChildItem $tmp -Directory | Select-Object -First 1;" ^
   "New-Item -ItemType Directory -Force $env:APP | Out-Null;" ^
   "robocopy $src.FullName $env:APP /E /XD .data uploads node_modules .next /XF .env /NFL /NDL /NJH /NJS /NP | Out-Null;" ^
   "if ($LASTEXITCODE -ge 8) { throw 'Copying files failed.' };" ^
+  "foreach ($d in 'src','scripts','drizzle','content') { if (Test-Path (Join-Path $src.FullName $d)) { robocopy (Join-Path $src.FullName $d) (Join-Path $env:APP $d) /MIR /NFL /NDL /NJH /NJS /NP | Out-Null; if ($LASTEXITCODE -ge 8) { throw 'Copying files failed.' } } };" ^
   "Remove-Item $tmp -Recurse -Force;" ^
   "exit 0"
 if errorlevel 1 exit /b 1
