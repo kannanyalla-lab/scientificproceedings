@@ -22,7 +22,11 @@ To paste a command into that window: copy it here, then right-click inside the b
 
 ## Updating the site to the newest version
 
-Open the terminal (above) and paste:
+**Easiest:** double-click `Update-Live-Website.bat` in `C:\Users\biggb\KIMSHEALTH-Proceedings`.
+The first time it asks for the server's root password once (to link the PC with a key);
+after that it needs nothing. It takes about 5 minutes and opens the site when done.
+
+**Or** open the terminal (above) and paste:
 
 ```
 curl -fsSL https://raw.githubusercontent.com/kannanyalla-lab/scientificproceedings/claude/journal-site/deploy/install.sh | bash
