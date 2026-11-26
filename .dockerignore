@@ -1,0 +1,10 @@
+.git
+node_modules
+.next
+.data
+uploads
+.env
+.env.local
+deploy/.env
+deploy/backups
+*.log
