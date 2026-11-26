@@ -81,3 +81,10 @@ export async function issuesWith(kind: "spotters" | "scramble") {
   const map = await issuesById(ids.map((r) => r.id));
   return [...map.values()].filter((i) => i.published).sort((a, b) => b.year - a.year || b.volume - a.volume || b.number - a.number);
 }
+
+/** Most viewed published articles across every issue (falls back to newest when nothing has views yet). */
+export async function mostRead(limit = 5) {
+  return db.select().from(articles).where(eq(articles.published, true))
+    .orderBy(desc(articles.views), desc(articles.issueId), asc(articles.sortOrder))
+    .limit(limit);
+}
