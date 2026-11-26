@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import Authors from "@/components/Authors";
 import { getCurrentIssue, getIssueArticles, getIssueBySlug, getScramble, getSpotters, listPharmaUpdates } from "@/lib/queries";
-import { articlePdfHref, issueLabel, pad2, pagesOf } from "@/lib/format";
+import { articlePdfHref, issueLabel, pagesOf } from "@/lib/format";
 
 export async function generateMetadata({ params }: PageProps<"/issue/[slug]">): Promise<Metadata> {
   const issue = await getIssueBySlug((await params).slug);
@@ -69,8 +69,7 @@ export default async function IssuePage({ params }: PageProps<"/issue/[slug]">) 
             {toc.map((a) => {
               const pdf = articlePdfHref(a, issue);
               return (
-                <article key={a.id} className="toc-row">
-                  <div className="toc-row__page" aria-label={a.pageStart ? `Page ${a.pageStart}` : undefined}>{a.pageStart ? pad2(parseInt(a.pageStart, 10)) : ""}</div>
+                <article key={a.id} className={`toc-row${a.imageUrl ? "" : " toc-row--simple"}`}>
                   <div>
                     <span className="toc-row__type">{a.articleType}</span>
                     <h3><Link href={`/article/${a.slug}`}>{a.title}</Link></h3>
@@ -86,7 +85,7 @@ export default async function IssuePage({ params }: PageProps<"/issue/[slug]">) 
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img loading="lazy" src={a.imageUrl} alt="" />
                     </Link>
-                  ) : <span />}
+                  ) : null}
                 </article>
               );
             })}
@@ -98,7 +97,6 @@ export default async function IssuePage({ params }: PageProps<"/issue/[slug]">) 
               {issue.pharmaContributors ? <p className="muted">{issue.pharmaContributors}</p> : null}
               {pharma.map((p) => (
                 <article key={p.id} className="toc-row toc-row--simple">
-                  <div className="toc-row__page" />
                   <div>
                     <h3><Link href={`/pharma-updates/${p.slug}`}>{p.title}</Link></h3>
                     {p.summary ? <p className="card__authors">{p.summary}</p> : null}
