@@ -1,0 +1,226 @@
+type: Original Research
+pages: 5-11
+title: Autologous stem cell transplantation for multiple myeloma: Experience from a tertiary centre in South India
+authors: Ashwin V Nair (a); Sheetal G Nair (a); Teena Aby (a); Lekshmon KS (a); Sanooja Pinki (b); Prethika PA (b); Bijay P Nair (a)
+aff a: Department of Clinical Haematology and Bone Marrow Transplant, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Transfusion Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Dr Ashwin V Nair, Department of Clinical Hematology and Bone Marrow Transplant, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drashwin.v@kimsglobal.com
+keywords: multiple myeloma; autologous HSCT; VRd; daratumumab; melphalan conditioning; plerixafor; engraftment; sCR; real-world outcomes, India
+--- abstract Background
+Autologous haematopoietic stem cell transplantation (auto-HSCT) remains the standard of care for transplant-eligible patients with newly diagnosed multiple myeloma (NDMM). Real-world single-centre data from India are limited. We report the outcomes of our auto-HSCT program in multiple myeloma (MM), including engraftment kinetics, toxicity profile, and response evolution.
+--- abstract Methods
+We retrospectively analysed 16 consecutive patients with MM who underwent auto-HSCT at KIMSHEALTH between July 2023 and January 2026. Data regarding disease characteristics, induction regimens, mobilisation, conditioning, engraftment, toxicity, and response outcomes were collected.
+--- abstract Results
+The median age at transplantation was 55 years, and the cohort comprised 10 males and six females. Revised International Staging System (R-ISS) distribution was stage I in 31.3%, stage II in 50%, and stage III in 18.7%. VRd-based induction was the most commonly used regimen (56.2%), while 25% received daratumumab as frontline therapy. Plerixafor was used universally (100%). The median CD34+ yield was 7.80 × 10^6^/kg. Median neutrophil and platelet engraftment occurred at D+11 and D+14 respectively. Febrile neutropenia was universal (100%). At D+90, 73.3% achieved stringent complete response (sCR) and 86.7% achieved a very good partial response (≥VGPR). Three patients (18.75%) died from infection or progressive disease; no early transplant-related mortality (TRM) was observed. Two patients had disease relapse.
+--- abstract Conclusion
+KIMSHEALTH's auto-HSCT programme for MM demonstrates excellent stem cell mobilisation, rapid engraftment, and deep response rates comparable to global benchmarks, supporting continued expansion and protocol standardisation.
+--- body
+## Introduction
+Multiple myeloma (MM) is a clonal plasma cell malignancy that accounts for approximately 10% of all haematological malignancies and 1-2% of all cancers. It is characterised by the uncontrolled proliferation of malignant plasma cells within the bone marrow, production of monoclonal immunoglobulin (M-protein), and resultant end-organ damage manifesting as hypercalcaemia, renal failure, anemia, and bone disease, collectively referred to as the CRAB criteria.^1^
+
+The global incidence of MM is approximately 176,000 new cases per year, with an age-standardised incidence rate of 2.1 per 100,000. In India, while precise epidemiological data are limited, the incidence appears to be increasing, owing to improved diagnostic capabilities and an ageing population.^2^ MM remains incurable with conventional therapy alone, but outcomes have improved dramatically over the past two decades with the introduction of novel therapeutic agents including immunomodulatory drugs (IMiDs), proteasome inhibitors (PIs), and more recently, daratumumab (anti-CD38 monoclonal antibody), carfilzomib, and bispecific T-cell engagers.
+
+For transplant-eligible patients - generally those younger than 65-70 years with adequate organ function and performance status - high-dose chemotherapy followed by autologous haematopoietic stem cell transplantation (auto-HSCT) with melphalan conditioning remains the backbone of frontline treatment.^3^ Auto-HSCT has consistently demonstrated superior progression-free survival (PFS) and overall survival (OS) compared to conventional chemotherapy alone, with landmark trials such as IFM 2009 and EMN02/HO95 confirming its benefit even in the era of daratumumab-based induction.^4,5^
+
+Despite these advances, real-world data from tertiary centres in India, and particularly from Kerala, remain sparse. Challenges unique to the Indian transplant setting include delayed presentation with advanced R-ISS staging, financial constraints, limited access to novel agents, and a high burden of infectious complications during the post-transplant period. Understanding local outcomes is therefore essential for tailoring treatment protocols and facilitating evidence-based quality improvement.
+
+We present a detailed analysis of the auto-HSCT programme for MM at the Department of Clinical Haematology and Bone Marrow Transplant, KIMSHEALTH, Thiruvananthapuram - one of the leading tertiary referral centres for haemato-oncology in South India. This retrospective analysis covers 16 consecutive patients transplanted between July 2023 and January 2026 and provides insights into patient characteristics, induction regimens, mobilisation, conditioning, engraftment kinetics, toxicity, and early response outcomes.
+
+## Patients and methods
+### Study design and setting
+This is a single-centre retrospective cohort study conducted at the Department of Clinical Haematology and Bone Marrow Transplant, KIMSHEALTH Thiruvananthapuram, Kerala. The study period extended from July 2023 to January 2026. All patients who underwent auto-HSCT for MM during this period were included. Institutional ethical approval and patient consent were obtained.
+
+### Patient selection
+Patients were included if they: (a) had a confirmed diagnosis of MM per International Myeloma Working Group (IMWG) criteria; (b) were transplant-eligible based on age (<70 years), Eastern Cooperative Oncology Group (ECOG) performance status ≤2, and adequate cardiac, pulmonary, hepatic, and renal function; (c) had received induction therapy with at least a partial response (PR) prior to transplantation; and (d) underwent successful stem cell collection yielding ≥2 × 10^6^ CD34+ cells/kg.
+
+### Induction therapy
+Induction regimens were selected based on clinical risk stratification, patient comorbidities, organ function, and available therapeutic access. VRd (bortezomib, lenalidomide, dexamethasone) served as the most commonly used regimen. Daratumumab was incorporated into frontline regimens in 4 of 16 patients (25%). Salvage regimens (VTD PACE, KPD+Cyclophosphamide) were used in patients with refractory disease prior to transplantation.
+
+### Stem cell mobilisation and collection
+All patients underwent peripheral blood stem cell mobilisation using G-CSF (filgrastim) with plerixafor as a universal addition to the mobilisation protocol - a departure from selective plerixafor use seen in many international centres. CD34+ cells were collected by apheresis and the target was ≥4 × 10^6^ CD34+ cells/kg when possible (minimum 2 × 10^6^/kg).
+
+### Conditioning regimen
+The conditioning chemotherapy comprised high-dose melphalan. Doses were individualized based on age, renal function, performance status, and body surface area. Three dose levels were employed: 200 mg/m² (standard), 160 mg/m² (intermediate), and 140 mg/m² (reduced intensity).
+
+### Supportive care and G-CSF
+Post-transplant G-CSF was initiated on a median of day +3 (range D+2 to D+5). Standard antifungal, antibacterial, and antiviral prophylaxis was administered per institutional protocol. All patients received mucositis prophylaxis including cryotherapy and oral hygiene measures.
+
+### Response assessment
+Response was assessed according to the 2016 IMWG criteria at D+90, D+180, D+365, and D+730 post-transplantation. Response categories included stringent complete response (sCR), very good partial response (VGPR), partial response (PR), and progressive disease (PD). Maintenance therapy was prescribed as singlet (lenalidomide) or doublet (lenalidomide + bortezomib) post-transplant.
+
+### Statistical analysis
+Baseline characteristics were summarised using descriptive statistics. Response rates were reported as proportions. Progression-free survival (PFS) was calculated from the date of transplant to relapse, progression, or death. Owing to the small sample size and relatively short follow-up, formal Kaplan-Meier survival analyses were not performed but are planned for the updated dataset.
+
+## Results
+### Patient characteristics
+Sixteen patients with MM underwent auto-HSCT at KIMSHEALTH during the study period (Table 1). All transplantations were autologous. The median age of cohort was 55 years, with the youngest patient who underwent transplantation being 34 years of age and oldest being 64 years of age. Of the total 16 patients, 10 were males and six were females. The disease profile reflected a predominantly intermediate-risk population with some high-risk features: 31.3% were R-ISS stage I, 50% stage II, and 18.7% stage III. The most common paraprotein subtype was IgA Kappa (31.3%), followed by IgA Lambda (25.0%) and IgG (25.0%). Light chain myeloma (Kappa LC) constituted 18.7%.
+
+Lytic bone lesions were the most prevalent CRAB feature, present in 81.2% of patients, followed by anaemia (56.2%). Hypercalcaemia and renal failure were each present in 18.8%. Extramedullary disease (EMD) was documented in one patient (6.2%). Importantly, no patient had amyloidosis. High-risk cytogenetic abnormalities, including del(17p) and t(4;14), t(14;16) or others were documented in two patients (12.5%). The relatively low rate of documented high-risk cytogenetics may reflect incomplete FISH testing in the early phase of the programme.
+
+!table
+Characteristic | Value / n (%) | Comments
+Total patients | 16 | All autologous HSCT
+Disease | 16 (100%) - MM |
+R-ISS I | 5 (31.3%) |
+R-ISS II | 8 (50.0%) |
+R-ISS III | 3 (18.7%) | High-risk
+IgA Kappa | 5 (31.3%) |
+IgA Lambda | 4 (25.0%) |
+IgG (Kappa/Lambda) | 4 (25.0%) |
+Light Chain (Kappa) | 3 (18.7%) |
+Anemia | 9 (56.2%) | CRAB criterion
+Lytic Bone Lesions | 13 (81.2%) | Most common feature
+Hypercalcemia | 3 (18.8%) |
+Renal Failure | 3 (18.8%) |
+EMD | 1 (6.2%) | Adverse feature
+HR Cytogenetics | 2 (12.5%) | del17p / t(4;14) etc.
+Amyloidosis | 0 (0%) |
+caption: Table 1. Baseline patient and disease characteristics (n=16)
+!end
+
+### Induction therapy and pre-transplant response
+VRd was the most commonly used induction regimen, administered in seven patients (43.7%) (Table 2). Daratumumab-containing frontline regimens (Dara-VRd) were used in four patients (25%). KPD (carfilzomib-pomalidomide-dexamethasone) was used in two patients as later-line induction. The median number of pre-transplant cycles was four to seven, with most patients receiving four to six cycles before transplantation.
+
+Before transplantation, the vast majority of patients (62.5%) had achieved sCR and 31.3% were in VGPR. Only one patient (6.2%) proceeded to transplant in PR. This excellent pre-transplant depth of response likely contributed to the high post-transplant sCR rates seen in this cohort, consistent with established literature demonstrating that deeper pre-transplant responses correlate with better post-transplant outcomes.^6^
+
+One patient (R-ISS III) required VTD PACE (bortezomib, thalidomide, dexamethasone, cisplatin, doxorubicin, cyclophosphamide, etoposide) as a salvage regimen with daratumumab, reflecting the challenges of multi-refractory disease being taken to transplant. Despite achieving four lines of therapy, this patient achieved only VGPR pre-transplant and subsequently developed early PD post-transplant, underscoring the poor prognosis of this subgroup.
+
+!table
+Regimen | N (%) | Dara-based | Median cycles | Pre-Tx Status ≥VGPR
+VRd (Bortezomib-Lenalidomide-Dexamethasone) | 7 (43.7%) | 0 | 5 | 6/7
+Dara-VRd | 2 (12.5%) | Yes | 4 | 2/2
+KPd (Carfilzomib-Pomalidomide-Dex) | 2 (12.5%) | 0 | 5.5 | 2/2
+VCD (Bortezomib-Cyclo-Dex) | 1 (6.2%) | 0 | 6 | 1/1
+VCD+Dara | 1 (6.2%) | Yes | 4 | 1/1
+CyBorD + Lenalidomide | 1 (6.2%) | 0 | 5 | 1/1
+VTD PACE (salvage pre-ASCT) | 1 (6.2%) | Yes | 2 | 0/1
+KPD+ Cyclophosphamide | 1 (6.2%) | 0 | 2 | 1/1
+caption: Table 2. Induction regimens and pre-transplant disease status
+!end
+
+### Stem cell mobilisation and graft characteristics
+Plerixafor was used in all 16 patients (100%) as part of the mobilisation strategy — a deliberate institutional protocol choice to maximise CD34+ yield and minimise mobilisation failures (Table 3). This is in contrast to most international guidelines which recommend plerixafor selectively for poor mobilisers or as pre-emptive strategy based on CD34+ peripheral blood counts.^7^ The rationale at KIMSHEALTH reflects both the logistical constraints of apheresis scheduling and the goal of achieving an optimal stem cell graft with adequate reserve for potential second transplant.
+
+The median CD34+ yield was 7.80 × 10^6^/kg (range 2.49-13.0 × 10^6^/kg), substantially exceeding the minimum threshold of 2 × 10^6^/kg and the target of 4 × 10^6^/kg for most patients. The lowest yield (2.49 × 10^6^/kg) was seen in the patient with multi-refractory disease who had received the most prior therapies. This demonstrates the well-established inverse relationship between prior therapy burden and stem cell yield.
+
+Melphalan 200 mg/m² was used in seven patients (43.7%) as standard conditioning, while dose-reduced melphalan at 160 mg/m² and 140 mg/m² was used in four (25.0%) and five (31.3%) patients respectively. Dose reduction was based on age, comorbidities, and renal function, consistent with evidence-based practice. The IFM 2014-01 trial and subsequent analyses have validated the continued superiority of Mel200 in fit patients, while supporting Mel140 in older or renally compromised individuals.^8^
+
+!table
+Parameter | Value | Comment
+Plerixafor use | 16/16 (100%) | Routine mobilisation protocol
+Median CD34+ yield (×10^6^/kg) | 7.80 (2.49-13.00) | All exceeded 2×10^6^/kg threshold
+Mean CD34+ yield (×10^6^/kg) | 7.53 |
+Melphalan 200 mg/m² | 7 (43.7%) | Standard conditioning
+Melphalan 160 mg/m² | 4 (25.0%) | Intermediate dose
+Melphalan 140 mg/m² | 5 (31.3%) | Reduced dose - renal/PS
+Median Neutrophil Engraftment (D+) | D+11 (D+8-D+13) | All achieved engraftment
+Median Platelet Engraftment (D+) | D+14 (D+8-D+23) |
+GCSF start day (median) | D+3 (D+2-D+5) |
+caption: Table 3. Transplant procedural characteristics and engraftment outcomes
+!end
+
+### Engraftment kinetics
+All 16 patients achieved engraftment. Median neutrophil engraftment occurred on D+11 (range D+8 to D+13), and median platelet engraftment on D+14 (range D+8 to D+23). One patient had delayed platelet engraftment, attributed to prolonged cytopenia in the context of post-transplant infectious complications. These engraftment timelines are consistent with international published data for auto-HSCT in MM with plerixafor-assisted mobilisation.^9^
+
+Notably, higher CD34+ yields correlated with earlier engraftment in several patients.
+
+### Toxicity profile
+The transplant period was universally complicated by febrile neutropenia (100%), reflecting the expected post-engraftment immunosuppression (Table 4). Mucositis was predominantly grade 2 (62.5%), with 5 patients (31.3%) experiencing grade 3 mucositis. No grade 4 mucositis or transplant-related mortality from mucositis-associated sepsis was recorded.
+
+Diarrhoea was present in 93.8% of patients, with grade 1 diarrhoea in 56.3% and grade 2 diarrhoea in 37.5%. MDRO (multi-drug-resistant organism) infections were documented in two patients (12.5%), highlighting the increasing concern of resistant nosocomial infections in the transplant setting, particularly relevant to tertiary centres in South India where MDRO rates are substantially higher than Western cohorts.^10^
+
+!table
+Toxicity | N (%) | Grade | Notes
+Febrile neutropenia | 16 (100%) | — | Universal; expected
+Mucositis grade 1 | 1 (6.2%) | Grade 1 |
+Mucositis grade 2 | 10 (62.5%) | Grade 2 | Majority
+Mucositis grade 3 | 5 (31.3%) | Grade 3 | No G4 seen
+No diarrhoeal | 1 (6.2%) | Grade 0 |
+Diarrhoea grade 1 | 9 (56.3%) | Grade 1 | Commonest
+Diarrhoea grade 2 | 6 (37.5%) | Grade 2 |
+MDRO infection | 2 (12.5%) | — | Serious concern
+caption: Table 4. Toxicity profile during transplant admission
+!end
+
+### Response assessment
+Response rates demonstrated progressive deepening over time, a characteristic pattern of auto-HSCT in MM (Table 5). At D+90, 73.3% of evaluable patients achieved sCR, with a cumulative ≥VGPR rate of 86.7%. At D+180, the sCR rate improved further to 83.3%, with ≥VGPR in 91.7%. One patient with multiple lines refractory R-ISS III disease developed progressive disease by day +90.
+
+At D+365, seven patients had evaluable data (reflecting that several transplants occurred in 2025-2026 and have not yet reached the 1-year timepoint). Among evaluable patients, 71.4% maintained sCR, and one patient showed response decline from sCR to PR at D+365, consistent with a late relapse pattern. At D+730, only one patient was evaluable, who maintained sCR, reflecting the excellent durability achievable with post-transplant maintenance in standard-risk MM.
+
+!table
+Response | D+90 n=15 | D+180 n=12 | D+365 n=7 | D+730 n=1 | %
+sCR/CR | 11 (73.3%) | 10 (83.3%) | 5 (71.4%) | 1 (100%) | ↑
+VGPR | 2 (13.3%) | 1 (8.3%) | 1 (14.3%) | 0 |
+PR | 1 (6.7%) | 1 (8.3%) | 1 (14.3%) | 0 |
+PD / Relapse | 1 (6.7%) | 0 | 0 | 0 | ↓
+≥VGPR total | 13 (86.7%) | 11 (91.7%) | 6 (85.7%) | 1 (100%) |
+caption: Table 5. Response outcomes at serial time points post-transplant
+!end
+
+### Maintenance therapy
+Post-transplant maintenance was prescribed in 14 of 16 patients for whom maintenance data were recorded. Singlet maintenance (lenalidomide) was used in 10 patients (71.4%) and doublet maintenance (lenalidomide + bortezomib) in four patients (28.6%). The choice of maintenance was influenced by pre-transplant response depth, risk stratification, and tolerability. Two patients did not receive maintenance therapy: one died before maintenance initiation and the other developed progressive disease before maintenance could be started.
+
+The MYELOMA XI, IFM 2012-03, and FORTE trials have established lenalidomide maintenance as the standard of care post-ASCT in transplant-eligible MM, demonstrating significant PFS and, in some analyses, OS benefit.^11^ Doublet maintenance with bortezomib plus lenalidomide was preferred in patients with high-risk cytogenetics, PR response at transplantation or required multiple lines of therapy to achieve initial response pre-transplantation.
+
+## Discussion
+### Contextualising outcomes in the global landscape
+The results from our centre's auto-HSCT programme for MM are encouraging and broadly align with outcomes reported from major transplant centres globally. The D+90 sCR rate of 73.3% and ≥VGPR rate of 86.7% in our cohort compares favourably with rates reported from landmark trials and real-world registries. The IFM 2009 trial reported post-ASCT sCR rates of approximately 46% (though post-consolidation), while GRIFFIN and CASSIOPEIA trials with daratumumab-based quadruplet induction demonstrated sCR rates approaching 50-60% post-transplant.^12^
+
+Our higher-than-expected sCR rates likely reflect several factors: (1) an aggressive policy of targeting sCR/CR pre-transplant with extended induction cycles; (2) a relatively young cohort of transplant-eligible patients; and (3) possible under-ascertainment of MRD positivity, which, if assessed, might have reclassified some sCR patients as MRD-positive sCR — a distinction increasingly recognised as prognostically important.^13^
+
+The engraftment kinetics observed (neutrophil D+11 and platelet D+14) are well within the expected range for auto-HSCT with melphalan conditioning and peripheral blood stem cell grafts. The universal use of plerixafor likely contributed to the robust CD34+ cell yields (median 7.8 × 10^6^/kg), which in turn may have accelerated engraftment in patients with highest yields.
+
+### The role of daratumumab in frontline therapy
+Twenty-five percent of patients in our cohort received daratumumab as part of frontline induction — a practice increasingly supported by emerging evidence. The GRIFFIN trial (VRd vs. Dara-VRd) demonstrated significantly higher MRD-negative CR rates with the daratumumab quadruplet (42.4% vs. 32.0%), and the PERSEUS trial subsequently confirmed a PFS advantage for Dara-VRd maintained with daratumumab-lenalidomide.^14^
+
+All four patients who received daratumumab-containing frontline regimens achieved sCR before transplantation and have either maintained sCR post-transplant or continue to be followed. This observation is consistent with the biological rationale that daratumumab's CD38-targeting mechanism complements PI and IMiD activity, resulting in deeper clonal cytoreduction and potentially MRD negativity that translates to durable post-transplant remission.
+
+### The Indian transplant context and infectious challenges
+The 100% febrile neutropenia rate and 12.5% MDRO rate in our cohort merit specific discussion in the Indian context. Febrile neutropenia following auto-HSCT is expected and manageable; however, MDRO infections represent an escalating challenge. A multicentre Indian study by Bhattacharya et al. reported MDRO bacteraemia rates of 30-40% in hematological malignancy wards, with carbapenem-resistant Enterobacteriaceae (CRE) and *Acinetobacter baumannii* predominating.^10^ Our 12.5% rate, while lower, nevertheless reflects the ongoing challenge.
+
+Strategies to mitigate MDRO burden in Indian transplant units include: (1) rigorous contact precautions and environmental decontamination; (2) antimicrobial stewardship programs; (3) selective bowel decontamination (which remains controversial but is used in some high-risk centres); (4) early identification and cohorting of MDRO-positive patients; and (5) phage therapy or novel beta-lactam/beta-lactamase inhibitor combinations for resistant organisms.^15^
+
+The death of one patient from infectious complications underscores that even in an era of effective antimicrobials, infection remains a major cause of non-relapse mortality in the Indian transplant setting. Post-transplant immune reconstitution in myeloma is also adversely affected by the underlying disease and prior therapies, contributing to prolonged susceptibility to infection.
+
+### Response deepening and the concept of clonal extinction
+The progressive deepening of response from D+90 to D+180 observed in our cohort — with improvement in the sCR rate from 73.3% to 83.3% — illustrates the phenomenon of ongoing clonal cytoreduction after auto-HSCT in the presence of maintenance therapy. This phenomenon is well-documented and forms part of the biological rationale for post-HSCT maintenance, wherein continued lenalidomide exposure eliminates residual myeloma clones escaping the melphalan-induced eradication.^11^
+
+The clinical relevance of achieving MRD negativity by next-generation flow (NGF) or next-generation sequencing (NGS) is increasingly recognised; however, MRD assessment was not routinely performed in our cohort. Future protocol iterations at KIMSHEALTH should incorporate systematic MRD testing at D+100 post-ASCT and before and after maintenance initiation, as this will provide critical prognostic data and potentially guide maintenance duration.
+
+### Prognostication and high-risk features
+R-ISS staging at diagnosis appropriately stratified our cohort. The single case of progressive disease at D+90 (R-ISS III, 4 prior lines, VTD PACE conditioning regimen) illustrates the adverse prognosis of multi-refractory, late-presenting high-risk MM even with ASCT. For such patients, novel approaches including bispecific antibodies (teclistamab, talquetamab), CAR-T cell therapy (idecabtagene vicleucel, ciltacabtagene autoleucel), or early allografting in select cases may need consideration.^16^
+
+High-risk cytogenetics (del17p, t(4;14), t(14;16), 1q21 amplification) were identified in only two patients (12.5%), which likely reflects incomplete fluorescence in situ hybridisation (FISH) panel testing due to outsourcing of tests (which may affect the quality of sample processed) rather than true population prevalence. Comprehensive cytogenetic assessment using standard FISH panels is now recommended in all NDMM patients and will be systematically captured in future KIMSHEALTH datasets.
+
+### Limitations
+This analysis is limited by: (1) the small sample size (n=16); (2) retrospective design with inherent selection and ascertainment biases; (3) absence of MRD data; (4) incomplete long-term follow-up for recently transplanted patients; (5) single-centre design limiting generalisability. The program is growing, and updated analyses with larger cohorts, standardised MRD assessment, and prospective data collection are planned.
+
+## Conclusions
+The auto-HSCT programme for MM at KIMSHEALTH, Thiruvananthapuram has successfully established a robust operational framework delivering outcomes comparable to international benchmarks. The key highlights from this 16-patient cohort are:
+
+- Universal use of plerixafor delivers excellent median CD34+ yields (7.80 × 10^6^/kg) with 100% mobilisation success.
+- Rapid and reliable engraftment was achieved: neutrophil D+11, platelet D+14.
+- High rates of deep pre-transplant response were observed: 62.5% sCR, 31.3% VGPR before HSCT.
+- Excellent post-transplant responses were noted: D+90 sCR 73.3%, ≥VGPR 86.7%; D+180 sCR 83.3%.
+- Toxicities were manageable, with no grade 4 mucositis observed. MDRO infections remain an area for improvement.
+- Incorporation of daratumumab into 25% of frontline regimens reflects the adoption of contemporary treatment practices.
+
+Future directions include systematic MRD testing, standardised FISH panel cytogenetics, prospective data capture, and expansion of the program with potential for tandem transplantation in selected high-risk patients. Continued expansion of the KIMSHEALTH Haematology & BMT program and prospective outcome monitoring will help strengthen its role in delivering comprehensive myeloma care in the region.
+--- refs
+1. Rajkumar SV, Dimopoulos MA, Palumbo A, Blade J, Merlini G, Mateos MV, et al. International Myeloma Working Group updated criteria for the diagnosis of multiple myeloma. Lancet Oncol. 2014;15(12). doi:10.1016/S1470-2045(14)70442-5
+2. Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018;68(6):394-424.
+3. Moreau P, San Miguel J, Sonneveld P, Mateos MV, Zamagni E, Avet-Loiseau H, et al. Multiple myeloma: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2017;28(suppl 4).
+4. Attal M, Lauwers-Cances V, Hulin C, Leleu X, Caillot D, Escoffre M, et al. Lenalidomide, Bortezomib, and Dexamethasone with Transplantation for Myeloma. N Engl J Med. 2017;376(14):1311-1320.
+5. Gay F, Musto P, Rota-Scalabrini D, Bertamini L, Belotti A, Galli M. Carfilzomib with cyclophosphamide and dexamethasone or lenalidomide and dexamethasone plus autologous transplantation or carfilzomib plus lenalidomide and dexamethasone, followed by maintenance with carfilzomib plus lenalidomide or lenalidomide alone for patients with newly diagnosed multiple myeloma (EMN02/HO95): a multicentre, randomised, open-label, phase 3 study. Lancet Haematol. 2021;8(10).
+6. Harousseau JL, Avet-Loiseau H, Attal M, Moreau P, Marit G, Benboubker L, et al. Achievement of at least very good partial response is a simple and robust prognostic factor in patients with multiple myeloma treated with high-dose therapy: long-term analysis of the IFM 99-02 and 99-04 trials. J Clin Oncol. 2009;27(34):5720-5726.
+7. Duarte RF, Labopin M, Bader P, Basak GW, Bonini C, Chabannon C, et al. Indications for haematopoietic stem cell transplantation for haematological diseases, solid tumours and immune disorders: current practice in Europe, 2019. Bone Marrow Transplant. 2019;54(10):1525-1552.
+8. Larocca A, Cavallo F, Bringhen S, Di Raimondo F, Falanga A, Evangelista A, et al. Aspirin or enoxaparin thromboprophylaxis for patients with newly diagnosed multiple myeloma treated with lenalidomide. Blood. 2012;119(4):933-939.
+9. Giralt S, Costa LJ, Maloney D, Krishnan A, Fei M, Antin JH, et al. Tandem autologous-autologous versus autologous-allogeneic hematopoietic stem cell transplant for patients with multiple myeloma: long-term follow-up results from the Blood and Marrow Transplant Clinical Trials Network 0102 trial. Biol Blood Marrow Transplant. 2020;26(4):798-804.
+10. Bhattacharya S, Goel G, Mukherjee S, Bhaumik J, Chandy M. Epidemiology of antimicrobial resistance in an oncology center in Eastern India. Infect Control Hosp Epidemiol. 2015;36(7):864-6.
+11. Jackson GH, Davies FE, Pawlyn C, Cairns DA, Striha A, Collett C, et al. Lenalidomide maintenance versus observation for patients with newly diagnosed multiple myeloma (Myeloma XI): a multicentre, open-label, randomised, phase 3 trial. Lancet Oncol. 2019;20(1):57-73.
+12. Voorhees PM, Kaufman JL, Laubach J, Sborov DW, Reeves B, Rodriguez C, et al. Daratumumab, lenalidomide, bortezomib, and dexamethasone for transplant-eligible newly diagnosed multiple myeloma: the GRIFFIN trial. Blood. 2020;136(8):936-945.
+13. Lahuerta JJ, Paiva B, Vidriales MB, Cordón L, Cedena MT, Puig N, et al. Depth of response in multiple myeloma: a pooled analysis of three PETHEMA/GEM clinical trials. J Clin Oncol. 2017;35(25):2900-2910.
+14. Sonneveld P, Dimopoulos MA, Boccadoro M, Quach H, Ho PJ, Beksac M, et al. Daratumumab, bortezomib, lenalidomide, and dexamethasone for multiple myeloma. N Engl J Med. 2024;390(4):301-313.
+15. Paul M, Carrara E, Retamar P, Tängdén T, Bitterman R, Bonomo RA, et al. European Society of Clinical Microbiology and Infectious Diseases (ESCMID) guidelines for the treatment of infections caused by multidrug-resistant Gram-negative bacilli. Clin Microbiol Infect. 2022;28(4):521-547.
+16. Moreau P, Garfall AL, van de Donk NWCJ, Nahi H, San-Miguel JF, Oriol A, et al. Teclistamab in relapsed or refractory multiple myeloma. N Engl J Med. 2022;387(6):495-505.

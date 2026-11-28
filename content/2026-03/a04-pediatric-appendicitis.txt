@@ -1,0 +1,106 @@
+type: Original Research
+pages: 20-23
+title: Pediatric appendicitis: integrating clinical assessment with an ultrasound-first imaging strategy
+authors: Aiswarya R Pillai (a); Aswathy Ravikumar (a); Asok Kumar GM (a)
+aff a: Department of Pediatric Surgery, KIMSHEALTH, Thiruvananthapuram, Kerala, India.
+corr: Aiswarya R Pillai, Department of Pediatric Surgery, KIMSHEALTH, Thiruvananthapuram, Kerala, India.
+email: draiswarya.r@kimsglobal.com
+keywords: acute appendicitis; complicated appendicitis; pediatric surgery; ultrasonography
+--- abstract Background
+Acute appendicitis is the most common surgical emergency in children. Although imaging plays an important role in diagnosis, the overuse of computed tomography (CT) exposes children to avoidable radiation. This study evaluates a diagnostic approach that prioritizes clinical assessment with ultrasonography as the primary imaging modality and CT reserved for selected cases.
+--- abstract Methods
+A retrospective observational study was conducted involving 143 children aged 3–15 years who underwent appendectomy for suspected appendicitis. We analyzed data on clinical presentation, laboratory parameters, ultrasonography findings, CT imaging (when performed), intraoperative findings, and outcomes.
+--- abstract Results
+Abdominal pain was present in 99.3% of patients. Vomiting occurred in 76.2%. These findings highlight the predominance of clinical features in diagnosis. Ultrasonography was performed in 127 patients and was suggestive of appendicitis in 98 cases (77.1%). The diagnostic performance of ultrasonography showed a sensitivity of 77.4% and a high positive predictive value of 97.96%. CT scans were used selectively in 42 patients (29.4%), mainly for inconclusive ultrasound or diagnostic uncertainty. They were suggestive of appendicitis in all cases. Only three patients (2.1%) had a normal appendix on intraoperative evaluation. This indicates a low negative appendectomy rate.
+--- abstract Conclusion
+The diagnosis of pediatric appendicitis remains primarily clinical. However, it can be especially challenging in children under five years of age. Ultrasonography is an effective first-line imaging tool with high positive predictive value. CT should be reserved for cases needing more diagnostic clarification. An ultrasound-first strategy reduces radiation exposure but does not compromise diagnostic accuracy.
+--- body
+## Introduction
+Acute abdominal pain in children has a broad differential diagnosis, including infectious, inflammatory, musculoskeletal, traumatic, gynecologic, and other etiologies. Among these, acute appendicitis is the most common surgical emergency in the pediatric population.^1^ The overall lifetime risk of developing appendicitis is estimated to be approximately 8%, with incidence peaking during the adolescent years.^2^ Acute appendicitis in preschool children is rare, accounting for less than 10% of pediatric appendicitis cases.^2,3^
+
+Although appendicitis is uncommon in infants, perforated appendicitis has been seen even in premature neonates.^4^ In some cases, perforation may be the final sign of an underlying illness, such as Hirschsprung disease, in neonates.^5^ Despite advances in diagnosis and treatment, appendicitis continues to bring significant morbidity. Though rare, it still remains a potential cause of mortality.
+
+Only about 60% of children present with classic symptoms of appendicitis, such as migratory right lower quadrant pain, fever, nausea, and vomiting.^6,7^ In younger children, symptoms such as abdominal pain, vomiting, and diarrhoea may initially lead to a diagnosis of acute gastroenteritis in those later confirmed to have appendicitis.^3,6^
+
+Imaging plays an important role in early diagnosis, with ultrasonography and computed tomography (CT) utilized depending on institutional expertise and regional practice patterns.^8^
+
+Despite advances in clinical assessment, laboratory testing, and imaging, early diagnosis of appendicitis in children remains challenging. This is particularly true in younger age groups where presentations are often atypical. Delayed diagnosis increases the risk of complications and associated morbidity. Identifying reliable clinical and imaging predictors of disease severity is essential. This helps improve early diagnosis and optimize management strategies. The present study was undertaken to evaluate the clinical profile and imaging patterns in children with suspected appendicitis.
+
+## Materials and methods
+This retrospective observational study was conducted at the Department of Pediatric Surgery at KIMSHEALTH, Thiruvananthapuram, Kerala, India. The study included children aged 3–15 years who underwent appendectomy for suspected acute appendicitis during the study period. Patients with incomplete clinical, laboratory, or imaging records were excluded.
+
+Data were retrieved from medical records and operative registers. This included demographic details, duration of symptoms, presenting clinical features, and imaging findings (ultrasonography and CT, when performed). Intraoperative findings were also recorded.
+
+Appendicitis was classified intraoperatively as uncomplicated (inflamed appendix without perforation, gangrene, abscess, or generalized peritonitis). It was considered complicated if there was perforation, gangrene, abscess, or pyoperitoneum. Ultrasonography was used as the first-line imaging modality, with CT performed selectively in cases with inconclusive ultrasonography or diagnostic uncertainty; MRI was not routinely used.
+
+Continuous variables were expressed as mean ± standard deviation or median with interquartile range. Categorical variables were presented as frequencies and percentages.
+
+## Results
+### Clinical profile
+!table
+caption: Table 1: Age distribution of study population
+Age (years) | Number of patients | Percentage (%)
+3-6 | 26 | 18.3
+7-9 | 47 | 32.9
+10-12 | 44 | 30.8
+13-15 | 26 | 18.2
+Total | 143 | 100
+!end
+
+A total of 143 patients were included in the analysis. The mean age at presentation was 9.53 ± 2.83 years, with a median age of 9 years. The age ranged from 3 to 15 years. The majority of patients were in the 7–9 years age group (32.9%), followed by the 10–12 years group (30.8%). The 3–6-year and 13–15-year groups each accounted for 18.2% of cases. The interquartile range was 7 to 12 years.
+
+The mean duration of symptoms was 2.15 ± 1.87 days; with a median of 2 days. Symptom duration ranged from 1 to 14 days. The interquartile range was 1-2 days, indicating that most patients presented early in the course of illness.
+
+### Symptomatology
+Abdominal pain was the most common presenting symptom, reported in 142 patients (99.3%). Vomiting was the second most common symptom, present in 109 patients (76.2%), followed by fever in 58 patients (40.6%). Loose stools were noted in 24 patients (16.8%), while sepsis at presentation was rare, observed in 2 patients (1.4%).
+
+!fig a04-f1.jpg | Figure 1: Bar chart showing distribution of presenting symptoms
+
+### Ultrasonography
+Ultrasound was performed in 127 cases. In the remaining 16 cases, ultrasound was deferred, since there was a strong clinical suspicion of appendicitis. Among those who underwent ultrasonography, findings were suggestive of appendicitis in 98 patients (77.1%), while 29 patients (22.8%) had non-suggestive results. Overall, ultrasonography was suggestive of appendicitis in the majority of patients in this cohort.
+
+Diagnostic performance of ultrasonography was as follows: sensitivity: 77.40%, specificity: 33.3%, positive predictive value (PPV): 97.96%, negative predictive value (NPV): 3.45%, and overall accuracy: 76.4%.
+
+Most patients who did not undergo ultrasonography at our center had prior imaging at peripheral hospitals. These earlier studies were reportedly negative for appendicitis. In many of these cases, CT imaging was done later for further evaluation.
+
+CT scan was performed and was suggestive of appendicitis in 42 patients (29.4%). CT imaging was selectively used in this cohort, primarily in patients requiring additional diagnostic clarification.
+
+## Discussion
+Appendicitis is the most common surgical emergency in children. Eighty-six cases of appendicitis per 100,000 children are estimated to occur annually, and this number is increasing.^2^ Acute appendicitis is a rapidly progressive condition that can lead to significant morbidity if not diagnosed and managed promptly.^9^ Early and accurate diagnosis is essential to prevent septic complications, which are associated with advanced disease.^10,11^
+
+In this cohort, most patients presented within two days of symptom onset. A one-day duration of symptoms was most common (65 patients, 45.5%), followed by two days (46 patients, 32.2%). Presentations after three days were less common, and the numbers decreased as the duration increased. Only isolated cases were seen as late as 10 and 14 days. These data suggest that early medical attention was sought, mainly within the first 48 hours of symptom onset.
+
+Characteristic symptoms of appendicitis include vomiting (96%), fever (85%), and right lower quadrant abdominal pain (81%).^12,13^ Overall, abdominal pain and vomiting were the predominant early clinical features; systemic manifestations such as fever were less frequent. Severe systemic manifestations, such as sepsis, were uncommon.
+
+According to Turpin et al., abdominal ultrasound (US), CT, and MRI are all used in the evaluation of pediatric appendicitis.^14^ However, at our institute, MRI is not routinely used. This is due to its higher cost, longer scan time, and frequent need for general anesthesia in children. These factors make MRI less practical compared to ultrasonography and CT.
+
+In this study, ultrasonography demonstrated a high sensitivity and positive predictive value for diagnosing appendicitis. However, specificity and negative predictive value could not be reliably assessed due to the low number of negative appendicectomy cases. The low negative predictive value indicates that a non-suggestive ultrasound does not reliably exclude appendicitis. Thus, ultrasonography was highly reliable when positive but less reliable in excluding appendicitis when negative.
+
+Although CT is widely used in many centers, its major limitation is exposure to ionizing radiation. Children are more sensitive to radiation than adults and have a longer life expectancy, so their cumulative risk of radiation-induced adverse effects is higher.^15^
+
+In this cohort, CT findings were suggestive of appendicitis in all patients who underwent CT imaging. Therefore, the calculated diagnostic yield of 100% reflects dataset characteristics rather than true diagnostic performance and should be interpreted cautiously. The other diagnostic performance metrics, such as specificity and negative predictive value, could not be reliably determined. CT was predominantly used as a second-line imaging modality, after non-diagnostic or inconclusive ultrasound findings.
+
+A low negative appendicectomy rate of 2.1% was observed in this cohort. Given the small number of cases, meaningful statistical correlation with laboratory or imaging parameters was not feasible. No consistent clinical or laboratory pattern was identified among these patients. The low negative appendicectomy rate likely reflects careful patient selection based on combined clinical and imaging assessment.
+
+## Conclusion
+The diagnosis of acute appendicitis in children continues to rely primarily on careful clinical evaluation. In this cohort, classical clinical features were present in the majority of patients, highlighting the central role of clinical suspicion in diagnosis. Ultrasonography proved to be a reliable first-line imaging modality with a high positive predictive value, supporting its routine use in the initial evaluation of suspected pediatric appendicitis.
+
+Computed tomography was required only in a limited number of patients with inconclusive ultrasound findings or diagnostic uncertainty. The low negative appendicectomy rate observed in this study further supports the effectiveness of a clinical assessment–driven, ultrasound-first diagnostic approach.
+
+Adopting such a strategy may help reduce unnecessary radiation exposure while maintaining diagnostic accuracy in children with suspected appendicitis. The ultrasound has now become the gold standard investigation in the diagnosis of acute appendicitis in children.
+--- refs
+1. Al Ghadeer HA, Al Muaibid AF, Alkhalaf MA, Al Nowaiser NA, Alkhalaf AA, Alghuwainem NN, et al. Predictive factors of acute appendicitis and its outcomes among the pediatric age group. Cureus. 2025 Jan 24;17(1):e77925. doi: 10.7759/cureus.77925.
+2. St Peter SD, Ostlie DJ. Appendicitis. In: Holcomb GW III, Murphy JP, Ostlie DJ, editors. Ashcraft’s Pediatric Surgery. 7th ed. Philadelphia: Elsevier; 2020.
+3. Lounis Y, Hugo J, Demarche M, Seghaye MC. Influence of age on clinical presentation, diagnosis delay and outcome in pre-school children with acute appendicitis. BMC Pediatr. 2020 Apr 6;20(1):151. doi: 10.1186/s12887-020-02053-5.
+4. The SML, The AMH, Derikx JPM, Bakx R, Visser DH, de Meij TGJ, et al. Appendicitis and its associated mortality and morbidity in infants up to 3 months of age: A systematic review. Health Sci Rep. 2023 Sep 5;6(9):e1435. doi: 10.1002/hsr2.1435.
+5. Raveenthiran V. Neonatal appendicitis (part 1): a review of 52 cases with abdominal manifestation. J Neonatal Surg. 2015;4(1):4.
+6. Krzyzak M, Mulrooney SM. Acute appendicitis review: background, epidemiology, diagnosis, and treatment. Cureus. 2020;12(6):e8562. doi: 10.7759/cureus.8562.
+7. Zhang Q, Zhao H, Wang F, Li W, Zhang P. Diagnostic value of laboratory parameters for complicated appendicitis: a two center study. Biomed Rep. 2024 Mar 15;20(5):77. doi: 10.3892/br.2024.1765.
+8. Cundy TP, Gent R, Frauenfelder C, Lukic L, Linke RJ, Goh DW. Benchmarking the value of ultrasound for acute appendicitis in children. J Pediatr Surg. 2016 Dec;51(12):1939-1943. doi: 10.1016/j.jpedsurg.2016.09.009
+9. Lan J, Zhu H, Liu Q, Guo C. Inflammatory markers and duration of symptoms have a close connection with diagnosis and staging of acute appendicitis in children. Front Pediatr. 2021 Jun 4;9:583719. doi: 10.3389/fped.2021.583719
+10. Xu H, Yang S, Xing J, Wang Y, Sun W, Rong L, et al. Comparison of the efficacy and safety of antibiotic treatment and appendectomy for acute uncomplicated appendicitis: a systematic review and meta-analysis. BMC Surg. 2023 Jul 24;23(1):208. doi: 10.1186/s12893-023-02108-1.
+11. Yang J, Liu C, He Y, Cai Z. Laboratory markers in the prediction of acute perforated appendicitis in children. Emerg Med Int. 2019;2019:4608053. doi: 10.1155/2019/4608053.
+12. Uyukbese Sarsu S, Sarac F. Diagnostic value of white blood cell and C-reactive protein in pediatric appendicitis. Biomed Res Int. 2016;2016:6508619. doi: 10.1155/2016/6508619.
+13. Al-Qurayshi Z, Kadi A, Srivastav S, Kandil E. Risk and outcomes of 24-hour delayed and weekend appendectomies. J Surg Res. 2016;203:246–52.e1.
+14. Turpin AG, Moore M, Gould S, Moore T, Savage J, Zomorrodi A, et al. Imaging stewardship for the diagnosis of pediatric appendicitis: Improved ultrasound performance can decrease emergency department length of stay. J Pediatr Surg. 2026 Jan;61(1):162798. doi: 10.1016/j.jpedsurg.2025.162798
+15. Farooqui W, Pommergaard HC, Burcharth J, Eriksen JR. Platelet-to-lymphocyte ratios be favourable predictors for the differential diagnosis of appendicitis. J Pak Med Assoc. 2019;69:647–654.

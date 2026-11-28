@@ -1,0 +1,134 @@
+type: Original Research
+pages: 5-10
+featured: yes
+title: NEWS2ACTION: Improving timely sepsis care with a NEWS2-triggered Sepsis Code
+authors: Gilta Joy (a); Shameem KU (a); Jennifer Kabeer (a); Rajalakshmi (b); Niyas (b)
+aff a: Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Infectious Diseases, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Gilta Joy, Department of Emergency Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: giltajoypanthallookaran@gmail.com
+keywords: sepsis; NEWS2; Sepsis Code; Sepsis Six bundle; emergency medicine; quality improvement
+image: a01-f8.jpg
+--- abstract Background
+Sepsis requires early recognition, coordinated treatment, and rapid reassessment. A baseline review in our emergency department identified substantial delays in antimicrobial administration and delivery of other components of the Sepsis Six bundle, including among patients with marked physiological derangement.
+--- abstract Objective
+To evaluate whether a NEWS2-triggered Sepsis Code could improve the timely delivery of Sepsis Six-aligned bundle care and facilitate measurable and early physiological improvement.
+--- abstract Methods
+This single-center before-and-after clinical quality-improvement study compared a three-month pre-implementation period (October 1, 2025 - December 31, 2025) with a three-month post-implementation period (January 1, 2026 - March 31, 2026). The baseline cohort included 108 patients treated for suspected infection or sepsis, of whom 43 had NEWS2 ≥7. Following implementation, 39 consecutive patients with suspected infections and NEWS2 ≥7 triggered the Sepsis Code. The primary comparison was one-hour intravenous antimicrobial and other Sepsis Six bundle administration in the high-risk cohorts (43 before vs 39 after implementation). Post-code process times and repeat NEWS2 at 30 minutes were also evaluated.
+--- abstract Results
+One-hour antimicrobial administration increased from 16/43 (37.2%) before implementation to 39/39 (100%) after implementation (P < 0.001). Among patients triggering the Sepsis Code, the median times from emergency department arrival to code activation were 6 minutes, to laboratory testing and lactate assessment 16 minutes, to blood culture collection 18 minutes, and to antimicrobial administration 24 minutes. Mean NEWS2 decreased from 10.33 ± 2.13 to 6.77 ± 1.94 at 30 minutes, representing a mean reduction of 3.56 points (P < 0.001). NEWS2 decreased in 36/39 patients (92.3%), and 18/39 (46.2%) moved out of the high-risk category.
+--- abstract Conclusion
+Implementation of a NEWS2-triggered Sepsis Code was associated with marked improvement in one-hour antimicrobial administration and delivery of other Sepsis Six-aligned bundle components, while establishing a structured 30-minute physiological reassessment point. Larger prospective studies are needed to assess the sustainability of these improvements and their effects on risk-adjusted clinical outcomes.
+--- body
+## Introduction
+Sepsis is life-threatening organ dysfunction caused by a dysregulated host response to infection.^1^ Its global burden remains substantial, with an estimated 48.9 million cases and 11 million sepsis-related deaths in 2017.^2^ Contemporary Surviving Sepsis Campaign guidance emphasizes immediate resuscitation and prompt antimicrobial therapy in septic shock and in patients with a high likelihood of sepsis, while also stressing ongoing diagnostic reassessment and antimicrobial stewardship.^3^
+
+Timely administration of effective antimicrobials is an important treatment target in severe sepsis and septic shock. Observational studies and meta-analytic evidence link treatment delay with poorer outcomes, although the strength of this association varies by population, severity of illness, and the certainty of infection.^4-8^ Effective sepsis pathways therefore depend not only on recognition of suspected infection, but also on translating recognition into parallel, time-critical actions. Bundle-based programs, including the Sepsis Six Bundle, demonstrated the value of coordinated early care supported by measurable performance targets.^9-11^
+
+The National Early Warning Score (NEWS) and its updated NEWS2 framework provide a standardized bedside assessment of respiratory rate, oxygen saturation, supplemental oxygen requirement, systolic blood pressure, pulse, consciousness/new confusion, and temperature.^12,13^ NEWS2 has demonstrated utility in identifying emergency-department patients with infection who are at increased risk of organ dysfunction and adverse outcomes.^14,15^ Serial NEWS2 assessment may also provide a practical measure of early physiological response to treatment. In a large sepsis cohort, improvement in NEWS2 during emergency-department care was associated with lower hospital mortality.^16^
+
+Our baseline process review suggested that clinically reasonable but sequential workflows were allowing small delays to accumulate. We therefore developed NEWS2ACTION, in which suspected infection with a NEWS2 ≥7 activates a shared Sepsis Code, coordinated Sepsis Six-aligned management, and repeat NEWS2 assessment at 30 minutes. This study evaluated the effect of that pathway on antimicrobial timing and early physiological response.
+
+## Methodology
+### Study design and setting
+We conducted a single-center, before-and-after clinical quality-improvement study in the emergency department of KIMSHEALTH, Trivandrum. The pre-implementation period was October 1, 2025 to December 31, 2025, and the post-implementation period was January 1, 2026 to March 31, 2026.
+
+### Participants
+The baseline cohort comprised 108 patients assessed for suspected infection or sepsis who subsequently received antimicrobial therapy. NEWS2 was not an entry criterion during this period; 43 of the 108 patients had NEWS2 ≥7. After implementation, the Sepsis Code was activated for patients with suspected infection and a NEWS2 ≥7. The post-implementation cohort comprised 39 consecutive patients who triggered the Sepsis Code, all of whom were subsequently clinically diagnosed with sepsis. The principal before-and-after comparison was therefore restricted to the comparable high-risk cohorts: 43 patients before implementation and 39 patients after implementation.
+
+### Intervention
+NEWS2ACTION used NEWS2 ≥7 as the institutional trigger for Sepsis Code activation. Operational principles included early recognition, rapid activation, parallel treatment, and objective reassessment. Following activation, laboratory testing, lactate assessment, blood cultures, empirical intravenous antimicrobials, hemodynamic assessment and indicated fluid therapy, oxygen or ventilatory support, urine-output assessment, vasopressors, and other organ support were initiated as clinically appropriate. The intervention was aligned with contemporary sepsis guidance and the Sepsis Six bundle concept.^3,11^ Bundle completion was clinician-led rather than automatic; interventions such as oxygen, fluid bolus, or catheterization were undertaken only when clinically indicated.
+
+!fig a01-f1.jpg | Figure 1: NEWS2ACTION workflow: suspected infection with NEWS2 ≥7 triggers Sepsis Code activation, parallel Sepsis Six-aligned care, and repeat NEWS2 assessment at 30 minutes.
+
+### Outcomes and data collection
+The primary process endpoint was administration of intravenous antimicrobial and other indicated bundle components within one hour of emergency-department arrival among patients with NEWS2 ≥7.
+
+Post-code data included emergency-department arrival time, initial NEWS2, time to code activation, laboratory and lactate assessment, blood-culture collection, and antimicrobial administration, as well as oxygen or ventilatory support, intravenous fluid administration, vasopressor use, repeat NEWS2 at 30 minutes, risk-category migration, and available follow-up outcomes. The principal physiological endpoint was change in NEWS2 from activation to 30 minutes.
+
+### Data analysis and governance
+Categorical data are presented as number (percentage), and continuous data as mean ± standard deviation or median, as available in the source dataset. The original analysis reported P < 0.001 for the high-risk pre-implementation vs post-implementation comparison of one-hour antimicrobial administration and for the change in NEWS2 at 30 minutes.
+
+!table
+Element | Pre-implementation | Post-implementation
+Period | 3 months (Oct 1-Dec 31, 2025) | 3 months (Jan 1-Mar 31, 2026)
+Population | 108 suspected/treated sepsis cases | 39 consecutive patients triggering the Sepsis Code
+NEWS2 selection | Not used as an entry criterion; 43 had NEWS2 ≥7 | All had NEWS2 ≥7
+Primary comparison | 43 high-risk patients | 39 high-risk patients
+Key endpoint | Antimicrobial timing | Antimicrobial timing, process timestamps and 30-min NEWS2
+caption: Table 1. Study design and comparison groups.
+!end
+
+## Results
+### Baseline antimicrobial timing
+In the baseline cohort of 108 patients (pre-implementation), 34 (31.5%) received antimicrobials within 1 hour, 51 (47.2%) between 1 and 3 hours, and 23 (21.3%) after more than 3 hours. Within the high-risk subgroup with NEWS2 ≥7, only 16/43 (37.2%) received antimicrobials within 1 hour.
+
+!fig a01-f2.jpg | Figure 2. Baseline antimicrobial timing distribution during the three-month pre-code period (n=108).
+
+### Speed of sepsis code delivery
+Among the 39 patients who triggered the Sepsis Code, the median time from emergency-department arrival to code activation was 6 minutes. Laboratory testing and lactate assessment occurred at a median of 16 minutes, blood culture collection at 18 minutes, and intravenous antimicrobial administration at 24 minutes. Thirty-one of 39 patients (79.5%) received antimicrobials within 30 minutes, and all 39 (100%) received them within 60 minutes.
+
+!fig a01-f3.jpg | Figure 3. Median time from emergency-department arrival to key Sepsis Code processes after implementation.
+
+!fig a01-f4.jpg | Figure 4. Post-code antimicrobial timing: 31/39 patients received antimicrobials within 30 minutes and all 39 within 60 minutes.
+
+### Early physiological response
+Mean NEWS2 decreased from 10.33 ± 2.13 at activation to 6.77 ± 1.94 at 30 minutes, a mean reduction of 3.56 points (P < 0.001). Thirty-six patients (92.3%) had a lower NEWS2, two (5.1%) were unchanged, and one (2.6%) increased. All 39 patients triggered the Sepsis Code with a NEWS2 ≥7. At 30 minutes, 18/39 (46.2%) had moved out of the high-risk category: 14 were in the medium-risk category and 4 in the low-risk category, while 21 remained in the high-risk category.
+
+!fig a01-f5.jpg | Figure 5. Mean NEWS2 decreased from 10.33 to 6.77 at the 30-minute reassessment.
+
+!fig a01-f6.jpg | Figure 6. Individual NEWS2 response at 30 minutes: 36/39 patients (92.3%) improved numerically.
+
+!fig a01-f7.jpg | Figure 7. NEWS2 risk-category distribution at 30 minutes; 18/39 patients (46.2%) had moved out of the high-risk category.
+
+### Primary before-and-after comparison
+Among comparable high-risk patients with NEWS2 ≥7, one-hour antimicrobial administration increased from 16/43 (37.2%) before implementation to 39/39 (100%) after implementation, an absolute increase of 62.8 percentage points (P < 0.001).
+
+!table
+Outcome | Pre-implementation | Post-implementation
+High-risk cohort (NEWS2 ≥7) | 43 | 39
+Antimicrobials ≤1 hour | 16/43 (37.2%) | 39/39 (100%)
+Antimicrobials ≤30 min | Not systematically recorded | 31/39 (79.5%)
+Median antimicrobial time | Not systematically recorded | 24 min
+Mean NEWS2 at 30 min | Not systematically recorded | 6.77 ± 1.94
+NEWS2 decreased | Not systematically recorded | 36/39 (92.3%)
+Moved out of high-risk category | Not systematically recorded | 18/39 (46.2%)
+caption: Table 2. Key process and early-response findings.
+!end
+
+!fig a01-f8.jpg | Figure 8. One-hour antimicrobial delivery among comparable high-risk patients (NEWS2 ≥7) before and after Sepsis Code implementation.
+
+## Discussion
+The principal finding was a large improvement in reliability of one-hour antimicrobial delivery after implementing NEWS2ACTION. Restricting the main comparison to NEWS2 ≥7 patients reduced the most obvious baseline/post-code selection mismatch: 37.2% of high-risk patients received antimicrobials within one hour before the code compared with 100% after implementation. The median post-code antimicrobial time of 24 minutes suggests a workflow change beyond simply meeting the one-hour target.
+
+The mechanism is operationally plausible. Before implementation, assessment, investigation, review, prescription, preparation, and administration often occurred sequentially. NEWS2ACTION attached a shared response to an objective physiological trigger and allowed several tasks to proceed in parallel. This aligns with the broader principle underlying bundle-based sepsis programs.^9-11^ NEWS2 served as both an activation trigger and a structured reassessment tool, while treatment remained individualized according to clinical need and current sepsis guidance.^3,13^
+
+The early fall in NEWS2 is clinically encouraging but should not be interpreted as proof of improved survival. NEWS2 is a composite physiological score and can change rapidly with oxygenation, circulation, temperature, and consciousness. Serial NEWS2 therefore provides a useful direction-of-travel signal, consistent with prior work linking score improvement during emergency-department management with better outcomes.^16^ Likewise, lactate kinetics have been associated with prognosis in sepsis and support the broader concept of early objective reassessment.^17^ Early-warning-score-based clinical decision support has also shown potential to improve sepsis care processes and resource outcomes.^18^ Comparative studies have generally found NEWS2 to be at least as useful as qSOFA for identifying deterioration among infected patients, supporting its role as an operational trigger in settings where it is routinely measured.^19,20^
+
+This study has important limitations. It was a single-center before-and-after quality-improvement evaluation with a small post-code cohort. Mortality, length of stay, source control, antimicrobial appropriateness, de-escalation, serial lactate, SOFA score, intensive-care use, and mechanical ventilation were not prospectively standardized as study outcomes. The observed reduction in NEWS2 therefore demonstrates early physiological improvement.
+
+Future evaluation should prospectively enroll a larger post-code cohort, maintain uniform outcome definitions, assess protocol adherence and antimicrobial appropriateness, and include risk-adjusted 7-day and 28-day outcomes. Sustainability will also depend on staff education, simulation-based Sepsis Code drills, and periodic audit of process timestamps. Persistent or rising NEWS2 at 30 minutes may be particularly useful as a predefined trigger for senior reassessment and critical-care escalation.
+
+## Conclusion
+Implementing a NEWS2-triggered Sepsis Code was associated with marked improvement in one-hour antimicrobial administration and delivery of other bundle components among high-risk emergency department patients and created a reproducible 30-minute physiological reassessment point. The intervention converted an early-warning score into a coordinated response through rapid activation, parallel treatment, communication, and structured reassessment. Larger prospective studies are required to determine sustainability, antimicrobial appropriateness, and effects on risk-adjusted patient outcomes.
+--- refs
+1. Singer M, Deutschman CS, Seymour CW, Shankar-Hari M, Annane D, Bauer M, et al. The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3). JAMA. 2016;315(8):801-10. doi:10.1001/jama.2016.0287
+2. Rudd KE, Johnson SC, Agesa KM, Shackelford KA, Tsoi D, Kievlan DR, et al. Global, regional, and national sepsis incidence and mortality, 1990-2017: analysis for the Global Burden of Disease Study. Lancet. 2020;395(10219):200-11. doi:10.1016/S0140-6736(19)32989-7
+3. Evans L, Rhodes A, Alhazzani W, Antonelli M, Coopersmith CM, French C, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021;47(11):1181-1247. doi:10.1007/s00134-021-06506-y
+4. Kumar A, Roberts D, Wood KE, Light B, Parrillo JE, Sharma S, et al. Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock. Crit Care Med. 2006;34(6):1589-96. doi:10.1097/01.CCM.0000217961.75225.E9
+5. Ferrer R, Martin-Loeches I, Phillips G, Osborn TM, Townsend S, Dellinger RP, et al. Empiric antibiotic treatment reduces mortality in severe sepsis and septic shock from the first hour: results from a guideline-based performance improvement program. Crit Care Med. 2014;42(8):1749-55. doi:10.1097/CCM.0000000000000330
+6. Seymour CW, Gesten F, Prescott HC, Friedrich ME, Iwashyna TJ, Phillips GS, et al. Time to treatment and mortality during mandated emergency care for sepsis. N Engl J Med. 2017;376(23):2235-2244. doi:10.1056/NEJMoa1703058
+7. Liu VX, Fielding-Singh V, Greene JD, Baker JM, Iwashyna TJ, Bhattacharya J, et al. The timing of early antibiotics and hospital mortality in sepsis. Am J Respir Crit Care Med. 2017;196(7):856-63. doi:10.1164/rccm.201609-1848OC
+8. Sterling SA, Miller WR, Pryor J, Puskarich MA, Jones AE. The impact of timing of antibiotics on outcomes in severe sepsis and septic shock: a systematic review and meta-analysis. Crit Care Med. 2015;43(9):1907-15. doi:10.1097/CCM.0000000000001142
+9. Rhodes A, Phillips G, Beale R, Cecconi M, Chiche JD, De Backer D, et al. The Surviving Sepsis Campaign bundles and outcome: results from the International Multicentre Prevalence Study on Sepsis (the IMPreSS study). Intensive Care Med. 2015;41(9):1620-28. doi:10.1007/s00134-015-3906-y
+10. Levy MM, Rhodes A, Phillips GS, Townsend SR, Schorr CA, Beale R, et al. Surviving Sepsis Campaign: association between performance metrics and outcomes in a 7.5-year study. Crit Care Med. 2015;43(1):3-12. doi:10.1097/CCM.0000000000000723
+11. Daniels R, Nutbeam T, McNamara G, Galvin C. The Sepsis Six and the severe sepsis resuscitation bundle: a prospective observational cohort study. Emerg Med J. 2011;28(6):507-12. doi:10.1136/emj.2010.095067
+12. Smith GB, Prytherch DR, Meredith P, Schmidt PE, Featherstone PI. The ability of the National Early Warning Score (NEWS) to discriminate patients at risk of early cardiac arrest, unanticipated intensive care unit admission, and death. Resuscitation. 2013;84(4):465-70. doi:10.1016/j.resuscitation.2012.12.016
+13. Royal College of Physicians. National Early Warning Score (NEWS) 2: standardising the assessment of acute-illness severity in the NHS. London: Royal College of Physicians; 2017.
+14. Mellhammar L, Linder A, Tverring J, Christensson B, Boyd JH, Sendi P, et al. NEWS2 is superior to qSOFA in detecting sepsis with organ dysfunction in the emergency department. J Clin Med. 2019;8(8):1128. doi:10.3390/jcm8081128
+15. Keep JW, Messmer AS, Sladden R, Burrell N, Pinate R, Tunnicliff M, et al. National Early Warning Score at Emergency Department triage may allow earlier identification of patients with severe sepsis and septic shock: a retrospective observational study. Emerg Med J. 2016;33(1):37-41. doi:10.1136/emermed-2014-204465
+16. Hsieh MS, Chiu KC, Chattopadhyay A, Lu TP, Liao SH, Chang CM, et al. Utilizing the National Early Warning Score 2 (NEWS2) to confirm the impact of emergency department management in sepsis patients: a cohort study from Taiwan 1998-2020. Int J Emerg Med. 2024;17(1):42. doi:10.1186/s12245-024-00614-4
+17. Arnold RC, Shapiro NI, Jones AE, Schorr C, Pope J, Casner E, et al. Multicenter study of early lactate clearance as a determinant of survival in patients with presumed sepsis. Shock. 2009;32(1):35-39. doi:10.1097/SHK.0b013e3181971d47
+18. Horton DJ, Graves KK, Kukhareva PV, Johnson SA, Cedillo M, Sanford M, et al. Modified early warning score-based clinical decision support: cost impact and clinical outcomes in sepsis. JAMIA Open. 2020;3(2):261-68. doi:10.1093/jamiaopen/ooaa014
+19. Goulden R, Hoyle MC, Monis J, Railton D, Riley V, Martin P, et al. qSOFA, SIRS and NEWS for predicting inhospital mortality and ICU admission in emergency admissions treated as sepsis. Emerg Med J. 2018;35(6):345-49. doi:10.1136/emermed-2017-207120
+20. Churpek MM, Snyder A, Han X, Sokol S, Pettit N, Howell MD, et al. Quick Sepsis-related Organ Failure Assessment, Systemic Inflammatory Response Syndrome, and Early Warning Scores for detecting clinical deterioration in infected patients outside the intensive care unit. Am J Respir Crit Care Med. 2017;195(7):906-911. doi:10.1164/rccm.201604-0854OC

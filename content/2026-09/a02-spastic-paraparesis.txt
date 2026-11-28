@@ -1,0 +1,88 @@
+type: Case Report
+pages: 11-14
+title: Progressive spastic paraparesis in a middle-aged male: A diagnostic challenge
+authors: Rohit Ram Kumar (a)
+aff a: Department of Neurology, KIMSHEALTH, Kottayam, Kerala, India.
+corr: Rohit Ram Kumar, Department of Neurology, KIMSHEALTH, Kottayam, Kerala, India.
+email: rohitramkumar106@gmail.com
+keywords: primary lateral sclerosis; hereditary spastic paraplegia; amyotrophic lateral sclerosis; motor neuron disease; upper motor neuron syndrome; spastic paraparesis
+image: a02-f2a.jpg
+--- abstract
+Primary lateral sclerosis (PLS) is a rare neurodegenerative disorder that causes selective deterioration of the upper motor neurons (UMNs), with relative sparing of the lower motor neuron (LMN) system.^1,2^ The clinical course is characterized by progressive motor disability due to muscle spasticity, which typically involves the lower extremities and bulbar muscles. Here, we present a rare case of spastic, asymmetric paraparesis in a 62-year-old male in whom there was a diagnostic challenge.
+--- body
+## Introduction
+The prevalence of PLS is estimated to be around 2-3% of total cases of motor neuron disease (MND).
+
+Conventionally, motor neuron disease comprises a clinical spectrum ranging from exclusively lower motor neuron (LMN) disease, as seen in progressive muscular atrophy, to purely upper motor neuron (UMN) disease, as seen in primary lateral sclerosis (PLS). In the broad middle exists amyotrophic lateral sclerosis (ALS), which affects both UMNs and LMNs.
+
+PLS, therefore, by definition, manifests as pure UMN disease/dysfunction (PUMND) from onset throughout the disease course. However, as most neuromuscular disease experts recognize, LMN disease/dysfunction (LMND) may sometimes develop in patients with a well-established diagnosis of PLS after many years.^3^
+
+## Case history
+A 62-year-old male with a previous history of coronary artery disease, on medical management, presented with stiffness of both lower limbs for 8 months and difficulty in walking for 8 months.
+
+He was apparently normal before presentation. His symptoms started as asymmetric stiffness of both lower limbs, with an insidious onset and progressive course, more pronounced in the left lower limb.
+
+He noticed dragging of both feet and experienced multiple episodes of tripping. He described his legs as being very heavy, "like a log of wood". He also had mild difficulty getting up from a seated posture, mainly due to stiffness.
+
+There was no history of wasting, cramps, fasciculations, or spasms. There were no upper-limb or craniobulbar symptoms. There were also no autonomic or extrapyramidal symptoms.
+
+## General examination
+The patient was clinically stable, with normal vital signs. There was no pallor, icterus, cyanosis, clubbing or pedal edema. His Mini-Mental State Examination score was 30/30.
+
+Cranial nerve examination was normal, with specifically no evidence of tongue wasting or fasciculations.
+
+On examination of the motor system, muscle bulk was preserved. Grade 2 bilateral lower-limb spasticity was present. Power was normal in the neck and upper limbs (5/5), while power in the lower limbs was approximately 4+/5.
+
+The abdominal reflexes were preserved. Plantar responses were bilaterally extensor. Deep tendon reflexes were brisk in both upper limbs, with biceps, triceps, and supinator reflexes graded as 3+ bilaterally. Knee jerks were 3+ bilaterally, more pronounced on the left, while ankle jerks were 4+ bilaterally. Subtle pyramidal signs were present in the upper limbs. A palmomental reflex was also present.
+
+Coordination was normal in the upper limbs. Lower-limb coordination could not be adequately assessed because of marked spasticity.
+
+Gait examination revealed a severe spastic gait with a narrow base. No fasciculations were observed. Sensory examination was normal. Examination of the skull and spine was unremarkable, and there was no peripheral nerve thickening.
+
+## Investigations
+Routine laboratory investigations were largely unremarkable. Hemoglobin was 13.6 g/dL, total leukocyte count was 9,300/mm^3^, and the erythrocyte sedimentation rate was 27 mm in the first hour.
+
+Serum vitamin B12 was 635 pg/mL and serum copper was 81.5 μg/dL (reference range 70-140 μg/dL). Serum homocysteine was 14.8, within the stated reference range of less than 15. Thyroid-stimulating hormone was 3.4 mIU/mL. Viral markers were negative.
+
+Cerebrospinal fluid (CSF) examination revealed no cells, with a glucose level of 78 mg% and protein level of 28 mg%. Culture and sensitivity showed no growth, and the sample was sterile.
+
+Serological testing for human T-cell lymphotropic virus types 1 and 2 (HTLV-I/2) and anti-GAD65 antibodies was negative. Tumor markers were also negative.
+
+Ultrasonography of the abdomen showed grade 1 fatty liver.
+
+### Nerve conduction study and electrophysiological studies
+Sensory nerve action potentials were normal. Motor nerve conduction studies showed bilateral mild carpal tunnel syndrome, while the other studied nerves were normal.
+
+### Neuroimaging
+Magnetic resonance imaging (MRI) of the cervical and thoracic spine showed no significant abnormality or evidence of compressive pathology (Figure 1).
+
+MRI of the brain, including T1-weighted and FLAIR sequences, was also normal (Figure 2).
+
+!fig a02-f1a.jpg, a02-f1b.jpg | Figure 1: MRI spine. Normal imaging of (a) thoracic spine and (b) cervical spine respectively.
+
+!fig a02-f2a.jpg, a02-f2b.jpg | Figure 2: Normal MRI Brain (a) T1 and (b) Flair sequences respectively.
+
+## Discussion and conclusion
+The patient was evaluated as a case of pure UMN syndrome, predominantly affecting the lower limbs. Clinical examination revealed bipyramidal dysfunction.
+
+Brain and spinal cord imaging was normal, with no evidence of compression.
+
+Non-compressive myelopathy, including vitamin B12 deficiency, copper deficiency and other tractopathies, was considered. Infectious myelitis, including HIV, syphilis and HTLV infection, was also considered. Hereditary spastic paraplegia was considered, although the relatively late age of presentation and normal MRI findings made this less typical.
+
+Other diagnostic possibilities included a pure UMN variant of motor neuron disease, particularly primary lateral sclerosis; toxic myelopathy; primary progressive multiple sclerosis; and stiff-leg syndrome within the stiff-person spectrum.
+
+All routine biochemical tests, including vitamin B12 and homocysteine, and CSF studies were normal. Anti-GAD65 levels were also normal.
+
+EMG showed a normal study of the cervical, thoracic, and lumbar segments.
+
+No spontaneous potential or gross denervation changes could be recorded from either of these segments. Hence, a provisional clinical diagnosis of primary lateral sclerosis was made. The patient was started on baclofen, diazepam and riluzole, along with physiotherapy for spasticity.
+
+He remains under follow-up.
+
+PLS is diagnosed by exclusion and is therefore challenging because the initial differential diagnosis is broad. This includes conditions such as metabolic myelopathies, including adrenomyeloneuropathy; primary progressive multiple sclerosis; Alexander disease; autoimmune diseases, such as those associated with anti-amphiphysin antibodies; infections, including human T-lymphotropic virus types 1 and 2 and syphilis; and paraneoplastic syndromes, for example in patients with breast cancer.
+
+Most conditions in this differential diagnosis can be demonstrated through imaging, genetic and laboratory testing.^2,1,3^
+--- refs
+1. de Vries BS, de Boer EM, Brugman F, Van Damme P, Veldink JH, van Es MA, et al. Primary lateral sclerosis. Neurology. 2025;104(11).
+2. D'Amico E, Pasmantier M, Lee Y, Weimer L, Mitsumoto H. Clinical evolution of pure upper motor neuron disease/dysfunction (PUMMD). Muscle & Nerve. 2012;47(1):28-32. doi:10.1002/mus.23496
+3. Vacchiano V, Bonan L, Liguori R, Rizzo G. Primary Lateral Sclerosis: An Overview. J Clin Med. 2024;13:578. doi:10.3390/jcm13020578

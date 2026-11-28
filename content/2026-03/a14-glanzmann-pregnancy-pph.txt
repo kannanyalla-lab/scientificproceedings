@@ -1,0 +1,82 @@
+type: Case Report
+pages: 59-61
+title: Glanzmann thrombasthenia in pregnancy complicated by refractory postpartum hemorrhage
+authors: Gopika S G (a); Sajith (b); Manish Yadav (c); Vijay Nair (d); Mathew Thomas (d)
+aff a: Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+aff b: Department of Obstetrics and Gynecology, KIMSHEALTH, Trivandrum, Kerala, India.
+aff c: Department of Interventional Radiology, KIMSHEALTH, Trivandrum, Kerala, India.
+aff d: Department of Hematology, KIMSHEALTH, Trivandrum, Kerala, India.
+aff e: Department of Internal Medicine and Hematology, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Gopika S G, Department of Internal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: gopikasg27@gmail.com
+keywords: Glanzmann thrombasthenia; pregnancy; postpartum hemorrhage; platelet function disorder; embolization; rFVIIa
+--- abstract Background
+Glanzmann thrombasthenia (GT) is a rare bleeding disease due to an autosomal recessive platelet function disorder.^1^ It is caused by pathogenic variants in ITGA2B or ITGB3, resulting in defective glycoprotein IIb/IIIa–mediated platelet aggregation.^1^ Pregnancy in women with GT carries a high risk of antepartum, intrapartum, and postpartum hemorrhage, making management extremely challenging and necessitating meticulous multidisciplinary planning and execution.^2^ We report such a case.
+--- abstract Case
+A 33-year-old multigravida (G2P1L1) presented at 37 weeks with childhood-onset GT (type 2B suspected). Her history included iron deficiency anemia, gestational diabetes mellitus controlled with oral agents, prior secondary postpartum hemorrhage after cesarean delivery for placental abruption, and varicella infection in early gestation. Throughout pregnancy, she had normal fetal growth, normal antenatal testing, and no bleeding episodes.
+
+At 37 weeks, following multidisciplinary planning, an elective lower-segment cesarean section with sterilization was performed under subarachnoid block. Prophylactic uterotonics and tranexamic acid were administered, and perioperative platelet support was arranged, including an intraoperative transfusion of 1 unit of single-donor platelets (SDP).
+
+A healthy term male neonate weighing 2.9 kg was delivered.
+
+The initial postoperative period was uneventful. However, on postoperative day 2, the patient developed severe anemia with hemoglobin dropping from 8.7 g/dL to 6.3 g/dL, hypotension, tachycardia, abdominal discomfort, and vaginal bleeding.
+
+Two units of fresh single-donor platelets were transfused, but bleeding persisted due to anti-platelet antibodies from prior transfusions leading to rapid destruction of transfused platelets.
+
+CT angiography demonstrated intrauterine and rectus sheath hematomas with active contrast extravasation. Pelvic angiography identified bleeding from the left inferior epigastric artery. Successful Gelfoam embolization was performed, along with pre-emptive embolization of bilateral uterine arteries and the right inferior epigastric artery.
+
+The patient required multiple transfusions (total: 3 SDP, 5 units of LDRBC, and 10 units of cryoprecipitate), along with tranexamic acid and antibiotics for postoperative fever. Due to persistent bleeding, the patient was given recombinant activated factor VIIa (rFVIIa, NovoSeven).
+
+The calculated dose was 8100 mcg (90 mcg/kg for 90 kg body weight). An initial reduced dose of 400 mcg was given due to financial constraints, followed by the remaining dose after government financial assistance was secured. Subsequently, the patient showed clinical improvement.
+
+Serial monitoring showed stabilization, without further major bleeding; hematuria and wound oozing were resolved. She was discharged hemodynamically stable with a hemoglobin of 8.1 g/dL after a total hospital stay of 12 days.
+--- abstract Conclusion
+Despite the severe hemorrhagic risk in GT, a favorable maternal and neonatal outcome could be achieved in this case with early diagnosis, anticipatory multidisciplinary planning, availability of blood products, judicious use of antifibrinolytics and hemostatic agents, and timely interventional radiology procedure for refractory bleeding.^2,4,5^
+--- body
+## Case presentation
+### Examination
+A 33-year-old multigravida (G2P1L1) at 37 weeks of gestation presented for safe confinement. She was a known case of Glanzmann thrombasthenia diagnosed at 3 years of age (suspected Type 2B). She was not on regular medication but had a history of prior blood transfusions.
+
+Her obstetric history included a previous full-term cesarean section for abruptio placentae in 2016, when she delivered a male baby weighing 3.8 kg. The postpartum period was complicated by secondary postpartum hemorrhage on day 9 following minor trauma, requiring suction evacuation and transfusion of two units of packed red blood cells.
+
+The current pregnancy was conceived spontaneously and complicated by iron deficiency anemia, gestational diabetes mellitus on oral hypoglycemic agents, and varicella infection during early pregnancy.
+
+On examination, she was afebrile with stable vital signs. Abdominal examination revealed a term relaxed uterus with fetal heart sounds present. The non-stress test was reactive.
+
+### Investigations
+Initial laboratory investigations revealed hemoglobin of 10.9 g/dL and platelet count of 115,000/µL. Peripheral smear showed a normocytic normochromic picture with mild thrombocytopenia. The blood group was AB positive and the indirect Coombs test was negative.
+
+Platelet aggregation studies performed in 2016 reportedly confirmed the diagnosis of Glanzmann thrombasthenia, though detailed records were unavailable.
+
+Ultrasound performed at 36 weeks showed a single live intrauterine gestation with growth parameters above the 80th percentile and estimated fetal weight at the 59th percentile.
+
+Postoperative CT angiography demonstrated intrauterine hematoma extending into the lower uterine segment and cervix, rectus sheath hematoma extending into the pelvic cavity, and contrast extravasation suggestive of active vascular leak.
+
+### Management
+A medical board counseled the patient and family regarding delivery and postpartum management.^2^
+
+The patient underwent an elective lower-segment cesarean section with sterilization at 37 weeks under subarachnoid block. A healthy male baby weighing 2.9 kg was delivered. The baby was normal. One unit of SDP was transfused intraoperatively along with tranexamic acid and uterotonics.
+
+Postoperatively, the patient developed hypotension, tachycardia, and vaginal bleeding. An additional SDP transfusion was administered. CT angiography confirmed active bleeding, and pelvic angiography identified contrast leak from the left inferior epigastric artery feeders. An interventional radiologist performed timely Gelfoam embolization of the bleeding vessel along with pre-emptive embolization of bilateral uterine arteries and right inferior epigastric artery feeders.
+
+During hospitalization, she received a total of 5 packed red blood cell transfusions, 10 units of cryoprecipitate, 3 units of single donor platelets, and tranexamic acid. Recombinant activated factor VIIa (NovoSeven) 8100 mcg IV infusion was administered for persistent bleeding following which the bleeding gradually subsided and the patient stabilized.
+
+## Discussion
+Glanzmann thrombasthenia is a rare platelet function disorder caused by defects in platelet integrin αIIbβ3, which mediates platelet aggregation.^1^ Patients with this disorder typically have normal platelet counts but impaired platelet aggregation, leading to mucocutaneous bleeding.
+
+Pregnancy in women with GT carries a significant hemorrhagic risk, particularly during delivery and the postpartum period.^2^ Management requires multidisciplinary planning, and availability of blood products, antifibrinolytic agents, platelet transfusions, and recombinant factor VIIa for refractory bleeding.^2,5^ In the present case, all these modalities were used because bleeding was very severe.
+
+Interventional radiology procedures, such as arterial embolization, are important life-saving interventions when conservative management fails.^4^ In this case, prompt embolization successfully controlled bleeding and prevented further deterioration.
+
+Previous reports have described variable severity, with some cases requiring aggressive therapy and necessitating the use of recombinant factor VIIa.^2,5^ Some cases have been managed conservatively where the disease was only mild to moderate in severity.^3^
+
+Limited data from India suggest that most reported cases of thrombasthenia during pregnancy involved mild to moderate disease managed with platelet transfusion alone, with only two reports of the use of recombinant factor VIIa (NovoSeven), where the bleeding was severe, as it was in the present case.
+
+## Conclusion
+Glanzmann thrombasthenia in pregnancy is a rare but high-risk condition. Successful maternal and neonatal outcomes depend on early diagnosis, multidisciplinary management, adequate preparation with blood products, and timely use of advanced interventions such as arterial embolization and recombinant factor VIIa.^2,5^
+--- refs
+1. Xu VX, Brennecke SP. Glanzmann's thrombasthenia in a twin pregnancy: A case report. Case Rep Womens Health. 2025 Jun;46:e00697. doi:10.1016/j.crwh.2025.e00697
+2. Rutten KHG, Tsiamita O, Van Thillo Q, Raheja P, Kaler M, van Galen KPM, et al. Management of pregnancy and childbirth in Glanzmann thrombasthenia: A case series and review. Br J Haematol. 2025 Oct;207(4):1702–1708. doi:10.1111/bjh.70056.
+3. Singh S, Swain S, Das L, Jena RK, Das OA, Sahoo B, et al. Pregnancy in two patients of Glanzmann’s thrombasthenia: a rare case report. Int J Reprod Contracept Obstet Gynecol. 2016 Jan;5(1):240–242. doi:10.18203/2320-1770.ijrcog20151634.
+4. Magudapathi C, Kannan S. Glanzmann’s thrombasthenia complicating pregnancy. J Obstet Gynaecol India. 2014 Nov–Dec;64(Suppl 1):S3–S5. doi:10.1007/s13224-012-0319-5
+5. Radhakrishnan S, Dorairajan G, Subbaiah M, Sharma J. Optimized outcome of pregnancy in a woman with Glanzmann thrombasthenia with multidisciplinary approach. Int J Reprod Contracept Obstet Gynecol. 2021 Aug;10(8):3242–3244. doi:10.18203/2320-1770.ijrcog20212991

@@ -1,0 +1,139 @@
+type: Case Report
+pages: 30-35
+featured: yes
+title: Tirzepatide for obesity in a Class 1 commercial pilot with cardiometabolic risk: aeromedical considerations
+authors: Warda Hasan (a)
+aff a: Department of Family Medicine, RBH Medical Center, Janabiya, Kingdom of Bahrain.
+corr: Warda Hasan, Department of Family Medicine, RBH Medical Center, Janabiya, Kingdom of Bahrain.
+email: warda.hasan@royalbhrn.com
+keywords: aviation medicine; commercial pilot; obesity; tirzepatide; GIP/GLP-1 receptor agonist; cardiovascular risk; medical certification
+image: a07-f1.jpg
+--- abstract
+Obesity and cardiometabolic disease present important challenges in aviation medicine because both the underlying conditions and their treatment may affect operational performance. This case report describes a 54-year-old Class 1 commercial pilot with obesity, hypertension, dyslipidemia, prediabetes, grade 3 hepatic steatosis, and a history of smoking who was removed from flight duties after admission in February 2026 with accelerated hypertension and troponin elevation. He reported no chest pain, palpitations, or dyspnea, and clinical examination was unremarkable. ECG showed sinus rhythm without reported ischemic changes, while echocardiography and coronary angiography were normal. During a non-flying period, weekly tirzepatide was initiated alongside intensive cardiovascular risk-factor management and lifestyle modification. After approximately four months, he reported no treatment-related adverse effects. Blood pressure improved from 160/100 to 128/78 mmHg, BMI decreased from 37.3 to 33.5 kg/m^2^, and HbA1c was 5.8%. He remained asymptomatic, and cardiology considered him stable. However, clinical improvement alone does not establish fitness to fly. Return-to-flight assessment should consider cardiovascular presentation, functional capacity, medication stability, and tolerability, and the licensing requirements of the responsible aeromedical authority before certification.
+--- body
+## Introduction
+Obesity is a chronic condition associated with hypertension, dyslipidemia, impaired glucose regulation, cardiovascular disease, obstructive sleep apnea, and other conditions relevant to occupational health.^1^ In commercial aviation, its significance extends beyond long-term morbidity, as disease-related symptoms, treatment effects, and functional limitations may impact safe cockpit performance. Aeromedical assessment must, therefore, consider not only the medical diagnosis but also the potential for subtle impairment during safety-critical tasks.
+
+Tirzepatide is a once-weekly agent that acts as a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist that can produce substantial weight loss and improve cardiometabolic outcomes in adults with obesity. Gastrointestinal adverse effects are most frequently reported during treatment initiation and dose escalation. Longer-term evidence in adults with obesity and prediabetes has demonstrated sustained weight loss and a reduced risk of progression to type 2 diabetes.^2^
+
+However, evidence from the general clinical population cannot be directly translated into immediate fitness for flight. Adverse effects such as nausea, vomiting, diarrhea, decreased oral intake, dehydration, dizziness, and fatigue may have operational implications for pilots. Aeromedical assessment must therefore consider the underlying condition and indication for treatment, the medication's adverse-effect profile and tolerability, and the stability of the individual's clinical and functional status. Prescribed GLP-1 and combined GIP/GLP-1 receptor agonists for obesity could be suitable for all classes of certification including Class 1, provided the user receives appropriate aeromedical assessment before starting and around dose changes.^3^ Prescribed GLP-1 receptor agonists and combined GIP/GLP-1 receptor agonists for obesity may be compatible with all classes of certification, including Class 1 certification, but require appropriate aeromedical assessment before treatment initiation and around dose adjustments.^3^
+
+This case is of particular aeromedical interest because tirzepatide was initiated following a recent cardiovascular presentation characterized by accelerated hypertension and troponin elevation. Medication use was therefore not the only aeromedical question. The case describes the subsequent treatment response and the clinical and aeromedical considerations relevant to any potential return to flight operations. It follows the CARE case-report framework.
+
+## Case presentation
+### Patient and relevant background
+The patient was a 54-year-old male commercial pilot who held a Class 1 medical certificate. Details of his licenses and airline affiliation are omitted to preserve confidentiality. He had a history of obesity, hypertension, dyslipidemia, prediabetes, and grade 3 hepatic steatosis. He had previously been a smoker and was using nicotine replacement therapy. His family history was negative for ischemic heart disease, stroke, or type 2 diabetes. Before his presentation in February 2026, he also had several modifiable lifestyle risk factors, including a poor diet, limited physical activity, and alcohol consumption of approximately 10-15 units per week.
+
+The combination of obesity, hypertension, dyslipidemia, impaired glucose regulation, and previous smoking indicated a high cardiometabolic risk profile (Figure 1). In a professional pilot, these risk factors required attention because subsequent aeromedical disposition would need to establish that neither the underlying conditions nor their treatment resulted in symptoms, adverse effects, or functional limitations relevant to flight safety.^4^
+
+!fig a07-f1.jpg | Figure 1: Cardiometabolic risk profile
+
+!fig a07-f2.jpg | Figure 2: Aeromedical risk framework showing the interaction between obesity, cardiovascular risk
+
+### February 2026 presentation
+While still undertaking flight duties, the pilot was admitted in February 2026 with accelerated hypertension, with a blood pressure of 160/100 mmHg, with elevated troponin and D-dimer levels. He denied chest pain, palpitations, and dyspnea and there were no abnormalities on cardiovascular, respiratory and neurological examination. ECG showed no ischemic changes and was normal for sinus rhythm. Echocardiogram and coronary angiogram performed on February 15, 2026 were also reported as normal.
+
+The treating team attributed the troponin elevation to uncontrolled hypertension. However, the available clinical records did not allow definitive classification of the troponin elevation as myocardial infarction or another specific acute coronary syndrome. This distinction was relevant to the subsequent aeromedical assessment and determination of Class 1 fitness (Figure 2).
+
+!table
+Characteristic | Finding
+Age and occupation | 54-year-old male commercial pilot
+Relevant conditions | Obesity, hypertension, dyslipidaemia, prediabetes, grade 3 hepatic steatosis
+Additional risk history | Previous smoking, limited exercise, and poor diet
+Initial blood pressure | 160/100 mmHg
+Symptoms at presentation | No chest pain, palpitations or dyspnoea
+ECG | Sinus rhythm without reported ischaemic changes
+Echocardiography | Reported as normal
+Coronary angiography | Reported as normal on 15 February 2026
+Treating team's assessment | Troponin elevation attributed to uncontrolled hypertension; definitive infarction classification was not established
+caption: Table 1: Summary of clinical presentation and baseline risk profile
+!end
+
+### Management and follow-up
+Following the cardiovascular presentation, amlodipine/valsartan 10/160 mg, bisoprolol 2.5 mg, rosuvastatin 20 mg, ezetimibe 10 mg, aspirin 75 mg and metformin extended-release 1g were prescribed. The cardiologist subsequently recommended tirzepatide and intensive lifestyle changes. The pilot did not receive clearance to resume flying.^5^
+
+He was subsequently removed from flight duties and remained in a period of ground duties and annual leave, resulting in no further flight exposure. Weekly tirzepatide was initiated during this non-flying period. This allowed potential early treatment-related effects, including gastrointestinal symptoms and reduced oral intake, to be observed while he remained off flight duties and during subsequent dose escalation. He had no flight exposure after the February 2026 presentation.
+
+At follow-up, four months after the initial event in June 2026, the patient was on amlodipine/valsartan 10/160 mg, bisoprolol 2.5 mg, rosuvastatin 20 mg, ezetimibe 10 mg, aspirin 75 mg, and tirzepatide 7.5 mg once a week. Metformin was discontinued. He did not report any side effects from tirzepatide treatment. Nicotine replacement therapy was stopped, alcohol consumption had decreased to less than 10 units per week, and his diet had substantially improved, although physical activity remained limited (Figure 3).
+
+Objective measures also improved. Blood pressure decreased to 128/78 mmHg, and BMI decreased from 37.3 to 33.5 kg/m^2^. HbA1c was 5.8%. The LDL value recorded was 131 mg/dl; however, the unit is not stated and is therefore not interpretable. ECG remained normal, and he reported no symptoms. Cardiology considered him clinically stable on the treatment regimen.
+
+!fig a07-f3.jpg | Figure 3: Change in blood pressure from 160/100 mmHg to 128/78 mmHg at four-month follow-up
+
+!table
+Measure | Follow-up finding
+Tirzepatide dose | 7.5 mg weekly
+Reported adverse effects | None
+Blood pressure | 128/78 mmHg
+BMI | 33.5 kg/m^2^, reduced from 37.3 kg/m^2^
+HbA1c | 5.8%
+Lifestyle change | Improved diet; nicotine replacement stopped; alcohol intake reduced
+Current symptoms | None reported
+ECG | Normal
+Cardiology assessment | Stable on current treatment
+Aviation status | Had not resumed flying
+caption: Table 2: Follow-up findings approximately four months after presentation
+!end
+
+Despite these improvements, no final determination of Class 1 certification had been made. The clinical record indicated improvement, but the aeromedical certification required a separate assessment by the responsible licensing authority and evidence relevant to operational safety.
+
+## Discussion
+This case illustrates the difference between effective treatment of obesity and demonstrated aeromedical fitness. The patient experienced early improvements in BMI, blood pressure, and glycaemic parameters after initiation of tirzepatide, without reported treatment-related adverse effects.^6^ However, these clinical improvements did not by themselves resolve the principal certification question: whether a commercial pilot with a recent presentation involving accelerated hypertension and troponin elevation could safely exercise license privileges.
+
+The first consideration is the cardiovascular presentation. Although echocardiogram and coronary angiography were reported as normal, these investigations alone do not establish the mechanism of the troponin elevation or determine its aeromedical significance. The treating diagnosis, clinical course, blood pressure control, functional capacity, and any additional investigations required by the licensing authority remain relevant.^7^ The absence of chest pain and ischemic ECG changes provides useful clinical information. However, these findings must be interpreted in the context of the complete presentation rather than in isolation.
+
+The second consideration is medication tolerability and stability. Tirzepatide is effective for weight management, but gastrointestinal side effects are common, especially during treatment initiation and dose escalation. Such effects may have operational implications for pilots through dehydration, reduced oral intake, abdominal discomfort, fatigue, or other symptoms that could interfere with concentration and performance. So the relevant question is not simply whether tirzepatide is an effective treatment, but whether the individual can take the medication at a stable dose without adverse effects that could compromise safe flight operations (Figure 4).
+
+Treatment response was observed during a non-flying period, with no cockpit exposure after the February 2026 presentation. This was important because tirzepatide was subsequently titrated to a 7.5 mg once-weekly regimen. The absence of reported adverse effects approximately four months after treatment initiation was encouraging, but the date of the most recent dose escalation and the duration of stability at the maintenance dose should be documented before any return-to-duty assessment. Current UK Civil Aviation Authority guidance acknowledges the potential for gastrointestinal adverse effects during treatment initiation and dose escalation and incorporates clinical stability and appropriate aeromedical observation into certification considerations.^8^
+
+!fig a07-f4.jpg | Figure 4: Receiving tirzepatide after a cardiovascular presentation.
+
+The third consideration is the indication for treatment. Aeromedical assessment may differ depending on the underlying condition being treated, and tirzepatide may be prescribed for obesity or type 2 diabetes. Here, the patient had documented obesity and prediabetes, an HbA1c of 5.8% at follow-up, and a history of metformin discontinuation. Future emergence of diabetes may then need to be assessed using the applicable diabetes certification pathway.
+
+The fourth consideration is comprehensive cardiometabolic risk management. Anti-obesity pharmacotherapy should complement, rather than replace, management of other modifiable cardiovascular risk factors, including hypertension, dyslipidemia, smoking exposure, diet, alcohol consumption, and physical inactivity.^9^ In this case, blood pressure improved, nicotine replacement therapy was discontinued, alcohol consumption decreased, and dietary habits improved. Physical activity, however, remained limited, highlighting the need for continued lifestyle intervention and follow-up.
+
+Evidence from obesity trials supports the clinical relevance of tirzepatide-associated weight loss and improvements in cardiometabolic parameters.^10^ Cardiovascular benefits have also been demonstrated with incretin-based therapies in selected populations. However, evidence from these populations cannot automatically be extrapolated to an individual pilot's aeromedical fitness.^11^ Similarly, tirzepatide-associated weight loss may improve obstructive sleep apnea in patients with obesity. Still, obstructive sleep apnea was not documented in this patient and should not be inferred from the presence of obesity alone.^12^
+
+Finally, this case highlights the importance of jurisdiction-specific aeromedical requirements. UK Civil Aviation Authority guidance indicates that GLP-1 receptor agonists and combined GIP/GLP-1 receptor agonists used for obesity may be compatible with Class 1 certification; however, compatibility with certification does not automatically confer fitness to fly (Figure 5). The responsible aeromedical authority may require observation following treatment initiation, dose adjustment, and treatment interruption and restart (UK Civil Aviation Authority, 2026). Certification may also depend on the underlying cardiovascular diagnosis, relevant investigations, and specialist reports. In the same way, international aeromedical principles require license holders to be free from a disease or treatment effect that is likely to interfere with the safe exercise of license privileges.^13,14^
+
+!fig a07-f5.jpg | Figure 5: Potential use of GLP-1 and GIP/GLP-1 receptor agonists for obesity
+
+### Aeromedical management considerations
+The aeromedical implications of this case go beyond the reported clinical benefits of tirzepatide for weight reduction and cardiometabolic risk. Before any decision regarding return to flight, the responsible aeromedical authority should consider the underlying cardiovascular presentation, the indication for treatment, medication tolerability and stability, and whether the disease or its treatment could affect the pilot's ability to exercise license privileges safely.^15^ The principal considerations are summarized in Table 3.
+
+!table
+Domain | Required consideration
+Treatment indication | Distinguish treatment for obesity from treatment for diabetes, as applicable certification pathways may differ
+Cardiovascular status | Clarify diagnosis, symptoms, blood-pressure control, functional capacity, and specialist investigations
+Tirzepatide tolerance | Document the presence or absence of nausea, vomiting, diarrhoea, abdominal symptoms, dehydration, dizziness, fatigue, or other effects that could impair performance
+Dose stability | Record the date of the most recent dose escalation, interruption, or restart, and complete any authority-required observation required by the relevant authority.
+Concomitant therapy | Review glucose-lowering, antihypertensive, and other cardiovascular medications, including any potential for hypoglycemia or other treatment-related impairment
+Ongoing surveillance | Monitor weight/BMI, blood pressure, glycemic indices, lipids, treatment adherence and adverse effects
+Certification decision | Base aeromedical disposition on the underlying disease, treatment, functional status, and applicable operational requirements rather than medication use alone
+caption: Table 3: Aeromedical management considerations before a return-to-flight decision
+!end
+
+These considerations support a holistic approach to aeromedical certification rather than one based solely on medication use or weight reduction. A return-to-flight decision should be taken only when cardiovascular risk has been assessed appropriately, cardiovascular management is stable and well tolerated, and there is no evidence that cardiovascular conditions or cardiovascular management is likely to affect the safe exercise of Class 1 license privileges.
+
+## Conclusion
+In this 54-year-old Class 1 commercial pilot, tirzepatide was initiated during a non-flying period and was associated with early improvements in blood pressure, BMI, and glycemic parameters. At approximately four months, the pilot remained asymptomatic and reported no treatment-related adverse effects; ECG remained normal, and cardiology considered him clinically stable. These findings demonstrate a favorable clinical response to tirzepatide in the context of obesity and cardiometabolic risk, but do not establish fitness to fly.
+
+The principal aeromedical consideration remained the cardiovascular presentation in February 2026, including accelerated hypertension and troponin elevation. The significance and underlying cause of the troponin elevation require assessment independently of the response to tirzepatide. Any consideration of return to flight should also address treatment stability, medication tolerability, hydration and nutritional status, potential performance-limiting adverse effects, concomitant therapies, and functional capacity. The responsible licensing or aeromedical authority makes the final determination of Class 1 fitness and should base it on applicable regulatory requirements and the evidence required for the individual case. Further clinical and aeromedical experience with GLP-1 and combined GIP/GLP-1 receptor agonists in aircrew will be important in defining appropriate monitoring and certification requirements across different regulatory jurisdictions.
+
+This case highlights the distinction between therapeutic response and aeromedical certification. While effective management of obesity and associated cardiometabolic risk may improve clinical status, return to commercial aviation requires an individualized, evidence-based, and jurisdiction-specific assessment of the underlying disease, treatment, functional status, and potential implications for operational safety.
+--- refs
+1. Ismail I. Prevalence of obesity and its implications for diabetes and hypertension risk. J Persatuan Perawat Nasional Indonesia. 2025;10(1):100-113. doi:10.32419/jppni.v10i1.654
+2. He WT, Song YD, Wang XY, He SY, Tao X, Yuan SX, et al. Tirzepatide for obesity without diabetes: mechanistic insights, clinical evidence, and future directions. Front Pharmacol. 2026;17:1889594. doi:10.3389/fphar.2026.1889594
+3. UK Civil Aviation Authority. Aeromedical assessment of applicants prescribed GLP-1 and combined GIP/GLP-1 receptor agonists for obesity. In: Metabolic and endocrinology guidance material. London: UK Civil Aviation Authority; 2026. Available from: https://www.caa.co.uk
+4. Valenzuela PL, Carrera-Bastos P, Castillo-Garcia A, Lieberman DE, Santos-Lozano A, Lucia A. Obesity and the risk of cardiometabolic diseases. Nat Rev Cardiol. 2023;20(7):475-494. doi:10.1038/s41569-023-00847-5
+5. National Institute for Health and Care Excellence. Tirzepatide for managing overweight and obesity. Technology appraisal guidance TA1026. London: NICE; 2024. Available from: https://www.nice.org.uk/guidance/ta1026
+6. Wadden TA, Chao AM, Machineni S, Kushner R, Ard J, Srivastava G, et al. Tirzepatide after intensive lifestyle intervention in adults with overweight or obesity: the SURMOUNT-3 phase 3 trial. Nat Med. 2023;29(11):2909-2918. doi:10.1038/s41591-023-02597-w
+7. Chyl JR, Kowalewski L, Gutowska OB, Nowak W, Kostuch WM, Zimon A, et al. Efficacy and safety of semaglutide and tirzepatide in the therapy of obesity and type 2 diabetes - current state of knowledge. Qual Sport. 2026;70:74691. doi:10.12775/QS.2026.70.74691
+8. Tang Y, Zhang L, Zeng Y, Wang X, Zhang M. Efficacy and safety of tirzepatide in patients with type 2 diabetes: a systematic review and meta-analysis. Front Pharmacol. 2022;13:1016639. doi:10.3389/fphar.2022.1016639
+9. Skrabic R, Kumric M, Santic R, Skrabic I, Pavlovic N, Rusic D, et al. Beyond adherence: refractory dyslipidaemia, the Mediterranean diet, and the case for personalized diet-drug complementarity. Front Nutr. 2026;13:1875074. doi:10.3389/fnut.2026.1875074
+10. Singh A, Ahmad R, Chowdhury K, Narwaria M, Haque M. Tirzepatide and obesity: a narrative review. Adv Hum Biol. 2026;16(2):290-306.
+11. Lincoff AM, Brown-Frandsen K, Colhoun HM, Deanfield J, Emerson SS, Esbjerg S, et al. Semaglutide and cardiovascular outcomes in obesity without diabetes. N Engl J Med. 2023;389(24):2221-2232. doi:10.1056/NEJMoa2307563
+12. Malhotra A, Grunstein RR, Fietze I, Weaver TE, Redline S, Azarbarzin A, et al. Tirzepatide for the treatment of obstructive sleep apnea and obesity. N Engl J Med. 2024;391(13):1193-1205. doi:10.1056/NEJMoa2404881
+13. Valenzuela PL, Carrera-Bastos P, Castillo-Garcia A, Lieberman DE, Santos-Lozano A, Lucia A. Obesity and the risk of cardiometabolic diseases. Nat Rev Cardiol. 2023;20(7):475-94. doi:10.1038/s41569-023-00847-5
+14. National Institute for Health and Care Excellence (NICE). Prescribing, reviewing and stopping tirzepatide. London: NICE; 2026. Available from: https://www.nice.org.uk/guidance/ta1026/resources/tirzepatide-for-managing-overweight-and-obesity-pdf-2973528337587397
+15. Aronne LJ, Horn DB, le Roux CW, Ho W, Falcon BL, Gomez Valderas E, Dunn JP. Tirzepatide as compared with semaglutide for the treatment of obesity. N Engl J Med. 2025. doi:10.1056/NEJMoa2416394

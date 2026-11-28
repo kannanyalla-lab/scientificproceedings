@@ -1,0 +1,95 @@
+type: Case Series
+pages: 27-31
+title: Spectrum of late gadolinium enhancement patterns in cardiac magnetic resonance imaging
+authors: Ajeesh Sabu (a); Deepthi Pio (a); Zunimol PKM (a)
+aff a: Department of Radiology, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Ajeesh Sabu, Department of Radiology, KIMSHEALTH, Trivandrum, Kerala, India.
+email: ajeeshsabu123@gmail.com
+keywords: cardiac MRI; late gadolinium enhancement; cardiomyopathy; myocardial fibrosis; myocarditis; cardiac sarcoidosis
+image: a06-f4.jpg
+--- abstract
+Late gadolinium enhancement (LGE) imaging is a fundamental technique in cardiac magnetic resonance imaging (CMR) for the detection of myocardial fibrosis, necrosis, and infiltration. The pattern and distribution of LGE provide valuable insights into the underlying etiology of myocardial injury and enable differentiation between ischemic and non-ischemic cardiomyopathies.
+--- abstract
+In this case series, we present a spectrum of LGE patterns observed in patients undergoing cardiac MRI, including ischemic cardiomyopathy, myocarditis, cardiac sarcoidosis, amyloidosis, dilated cardiomyopathy, and hypertrophic cardiomyopathy. Each condition exhibits characteristic enhancement patterns that facilitate accurate diagnosis, risk stratification, and clinical management.
+--- abstract
+Through illustrative cases, this article highlights the diagnostic value of recognizing specific LGE distributions and their correlation with distinct myocardial pathologies. An understanding of these patterns reinforces the role of cardiac MRI as a powerful, non-invasive modality for the evaluation of cardiomyopathies.
+--- body
+## Introduction
+Cardiac magnetic resonance (CMR) imaging has emerged as a powerful, non-invasive imaging modality for comprehensive evaluation of myocardial structure, function, and tissue characterization. Among the various techniques used in CMR, late gadolinium enhancement (LGE) imaging plays a central role in identifying myocardial fibrosis, scar formation, and infiltrative processes. LGE imaging is typically performed 10–15 minutes after administration of a gadolinium-based contrast agent using inversion-recovery gradient-echo sequences. In this technique, the signal from normal myocardium is nulled, allowing regions with increased extracellular volume — such as fibrosis, necrosis, or infiltration — to appear hyperintense. This approach provides a unique capability to delineate myocardial tissue abnormalities that may not be evident in conventional imaging modalities.^1^
+
+One of the most significant advantages of LGE imaging is its ability to differentiate ischemic from non-ischemic myocardial disease based on enhancement patterns. Ischemic cardiomyopathies typically demonstrate subendocardial or transmural enhancement conforming to a coronary artery distribution. In contrast, non-ischemic cardiomyopathies often exhibit mid-myocardial, subepicardial, or diffuse patterns that do not correspond to a vascular territory.^1^
+
+Recognizing these characteristic patterns is essential for accurate diagnosis, prognosis assessment, and therapeutic decision-making. This case series presents a spectrum of LGE patterns observed across different myocardial pathologies and underscores the diagnostic value of LGE imaging in cardiac MRI.
+
+## Case presentation
+### Case 1: Ischemic cardiomyopathy
+A patient with a history of coronary artery disease underwent cardiac MRI for evaluation of myocardial viability. Imaging revealed thinning of the anteroseptal, anterior, and anterolateral segments at the mid-ventricular level, as well as involvement of the septal and anterior segments at the apical level and the apex. Late gadolinium enhancement demonstrated transmural enhancement in these regions, consistent with a prior myocardial infarction in the left anterior descending (LAD) artery territory (Figure 1).
+
+!fig a06-f1.jpg | Figure 1: Thinning of the anteroseptal, anterior, and anterolateral segments at the mid-ventricular level; septal and anterior segments at the apical level and apex, with transmural LGE — transmural infarction in the LAD territory.
+
+In another patient, cardiac MRI demonstrated a narrow-necked akinetic outpouching arising from the inferolateral wall of the basal to mid left ventricle. The wall of this outpouching showed LGE, consistent with a left ventricular pseudoaneurysm secondary to a previous infarction (Figure 2).
+
+!fig a06-f2.jpg | Figure 2: Akinetic outpouching from the inferolateral aspect of the basal and mid ventricular wall of the left ventricle, with LGE of the walls of the pseudoaneurysm — pseudoaneurysm from the lateral wall of the LV.
+
+These findings illustrate the typical ischemic LGE pattern, in which enhancement begins in the subendocardium and may extend transmurally depending on the severity of myocardial injury.
+
+### Case 2: Myocarditis
+A young patient presenting with chest pain and elevated cardiac enzymes underwent cardiac MRI for evaluation of suspected myocarditis. LGE imaging demonstrated nodular and coalescing areas of enhancement involving the septal and lateral segments of the apical left ventricle and the apex. The enhancement predominantly involved the subepicardial and mid-myocardial layers (Figure 3).
+
+This pattern of LGE, characterized by subendocardial sparing and a lack of conformity to coronary arterial distribution, is typical of myocarditis. The presence of subepicardial or mid-wall enhancement in the lateral wall of the left ventricle is particularly suggestive of inflammatory myocardial injury.
+
+!fig a06-f3.jpg | Figure 3: Linear mid-myocardial LGE in the interventricular septum and basal anterolateral left ventricular wall, with additional enhancement at the superior and inferior right ventricular insertion points, suggestive of acute myocarditis.
+
+### Case 3: Cardiac sarcoidosis
+Cardiac MRI in a patient with systemic sarcoidosis revealed irregular areas of mid-wall LGE involving the interventricular septum and adjacent myocardial segments (Figure 4).
+
+!fig a06-f4.jpg | Figure 4: Nodular and coalescing areas of LGE involving the anterior and lateral segments of the apical left ventricle and the apex, predominantly involving the subepicardial and mid-myocardial layers, consistent with cardiac sarcoidosis. Irregular mid-wall LGE.
+
+Cardiac sarcoidosis typically presents with patchy, multifocal LGE patterns, often involving the basal septum or lateral wall. The combination of structural abnormalities on CMR and metabolic activity on FDG PET imaging further supports the diagnosis.
+
+### Case 4: Cardiac amyloidosis
+In another case, cardiac MRI demonstrated diffuse subendocardial enhancement involving the left ventricle, extending into the inner two-thirds of the myocardium. Additional enhancement was noted within the interatrial septum (Figure 5).
+
+!fig a06-f5.jpg | Figure 5: LGE images show diffuse non-territorial enhancement of the subendocardium up to the inner two-thirds of the myocardium. LGE is also noted in the interatrial septum — diffuse subendocardial enhancement (amyloidosis).
+
+This diffuse, non-territorial subendocardial LGE pattern is characteristic of cardiac amyloidosis and reflects widespread amyloid deposition within the myocardial extracellular space.
+
+### Case 5: Dilated cardiomyopathy
+A patient with dilated cardiomyopathy underwent cardiac MRI for further evaluation. LGE imaging demonstrated linear mid-myocardial enhancement involving the interventricular septum and free wall at the basal and mid-ventricular levels, with additional involvement of the lateral segment at the apical level (Figure 6).
+
+!fig a06-f6.jpg | Figure 6: Linear mid-myocardial LGE involving the interventricular septum and free wall at the basal and mid-ventricular levels, with additional involvement of the inferior segment at the apical level — mid-wall LGE in DCM, a predictor of poor prognosis.
+
+Mid-wall LGE in dilated cardiomyopathy is a well-recognized imaging finding and has been associated with an increased risk of adverse cardiac outcomes, including arrhythmias and progressive heart failure.
+
+### Case 6: Hypertrophic cardiomyopathy
+Cardiac MRI in a patient with hypertrophic cardiomyopathy demonstrated asymmetric hypertrophy of the anteroseptal and inferoseptal segments at the basal and mid-ventricular levels. LGE imaging showed multifocal and confluent areas of mid-myocardial enhancement within the hypertrophied septal myocardium (Figure 7).
+
+!fig a06-f7.jpg | Figure 7: Asymmetric hypertrophy of the anteroseptal and inferoseptal segments at the basal and mid ventricular levels, with multifocal and confluent mid myocardial LGE / fibrosis in the hypertrophied septal myocardium — hypertrophic cardiomyopathy (HCM) with mid myocardial LGE.
+
+The presence of LGE in hypertrophic cardiomyopathy represents myocardial fibrosis and has been associated with an increased risk of ventricular arrhythmias and sudden cardiac death.
+
+## Discussion
+Late gadolinium enhancement (LGE) imaging has significantly advanced the evaluation of myocardial disease by enabling direct visualization of myocardial fibrosis and scarring. The technique relies on the differential distribution of gadolinium contrast between normal and diseased myocardium. Areas with expanded extracellular space retain gadolinium longer, appearing hyperintense on delayed imaging.^1^
+
+One of the most important clinical applications of LGE imaging is its ability to distinguish ischemic from non-ischemic cardiomyopathies. In ischemic injury, myocardial necrosis begins in the subendocardium due to its higher metabolic demand and relative vulnerability to ischemia. As ischemia severity increases, the injury progresses transmurally. Consequently, LGE patterns in ischemic cardiomyopathy typically follow the distribution of coronary arteries and involve the subendocardial or transmural layers.^1^
+
+In contrast, non-ischemic cardiomyopathies often demonstrate enhancement patterns that spare the subendocardium and involve the mid-myocardial or subepicardial layers. For example, myocarditis typically produces patchy subepicardial or mid-wall enhancement, especially in the lateral wall. Cardiac sarcoidosis often exhibits multifocal and irregular areas of LGE involving the septum or free wall.^2^
+
+In infiltrative cardiomyopathies such as amyloidosis, the enhancement pattern tends to be diffuse and may involve the entire subendocardium or even extend transmurally. This pattern reflects extensive deposition of abnormal proteins within the myocardial interstitium.^2^
+
+Dilated cardiomyopathy frequently demonstrates linear mid-wall enhancement in the interventricular septum, which is thought to represent replacement fibrosis. Several studies have shown that the presence of LGE in dilated cardiomyopathy is associated with adverse clinical outcomes and a higher risk of arrhythmias.^3^
+
+Similarly, in hypertrophic cardiomyopathy, LGE corresponds to areas of myocardial fibrosis and may serve as an important marker for risk stratification. The extent of LGE has been correlated with an increased risk of sudden cardiac death.^4^
+
+Therefore, accurate recognition and interpretation of these characteristic enhancement patterns is essential for clinicians and radiologists. LGE imaging not only aids in establishing the diagnosis but also provides prognostic information and can influence therapeutic decisions.^5^
+
+## Conclusion
+Late gadolinium enhancement imaging is an essential component of cardiac MRI, providing critical insights into myocardial tissue characterization. Distinct LGE patterns help differentiate ischemic from non-ischemic cardiomyopathies and identify specific disease processes such as myocarditis, sarcoidosis, amyloidosis, dilated cardiomyopathy, and hypertrophic cardiomyopathy.
+
+Recognition of these characteristic patterns enables accurate diagnosis, risk stratification, and improved clinical management. As cardiac MRI continues to evolve, LGE imaging will remain a cornerstone technique for evaluating myocardial injury and fibrosis, ultimately contributing to improved patient outcomes.
+--- refs
+1. Bucciarelli V, Bianco F, Francesco AD, Vitulli P, Biasi A, Primavera M, et al. Characteristics and prognosis of a contemporary cohort with myocardial infarction with non-obstructed coronary arteries (MINOCA) presenting different patterns of late gadolinium enhancements in cardiac magnetic resonance imaging. J Clin Med. 2023 Mar 15;12(6):2266.
+2. Kim RJ, Wu E, Rafael A, Chen EL, Parker MA, Simonetti O et al. The use of contrast-enhanced magnetic resonance imaging to identify reversible myocardial dysfunction. N Engl J Med. 2000;343(20):1445-1453.
+3. Friedrich MG, Sechtem U, Schulz-Menger J, Holmvang G, Alakija P, Cooper LT, et al. Cardiovascular magnetic resonance in myocarditis: A JACC White Paper. J Am Coll Cardiol. 2009;53(17):1475-1487.
+4. Greulich S, Deluigi CC, Gloekler S, Wahl A, Zürn C, Kramer U, et al. CMR imaging predicts death and other adverse events in suspected cardiac sarcoidosis. JACC Cardiovasc Imaging. 2013;6(4):501-511.
+5. Gulati A, Jabbour A, Ismail TF, Guha K, Khwaja J, Raza S et al. Association of fibrosis with mortality and sudden cardiac death in patients with nonischemic dilated cardiomyopathy. JAMA. 2013;309(9):896-908.

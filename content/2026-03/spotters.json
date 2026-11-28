@@ -1,0 +1,46 @@
+[
+ {
+  "caseNo": 1,
+  "category": "Radiology",
+  "images": [
+   "/issues/2026-03/fig/sp-1.jpg"
+  ],
+  "question": "A 10-year-old boy presents with swelling and tenderness over the proximal part of the left leg. X-ray of the left knee (AP view) and leg (lateral view) were obtained. What is the diagnosis?",
+  "diagnosis": "Sessile osteochondroma.",
+  "findings": "Imaging findings: A sessile bony outgrowth is seen arising from the posteromedial aspect of the proximal tibial metaphysis, projecting away from the adjacent epiphysis.",
+  "imageUrl": "/issues/2026-03/fig/sp-1.jpg"
+ },
+ {
+  "caseNo": 2,
+  "category": "Radiology",
+  "images": [
+   "/issues/2026-03/fig/sp-2.jpg"
+  ],
+  "question": "A known case of carcinoma of the urinary bladder on chemotherapy presents with respiratory distress. A chest X-ray (AP view) was obtained. What is the diagnosis?",
+  "diagnosis": "Pulmonary metastases.",
+  "findings": "Imaging findings: Multiple, well-defined, rounded nodular opacities are seen in all zones of the right lung and in the upper zone of the left lung.",
+  "imageUrl": "/issues/2026-03/fig/sp-2.jpg"
+ },
+ {
+  "caseNo": 3,
+  "category": "Radiology",
+  "images": [
+   "/issues/2026-03/fig/sp-3.jpg"
+  ],
+  "question": "A 48-year-old male presents with a history of fall from height, followed by pain in the left shoulder. An X-ray of the left shoulder (AP view) was obtained. What is the diagnosis?",
+  "diagnosis": "Left acromioclavicular (AC) joint dislocation.",
+  "findings": "Imaging findings: There is loss of normal alignment between the distal clavicle and the acromion. The distal clavicle is displaced superiorly, with increased coracoclavicular distance.",
+  "imageUrl": "/issues/2026-03/fig/sp-3.jpg"
+ },
+ {
+  "caseNo": 4,
+  "category": "Radiology",
+  "images": [
+   "/issues/2026-03/fig/sp-4.jpg"
+  ],
+  "question": "A 31-year-old female, known case of pectus excavatum and congenital mitral valve prolapse, underwent a routine chest X-ray (AP view). What is the diagnosis?",
+  "diagnosis": "Poland syndrome.",
+  "findings": "Imaging findings: Suggestive of hypoplasia/aplasia of the right pectoralis major muscle, with hyperlucency of the right hemithorax.",
+  "imageUrl": "/issues/2026-03/fig/sp-4.jpg"
+ }
+]

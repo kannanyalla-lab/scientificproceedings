@@ -1,0 +1,124 @@
+type: Case Report
+pages: 51-55
+title: Intermammary pilonidal sinus mimicking acneiform lesions: A rare ectopic presentation
+authors: Jacob Antony Chakiath (a); Shahina PH (b)
+aff a: Department of Aesthetic Plastic Surgery, KIMS Alshifa Hospital, Perinthalmanna, Kerala, India.
+aff b: Department of Pathology, KIMS Alshifa Hospital, Perinthalmanna, Kerala, India.
+corr: Jacob Antony Chakiath, Department of Aesthetic Plastic Surgery, KIMS Alshifa Hospital, Perinthalmanna, Kerala, India. ORCID: https://orcid.org/0000-0002-4091-3109
+keywords: intermammary; pilonidal sinus; chronic inflammation; sinus tract
+image: a12-f3.jpg
+--- abstract
+Pilonidal sinus is a chronic inflammatory condition that most commonly occurs in the sacrococcygeal region. Its occurrence in other anatomical sites is uncommon and often leads to diagnostic confusion. Intermammary pilonidal sinus is an extremely rare entity, with only a limited number of cases reported in the literature.
+--- abstract
+We report the case of a 32-year-old female who presented with recurrent swelling and intermittent seropurulent discharge from the intermammary region for four months. She had previously been treated by multiple physicians and dermatologists for presumed acneiform lesions and sebaceous gland overactivity, given the presence of facial acne and the atypical location of the lesions.
+--- abstract
+Clinical examination, imaging, and subsequent surgical exploration revealed an intermammary pilonidal sinus. The sinus tract was excised en bloc, and histopathological examination confirmed the diagnosis of pilonidal sinus.
+--- abstract
+This case highlights the importance of considering intermammary pilonidal sinus in the differential diagnosis of chronic discharging lesions in the intermammary region, especially in patients with predisposing factors such as obesity, large pendulous breasts, and excessive sweating. Awareness of this rare condition is essential to avoid misdiagnosis and delays in treatment.
+--- body
+## Introduction
+Pilonidal sinus disease is a chronic inflammatory condition characterized by the presence of hair-containing sinus tracts within the subcutaneous tissue. The condition most commonly occurs in the sacrococcygeal region, particularly among young adults, with a higher prevalence in males.^1^ The pathogenesis is generally considered to be acquired and involves the penetration of loose hair shafts into the skin, leading to chronic inflammation, foreign body reaction, and sinus tract formation.
+
+Although the sacrococcygeal region accounts for the majority of cases, pilonidal sinuses have also been described in several unusual locations, including the umbilicus, axilla, interdigital spaces of barbers, nose, suprapubic region, and breast region. Intermammary pilonidal sinus is an extremely rare presentation and is often overlooked because of its unusual location.^2^
+
+## Case presentation
+A 32-year-old female presented with complaints of recurrent swelling and induration in the intermammary region associated with occasional seropurulent discharge for six months. She had previously consulted multiple physicians for the same complaint. As the patient also had facial acne, the lesion was initially treated by local general practitioners and dermatologists as acneiform lesions or sebaceous gland overactivity, and she received symptomatic treatment at different intervals. However, her symptoms persisted.
+
+Due to the persistent nature of the condition, she presented to our outpatient department for further evaluation. On clinical examination, the patient was moderately built and nourished, with a recent history of weight gain. She reported excessive sweating and had large pendulous breasts, which resulted in increased friction and moisture in the intermammary cleft.
+
+Local examination of the intermammary region revealed a healed scar with multiple pus points, associated with mild tenderness and minimal local rise in temperature. There was no history of fever or other systemic symptoms.
+
+An ultrasound examination of the breast and intermammary region was performed. Imaging demonstrated a linear subcutaneous tract extending inferiorly in the midline, more towards the left, with multiple linear echogenic foci, suggestive of an intermammary pilonidal sinus. A small, well-defined cystic lesion with low-level internal echoes was also noted in the subcutaneous plane of the intermammary region.
+
+Based on the clinical history, examination findings, and imaging features, a diagnosis of intermammary pilonidal sinus was made, and the patient was planned for surgical excision under general anesthesia.
+
+!fig a12-f1.jpg | Figure 1: Clinical photograph showing a sinus opening in the intermammary region.
+
+Preoperative photographs were obtained (Figure 1). Intraoperatively, methylene blue dye was injected to delineate the sinus tract, which was then identified and excised en bloc (Figure 2). Hemostasis was secured, and the wound was closed in layers without a drain. The excised specimen was sent for histopathological examination.
+
+!fig a12-f2.jpg | Figure 2: Excised specimen demonstrating the sinus tract involving the skin and subcutaneous tissue.
+
+Histopathological analysis shows hair follicle entrapment and a sinus tract lined by granulation tissue, with a dense mixed inflammatory infiltrate composed of neutrophils, lymphocytes, and plasma cells. Proliferating small blood vessels were also seen. Focally entrapped keratin, numerous foamy macrophages, and a collection of multinucleated giant cells were also observed, consistent with pilonidal sinus (Figure 3).
+
+!fig a12-f3.jpg | Figure 3: Histopathological examination of the excised specimen showing free hair shafts (arrow) within the surrounding inflammatory reaction.
+
+## Discussion
+Pilonidal sinus disease is a chronic inflammatory condition characterized by the presence of a sinus tract containing hair shafts within the subcutaneous tissue. The condition most commonly occurs in the sacrococcygeal region, accounting for the vast majority of cases. It typically affects young adults between 15 and 40 years of age and has a reported male predominance with a male-to-female ratio of approximately 4:1.^3^ The overall incidence has been estimated at 26 cases per 100,000 population, although the exact incidence varies geographically and is influenced by occupational and lifestyle factors.
+
+Although the sacrococcygeal region remains the classical site, ectopic pilonidal sinus disease has been reported in several unusual anatomical locations, including the umbilicus, axilla, interdigital spaces of barbers, suprapubic region, nose, scalp, and the breast region. Among these atypical sites, the intermammary pilonidal sinus in females is particularly rare, with only a limited number of cases reported in the literature. Due to its uncommon location and non-specific clinical presentation, the condition often poses a significant diagnostic challenge.
+
+### Pathogenesis
+Historically, the pathogenesis of pilonidal sinus disease was believed to be congenital. However, current evidence strongly supports an acquired etiology. According to the widely accepted Karydakis theory,^4^ loose hair fragments penetrate the skin due to friction and mechanical forces. These hair shafts act as foreign bodies, initiating a chronic inflammatory response that eventually leads to sinus tract formation.
+
+Several predisposing factors^5^ contribute to the development of pilonidal sinus disease, including:
+
+- Obesity
+- Excessive sweating
+- Deep skin folds
+- Friction between adjacent skin surfaces
+- Local trauma or pressure
+- Poor hygiene
+- Presence of coarse hair
+
+In the intermammary region, similar mechanisms may facilitate hair penetration. Women with large pendulous breasts often have a deep intermammary cleft, creating an environment characterized by increased friction, moisture, and skin maceration. These conditions promote the accumulation of loose hair and debris within the cleft. Repeated mechanical pressure and friction may allow hair fragments to penetrate the skin, leading to chronic inflammatory reaction and the formation of a sinus tract.
+
+The patient described in this report had several predisposing factors, including recent weight gain, excessive sweating, and large pendulous breasts, all of which likely contributed to the development of the intermammary pilonidal sinus.
+
+### Diagnostic challenges
+The diagnosis of intermammary pilonidal sinus can be difficult because its clinical features often resemble more common dermatological conditions. Patients typically present with pain, swelling, induration, or intermittent seropurulent discharge in the intermammary region. However, because this condition is rare, clinicians may initially attribute the lesion to other more common pathologies.
+
+The differential diagnosis of intermammary lesions includes:
+
+- Acne vulgaris
+- Folliculitis
+- Hidradenitis suppurativa
+- Epidermal inclusion cyst
+- Sebaceous cyst
+- Chronic abscess
+- Infected dermoid cyst
+
+In the present case, the patient was initially treated for acneiform lesions or sebaceous gland overactivity, given the presence of facial acne and the superficial appearance of the lesions. This misinterpretation led to a delayed diagnosis, highlighting the importance of maintaining a high index of suspicion when evaluating persistent or recurrent discharging lesions in atypical anatomical locations.
+
+### Diagnostic approach
+The diagnosis of pilonidal sinus in unusual locations requires careful clinical evaluation, supported by imaging, as needed.
+
+A suggested diagnostic approach for suspected intermammary pilonidal sinus includes:
+
+1. **Detailed clinical examination:** Identification of sinus openings, chronic discharge, induration, or healed scars in the intermammary cleft.
+2. **Assessment of risk factors:** Presence of obesity, pendulous breasts, excessive sweating, or deep skin folds.
+3. **Imaging studies:** Ultrasonography can help identify sinus tracts, hair fragments, and associated cystic lesions in superficial tissues.
+4. **Definitive diagnosis by histopathology:** Histological examination typically reveals a sinus tract lined with granulation tissue, hair shafts within the tract, chronic inflammatory infiltrates, and foreign-body giant-cell reactions.
+
+In the present case, ultrasonography demonstrated a linear subcutaneous tract with echogenic foci, raising suspicion for a pilonidal sinus. The diagnosis was confirmed following surgical excision and histopathological examination, which revealed entrapped hair follicles, chronic inflammatory infiltrate, foamy macrophages, multinucleated giant cells, and keratin debris, consistent with pilonidal sinus disease.^6^
+
+### Management
+The treatment of a pilonidal sinus depends on the extent and location of the disease. For ectopic pilonidal sinuses, complete surgical excision of the sinus tract remains the gold standard treatment.^7^ Various surgical techniques have been described, including:
+
+- Excision with primary closure
+- Excision with secondary healing
+- Flap reconstruction for complex or recurrent disease
+
+For small, localized lesions, en bloc excision with primary closure often provides excellent results with low recurrence rates.
+
+In this case, the sinus tract was delineated intraoperatively with methylene blue, facilitating accurate identification and complete excision. The wound was closed primarily without a drain. The patient had an uneventful postoperative recovery and no recurrence.
+
+## Clinical significance
+The rarity of intermammary pilonidal sinus makes it an important diagnostic consideration in patients presenting with chronic discharging lesions in the intermammary region. Delayed diagnosis may lead to prolonged symptoms and repeated ineffective treatments.
+
+Awareness of this unusual presentation among clinicians can improve early diagnosis and appropriate management. The present case adds to the limited literature on intermammary pilonidal sinus and highlights the importance of considering this rare entity in the differential diagnosis of chronic intermammary lesions.
+
+## Conclusion
+### Learning points
+1. Intermammary pilonidal sinus is an extremely rare form of ectopic pilonidal disease, and its atypical location often leads to misdiagnosis and delayed treatment. A high index of suspicion is therefore required when evaluating persistent or recurrent discharging lesions in atypical anatomical locations.
+2. Chronic discharging lesions in the intermammary cleft should raise suspicion for pilonidal sinus, particularly in patients with predisposing factors such as large pendulous breasts, obesity, excessive sweating, and deep intermammary clefts.
+3. An intermammary pilonidal sinus may mimic acne, folliculitis, a sebaceous cyst, or hidradenitis suppurativa, making careful clinical examination essential.
+4. Ultrasonography can help in delineating sinus tracts; however, histopathological examination remains the gold standard for confirming the diagnosis.
+5. Complete surgical excision of the sinus tract with primary closure remains the definitive treatment, with excellent outcomes and low recurrence when adequately performed.
+--- refs
+1. Ferahman S, Donmez T, Surek A, Orhan A, Ozcevik H. Intermammary pilonidal sinus in women. Diagnosis and treatment. Hippokratia. 2020 Apr-Jun;24(2):84-87.
+2. Al-Jaberi TM. Excision and simple primary closure of chronic pilonidal sinus. Eur J Surg. 2001;167:133–135.
+3. Mirande MD, Backus JA, Linnaus ME. Intermammary pilonidal sinus disease in a 13-year-old girl. J Pediatr Surg Case Rep. 2022;87:102479.
+4. Karydakis GE. Easy and successful treatment of pilonidal sinus after explanation of its causative process. Aust N Z J Surg. 1992;62(5):385-389.
+5. Akinci OF, Bozer M, Uzunköy A, Düzgün SA, Coşkun A. Incidence and aetiological factors in pilonidal sinus among Turkish soldiers. Eur J Surg. 1999 Apr;165(4):339-342.
+6. Salih AM, Kakamad FH, Abdulqadr MH. Intermammary pilonidal sinus: A rare presentation. Int J Case Rep Images. 2016;7(1):48–50.
+7. Özkan Z, Bozdağ A, Akyol H, Bozan MB, Kement M. Intermammary pilonidal sinus and surgical treatment: our clinical experience. South Clin Ist Euras. 2022;33(1):37-40.

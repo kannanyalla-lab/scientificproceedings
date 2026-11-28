@@ -1,0 +1,122 @@
+type: Clinical Review
+pages: 43-47
+title: Addressing the drivers of inappropriate antibiotic use in the outpatient setting
+authors: Rajalakshmi A (a); Krishna Suresh (a)
+aff a: Department of Infectious Diseases, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Rajalakshmi A, Department of Infectious Diseases, KIMSHEALTH, Trivandrum, Kerala, India.
+keywords: antimicrobial resistance; antimicrobial stewardship; antibiotic prescribing; outpatient care; antibiotic use; India
+--- abstract
+Antimicrobial resistance (AMR) is a major global health threat, and inappropriate antibiotic use in outpatient settings is an important contributor. Although antimicrobial stewardship has traditionally focused on hospitalized patients, most antibiotics are prescribed in ambulatory care, where diagnostic uncertainty, fear of missing bacterial infection, action bias, patient expectations, knowledge gaps, self-medication, and health-system constraints can promote inappropriate prescribing. This review examines the major drivers of inappropriate outpatient antibiotic use and illustrates them through common clinical scenarios. It highlights practical approaches to stewardship, including diagnostic stewardship, guideline-based antibiotic selection, effective clinician-patient communication, delayed prescribing where appropriate, and audit and feedback. Particular attention is given to the WHO AWaRe framework and the challenges of implementing stewardship in resource-constrained settings such as India. Strengthening outpatient antimicrobial stewardship through behavioral, diagnostic, digital, regulatory, and health-system interventions is essential to improving antibiotic use and reducing the spread of AMR.
+--- body
+## Introduction
+Antimicrobial resistance (AMR) is one of the greatest threats to global health, compromising the effective treatment of infectious diseases and increasing morbidity, mortality, and healthcare costs. Antibiotic exposure remains the primary driver of resistance, making optimization of antibiotic use central to any strategy to combat AMR. While antimicrobial stewardship programs (ASPs) have traditionally focused on hospitalized patients, increasing evidence suggests that outpatient settings represent an equally important battleground in the fight against AMR. The majority of antibiotics worldwide are prescribed in ambulatory care settings, including primary care clinics, emergency departments, urgent care centers, and specialty outpatient clinics. Importantly, a substantial proportion of these prescriptions are unnecessary or inappropriate. Studies from the United States estimate that approximately 30% of outpatient antibiotic prescriptions may be inappropriate, highlighting significant opportunities for stewardship interventions.^1^
+
+The challenge is particularly relevant in low- and middle-income countries (LMICs) such as India, where outpatient departments often experience high patient volumes, limited consultation times, inadequate diagnostic infrastructure, and substantial pressure to prescribe medications. These factors contribute to widespread empirical antibiotic use and increase the risk of inappropriate prescribing. Evidence from public tertiary care hospitals in Bihar documented broad-spectrum antibiotic use in most outpatient encounters, culture testing in fewer than 3% of visits, and amoxicillin-clavulanate accounting for nearly 43% of all antibiotic prescriptions.^2^ India's National Action Plan on AMR (NAP-AMR, 2017-2026) explicitly identifies outpatient stewardship as a priority intervention, yet implementation at the facility level remains inconsistent.
+
+Unlike inpatient settings, outpatient antibiotic prescribing decisions are frequently made in the absence of microbiological confirmation and with limited opportunities for follow-up. Consequently, prescribing behavior is influenced not only by clinical considerations but also by psychological, social, organizational, and health-system factors. Understanding these drivers is essential for designing effective interventions that promote appropriate antibiotic use and reduce the burden of AMR.
+
+## The outpatient stewardship challenge
+Outpatient settings account for the largest share of global antibiotic consumption. Common indications include respiratory tract infections (RTIs), urinary tract infections (UTIs), skin and soft tissue infections, dental infections, and gastrointestinal illnesses, many of which are self-limiting or viral. Prescribing antibiotics when they are not indicated, selecting unnecessarily broad-spectrum agents, or extending treatment durations beyond guideline recommendations all promote resistance at the individual and community levels. Beyond AMR, inappropriate use increases the risk of adverse drug reactions, *Clostridioides difficile* infection, microbiome disruption, and avoidable healthcare expenditure. Meaningful progress against AMR cannot be achieved without substantially improving prescribing practices in outpatient settings.
+
+## Drivers of inappropriate antibiotic use
+### 1. Diagnostic uncertainty
+Diagnostic uncertainty is one of the most common reasons for antibiotic prescribing in outpatient practice. Clinicians are often required to make treatment decisions based on symptoms and examination findings alone, without immediate access to diagnostic confirmation.
+
+!box Clinical vignette 1 - Diagnostic uncertainty
+A 24-year-old student presented with a two-day history of sore throat, low-grade fever, rhinorrhea, and dry cough. Examination revealed mild pharyngeal erythema without tonsillar exudates or cervical lymphadenopathy. The Centor score was 1 (fever alone), placing the probability of Group A Streptococcal (GAS) pharyngitis below 10%. Despite this, the treating physician prescribed azithromycin, citing an inability to completely exclude bacterial infection.
+!endbox
+
+This scenario is common. The Centor and McIsaac clinical prediction rules can reliably stratify GAS risk and reduce empiric prescribing, yet their application in practice is inconsistent. Rapid antigen detection tests (RADTs) for streptococcal infection, where available, allow confirmation or exclusion within minutes. Diagnostic stewardship, encompassing appropriate test selection and the use of validated clinical decision tools, should therefore be considered an integral component of any ASP. In resource-limited settings where RADTs are unavailable, clear guidance on watchful waiting with safety-net advice is a viable alternative.
+
+### 2. Risk aversion and fear of missing infection
+Many clinicians perceive the immediate consequences of undertreating a bacterial infection to be greater than the long-term consequences of antimicrobial resistance. This often results in "just-in-case" prescribing.
+
+!box Clinical vignette 2 - Asymptomatic bacteriuria
+A 72-year-old woman with diabetes attended a routine follow-up visit, reporting no urinary symptoms, fever, or flank pain. A urine culture sent as part of a health check-up grew *Escherichia coli* at >10^5^ CFU/mL. The clinician prescribed a seven-day antibiotic course, concerned that untreated bacteriuria might progress to pyelonephritis or urosepsis.
+!endbox
+
+The IDSA 2019 guidelines on asymptomatic bacteriuria (ABU) explicitly recommend against treatment in non-pregnant adults, including older patients and those with diabetes, outside of specific procedural indications.^3^ Treatment of ABU in these groups confers no benefit, exposes patients to adverse effects, and generates selective pressure for resistant organisms. Risk aversion is a cognitive bias amenable to targeted education; stewardship efforts should emphasize guideline adherence and encourage clinicians to distinguish between situations where treatment is beneficial and those where observation is appropriate.
+
+### 3. Action bias and colonization vs. infection
+Action bias describes the tendency to prefer intervention over observation, particularly when faced with uncertainty.
+
+!box Clinical vignette 3 - Diabetic foot colonization
+A 58-year-old man with type 2 diabetes attended a wound care clinic with a chronic, healing plantar ulcer. He was systemically well, with no fever, surrounding cellulitis, erythema or warmth, or signs consistent with osteomyelitis. A wound swab sent during routine review grew *Pseudomonas aeruginosa*, *Enterococcus faecalis*, and methicillin-resistant *Staphylococcus aureus* (MRSA). The clinician prescribed broad-spectrum intravenous antibiotics despite the absence of any clinical signs of active infection.
+!endbox
+
+This case highlights two stewardship principles. First, colonization should not be mistaken for infection. Chronic wounds are frequently colonized with bacteria, and positive cultures alone do not justify antibiotic therapy. Second, diagnostic tests should only be performed when the results are expected to influence management. Sending inappropriate cultures often creates pressure to act on microbiological findings that represent colonization rather than disease.
+
+Diagnostic stewardship is therefore essential. Appropriate test selection is just as important as appropriate antibiotic selection. Unnecessary investigations frequently lead to unnecessary treatment.
+
+### 4. Patient expectations and communication
+Patient expectations are often perceived as a major driver of antibiotic prescribing. However, evidence suggests patients often seek reassurance and explanation rather than antibiotics.
+
+!box Clinical vignette 4 - Infectious mononucleosis
+A 27-year-old man presented with six days of fever, severe sore throat, fatigue, and generalized lymphadenopathy. Laboratory testing demonstrated lymphocytosis with atypical lymphocytes. The clinician diagnosed probable infectious mononucleosis and advised paracetamol for symptomatic relief, with no antibiotic prescribed. He left dissatisfied and sought a second opinion the following day. The second physician reached the same diagnosis but invested additional time explaining the viral etiology, the expected clinical course, and the rationale for withholding antibiotics. EBV serology was requested to confirm the diagnosis, and a review appointment was arranged for 72 hours later. Despite no change in management, the patient reported high satisfaction with the second consultation.
+
+*Note: Aminopenicillins (ampicillin, amoxicillin) are contraindicated in EBV mononucleosis because they can cause a widespread drug-induced maculopapular exanthem in up to 80% of cases - an important prescribing hazard in this context.*
+!endbox
+
+Patient satisfaction often depends on communication rather than antibiotic prescribing. Effective counseling, reassurance, safety-net advice, and shared decision-making can reduce inappropriate antibiotic use while maintaining patient confidence. Where appropriate, the "delayed prescription" strategy (a prescription issued but advised to be filled only if symptoms fail to improve or worsen within 48-72 hours) is an evidence-based approach for acute RTIs that reduces antibiotic use while preserving patient confidence.^4^
+
+### 5. Knowledge gaps and prescriber awareness
+Inadequate familiarity with current guidelines, local resistance data, and the WHO AWaRe classification (Table 1) contributes to sub-optimal antibiotic selection.
+
+!box Clinical vignette 5 - Uncomplicated UTI
+A physician prescribed levofloxacin for acute uncomplicated cystitis in an otherwise healthy, non-pregnant woman aged 34, citing concern about treatment failure. Nitrofurantoin or fosfomycin - Access-group agents with well-established efficacy for uncomplicated lower UTI and considerably lower collateral resistance impact - were not considered. The clinician was unaware of IDSA or institutional treatment guidelines, or of local resistance data showing fluoroquinolone resistance among uropathogens exceeding 30%.
+!endbox
+
+Unnecessary use of Watch-group fluoroquinolones when Access-group agents are appropriate represents a missed stewardship opportunity. The WHO AWaRe classification provides a practical, evidence-based framework for antibiotic selection and should be integrated into prescribing education and institutional guidelines. Where electronic medical records (EMRs) are available, AWaRe-based recommendations can be integrated into prescribing workflows, prioritizing Access antibiotics for common syndromes. EMRs may also incorporate default treatment durations for specific indications, requiring prescribers to provide justification when longer courses are selected. Regular audit against local antibiograms, paired with individual feedback, is among the most consistently effective outpatient stewardship interventions.^6^
+
+!table
+Antibiotic class | Access antibiotics
+Penicillins | Amoxicillin, Ampicillin, Benzathine benzylpenicillin, Benzylpenicillin, Cloxacillin, Dicloxacillin, Flucloxacillin, Phenoxymethylpenicillin, Procaine benzylpenicillin
+First-generation cephalosporins | Cefadroxil, Cefalexin, Cefazolin
+Beta-lactam/beta-lactamase inhibitor | Amoxicillin/clavulanic acid, Ampicillin/sulbactam
+Aminoglycosides | Amikacin, Gentamicin
+Amphenicols | Chloramphenicol
+Imidazoles | Metronidazole (IV/oral), Ornidazole (IV/oral), Tinidazole (IV/oral)
+Lincosamides | Clindamycin
+Nitrofuran derivatives | Nitrofurantoin
+Sulfonamide-trimethoprim combinations | Sulfamethoxazole/trimethoprim (Co-trimoxazole)
+Tetracyclines | Doxycycline, Tetracycline
+Trimethoprim derivatives | Trimethoprim
+caption: Table 1: WHO Access antibiotics. Derived from the WHO AWaRe (Access, Watch, Reserve) classification, Access category - updated list (2023/2025 revision).
+!end
+
+### 6. Over-the-counter access and self-medication
+In India and many other LMICs, antibiotics are still widely available without a prescription, despite regulations that restrict their sale. Under Schedule H1 of the Drugs and Cosmetics Act, antibiotics such as fluoroquinolones, third-generation cephalosporins, and carbapenems can only be dispensed with a prescription and require special record-keeping. However, enforcement of these regulations is often inconsistent, and dispensing antibiotics without a prescription remains common. Self-medication with antibiotics driven by prior experience, cost concerns, and low health literacy results in inappropriate agent selection, subtherapeutic dosing, and abbreviated treatment courses, all of which favor resistance selection. Community-based stewardship efforts and public awareness campaigns, including initiatives such as the World AMR Awareness Week, are therefore important alongside interventions aimed at improving prescribing practices within healthcare facilities.
+
+### 7. Health-system barriers
+Inappropriate antibiotic use is not solely the result of individual prescribing decisions. Healthcare systems themselves often create environments that encourage antibiotic overuse. High patient loads, short consultation times, and the absence of structured follow-up mechanisms make watchful waiting and detailed counseling difficult to operationalize.
+
+Evidence from tertiary hospitals in Bihar illustrates the influence of health-system factors on prescribing behavior. Amoxicillin-clavulanate accounted for 42.8% of outpatient antibiotic prescriptions, followed by azithromycin and cefixime.^2^ These antibiotics were also among the most consistently available medications within the centralized procurement system, suggesting that drug availability may influence prescribing patterns. The same study reported minimal culture use despite widespread antibiotic use, highlighting the challenges of high-volume outpatient practice.^2^
+
+Addressing system-level barriers requires investment in diagnostic infrastructure, staffing, and digital health tools. Electronic medical records (EMRs) and computerized physician order entry systems can support appropriate prescribing by requiring documentation of the indication and intended duration of therapy, incorporating syndrome-specific treatment recommendations, and prioritizing Access-group antibiotics in accordance with stewardship principles. Default treatment durations for common infections can also be embedded within prescribing systems, with justification required for extended courses.
+
+Regular audit and feedback have demonstrated sustained improvements in prescribing quality in outpatient settings.^6^ The CDC Core Elements of Outpatient Antibiotic Stewardship (commitment, action, tracking and reporting, education, and expertise) provide a practical framework for program development.^8^
+
+## Future directions
+Future outpatient stewardship efforts should integrate behavioral science, digital health technologies, and health-system reforms. Artificial intelligence-assisted decision-support tools, rapid point-of-care diagnostics, and automated prescribing dashboards may further improve antibiotic use. National AMR action plans should prioritize outpatient stewardship alongside hospital-based programs, particularly in countries such as India, where the majority of antibiotic consumption occurs in ambulatory care settings.
+
+!box Clinical pearls
+- Outpatient settings account for the majority of global antibiotic use and are the primary drivers of community-level AMR.
+- Diagnostic uncertainty remains the most important driver of inappropriate antibiotic prescribing.
+- Clinical prediction scores (Centor/McIsaac) and rapid point-of-care tests should be used to stratify risk before prescribing for common syndromes such as pharyngitis and RTI.
+- Asymptomatic bacteriuria should not be treated in non-pregnant adults, including older patients and those with diabetes (IDSA 2019).
+- Colonization should not be mistaken for infection; cultures from chronic wounds and indwelling devices should only be sent when the result will alter management.
+- Patient satisfaction is determined by communication quality, not antibiotic receipt. The delayed prescription strategy is a validated tool for acute RTIs.
+- Aminopenicillins are contraindicated in suspected EBV mononucleosis due to the risk of drug-induced exanthem.
+- The WHO AWaRe framework should guide first-line agent selection; Access antibiotics are appropriate for the majority of community-acquired infections.
+- OTC antibiotic availability and self-medication are major community-level resistance drivers that require regulatory enforcement alongside facility-based stewardship.
+- Audit and feedback is among the most effective outpatient stewardship interventions currently available.
+!endbox
+--- refs
+1. Fleming-Dutra KE, Hersh AL, Shapiro DJ, Bartoces M, Enns EA, et al. Prevalence of inappropriate antibiotic prescriptions among US ambulatory care visits, 2010-2011. JAMA. 2016;315(17):1864-73.
+2. Modgil V, Sahay S, Singh R, Mukherjee A, Surial R, et al. Health-system drivers of outpatient antibiotic use: evidence from prescribing, centralized supply, and catchment populations in public tertiary hospitals in Bihar, India. Front Health Serv. 2026;6:1800794.
+3. Nicolle LE, Gupta K, Bradley SF, Colgan R, DeMuri GP, et al. Clinical practice guideline for the management of asymptomatic bacteriuria: 2019 update by the Infectious Diseases Society of America. Clin Infect Dis. 2019;68(10):e83-e110.
+4. Little P, Moore M, Kelly J, Williamson I, Leydon G, McDermott L, et al. Delayed antibiotic prescribing strategies for respiratory tract infections in primary care: pragmatic, factorial, randomised controlled trial. BMJ. 2014;348:g1606. doi:10.1136/bmj.g1606
+5. World Health Organization. WHO AWaRe Antibiotic Book. Geneva: World Health Organization; 2022.
+6. Meeker D, Linder JA, Fox CR, Friedberg MW, Persell SD, Goldstein NJ, et al. Effect of behavioral interventions on inappropriate antibiotic prescribing among primary care practices: a randomized clinical trial. JAMA. 2016;315(6):562-70.
+7. Laxminarayan R, Duse A, Wattal C, Zaidi AKM, Wertheim HFL, Sumpradit N, et al. Antibiotic resistance - the need for global solutions. Lancet Infect Dis. 2013;13(12):1057-98.
+8. Sanchez GV, Fleming-Dutra KE, Roberts RM, Hicks LA. Core elements of outpatient antibiotic stewardship. MMWR Recomm Rep. 2016;65(6):1-12.

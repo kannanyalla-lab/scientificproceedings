@@ -1,0 +1,98 @@
+[
+ {
+  "caseNo": 1,
+  "category": "Radiology",
+  "images": [
+   "/issues/2026-06/fig/sp-1.jpg"
+  ],
+  "question": "A two-year-old child presented with acute-onset high-grade continuous fever for five days. The illness progressed with drooling of saliva, refusal to feed, increasing lethargy, sleep disturbance, and noisy breathing. A lateral radiograph of the neck was obtained. What is the diagnosis?",
+  "diagnosis": "Croup.",
+  "findings": "Radiographic findings: Ballooning of the valleculae and pyriform sinuses. Prevertebral soft tissues are normal.",
+  "imageUrl": "/issues/2026-06/fig/sp-1.jpg"
+ },
+ {
+  "caseNo": 2,
+  "category": "Radiology",
+  "images": [
+   "/issues/2026-06/fig/sp-2.jpg"
+  ],
+  "question": "A 42-year-old woman presented with an unintentional weight loss of approximately 8 kg over the preceding few months and a recent onset of left submandibular swelling. A chest radiograph was obtained. What is the diagnosis?",
+  "diagnosis": "Bilateral hilar enlargement – Sarcoidosis.",
+  "findings": "Radiographic findings: Enlarged lobulated opacities are seen in both hila, suggestive of enlarged hilar lymph nodes.\nDifferential diagnosis: Lymphoma; Tuberculosis; Castleman disease; Sarcoidosis.",
+  "imageUrl": "/issues/2026-06/fig/sp-2.jpg"
+ },
+ {
+  "caseNo": 3,
+  "category": "Radiology",
+  "images": [
+   "/issues/2026-06/fig/sp-3.jpg"
+  ],
+  "question": "A 57-year-old woman with rheumatoid arthritis-associated interstitial lung disease (RA-ILD) presented with worsening shortness of breath. A chest radiograph was obtained. What is the diagnosis?",
+  "diagnosis": "Interstitial lung disease with pulmonary arterial hypertension and aspergilloma (air-crescent sign).",
+  "findings": "Radiographic findings: Diffuse bilateral reticular opacities are seen in all lung zones, consistent with interstitial lung disease. A cavitary lesion is present in the left upper lung zone. Cavitary lesion shows rounded homogenous opacity and surrounding lucent rim of air.",
+  "imageUrl": "/issues/2026-06/fig/sp-3.jpg"
+ },
+ {
+  "caseNo": 4,
+  "category": "Radiology",
+  "images": [
+   "/issues/2026-06/fig/sp-4.jpg"
+  ],
+  "question": "A patient with a known history of carcinoma of the breast and carcinoma of the endometrium underwent a chest radiograph. What is the diagnosis?",
+  "diagnosis": "Pleural-based metastasis.",
+  "findings": "Radiographic findings: A well-defined, lobulated homogeneous opacity is seen in the right upper and mid lung zones, with a broad base abutting the pleura, consistent with pleural-based metastasis.",
+  "imageUrl": "/issues/2026-06/fig/sp-4.jpg"
+ },
+ {
+  "caseNo": 1,
+  "category": "Dermatology",
+  "images": [
+   "/issues/2026-06/fig/ds-1a.jpg",
+   "/issues/2026-06/fig/ds-1b.jpg"
+  ],
+  "question": "The images show the appearance of chronic plaque psoriasis before treatment and one month after initiation of a biologic agent. Which monoclonal antibody, widely used in the treatment of psoriasis, selectively targets interleukin-17A (IL-17A)?",
+  "options": [
+   "A. Secukinumab",
+   "B. Omalizumab",
+   "C. Adalimumab",
+   "D. Ustekinumab"
+  ],
+  "diagnosis": "A. Secukinumab",
+  "findings": "Secukinumab is a human monoclonal antibody that selectively binds to interleukin-17A (IL-17A), preventing its interaction with the IL-17 receptor on target cells. This inhibits the downstream inflammatory pathways responsible for keratinocyte hyperproliferation and plaque formation, resulting in marked improvement of psoriatic lesions.",
+  "imageUrl": "/issues/2026-06/fig/ds-1a.jpg"
+ },
+ {
+  "caseNo": 2,
+  "category": "Dermatology",
+  "images": [
+   "/issues/2026-06/fig/ds-2.jpg"
+  ],
+  "question": "What condition is depicted in the image shown here?",
+  "options": [
+   "A. Lichen planus",
+   "B. Allergic contact dermatitis",
+   "C. Mudi-chood dermatitis",
+   "D. Guttate psoriasis"
+  ],
+  "diagnosis": "C. Mudi-chood dermatitis",
+  "findings": "Mudi-chood dermatitis is a culture-bound dermatosis seen predominantly in southern India, particularly in Kerala. It was first described by dermatologists Sugathan and Nair. The condition is thought to result from a combination of factors, including: traditional hair-grooming practices, especially the application of large amounts of hair oil and leaving heavy residual oil in the hair; prolonged friction and occlusion caused by long, coarse hair coming into contact with the skin; and humid weather.",
+  "imageUrl": "/issues/2026-06/fig/ds-2.jpg"
+ },
+ {
+  "caseNo": 3,
+  "category": "Dermatology",
+  "images": [
+   "/issues/2026-06/fig/ds-3.jpg"
+  ],
+  "question": "Which of the following examination findings helps distinguish a plantar wart from a corn or callus?",
+  "options": [
+   "A. Intact skin over the lesion",
+   "B. Tiny, pinpoint black dots visible on the surface",
+   "C. A flat, painless lesion with a smooth texture",
+   "D. Thickened epidermis with a well-defined yellow, waxy core"
+  ],
+  "diagnosis": "B. Tiny, pinpoint black dots visible on the surface",
+  "findings": "Plantar warts contain highly vascularized dermal papillae. As the lesion enlarges, or when the overlying thickened skin is pared down, thrombosis of the dilated capillaries produces the characteristic pinpoint black dots, a distinguishing feature that helps differentiate plantar warts from corns and calluses.",
+  "imageUrl": "/issues/2026-06/fig/ds-3.jpg"
+ }
+]

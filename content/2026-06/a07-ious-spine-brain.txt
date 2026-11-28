@@ -1,0 +1,71 @@
+type: Review Article
+pages: 38-41
+title: Intraoperative ultrasound in spine and brain surgery: Clinical applications and institutional experience
+authors: Navas NS (a); Abu Madan (a); Bobby Ipe (a); Ajith R (a); Ramiz A Azeez (a)
+aff a: Department of Neurosurgery, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Navas NS, Department of Neurosurgery, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drnsnavas@gmail.com
+keywords: intraoperative ultrasound; neurosurgery; image-guided surgery; neuronavigation; brain tumors; intraoperative imaging
+image: a07-f4b.jpg
+--- abstract
+Intraoperative ultrasound (IOUS) is a real-time imaging modality with considerable potential to improve the safety and outcomes of neurosurgical procedures. It provides real-time image guidance and is radiation-free, repeatable, readily available, easily integrated into the existing operating room workflow, and more cost-effective than other intraoperative imaging modalities such as intraoperative magnetic resonance imaging (iMRI) and intraoperative computed tomography (iCT). The clinical applications of IOUS are broad and include brain and spinal tumors, intracranial hematomas, stereotactic biopsies, and catheter guidance. In this article, we briefly describe the various applications of IOUS and share our experience with its use at our center.
+--- body
+## Introduction
+Intraoperative imaging technologies continue to evolve and have become integral to modern neurosurgical practice. Reliable intraoperative orientation is one of the most important determinants of safe and effective neurosurgery.^1^ Image-guided modalities such as frame-based and frameless neuronavigation, intraoperative ultrasound (IOUS), intraoperative computed tomography (iCT), and intraoperative magnetic resonance imaging (iMRI) enable neurosurgeons to accurately localize lesions and adjacent structures, facilitate surgical planning, and achieve safe maximal resection.
+
+Neuronavigation is affected by brain shift that occurs once surgery begins, mainly due to cerebrospinal fluid (CSF) drainage, and therefore does not provide real-time navigation.^2^ The other three modalities—IOUS, intraoperative CT (iCT), and intraoperative MRI (iMRI)—provide real-time imaging and accurate information during surgery.^3^ Although intraoperative CT and MRI are more advanced imaging modalities, they are expensive and require infrastructure and logistics that are not feasible in most operating room settings.
+
+IOUS, on the other hand, can be easily integrated into the existing operating room workflow. Recent advances in technology have significantly improved the image quality of IOUS.
+
+In this article, we share how IOUS helps in various neurosurgical procedures and describe our experience with its use at our center.
+
+## Gadgets
+We initially used Sonosite probes, which had large footprints. Over the last year, we acquired the BK5000 neurosurgical transducers, which are specialized, high-resolution, sterilizable transducers designed specifically for neurosurgical applications. Disposable, easy-to-use needle guides assist in accurate targeting of lesions.
+
+Figures 1a and 1b show the transducers.
+
+!fig a07-f1a.jpg | Figure 1a. The small-footprint burr-hole transducer is designed for precise brain imaging and image-guided procedures.
+
+!fig a07-f1b.jpg | Figure 1b. The craniotomy transducer is ideal for guiding biopsy procedures, determining the adequacy of resection, and differentiating vascular malformations from adjacent hematomas.
+
+!fig a07-f2.jpg | Figure 2. The ease of integration into the existing operating room workflow.
+
+!fig a07-f3.jpg | Figure 3. Various intraoperative ultrasound images obtained using the transducers.
+
+The spectrum of applications includes intracranial hemorrhages, brain tumors, colloid cysts, brain biopsies, guidance for ventriculoperitoneal (VP) shunt placement, and determining the optimal site for myelotomy in spinal tumors.^4^
+
+## Illustrative case 1
+An elderly patient presented with a right frontal ICSOL.
+
+!fig a07-f4a.jpg | Figure 4a. MRI showing the lesion, probably a high-grade glioma.
+
+A craniotomy with IOUS was performed. After opening the dura, the BK transducer was used to localize the tumor (Figure 4b).
+
+!fig a07-f4b.jpg | Figure 4b. IOUS showing the high-grade lesion and the adjacent normal brain parenchyma.
+
+After the initial resection, the resection cavity was filled with saline, and IOUS was used again to look for any residual lesion (Figure 4c).
+
+!fig a07-f4c.jpg | Figure 4c. Saline-filled resection cavity with underlying residual tumor.
+
+This provided real-time navigation, and the residual lesion was subsequently resected (Figure 4d).
+
+!fig a07-f4d.jpg | Figure 4d. Saline-filled resection cavity after complete tumor resection.
+
+## Case 2
+A young female patient with a colloid cyst and hydrocephalus.
+
+!fig a07-f5.jpg | Figures 5a and 5b. Preoperative and postoperative images showing the colloid cyst before and after excision.
+
+## Case 3
+A small lesion in the cingulate gyrus.
+
+!fig a07-f6.jpg | Figure 6. Intraoperative ultrasound images before and after excision of the cingulate gyrus lesion.
+
+## Conclusion
+IOUS clearly defines tumor margins and facilitates safe tumor resection. It improves the extent of resection of intraparenchymal brain tumors. Furthermore, early tumor-bed hematomas can be recognized, as they have a characteristic appearance on ultrasound. It does not require any changes in patient positioning or the intraoperative setting, while at the same time offering excellent spatial and temporal resolution. Real-time intraoperative imaging technologies have shown utility in assisting tumor resection in a dynamic surgical field.^5^ Increasing attention has been paid to IOUS, which has been reported to be a widely accessible, portable, space-saving, and reliable imaging modality that enables surgeons to follow and modify the surgical plan in real time.
+--- refs
+1. Gooding GAW, Boggan JE, Powers SK, Martin NA, Weinstein PR. Neurosurgical sonography: intraoperative and postoperative imaging of the brain. AJNR Am J Neuroradiol. 1984;5(5):521–525.
+2. Mittelstaedt CA, Staab EV, Drobnes WE, Daniel EB. The intraoperative uses of real-time ultrasound. Radiographics. 1984;4(2):267–282.
+3. Chandler WF, Knake JE, McGillicuddy JE, Lillehei KO, Silver TM. Intraoperative use of real-time ultrasonography in neurosurgery. J Neurosurg. 1982;57(2):157–163.
+4. Gronningsaeter A, Kleven A, Ommedal S, Aarseth TE, Lie T, Lindseth F, et al. SonoWand, an ultrasound-based neuronavigation system. Neurosurgery. 2000;47(6):1373–1380.
+5. Moiyadi AV, Shetty P. Direct navigated 3D ultrasound for resection of brain tumors: a useful tool for intraoperative image guidance. Neurosurg Focus. 2016;40(3):E5.

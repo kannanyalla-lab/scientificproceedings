@@ -1,0 +1,55 @@
+type: Case Report
+pages: 15-17
+featured: yes
+title: Agenesis of the ductus venosus with extrahepatic drainage into the inferior vena cava: Prenatal diagnosis and outcome
+authors: Brinda Sabu (a)
+aff a: Department of Maternal Fetal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+corr: Brinda Sabu, Department of Maternal Fetal Medicine, KIMSHEALTH, Trivandrum, Kerala, India.
+email: drbrinda.s@kimsglobal.com
+keywords: Agenesis of the ductus venosus; extrahepatic umbilical venous drainage; fetal cardiac dysfunction; hydrops fetalis; fetal Doppler ultrasound
+image: a03-f3.jpg
+--- abstract Background
+Agenesis of the ductus venosus (ADV) is a rare fetal vascular anomaly with a variable prognosis depending on the pattern of umbilical venous drainage. Extrahepatic drainage may result in significant cardiac volume overload and fetal compromise.
+--- abstract Case
+A 28-year-old gravida 3, para 0 (G3P0) with two previous missed miscarriages was diagnosed with ADV at 20 weeks gestation. The umbilical vein drained directly into a prominent inferior vena cava, with associated cardiomegaly, fused E/A waves, and an abnormal Tei index. Multiple hepatic calcifications were also noted, without other structural anomalies. Chromosomal microarray and whole-exome sequencing were normal. Despite the absence of genetic or major structural abnormalities, follow-up assessment at 23 weeks demonstrated progressive cardiomegaly, pericardial effusion, and generalized edema, consistent with hydrops fetalis. Following multidisciplinary counseling, the pregnancy was terminated because of progressive cardiac dysfunction and poor prognosis.
+--- abstract Conclusion
+Isolated ADV with extrahepatic umbilical venous drainage can result in severe fetal hemodynamic compromise despite a normal genetic evaluation. Careful assessment of the drainage pathway, portal venous anatomy, cardiac function, and associated anomalies, together with close serial surveillance, is essential for prognostic counseling and timely management.
+--- body
+## Introduction
+The ductus venosus (DV) is a vital shunt in the fetal circulatory system, channeling 20-30% of oxygen-rich blood from the umbilical vein (UV) directly to the inferior vena cava (IVC) and heart, bypassing the hepatic circulation.^1-4^ Its presence ensures efficient delivery of oxygenated blood to the fetal brain and heart. Agenesis of the ductus venosus (ADV) is a rare vascular anomaly with a prevalence of 1:500 to 1:2500, in which this shunt fails to develop, resulting in alternative venous pathways such as intrahepatic or extrahepatic drainage of the umbilical vein.^5^ The condition may occur in isolation or be associated with chromosomal abnormalities, structural malformations, or other vascular anomalies. Prenatal diagnosis, typically by targeted fetal echocardiography or Doppler ultrasound, is important to assess the hemodynamic impact, identify associated anomalies, and guide perinatal management. Prognosis varies widely, depending on the pattern of umbilical venous drainage and the presence of comorbid conditions.^6^
+
+## Case description
+A 28-year-old woman, gravida 3, para 0, with two prior missed miscarriages, presented for a targeted anomaly scan at 20 weeks' gestation. Her first-trimester ultrasound at 12 + 5 weeks demonstrated normal nuchal translucency and nasal bone, with no structural abnormalities. Combined first-trimester screening indicated low risk for common aneuploidies.
+
+At 20 weeks, ultrasound revealed normal fetal biometry, amniotic fluid index, and umbilical artery Doppler. Detailed fetal echocardiography showed normal cardiac and abdominal situs with no structural cardiac defects. However, the DV was not visualized, and the umbilical vein drained directly into a prominent IVC. Cardiomegaly was noted, with evolving cardiac dysfunction evidenced by fused E/A waves and an abnormal Tei index. Multiple subdiaphragmatic hepatic calcifications were identified. No extracardiac anomalies were detected. The normal and abnormal drainage of the umbilical vein (UV) images are shown in Figures 1-3.
+
+!fig a03-f1.jpg | Figure 1. Normal drainage of the umbilical vein (UV) through the ductus venosus (DV). Normal drainage of the UV occurs through the DV (vessel showing aliasing) into the subdiaphragmatic vestibule, where the inferior vena cava (IVC) and hepatic veins (HV) converge.
+
+!fig a03-f2.jpg | Figure 2. Agenesis of the ductus venosus (DV) with abnormal drainage of the umbilical vein (UV). In the absence of the DV, the UV drains directly into the IVC, allowing oxygen-rich placental blood to bypass the liver and enter the systemic venous circulation.
+
+!fig a03-f3.jpg | Figure 3. Three-dimensional power Doppler imaging showing abnormal drainage of the umbilical vein (UV) into the inferior vena cava (IVC).
+
+A multidisciplinary team comprising an obstetrician, maternal-fetal medicine specialist, geneticist, and neonatologist provided counseling. Invasive genetic testing was performed, and both chromosomal microarray and whole-exome sequencing were normal. A diagnosis of isolated ADV with extrahepatic drainage of the umbilical vein into the IVC and hepatic calcifications was made.
+
+The parents were counseled regarding the guarded prognosis and opted for re-evaluation in three weeks. At 23 weeks, follow-up ultrasound demonstrated worsening cardiomegaly, pericardial effusion, and generalized edema, indicating evolving hydrops fetalis. Given the poor prognosis, the parents and multidisciplinary team made a shared decision to terminate the pregnancy.
+
+This case illustrates that even in the absence of genetic or extracardiac anomalies, isolated ADV with extrahepatic umbilical venous drainage can lead to progressive cardiac dysfunction and an adverse perinatal outcome.
+
+## Discussion
+Management of absent ductus venosus involves detailed prenatal assessment and close surveillance to determine the drainage pattern, associated anomalies, and hemodynamic impact. Targeted Doppler and fetal echocardiography should assess the umbilical and portal venous systems, cardiac anatomy and function, and associated structural or chromosomal abnormalities.^7^ Serial ultrasound is recommended to monitor fetal growth, cardiac function, amniotic fluid volume, polyhydramnios, and to detect evolving complications such as high-output cardiac failure and hydrops fetalis. Genetic testing should be considered, particularly when additional anomalies or sonographic markers are present.
+
+When continuation of pregnancy is appropriate, delivery should be planned in a tertiary care center with neonatal intensive care (NICU) and pediatric cardiology support. The timing and mode of delivery should be based on fetal and obstetric indications. Postnatally, neonatal echocardiography and evaluation of the portal venous system are recommended, along with monitoring for cardiac failure, pulmonary hypertension, hypoglycemia, and liver dysfunction.^8,9^ Stable isolated cases may be managed conservatively, while symptomatic portosystemic shunts or significant cardiac/metabolic complications may require targeted intervention.^10^
+
+## Conclusion
+Agenesis of the ductus venosus with extrahepatic umbilical venous drainage is rare, and its hemodynamic impact depends on the site of umbilical vein drainage, the presence and integrity of the portal venous system, associated portosystemic shunts, and the resultant cardiac volume load. A thorough evaluation for associated structural and chromosomal abnormalities is essential, with genetic testing considered when clinically indicated. Serial ultrasound and Doppler surveillance are important for early identification of evolving fetal hemodynamic compromise. Even in apparently isolated cases, extrahepatic drainage may be associated with adverse perinatal outcomes, as illustrated by the present case, warranting close antenatal surveillance and timely intervention.
+--- refs
+1. Hecher K, Campbell S. Characteristics of fetal venous blood flow under normal circumstances and during fetal disease. Ultrasound Obstet Gynecol 1996; 7: 68-83.
+2. Kiserud T, Eik-Nes SH, Blaas HGK, Hellevik LR. Ultrasonographic velocimetry of the fetal ductus venosus. Lancet 1991; 338: 1412-14.
+3. Berg C, Kamil D, Geipel A, Kohl T, Knopfle G, Hansmann M et al. Absence of ductus venosus-importance of umbilical venous drainage site. Ultrasound Obstet Gynecol. 2006; 28: 275-81.
+4. Chaoui R, Heling KS, Karl K. Ultrasound of the Fetal Veins. Part 1: The Intrahepatic Venous System. Ultraschall in Med 2014; 35: 208-28.
+5. Acherman RJ, Evans WN, Galindo A, Collazos JC, Rothman A, Mayman GA et al. Diagnosis of absent ductus venosus in a population referred for fetal echocardiography: association with a persistent portosystemic shunt requiring postnatal device occlusion. J Ultrasound Med 2007; 26: 1077-82.
+6. Berg C, Strizek B. Re: Fetal umbilical-portal-systemic venous shunt: in-utero classification and clinical significance. R. Achiron and Z. Kivilevitch. Ultrasound Obstet Gynecol. 2016;47(6):672-3. doi:10.1002/uog.15946
+7. Achiron R, Gindes L, Kivilevitch Z, Kuint J, Kidron D, Boyanover Y, et al. Prenatal diagnosis of congenital agenesis of the fetal portal venous system. Ultrasound Obstet Gynecol. 2009;34(6):643-52. doi:10.1002/uog.7460
+8. Yagel S, Cohen SM, Valsky DV, Shen O, Lipschuetz M, Messing B. Systematic examination of the fetal abdominal precordial veins: a cohort study: Fetal abdominal precordial veins. Ultrasound Obstet Gynecol. 2015; 45: 578-83.
+9. Strizek B, Zamprakou A, Gottschalk I, Roethlisberger M, Hellmund A, Muller A, et al. Prenatal Diagnosis of Agenesis of Ductus Venosus: A Retrospective Study of Anatomic Variants, Associated Anomalies and Impact on Postnatal Outcome. Ultraschall Med. 2019;40(3):333-39.
+10. Han BH, Park SB, Song MJ, Lee KS, Lee YH, Ko SY et al. Congenital Portosystemic Shunts: Prenatal Manifestations with Postnatal Confirmation and Follow-up. J Ultrasound Med 2013; 32: 45-52.

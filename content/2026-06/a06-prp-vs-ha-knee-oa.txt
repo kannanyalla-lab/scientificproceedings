@@ -1,0 +1,118 @@
+type: Review Article
+pages: 33-37
+title: Platelet-rich plasma versus hyaluronic acid for knee osteoarthritis: A review of two decades of evidence
+authors: Muhammad Usman ul Haq (a)
+aff a: Department of Orthopaedics, KIMSHEALTH Jarir Medical Center, Riyadh, Saudi Arabia.
+corr: Muhammad Usman ul Haq, FCPS, Department of Orthopaedics, KIMSHEALTH Jarir Medical Center, Riyadh, Saudi Arabia.
+email: 00182@kimshealth.sa
+keywords: platelet-rich plasma; hyaluronic acid; viscosupplementation; knee osteoarthritis; intra-articular injection; WOMAC (Western Ontario and McMaster Universities Osteoarthritis Index); VAS (Visual Analogue Scale)
+image: a06-f1.jpg
+--- abstract
+Knee osteoarthritis (KOA) is one of the most prevalent musculoskeletal disorders worldwide, affecting over 250 million individuals and imposing a substantial socioeconomic burden. Intra-articular hyaluronic acid (HA) and platelet-rich plasma (PRP) injections have emerged as the two leading non-surgical biologic therapies. Over the past 20 years, numerous randomized controlled trials (RCTs), systematic reviews, and meta-analyses have evaluated the comparative efficacy and safety of these modalities. This review synthesizes evidence published between 2005 and 2025, comparing HA and PRP injections with respect to pain relief, functional outcomes, durability of therapeutic benefit, safety profiles, and cost considerations.
+--- body
+## Introduction
+Knee osteoarthritis (KOA) is a degenerative joint disease characterized by progressive cartilage loss, subchondral bone remodeling, synovial inflammation, and osteophyte formation resulting in pain, functional limitation, and reduced mobility. It affects approximately 16% of the global population aged 15 years or older and 22.9% of those aged 40 years or older, with prevalence increasing substantially with advancing age and being higher among women. According to a recent (2023) systematic review, the prevalence of osteoarthritis in Saudi Arabia is between 13% and 41%. KOA is considered one of the leading causes of disability in older adults.^1-3^ Management is to be done in steps. The initial approach is to be conservative, and the treatment includes lifestyle modifications, physiotherapy, and oral analgesics. When these measures fail to provide adequate relief, intra-articular injections or surgical intervention may be indicated.^4^
+
+Hyaluronic acid (HA) visco-supplementation was introduced in the 1990s and gained widespread clinical acceptance in the early 2000s. HA is a naturally occurring glycosaminoglycan present in synovial fluid that contributes to joint lubrication and shock absorption. In osteoarthritic joints, both the concentration and molecular weight of endogenous HA are reduced, contributing to pain and stiffness. Exogenous HA injections aim to restore the viscoelastic properties of synovial fluid, reduce friction, and modulate inflammation.^5^
+
+Platelet-rich plasma (PRP) emerged in orthopedic practice in the mid-2000s. PRP is an autologous blood product containing supraphysiologic concentrations of platelets and growth factors, including transforming growth factor-β (TGF-β), platelet-derived growth factor (PDGF), vascular endothelial growth factor (VEGF), and insulin-like growth factor-1 (IGF-1). These bioactive molecules promote tissue repair, modulate inflammation, stimulate endogenous HA synthesis, and recruit mesenchymal stem cells.^6,7^ Compared to HA, PRP is believed to provide long-term clinical benefits (Table 1). Despite the widespread use of both therapies, considerable debate persists regarding their relative efficacy, optimal preparation protocols, injection schedules, and patient selection criteria. This review aims to provide a comprehensive comparison of HA and PRP based on the cumulative evidence generated over the past two decades.
+
+!table
+Feature | Hyaluronic acid (HA) | Platelet-rich plasma (PRP)
+Source | Avian-derived or produced by bacterial fermentation (exogenous) | Autologous (patient's own blood)
+Primary mechanism | Restores synovial fluid viscoelasticity | Delivers concentrated growth factors
+Anti-inflammatory effect | Modest: indirectly reduces IL-1β and TNF-α activity | Potent: inhibits NF-κB, downregulates MMPs
+Cartilage effect | Limited chondroprotection | Promotes chondrocyte proliferation and matrix synthesis
+Effect on HA synthesis | Replaces depleted HA exogenously | Stimulates endogenous HA production
+Angiogenesis | None | Promotes local angiogenesis via VEGF
+Duration of action | 3–6 months typically | 6–12+ months in many studies
+Preparation | Off-the-shelf product | Requires centrifugation of patient blood
+caption: Table 1. Mechanisms of action of hyaluronic acid and platelet-rich plasma underlying the biological rationale for each therapy.
+!end
+
+## Discussion
+### Pain relief
+The Visual Analog Scale (VAS) and the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain subscale are validated patient-reported outcome measures widely used to assess pain severity and treatment effectiveness in patients with KOA, with lower scores indicating greater pain relief. Across most major meta-analyses published to date, PRP has demonstrated superior pain reduction compared to HA, when measured by the VAS and WOMAC pain subscale. Belk et al. (2021), analyzing 18 level-1 studies, reported that 6 of 11 VAS-based studies showed significantly lower pain in PRP patients at the latest follow-up (p < 0.05). Furthermore, the mean improvement in the WOMAC pain subscale was 44.7% with PRP compared with 12.6% with HA (p < 0.01).^8^ The most recent and largest meta-analysis by Li et al. (2025), encompassing 42 randomized controlled trials, confirmed PRP's superiority over HA in reducing VAS pain at 3, 6, and 12 months after injection.^9^
+
+### Functional outcomes
+Functional improvement in terms of knee symptoms, physical function, and the ability to perform daily and sports-related activities is measured most commonly by the WOMAC total score and the International Knee Documentation Committee (IKDC) score. Similar to pain outcomes, functional outcome measures generally favor PRP over HA. Han et al. (2019) found significantly better WOMAC function scores in the PRP group at 3, 6, and 12 months.^10^ A retrospective cohort study by Al-Sharif et al. (2025) comparing PRP, HA, corticosteroids, and NSAIDs in 205 patients demonstrated mean WOMAC scores of 46 ± 9 for PRP and 48 ± 10 for HA at 10–12 months, a narrower gap than in some meta-analyses, but PRP still showed the most sustained improvement.^11^
+
+### Durability
+One of the most clinically significant advantages of PRP is its longer-lasting effect. HA injections typically provide symptom relief lasting 3–6 months and often require repeat courses every 6 months, with possibly diminishing efficacy. In contrast, PRP outcomes frequently demonstrate sustained improvement for 12 months or longer. The durability is attributed to PRP's biological disease-modifying properties, growth factor–mediated chondrocyte repair, and endogenous HA synthesis rather than HA's purely mechanical visco supplementation.^8,12^
+
+### Influence of PRP composition
+Not all PRP preparations are equal. A critical distinction exists between leukocyte-poor PRP (LP-PRP) and leukocyte-rich PRP (LR-PRP). Belk et al. (2021) found that LP-PRP was associated with significantly better IKDC scores than LR-PRP (p < 0.05).^8^ The catabolic enzymes and pro-inflammatory cytokines released by white blood cells in LR-PRP may partially counteract the beneficial effects of platelet-derived growth factors. This heterogeneity in PRP preparation remains one of the most important confounders across studies and underscores the need for standardized classification systems, such as the Platelets, Activation, White blood cells (PAW) classification.
+
+### Effect of disease severity
+Both PRP and HA therapies are more effective in patients with early-to-moderate KOA, corresponding to Kellgren-Lawrence grades I–III. Al-Sharif et al. (2025) showed that patients with KL grade II disease experienced significantly greater VAS improvement than those with KL grade III (3.8 ± 0.9 vs. 2.6 ± 1.1, p = 0.019) disease in the PRP group and the HA group (3.5 vs. 2.7, p = 0.026).^11^ In advanced disease (KL grade IV), neither injection modality provides reliable benefit, and surgical options should be considered.
+
+### Combination therapy (PRP and HA)
+Emerging evidence suggests that combining PRP and HA may provide synergistic benefits. A 2024 meta-analysis of 11 randomised control trials (RCT) (n = 1,023) found that the combination therapy produced superior long-term VAS scores (MD −4.27, 95% CI: −4.96 to −3.58; p < 0.001) and WOMAC scores (MD −1.77, 95% CI: −2.20 to −1.34; p < 0.001) compared with PRP alone, with a lower incidence of adverse events (RR 0.41, 95% CI: 0.35–0.48).^11^ Chen et al. (2021) similarly demonstrated that combined HA and PRP achieved better VAS pain reduction than PRP alone at 6 months (p = 0.020) in KL grade II patients.^13^
+
+### Safety profile
+Both HA and PRP carry favorable safety profiles. The most common adverse events include transient injection-site pain, mild swelling, and stiffness, which are self-limiting. Li et al. (2025) noted a slightly higher incidence of mild adverse events in the PRP group, but no serious complications were reported in either arm across 42 RCTs.^9^ HA carries a small risk of pseudo-septic reactions (acute flare), estimated at 1–2%, particularly with high-molecular-weight preparations. PRP, being autologous, has a negligible risk of allergic or immune-mediated reactions.
+
+### Quality of evidence: A cautionary note
+Despite the growing body of evidence favoring PRP, the quality of the evidence base warrants caution. In an umbrella review of 17 systematic reviews, Chen et al. (2024) evaluated the methodology using the A MeaSurement Tool to Assess Systematic Reviews 2 (AMSTAR-2), Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA 2020) and Grading of Recommendations Assessment, Development and Evaluation (GRADE) systems. They found that all 17 reviews were rated "extremely low" in methodological quality, with substantial overlap among the primary studies.^14^ These findings underscore the need for large, multi-center, well-designed RCTs with standardized PRP preparation protocols, adequate blinding, and long-term follow-up extending beyond 24 months.
+
+The comparative evidence base has evolved considerably over the past two decades, progressing from small single-center randomized trials conducted between 2005 and 2012 to larger and more methodologically robust systematic reviews and meta-analyses published thereafter (Table 2).
+
+!table
+Study (Year) | RCTs included | Total patients | Primary outcome | Key finding
+Khoshbin et al. (2013)^15^ | 6 | 739 | WOMAC | PRP superior at 6 months
+Meheux et al. (2016)^16^ | 6 | 739 | WOMAC, VAS | PRP significantly better; LP-PRP superior to LR-PRP
+Shen et al. (2017)^12^ | 14 | 1,423 | WOMAC, VAS, IKDC | PRP superior at 6 and 12 months
+Han et al. (2019)^10^ | 15 | 1,314 | WOMAC, VAS | PRP superior pain/function at 6 and 12 months
+Belk et al. (2021)^8^ | 18 | 1,608 | WOMAC, VAS, IKDC | PRP 44.7% WOMAC improvement vs. HA 12.6%; LP-PRP superior
+Tan et al. (2021)^17^ | 20 | 1,890 | WOMAC, VAS | PRP significantly better at all time points
+Chen et al. (2024)^14^ | 17 SRs reviewed | >2,500 | Multiple | PRP may be superior; overall evidence quality extremely low
+Li et al. (2025)^9^ | 42 | >3,800 | VAS, WOMAC | PRP lower VAS/WOMAC at 3, 6, and 12 months; mild AEs higher in PRP
+caption: Table 2. Landmark meta-analyses comparing PRP versus HA for KOA (2013–2025). PRP, platelet-rich plasma; HA, hyaluronic acid; LP-PRP, leukocyte-poor platelet-rich plasma; LR-PRP, leukocyte-rich platelet-rich plasma; WOMAC, Western Ontario and McMaster Universities Osteoarthritis Index; VAS, Visual Analog Scale; IKDC, International Knee Documentation Committee; AEs, adverse events; RCTs, randomized controlled trials; SRs, systematic reviews.
+!end
+
+!table
+Parameter | Hyaluronic acid (HA) | Platelet-rich plasma (PRP) | Verdict
+Pain relief (VAS) | Moderate improvement | Superior at 3, 6, 12 months | PRP ✓
+Functional outcomes (WOMAC) | Moderate improvement | 44.7% vs. 12.6% improvement | PRP ✓
+Duration of benefit | 3–6 months | 6–12+ months | PRP ✓
+Onset of relief | 2–4 weeks | 4–6 weeks | HA ✓
+Repeat injection need | Every 6 months | Annually or less | PRP ✓
+Cost per session | Lower ($300–800) | Higher ($500–1,500) | HA ✓
+Insurance coverage | Usually covered | Often not covered | HA ✓
+Adverse events | Low (pseudoseptic risk ~1–2%) | Low (mild transient reactions) | Comparable
+Disease modification | Minimal | Potential chondroprotection | PRP ✓
+Best candidates | KL grades II–III; older patients | KL grades I–III; younger, active patients | Context-dependent
+caption: Table 3. Comparison of platelet-rich plasma (PRP) and hyaluronic acid (HA) in knee osteoarthritis across clinical, functional, economic, and safety outcomes. VAS, Visual Analog Scale; WOMAC, Western Ontario and McMaster Universities Osteoarthritis Index; KL, Kellgren–Lawrence.
+!end
+
+!fig a06-f1.jpg | Figure 1. Proposed treatment algorithm for selecting HA versus PRP
+
+## Conclusions
+The cumulative evidence of the past two decades supports the following conclusions:
+
+1. Platelet-rich plasma (PRP) is associated with greater pain relief and functional improvement than hyaluronic acid (HA), with benefits persisting at 3, 6, and 12 months in most studies.
+2. PRP offers longer-lasting benefits, reducing the frequency of repeat injections.
+3. Leukocyte-poor PRP appears to outperform leukocyte-rich formulations and should be preferred when available.
+4. HA remains a reasonable and accessible option, particularly for patients in whom PRP is cost-prohibitive or unavailable, and for those seeking rapid onset of relief.
+5. Combination PRP and HA therapy is a promising frontier with emerging evidence of synergistic benefit.
+6. Both therapies are most effective in early-to-moderate disease (KL grades I–III).
+7. The overall evidence quality remains low, and future research must prioritize standardized PRP preparation, double-blinded study designs, and follow-up beyond 24 months.
+8. Clinicians should adopt a personalized, shared-decision approach, weighing disease severity, patient age and activity level, cost constraints, and local availability when choosing between HA and PRP for knee osteoarthritis management.
+--- refs
+1. Hunter DJ, Bierma-Zeinstra S. Osteoarthritis. Lancet. 2019;393(10182):1745–1759. doi:10.1016/S0140-6736(18)31655-1.
+2. Cui A, Li H, Wang D, Zhong J, Chen Y, Lu H, et al. Global, regional prevalence, incidence and risk factors of knee osteoarthritis in population-based studies. EClinicalMedicine. 2020;29–30:100587. doi:10.1016/j.eclinm.2020.100587.
+3. Althomali OW, Amin J, Acar T, Shahanawaz S, Abdulrahman AT, Alnagar DK, et al. Prevalence of symptomatic knee osteoarthritis in Saudi Arabia and associated modifiable and non-modifiable risk factors. Healthcare (Basel). 2023;11(5):728. doi:10.3390/healthcare11050728.
+4. Zhang W, Moskowitz RW, Nuki G, Abramson S, Altman RD, Arden NK, et al. OARSI recommendations for the management of hip and knee osteoarthritis, Part II. Osteoarthritis Cartilage. 2008;16(2):137–162. doi:10.1016/j.joca.2007.12.013.
+5. Altman RD, Manjoo A, Fierlinger A, Dreiser RL, Takamura K, Levesque L, et al. The mechanism of action for hyaluronic acid treatment in the osteoarthritic knee: a systematic review. BMC Musculoskelet Disord. 2015;16:321. doi:10.1186/s12891-015-0775-x.
+6. Kon E, Buda R, Filardo G, Di Martino A, Timoncini A, Cenacchi A, et al. Platelet-rich plasma: intra-articular knee injections produced favorable results on degenerative cartilage lesions. Knee Surg Sports Traumatol Arthrosc. 2010;18(4):472–479. doi:10.1007/s00167-009-0940-1.
+7. Sundman EA, Cole BJ, Karas V, Zhang C, Tetreault MW, Mohammed HO, et al. The anti-inflammatory and matrix restorative mechanisms of platelet-rich plasma in osteoarthritis. Am J Sports Med. 2014;42(1):35–41. doi:10.1177/0363546513507766.
+8. Belk JW, Kraeutler MJ, Houck DA, Goodrich JA, McCarty EC, et al. Platelet-rich plasma versus hyaluronic acid for knee osteoarthritis: a systematic review and meta-analysis of randomized controlled trials. Am J Sports Med. 2021;49(1):249–260. doi:10.1177/0363546520949133.
+9. Li X, Zhang Y, Zheng C, Wang Y, Liu H, Zhao J, et al. Comparison of hyaluronic acid and platelet-rich plasma in knee osteoarthritis: a systematic review. BMC Musculoskelet Disord. 2025;26:274. doi:10.1186/s12891-025-08274-y.
+10. Han Y, Huang H, Pan J, Wang S, Liu Z, Chen J, et al. Meta-analysis comparing platelet-rich plasma vs hyaluronic acid injection in patients with knee osteoarthritis. Pain Med. 2019;20(7):1418–1429. doi:10.1093/pm/pny172.
+11. Al-Sharif F, Al-Sulaiman A, Al-Qahtani M, Al-Rasheed A, Al-Dosari M, Al-Harbi S, et al. Comparative efficacy of intra-articular platelet-rich plasma, hyaluronic acid, corticosteroids, and NSAIDs for knee osteoarthritis: a retrospective cohort study. Medicine (Baltimore). 2025;104(25):e42837. doi:10.1097/MD.0000000000042837.
+12. Shen L, Yuan T, Chen S, Zeng F, Xie X, Zhang Y, et al. The temporal effect of platelet-rich plasma on pain and physical function in the treatment of knee osteoarthritis: systematic review and meta-analysis. J Orthop Surg Res. 2017;12:16. doi:10.1186/s13018-017-0521-3.
+13. Chen IH, Yang CC, Chen YN, Lin KC, Chang CH, Lee OK, et al. Comparing efficacy of intra-articular single crosslinked hyaluronan and platelet-rich plasma versus PRP alone for treating knee osteoarthritis. Sci Rep. 2021;11:484. doi:10.1038/s41598-020-80432-5.
+14. Chen Z, Wang C, You D, Li X, Zhang Y, Liu H, et al. A critical overview of systematic reviews and meta-analyses of intra-articular injection of platelet-rich plasma versus hyaluronic acid for knee osteoarthritis. Clin Rheumatol. 2024;43:3261–3276. doi:10.1007/s10067-024-06789-3.
+15. Khoshbin A, Leroux T, Wasserstein D, Wolfstadt J, Chahal J, Madden K, et al. The efficacy of platelet-rich plasma in the treatment of symptomatic knee osteoarthritis: a systematic review with quantitative synthesis. Arthroscopy. 2013;29(12):2037–2048. doi:10.1016/j.arthro.2013.09.004.
+16. Meheux CJ, McCulloch PC, Lintner DM, Miles JW, Massel DH, Zikria BA, et al. Efficacy of intra-articular platelet-rich plasma injections in knee osteoarthritis: a systematic review. Arthroscopy. 2016;32(3):495–505. doi:10.1016/j.arthro.2015.09.010.
+17. Tan J, Chen H, Zhao L, Ma J, Li X, Wang X, et al. Platelet-rich plasma versus hyaluronic acid in the treatment of knee osteoarthritis: a meta-analysis of 26 randomized controlled trials. Arthroscopy. 2021;37(1):309–325. doi:10.1016/j.arthro.2020.08.038.
