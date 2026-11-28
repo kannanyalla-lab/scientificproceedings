@@ -105,7 +105,7 @@ a.chip:hover { background: var(--brand-tint); color: var(--brand-dark); text-dec
 
 /* ---------- Hero ---------- */
 .hero { background: radial-gradient(1100px 420px at 88% -10%, rgba(216,80,92,.55) 0%, transparent 60%), linear-gradient(135deg, var(--brand-deep) 0%, var(--brand-dark) 45%, var(--brand) 100%); color: #fbeff0; }
-.hero .container { display: grid; grid-template-columns: 1.3fr 1fr; gap: 48px; align-items: center; padding-top: 56px; padding-bottom: 56px; }
+.hero .container { display: grid; grid-template-columns: 1fr 1.3fr; gap: 48px; align-items: center; padding-top: 56px; padding-bottom: 56px; }
 .hero h1 { color: #fff; font-size: clamp(2rem, 4vw, 3rem); margin-bottom: .3em; }
 .hero p.lead { font-size: 1.12rem; color: #f6d9dc; max-width: 36em; }
 .hero .eyebrow { color: #ffd0d5; }
@@ -117,7 +117,9 @@ a.chip:hover { background: var(--brand-tint); color: var(--brand-dark); text-dec
 .cover-card img { border-radius: 6px; box-shadow: 0 12px 30px rgba(0,0,0,.35); aspect-ratio: 3/4; object-fit: cover; width: 100%; }
 .cover-card h2 { color: #fff; font-size: 1.3rem; }
 .cover-card a { color: #ffd0d5; }
-@media (max-width: 860px) { .hero .container { grid-template-columns: 1fr; gap: 28px; padding-top: 36px; padding-bottom: 36px; } }
+/* Current-issue card sits on the left on wide screens; on phones the journal title stays first. */
+.hero .cover-card { order: -1; }
+@media (max-width: 860px) { .hero .container { grid-template-columns: 1fr; gap: 28px; padding-top: 36px; padding-bottom: 36px; } .hero .cover-card { order: 0; } }
 @media (max-width: 480px) { .cover-card { grid-template-columns: 110px 1fr; } }
 
 /* ---------- Sections ---------- */
